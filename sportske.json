@@ -1,5 +1,10 @@
 [
     {
+        "title": "Burna sjednica u Splitu Vijećnici odlučili, gradit će se novi stadion u Splitu!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/poljud-izmedu-sanacije-i-novog-stadiona-burna-rasprava-u-splitu-15697243",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38718655_640.jpg"
+    },
+    {
         "title": "UOPĆE NEMA DILEME Gorica je teško oštećena, a ovakvom Dinamu sudačka pomoć zaista nije potrebna!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/gorica/dinamo-preokrenuo-goricu-6-3-sudacke-kontroverze-polufinale-hrvatski-kup-15697229",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38715379_640.jpg"
@@ -45,11 +50,6 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_37896509_640.jpg"
     },
     {
-        "title": "NA PREKRETNICI BiH dobiva veliko pojačanje za SP?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-medjunarodni/mirza-catovic-bih-odbio-srbiju-fifa-svjetsko-prvenstvo-stuttgart-salzburg-15697107",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38719567_640.jpg"
-    },
-    {
         "title": "apsolutni spektakl VIDEO Dinamo loše startao pa razmontirao Goricu!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/video-dinamo-lose-startao-pa-razmontirao-goricu-cudesni-potezi-zajca-i-sest-golova-za-finale-kupa-15696894",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_38715580_640.jpg"
@@ -58,6 +58,11 @@
         "title": "Zamijenio je Livaju, a ovo je na Poljudu uspjelo samo rijetkima",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/hajduk-istra-13-adam-huram-debitirao-zamijenio-livaju-15696660",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/07/k_33360837_640.jpg"
+    },
+    {
+        "title": "‘Stalno slušam gdje će Hajduk‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/poljud-rasprava-sanacija-ili-novi-stadion-sigurnost-krov-brodarica-split-15697070",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38718644_640.jpg"
     },
     {
         "title": "piše davorin olivari Kovačević je stvorio",
@@ -70,12 +75,12 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/07/k_38693949_640.jpg"
     },
     {
-        "title": "‘Stalno slušam gdje će Hajduk‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/poljud-rasprava-sanacija-ili-novi-stadion-sigurnost-krov-brodarica-split-15697070",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38718644_640.jpg"
+        "title": "NA PREKRETNICI BiH dobiva veliko pojačanje za SP?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-medjunarodni/mirza-catovic-bih-odbio-srbiju-fifa-svjetsko-prvenstvo-stuttgart-salzburg-15697107",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38719567_640.jpg"
     },
     {
-        "title": "DOBRO NAPREDUJE VIDEO Dalić će biti oduševljen, pogledajte kako se Gvardiol oporavlja od ozljede Započeo je s radom na antigravitacijskoj traci, koja omogućuje manje opterećenje na tijelo, čime su i rizik od pogoršanja ozljede, kao i bolovi, manji",
+        "title": "DOBRO NAPREDUJE VIDEO Dalić će biti oduševljen, pogledajte kako se Gvardiol oporavlja od ozljede",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/premiership/gvardiol-oporavak-trening-antigravitacijska-traka-povratak-svjetsko-prvenstvo-15697147",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38720097_640.png"
     },
@@ -93,10 +98,5 @@
         "title": "Sportsko jutro Hrvatska je ostala bez prave legende, čovjeka kojem je vojska ‘ukrala‘ povijesni naslov s Dinamom",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/reprezentacija/sportsko-jutro-ceci-bogdan-dinamo-1982-karlsruhe-bilic-vujosevic-15697094",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38712553_640.jpg"
-    },
-    {
-        "title": "Apokaliptični prizori, vatra progutala čitav krov stadiona!",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/pozar-olimpijski-stadion-rio-krov-velodrom-bez-zrtava-15697048",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38718781_640.jpg"
     }
 ]
