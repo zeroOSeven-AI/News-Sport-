@@ -1,13 +1,8 @@
 [
     {
-        "title": "Straßburg hier im Live-Ticker",
-        "link": "https://sportbild.bild.de/fussball/mainz-05/conference-league-heute-mainz-05-strassburg-hier-im-live-ticker-69d7870d246b3860d5020cc7",
-        "image": "https://images.bild.de/69d7870d246b3860d5020cc8/5cd33f1494069933516a1b3df95b56b5,af6bdc60?w=576"
-    },
-    {
-        "title": "Wie die Bayern heute Freiburg helfen können",
-        "link": "https://sportbild.bild.de/fussball/sc-freiburg/europa-league-wie-die-bayern-heute-freiburg-helfen-koennen-viertelfinale-gegen-vigo-69d7afe5246b3860d50210cf",
-        "image": "https://images.bild.de/69d7afe5246b3860d50210d0/f87448b4c98399152967dc91930362e0,b9c481bf?w=576"
+        "title": "Unsere Bundesliga-Riesen verzaubern Europa!",
+        "link": "https://sportbild.bild.de/fussball/europa-league/sc-freiburg-und-mainz-05-verzaubern-europa-gala-abend-von-bundesliga-klubs-69d808d4246b3860d50215f0",
+        "image": "https://images.bild.de/69d808d4246b3860d50215f1/dfbfde02c217707f47a9644ca9afa1ab,1a2e5562?w=656"
     },
     {
         "title": "Historisches Littler-Debakel!",
@@ -30,14 +25,14 @@
         "image": "https://images.bild.de/69d7aa9f5b1aefe7803255dd/7409d238322d5a11876f765a0f305c42,d413b895?w=992"
     },
     {
+        "title": "Bayern schlagen Sohn von NFL-Legende",
+        "link": "https://sportbild.bild.de/sportmix/basketball/basketball-euroleague-bayern-schlagen-sohn-von-nfl-legende-69d7d9d394756c37af5a5712",
+        "image": "https://images.bild.de/69d7d9d394756c37af5a5712/a35a7b21b26f23963aadacc4406e053c,5eb1af89?w=576"
+    },
+    {
         "title": "Zukunft von Füllkrug entschieden!",
         "link": "https://sportbild.bild.de/fussball/internationaler-fussball/ac-mailand-zukunft-von-niclas-fuellkrug-entschieden-69d7794d246b3860d5020aad",
         "image": "https://images.bild.de/69d7794d246b3860d5020aae/d3a9f104f571d43b11730790bd6b43ff,c8c05994?w=576"
-    },
-    {
-        "title": "Wieder große Sorgen um Rad-Ikone",
-        "link": "https://sportbild.bild.de/sportmix/radsport/radsport-wieder-grosse-sorgen-um-ikone-merckx-es-droht-die-siebte-op-69d79c1094756c37af5a5169",
-        "image": "https://images.bild.de/69d79c1094756c37af5a516a/b3a0f5922b5b8a43670abd8d907d714d,a3e09b15?w=576"
     },
     {
         "title": "So lief der Doncic-Trade wirklich ab",
@@ -70,18 +65,18 @@
         "image": "https://images.bild.de/67e3f21af933f731d4312a95/ba25ea86c257543f201c3f37f05b52d4-landscape,1cd6388a?w=992"
     },
     {
-        "title": "16 Kracher! Schiller schockt Leipzig",
-        "link": "https://sportbild.bild.de/sportmix/handball/handball-16-tore-schiller-schickt-leipzig-ins-verderben-69d7d529f3d559be4f0b4e93",
+        "title": "Nächster Rückschlag für Eberls Bayern-Zukunft",
+        "link": "https://sportbild.bild.de/fussball/1-bundesliga/personal-karussel-geht-weiter-naechster-rueckschlag-fuer-eberls-bayern-zukunft-69d81963246b3860d502172d",
         "image": ""
     },
     {
-        "title": "Dieser deutsche Schiri fährt zur WM",
-        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-2026-dieser-deutsche-schiri-faehrt-zur-weltmeisterschaft-69d7e1fd246b3860d502141c",
+        "title": "Bayern-Insider weiß, ob Olise Thema war",
+        "link": "https://sportbild.bild.de/fussball/1-bundesliga/dinner-zwischen-perez-und-bayern-bossen-bayern-insider-weiss-ob-olise-thema-war-69d818b976e0dadf98a0cda8",
         "image": ""
     },
     {
-        "title": "„Wie ein kleiner Junge!“ Darts-Zoff um Littler",
-        "link": "https://sportbild.bild.de/sportmix/darts-premier-league-wie-ein-kleiner-junge-zoff-um-luke-littler-heute-viertelfinale-im-tv-sehen-69d7bb9594756c37af5a54cf",
+        "title": "Nächster Name von Bayerns Torwartliste enthüllt",
+        "link": "https://sportbild.bild.de/fussball/1-bundesliga/es-ist-ein-alter-bekannter-von-jonas-urbig-naechster-name-von-bayerns-torwartliste-enthuellt-69d817c7246b3860d502171d",
         "image": ""
     },
     {
@@ -95,8 +90,13 @@
         "image": "https://images.bild.de/69ce5bd4cdf80d124bb0c21f/790ed906dfd960c63e7e8ad73097c324,ced4dbda?w=320"
     },
     {
+        "title": "16 Kracher! Schiller schockt Leipzig",
+        "link": "https://sportbild.bild.de/sportmix/handball/handball-16-tore-schiller-schickt-leipzig-ins-verderben-69d7d529f3d559be4f0b4e93",
+        "image": "https://images.bild.de/69d7d529f3d559be4f0b4e93/6fec0b871bb1ee651ad079ece1ea176f,fa2961bc?w=656"
+    },
+    {
         "title": "Handball-Nationalspieler hat wieder Social-Media-Ärger",
         "link": "https://sportbild.bild.de/sportmix/handball/erst-disco-dann-krank-handball-nationalspieler-hat-wieder-social-media-aerger-69d741c6bb93f29ebe73dd39",
-        "image": "https://images.bild.de/69d741c6bb93f29ebe73dd3a/c6c57c31072974bf76f77159365d70fc,b15ee012?w=656"
+        "image": "https://images.bild.de/69d741c6bb93f29ebe73dd39/19de19d63a75f6a5717459063bce96bf,84187a21?w=320"
     }
 ]
