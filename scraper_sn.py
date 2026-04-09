@@ -8,12 +8,21 @@ def clean_title(title):
     if not title:
         return ""
     
-    # 1. Uzimamo samo prvu rečenicu (do prve točke, uskličnika ili upitnika)
-    # Ovo eliminira dugačke opise koje scraper povuče
+    # 1. Uzimamo samo prvu rečenicu (do . ! ili ?) 
+    # To rješava problem onih dugačkih opisa iz Maksimira
     match = re.search(r'^[^.!?]+[.!?]', title)
     clean = match.group(0) if match else title
     
-    # 2. Standardni separatori
+    # 2. Režemo kategorije koje su zalijepljene (npr. "TRANSFERIOdluka")
+    # Tražimo spoj malog i velikog slova
+    split_match = re.search(r'([a-zčćžšđ])([A-ZČĆŽŠĐ][a-zčćžšđ])', clean)
+    if split_match:
+        clean = clean[split_match.start() + 1:]
+
+    # 3. Standardni separatori - uzimamo desnu stranu ako postoji ":" (kao na Bildu)
+    if ": " in clean:
+        clean = clean.split(": ")[-1]
+
     delimiters = [' - ', ' | ', ' / ']
     for d in delimiters:
         if d in clean:
@@ -32,8 +41,14 @@ def scrape_sn():
         page = context.new_page()
 
         try:
+            print(f"Otvaram: {url}")
             page.goto(url, wait_until="domcontentloaded", timeout=60000)
-            page.wait_for_selector("article", timeout=15000)
+            
+            # --- BILD STANDARD ZA SLIKE ---
+            # Skrolamo dolje da pokrenemo učitavanje svih slika
+            page.evaluate("window.scrollBy(0, 2000)")
+            # Čekamo malo duže (3 sekunde) da se slike zapravo pojave u HTML-u
+            page.wait_for_timeout(3000) 
             
             content = page.content()
             soup = BeautifulSoup(content, 'html.parser')
@@ -42,39 +57,43 @@ def scrape_sn():
             articles = soup.find_all('article')
 
             for art in articles:
-                # TRAŽENJE NASLOVA:
-                # Prvo tražimo naslovni element (h2, h3, h4)
+                # Tražimo naslov preciznije (pazimo na spajanje teksta unutar tagova)
                 title_container = art.find(['h2', 'h3', 'h4'])
                 if not title_container:
                     continue
                 
-                # KLJUČNA PROMJENA: Tražimo link UNUTAR naslovnog elementa
-                # Tamo Jutarnji drži samo tekst naslova, a izvan toga je podnaslov
                 link_elem = title_container.find('a', href=True) or art.find('a', href=True)
                 
                 if title_container and link_elem:
-                    # Uzimamo tekst samo iz linka ako postoji, inače iz containera
-                    actual_title_elem = title_container.find('a') or title_container
-                    raw_title = actual_title_elem.get_text(strip=True)
-                    
-                    # Čistimo naslov od repova
+                    # Koristimo razmak (" ") pri spajanju teksta da se riječi ne slijepe
+                    raw_title = title_container.get_text(" ", strip=True)
                     title = clean_title(raw_title)
                     
                     link = link_elem['href']
                     if link.startswith('/'):
                         link = "https://sportske.jutarnji.hr" + link
                     
+                    # --- POBOLJŠANO PREUZIMANJE SLIKA ---
                     img_elem = art.find('img')
                     image = ""
                     if img_elem:
-                        image = img_elem.get('data-src') or img_elem.get('src') or img_elem.get('data-srcset') or ""
-                    
+                        # Prioritet: data-src (lazy load), pa src
+                        image = img_elem.get('data-src') or img_elem.get('src') or ""
+                        
+                        # Ako je u src-u neki sitni placeholder (pixel), probaj srcset
+                        if "base64" in image or image.endswith('.gif'):
+                            srcset = img_elem.get('data-srcset') or img_elem.get('srcset', '')
+                            if srcset:
+                                image = srcset.split(' ')[0]
+
                     if len(title) > 5:
-                        news_items.append({
-                            "title": title,
-                            "link": link,
-                            "image": image
-                        })
+                        # Izbjegavamo duplikate
+                        if not any(item['title'] == title for item in news_items):
+                            news_items.append({
+                                "title": title,
+                                "link": link,
+                                "image": image
+                            })
 
                 if len(news_items) >= 20:
                     break
@@ -82,7 +101,7 @@ def scrape_sn():
             with open('sportske.json', 'w', encoding='utf-8') as f:
                 json.dump(news_items, f, ensure_ascii=False, indent=4)
             
-            print(f"Uspješno spremljeno {len(news_items)} vijesti.")
+            print(f"Uspješno spremljeno {len(news_items)} vijesti u sportske.json")
             browser.close()
 
         except Exception as e:
