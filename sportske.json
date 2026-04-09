@@ -1,5 +1,20 @@
 [
     {
+        "title": "KAPA DO PODA Dinamo je dobio lidera nove ere!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/miha-zajc-voda-dinama-preokret-maksimir-serija-bez-poraza-15697278",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38715472_640.jpg"
+    },
+    {
+        "title": "‘Žele nas izbaciti iz prvenstva i predati trofej jednoj osobi!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/teske-optuzbe-za-ronalda-i-drustvo-zele-nas-izbaciti-iz-prvenstva-i-predati-trofej-jednoj-osobi-15697286",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38690380_640.jpg"
+    },
+    {
+        "title": "PRED SVOJIM NAVIJAČIMA Hokejaši Siska ostali bez povijesnog finala, drama je trajala do zadnje sekunde!",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/merano-pobijedio-sisak-3-2-i-izborio-finale-alpske-lige-15697293",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38722431_640.jpg"
+    },
+    {
         "title": "Burna sjednica u Splitu Vijećnici odlučili, gradit će se novi stadion u Splitu!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/poljud-izmedu-sanacije-i-novog-stadiona-burna-rasprava-u-splitu-15697243",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38718655_640.jpg"
@@ -15,39 +30,24 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38715379_640.jpg"
     },
     {
+        "title": "‘Jedan od najboljih trenutaka u mom životu‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/automoto/automoto-domaci/wrc-croatia-rally-rijeka-grobnik-korzo-toni-fruk-jon-armstrong-15697294",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38722846_640.png"
+    },
+    {
         "title": "MAKSIMIRSKA ČISTKA Šestorica napustila Dinamo, samo jedan profitirao!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/transferi/dinamo-zimski-odlasci-ljubicic-jedini-dobitnik-ostali-bez-iskoraka-15697168",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/07/k_38226734_640.jpg"
     },
     {
+        "title": "Tražimo pokretanje istrage, pristup sudačkoj komunikaciji i priznanje pogrešaka!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/liga-prvaka/barcelona-prijavila-uefi-sudjenje-zbog-spornog-penala-protiv-atletica-15697266",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38716346_640.jpg"
+    },
+    {
         "title": "UZNEMIRUJUĆ PRIZOR VIDEO Strašna nesreća uoči WRC spektakla u Hrvatskoj.",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/sudar-na-testu-wrc-croatia-ford-bez-kotaca-vozac-neozlijeden-program-nastavlja-15697212",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38721013_640.jpg"
-    },
-    {
-        "title": "‘Dvojbe ne postoje‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bundesliga/niko-kovac-ostaje-trener-borussije-dortmund-potvrdio-lars-ricken-15697207",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38449250_640.jpg"
-    },
-    {
-        "title": "15 MU JE GODINA TEK Hrvatski dragulj među najboljima u Europi!",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-mix/toni-garma-top-europski-talent-2010-real-madrid-nba-draft-2029-15697192",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_37310935_640.jpg"
-    },
-    {
-        "title": "VAŽNO PITANJE Hajduku je dao sve, omiljeni je lik u svlačionici, ali njegova je budućnost na Poljudu pod upitnikom",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/melnjak-asistira-u-puli-livaja-zabija-ugovor-s-hajdukom-na-cekanju-15697111",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38709518_640.jpg"
-    },
-    {
-        "title": "Sportsko jutro Opasno zagrmio i zatresao čitavu svlačionicu!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/rijeka/sportsko-jutro-dinamo-miha-zajc-rijeka-victor-sanchez-mario-carevic-15697068",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38715648_640.jpg"
-    },
-    {
-        "title": "‘Kako nije?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/layec-analiza-var-ponisten-gol-vukovara-zalede-hnl-28-kolo-15697142",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38709271_640.jpg"
     },
     {
         "title": "apsolutni spektakl VIDEO Dinamo loše startao pa razmontirao Goricu!",
@@ -75,28 +75,28 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/07/k_38693949_640.jpg"
     },
     {
-        "title": "‘Pogodilo me, dugo se nismo čuli.",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/slaven-bilic-o-srecku-bogdanu-mentor-koji-mu-je-otvorio-vrata-karlsruhea-15696988",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_37896509_640.jpg"
+        "title": "‘Dvojbe ne postoje‘ ‘Učvrstio je momčad i smjestio nas na sigurno drugo mjesto bundesligaške ljestvice‘, dodao je sportski direktor Ricken",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bundesliga/niko-kovac-ostaje-trener-borussije-dortmund-potvrdio-lars-ricken-15697207",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38449250_640.jpg"
     },
     {
-        "title": "NA PREKRETNICI BiH dobiva veliko pojačanje za SP?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-medjunarodni/mirza-catovic-bih-odbio-srbiju-fifa-svjetsko-prvenstvo-stuttgart-salzburg-15697107",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38719567_640.jpg"
+        "title": "15 MU JE GODINA TEK Hrvatski dragulj među najboljima u Europi!",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-mix/toni-garma-top-europski-talent-2010-real-madrid-nba-draft-2029-15697192",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_37310935_640.jpg"
     },
     {
-        "title": "DOBRO NAPREDUJE VIDEO Dalić će biti oduševljen, pogledajte kako se Gvardiol oporavlja od ozljede",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/premiership/gvardiol-oporavak-trening-antigravitacijska-traka-povratak-svjetsko-prvenstvo-15697147",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38720097_640.png"
+        "title": "VAŽNO PITANJE Hajduku je dao sve, omiljeni je lik u svlačionici, ali njegova je budućnost na Poljudu pod upitnikom",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/melnjak-asistira-u-puli-livaja-zabija-ugovor-s-hajdukom-na-cekanju-15697111",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38709518_640.jpg"
     },
     {
-        "title": "UŽIVAO U LIJEPOJ NAŠOJ Zaručnik Mikaele Shiffrin jedva je izvukao živu glavu, sad je podijelio fotografije iz Hrvatske",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/skijanje/kilde-oporavak-hrvatska-wengen-nesreca-ozljeda-spust-instagram-15697134",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38267980_640.jpg"
+        "title": "Sportsko jutro Opasno zagrmio i zatresao čitavu svlačionicu!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/rijeka/sportsko-jutro-dinamo-miha-zajc-rijeka-victor-sanchez-mario-carevic-15697068",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38715648_640.jpg"
     },
     {
-        "title": "‘Dosta mi je ovih gluposti‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/eddy-merckx-nova-operacija-kuka-hospitalizacija-infekcija-antibiotici-ne-djeluju-15697100",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_35867531_640.jpg"
+        "title": "‘Kako nije?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/layec-analiza-var-ponisten-gol-vukovara-zalede-hnl-28-kolo-15697142",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38709271_640.jpg"
     }
 ]
