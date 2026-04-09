@@ -4,12 +4,10 @@ from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 
 def clean_title(title):
-    # Popis simbola kojima portali obično odvajaju ime novinara ili kategoriju
     delimiters = [' - ', ' | ', ' / ']
     clean = title
     for d in delimiters:
         if d in clean:
-            # Uzimamo samo prvi dio prije simbola
             clean = clean.split(d)[0]
     return clean.strip()
 
@@ -17,14 +15,20 @@ def scrape_sn():
     url = "https://sportske.jutarnji.hr/"
     
     with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
+        # Dodao sam 'args' da izbjegnemo probleme u Docker/CI okruženjima
+        browser = p.chromium.launch(headless=True, args=["--disable-http2"])
         context = browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
         )
         page = context.new_page()
 
         try:
-            page.goto(url, wait_until="networkidle", timeout=60000)
+            # PROMJENA: Koristimo 'domcontentloaded' umjesto 'networkidle'
+            page.goto(url, wait_until="domcontentloaded", timeout=60000)
+            
+            # Dodatna sigurnost: čekamo da se bar jedan članak pojavi na stranici
+            page.wait_for_selector("article", timeout=15000)
+            
             content = page.content()
             soup = BeautifulSoup(content, 'html.parser')
             
@@ -32,22 +36,22 @@ def scrape_sn():
             articles = soup.find_all('article')
 
             for art in articles:
-                title_elem = art.find(['h2', 'h3', 'h4'])
+                title_elem = art.find(['h2', 'h3', 'h4', 'span']) # Jutarnji nekad koristi span za naslove
                 link_elem = art.find('a', href=True)
                 img_elem = art.find('img')
 
                 if title_elem and link_elem:
                     raw_title = title_elem.get_text(strip=True)
-                    # OVDJE ČISTIMO NASLOV
                     title = clean_title(raw_title)
                     
                     link = link_elem['href']
                     if link.startswith('/'):
                         link = "https://sportske.jutarnji.hr" + link
                     
+                    # Provjera za slike (Jutarnji često koristi lazy loading)
                     image = ""
                     if img_elem:
-                        image = img_elem.get('data-src') or img_elem.get('src') or ""
+                        image = img_elem.get('data-src') or img_elem.get('src') or img_elem.get('data-srcset') or ""
                     
                     if len(title) > 5:
                         news_items.append({
@@ -62,10 +66,13 @@ def scrape_sn():
             with open('sportske.json', 'w', encoding='utf-8') as f:
                 json.dump(news_items, f, ensure_ascii=False, indent=4)
             
+            print(f"Uspješno spremljeno {len(news_items)} vijesti.")
             browser.close()
 
         except Exception as e:
             print(f"Greška: {e}")
+            if 'browser' in locals():
+                browser.close()
             sys.exit(1)
 
 if __name__ == "__main__":
