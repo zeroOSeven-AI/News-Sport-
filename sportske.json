@@ -10,9 +10,19 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38690380_640.jpg"
     },
     {
+        "title": "Ključna trica Hezonje za pobjedu protiv branitelja naslova, Olympiakos pobijedio Hapoel",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/basket-euroliga/hezonjina-trica-real-pobijedio-fenerbahce-74-69-u-istanbulu-euroliga-15697304",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38460891_640.jpg"
+    },
+    {
         "title": "PRED SVOJIM NAVIJAČIMA Hokejaši Siska ostali bez povijesnog finala, drama je trajala do zadnje sekunde!",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/merano-pobijedio-sisak-3-2-i-izborio-finale-alpske-lige-15697293",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38722431_640.jpg"
+    },
+    {
+        "title": "Sat u napadu Bayernov trojac juri prema zastrašujućem učinku, ali teško će dostići Barcine rekordere",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/liga-prvaka/bayernov-trojac-kane-olise-diaz-prema-100-golova-i-rekordima-15697307",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_38712742_640.jpg"
     },
     {
         "title": "Burna sjednica u Splitu Vijećnici odlučili, gradit će se novi stadion u Splitu!",
@@ -25,6 +35,11 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38712595_640.png"
     },
     {
+        "title": "Branitelj titule Parižani su za Liverpool druga dimenzija, nedostaje im samo jedan važan adut u odnosu na lani",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/liga-prvaka/psg-pregazio-liverpool-2-0-park-princeva-anfield-uzvrat-liga-prvaka-15697301",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38718593_640.jpg"
+    },
+    {
         "title": "UOPĆE NEMA DILEME Gorica je teško oštećena, a ovakvom Dinamu sudačka pomoć zaista nije potrebna!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/gorica/dinamo-preokrenuo-goricu-6-3-sudacke-kontroverze-polufinale-hrvatski-kup-15697229",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38715379_640.jpg"
@@ -33,21 +48,6 @@
         "title": "‘Jedan od najboljih trenutaka u mom životu‘",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/automoto/automoto-domaci/wrc-croatia-rally-rijeka-grobnik-korzo-toni-fruk-jon-armstrong-15697294",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38722846_640.png"
-    },
-    {
-        "title": "MAKSIMIRSKA ČISTKA Šestorica napustila Dinamo, samo jedan profitirao!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/transferi/dinamo-zimski-odlasci-ljubicic-jedini-dobitnik-ostali-bez-iskoraka-15697168",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/07/k_38226734_640.jpg"
-    },
-    {
-        "title": "Tražimo pokretanje istrage, pristup sudačkoj komunikaciji i priznanje pogrešaka!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/liga-prvaka/barcelona-prijavila-uefi-sudjenje-zbog-spornog-penala-protiv-atletica-15697266",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38716346_640.jpg"
-    },
-    {
-        "title": "UZNEMIRUJUĆ PRIZOR VIDEO Strašna nesreća uoči WRC spektakla u Hrvatskoj.",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/sudar-na-testu-wrc-croatia-ford-bez-kotaca-vozac-neozlijeden-program-nastavlja-15697212",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38721013_640.jpg"
     },
     {
         "title": "apsolutni spektakl VIDEO Dinamo loše startao pa razmontirao Goricu!",
@@ -75,28 +75,28 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/07/k_38693949_640.jpg"
     },
     {
-        "title": "‘Dvojbe ne postoje‘ ‘Učvrstio je momčad i smjestio nas na sigurno drugo mjesto bundesligaške ljestvice‘, dodao je sportski direktor Ricken",
+        "title": "MAKSIMIRSKA ČISTKA Šestorica napustila Dinamo, samo jedan profitirao!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/transferi/dinamo-zimski-odlasci-ljubicic-jedini-dobitnik-ostali-bez-iskoraka-15697168",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/07/k_38226734_640.jpg"
+    },
+    {
+        "title": "Tražimo pokretanje istrage, pristup sudačkoj komunikaciji i priznanje pogrešaka!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/liga-prvaka/barcelona-prijavila-uefi-sudjenje-zbog-spornog-penala-protiv-atletica-15697266",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38716346_640.jpg"
+    },
+    {
+        "title": "UZNEMIRUJUĆ PRIZOR VIDEO Strašna nesreća uoči WRC spektakla u Hrvatskoj.",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/sudar-na-testu-wrc-croatia-ford-bez-kotaca-vozac-neozlijeden-program-nastavlja-15697212",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38721013_640.jpg"
+    },
+    {
+        "title": "‘Dvojbe ne postoje‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/bundesliga/niko-kovac-ostaje-trener-borussije-dortmund-potvrdio-lars-ricken-15697207",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38449250_640.jpg"
     },
     {
-        "title": "15 MU JE GODINA TEK Hrvatski dragulj među najboljima u Europi!",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-mix/toni-garma-top-europski-talent-2010-real-madrid-nba-draft-2029-15697192",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_37310935_640.jpg"
-    },
-    {
-        "title": "VAŽNO PITANJE Hajduku je dao sve, omiljeni je lik u svlačionici, ali njegova je budućnost na Poljudu pod upitnikom",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/melnjak-asistira-u-puli-livaja-zabija-ugovor-s-hajdukom-na-cekanju-15697111",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38709518_640.jpg"
-    },
-    {
-        "title": "Sportsko jutro Opasno zagrmio i zatresao čitavu svlačionicu!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/rijeka/sportsko-jutro-dinamo-miha-zajc-rijeka-victor-sanchez-mario-carevic-15697068",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38715648_640.jpg"
-    },
-    {
-        "title": "‘Kako nije?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/layec-analiza-var-ponisten-gol-vukovara-zalede-hnl-28-kolo-15697142",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38709271_640.jpg"
+        "title": "‘Pogodilo me, dugo se nismo čuli.",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/slaven-bilic-o-srecku-bogdanu-mentor-koji-mu-je-otvorio-vrata-karlsruhea-15696988",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_37896509_640.jpg"
     }
 ]
