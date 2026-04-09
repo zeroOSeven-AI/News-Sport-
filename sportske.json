@@ -1,8 +1,13 @@
 [
     {
-        "title": "ZATVORIO VRATANjima je ovo teško gledati! Majstorija dinamovca odjeknula preko granice: ‘Bol je još uvijek prejaka‘Dok slave Zajčeve fenomenalne pogotke u dresu Dinama, Slovcenci istovremeno žale zbog njegove odsutnosti u reprezentaciji",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-gorica-6-3-miha-zajc-dva-gola-finale-hrvatskog-kupa-15697003",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38715607_640.jpg"
+        "title": "Sportsko jutroOpasno zagrmio i zatresao čitavu svlačionicu! Ovo je trenutak kada se rodio novi vođa DinamaU novoj epizodi našeg podcasta pogledajte i koje momčadi su pokazale najviše u Ligi prvaka, kao i prisjećanje na preminule Srećka Bogdana i Duška Vujoševića",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/rijeka/sportsko-jutro-dinamo-miha-zajc-rijeka-victor-sanchez-mario-carevic-15697068",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38715648_640.jpg"
+    },
+    {
+        "title": "VATRENA STIHIJAVIDEO/FOTO: Apokaliptični prizori, vatra progutala čitav krov stadiona! Scene kao u SF filmovima",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/pozar-olimpijski-stadion-rio-krov-velodrom-bez-zrtava-15697048",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38718781_640.jpg"
     },
     {
         "title": "ČEČIJEV TRAGSlaven Bilić: ‘Pogodilo me, dugo se nismo čuli... Kad je nestao, dokazao je da je velik čovjek‘",
@@ -10,14 +15,29 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_37896509_640.jpg"
     },
     {
-        "title": "PLAVI ISPITJe li Dinamo u Hrvatskoj stigao do maksimuma? Jedna utakmica reći će sve, a potom slijedi novi izazov",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/rijeka/dinamo-rijeka-finale-kupa-opus-arena-rabuzinovo-sunce-15696981",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38327510_640.jpg"
+        "title": "AKUTNO PITANJEBilić prošao ‘kanonadu‘, održana velika sjednica o Poljudu: ‘Hajduk će svjesno ići u gubitak‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/poljud-rasprava-sanacija-ili-novi-stadion-sigurnost-krov-brodarica-split-15697070",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38718644_640.jpg"
+    },
+    {
+        "title": "ZATVORIO VRATANjima je ovo teško gledati! Majstorija dinamovca odjeknula preko granice: ‘Bol je još uvijek prejaka‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-gorica-6-3-miha-zajc-dva-gola-finale-hrvatskog-kupa-15697003",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38715607_640.jpg"
+    },
+    {
+        "title": "SUDAČKA ANALIZAVIDEO Layec pojasnio spornu situaciju, Vukovar nije oštećen: ‘VAR nije mogao izvršiti triangulaciju‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/vukovar1991/layec-analiza-cetiri-sudacke-odluke-28-kolo-hnl-var-zaledje-kazneni-udarac-15697058",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38709271_640.jpg"
     },
     {
         "title": "TEŠKA ODLUKANavijači Dinama sanjaju o povratku Modrića na Maksimir, Talijani otkrivaju: Postoje samo dvije opcije",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/modric-odluka-milan-produzenje-ili-kraj-karijere-15697029",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_37931355_640.jpg"
+    },
+    {
+        "title": "PLAVI ISPITJe li Dinamo u Hrvatskoj stigao do maksimuma? Jedna utakmica reći će sve, a potom slijedi novi izazov",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/rijeka/dinamo-rijeka-finale-kupa-opus-arena-rabuzinovo-sunce-15696981",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38327510_640.jpg"
     },
     {
         "title": "UPITAN ZA UTAKMICUVušković izostao s treninga i zabrinuo navijače, Nijemci otkrili što se krije u pozadini priče",
@@ -30,7 +50,32 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38716119_640.jpg"
     },
     {
-        "title": "PREKINUO ŠUTNJUZvijezda Italije razočarana i bijesna: ‘Nije istina! To nitko nije tražio, ta me je laž najviše povrijedila...‘",
+        "title": "apsolutni spektaklVIDEO Dinamo loše startao pa razmontirao Goricu! Čudesni potezi Zajca i šest golova za finale KupaModri su se nakon pobjede pridružili Rijeci u finalu Hrvatskog kupa koje će se 13. svibnja igrati u Osijeku",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/video-dinamo-lose-startao-pa-razmontirao-goricu-cudesni-potezi-zajca-i-sest-golova-za-finale-kupa-15696894",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_38715580_640.jpg"
+    },
+    {
+        "title": "piše davorin olivariKovačević je stvorio",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-gorica-golijada-polufinale-kupa-kovacevic-zajc-beljo-15696943",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_38715158_640.jpg"
+    },
+    {
+        "title": "HRVATSKI KUPGdje gledati Gorica",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/polufinale-hrvatskog-kupa-rijeka-slaven-gorica-dinamo-bez-uzvrata-15696668",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/07/k_38693949_640.jpg"
+    },
+    {
+        "title": "TUŽNA VIJESTPreminuo legendarni Srećko Bogdan (69), za Dinamo je odigrao skoro 600 utakmica",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/preminuo-srecko-bogdan-legenda-dinama-304-utakmice-trofeji-15696700",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_38712245_640.png"
+    },
+    {
+        "title": "ČAROLIJA U TUROPOLJUVIDEO Akcija Dinama za pamćenje: ‘Najbolji dupli pas u povijesti, Hrvatska ovo mora poslati svijetu‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/polufinale-kupa-dinamova-akcija-za-antologiju-i-golijada-protiv-gorice-15696918",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_38715470_640.jpg"
+    },
+    {
+        "title": "PREKINUO ŠUTNJUZvijezda Italije razočarana i bijesna: ‘Nije istina! To nitko nije tražio, ta me je laž najviše povrijedila...‘‘Kao kapetan nikada nisam tražio ni jedan euro za momčad. U reprezentaciji, kao i svugdje, postoje nagrade ako se ostvari cilj‘, rekao je talijanski vratar",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/donnarumma-nakon-bih-negira-premije-proziva-medijske-lazi-15696991",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38678780_640.jpg"
     },
@@ -50,53 +95,8 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_38413958_640.jpg"
     },
     {
-        "title": "apsolutni spektaklVIDEO Dinamo loše startao pa razmontirao Goricu! Čudesni potezi Zajca i šest golova za finale KupaModri su se nakon pobjede pridružili Rijeci u finalu Hrvatskog kupa koje će se 13. svibnja igrati u Osijeku",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/video-dinamo-lose-startao-pa-razmontirao-goricu-cudesni-potezi-zajca-i-sest-golova-za-finale-kupa-15696894",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_38715580_640.jpg"
-    },
-    {
-        "title": "HRVATSKI KUPGdje gledati Gorica",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/polufinale-hrvatskog-kupa-rijeka-slaven-gorica-dinamo-bez-uzvrata-15696668",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/07/k_38693949_640.jpg"
-    },
-    {
-        "title": "TUŽNA VIJESTPreminuo legendarni Srećko Bogdan (69), za Dinamo je odigrao skoro 600 utakmica",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/preminuo-srecko-bogdan-legenda-dinama-304-utakmice-trofeji-15696700",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_38712245_640.png"
-    },
-    {
-        "title": "ČAROLIJA U TUROPOLJUVIDEO Akcija Dinama za pamćenje: ‘Najbolji dupli pas u povijesti, Hrvatska ovo mora poslati svijetu‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/polufinale-kupa-dinamova-akcija-za-antologiju-i-golijada-protiv-gorice-15696918",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_38715470_640.jpg"
-    },
-    {
-        "title": "KAKO SU IGRALIZajc je igračina, Kovačevićev stroj strašan, a nervozni dinamovac trebao je biti isključen",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/zajc-je-igracina-kovacevicev-stroj-strasan-a-nervozni-dinamovac-trebao-je-biti-iskljucen-15696932",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_38715648_640.jpg"
-    },
-    {
-        "title": "U MEKSIKUVeliko priznanje za Šukera! Bivši Vatreni kandidat za Međunarodnu nogometnu kuću slavnihMeđu kandidatima su i Alessandro Del Piero, Bebeto, Thierry Henry, Xabi Alonso i Claudio Caniggia, a glasanje traje do 17. travnja",
+        "title": "U MEKSIKUVeliko priznanje za Šukera! Bivši Vatreni kandidat za Međunarodnu nogometnu kuću slavnih",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/davor-suker-kandidat-za-medunarodnu-nogometnu-kucu-slavnih-pachuca-15697014",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38466308_640.jpg"
-    },
-    {
-        "title": "ALPSKA LIGASisak na rubu hokejaškog čuda, slijedi presudna sedma utakmica polufinala",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/zimski-sportovi/sisak-merano-sedma-utakmica-zibel-finale-alpske-lige-15696993",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_38561182_640.jpg"
-    },
-    {
-        "title": "isključenje i penal?VIDEO Velika kontroverza u LP, trener Barce zagrmio: ‘Čemu služi VAR? Svi griješimo, ali ovo...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/liga-prvaka/atletico-pobijedio-barcelonu-2-0-cubarsi-iskljucen-golovi-alvareza-i-sorlotha-15696968",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_38716346_640.jpg"
-    },
-    {
-        "title": "EUROPSKA RAČUNICAZbog pobjede Dinama slavi i Hajduk: Evo zašto je ‘šestica‘ Modrih fantastična vijest za Bijele",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/rijeka/dinamova-dvostruka-kruna-salje-hajduk-u-europsku-ligu-nakon-62-u-gorici-15696928",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_38715472_640.jpg"
-    },
-    {
-        "title": "VEČER LIJEPIH POGODAKAVIDEO Slavlje Atletica na Camp Nouu, Barca pala s igračem manje, Liverpool nemoćan u Parizu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/liga-prvaka/video-slavlje-atletica-na-camp-nouu-barca-pala-s-igracem-manje-liverpool-nemocan-u-parizu-15696924",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_38716583_640.jpg"
     }
 ]
