@@ -1,0 +1,72 @@
+import json
+import sys
+from playwright.sync_api import sync_playwright
+from bs4 import BeautifulSoup
+
+def clean_title(title):
+    # Popis simbola kojima portali obično odvajaju ime novinara ili kategoriju
+    delimiters = [' - ', ' | ', ' / ']
+    clean = title
+    for d in delimiters:
+        if d in clean:
+            # Uzimamo samo prvi dio prije simbola
+            clean = clean.split(d)[0]
+    return clean.strip()
+
+def scrape_sn():
+    url = "https://m.sportbild.bild.de/?t_ref=https%3A%2F%2Fwww.google.com%2F"
+    
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        context = browser.new_context(
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+        )
+        page = context.new_page()
+
+        try:
+            page.goto(url, wait_until="networkidle", timeout=60000)
+            content = page.content()
+            soup = BeautifulSoup(content, 'html.parser')
+            
+            news_items = []
+            articles = soup.find_all('article')
+
+            for art in articles:
+                title_elem = art.find(['h2', 'h3', 'h4'])
+                link_elem = art.find('a', href=True)
+                img_elem = art.find('img')
+
+                if title_elem and link_elem:
+                    raw_title = title_elem.get_text(strip=True)
+                    # OVDJE ČISTIMO NASLOV
+                    title = clean_title(raw_title)
+                    
+                    link = link_elem['href']
+                    if link.startswith('/'):
+                        link = "https://m.sportbild.bild.de/?t_ref=https%3A%2F%2Fwww.google.com%2F" + link
+                    
+                    image = ""
+                    if img_elem:
+                        image = img_elem.get('data-src') or img_elem.get('src') or ""
+                    
+                    if len(title) > 5:
+                        news_items.append({
+                            "title": title,
+                            "link": link,
+                            "image": image
+                        })
+
+                if len(news_items) >= 20:
+                    break
+
+            with open('sportske.json', 'w', encoding='utf-8') as f:
+                json.dump(news_items, f, ensure_ascii=False, indent=4)
+            
+            browser.close()
+
+        except Exception as e:
+            print(f"Greška: {e}")
+            sys.exit(1)
+
+if __name__ == "__main__":
+    scrape_bild()
