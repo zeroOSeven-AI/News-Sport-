@@ -2,7 +2,7 @@ import json
 import sys
 import re
 from playwright.sync_api import sync_playwright
-from BeautifulSoup import BeautifulSoup
+from bs4 import BeautifulSoup
 
 def clean_title(title):
     if not title:
