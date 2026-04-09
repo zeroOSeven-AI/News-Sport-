@@ -1,15 +1,30 @@
 import json
 import sys
+import re
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 
 def clean_title(title):
-    # Čistimo naslov od nepotrebnih prefiksa i simbola
+    if not title:
+        return ""
+    
+    # 1. Bild često spaja prednaslov i naslov bez razmaka (npr. "Italiener berichtenZukunft")
+    # Tražimo mjesto gdje malo slovo dodiruje veliko i umećemo razmak, 
+    # ali onda uzimamo samo drugi dio (pravi naslov)
+    match = re.search(r'([a-zčćžšđ])([A-ZČĆŽŠĐ][a-zčćžšđ])', title)
+    if match:
+        # Uzimamo sve od tog drugog velikog slova do kraja
+        title = title[match.start() + 1:]
+
+    # 2. Čistimo od standardnih separatora ako su ostali na početku
     delimiters = [' - ', ' | ', ' / ', ':', '–']
     clean = title
     for d in delimiters:
         if d in clean:
-            clean = clean.split(d)[0]
+            # Ako je separator na početku, uzmi ono nakon njega
+            parts = clean.split(d)
+            clean = parts[1] if len(parts) > 1 else parts[0]
+            
     return clean.strip()
 
 def scrape_bild():
@@ -17,7 +32,6 @@ def scrape_bild():
     
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
-        # Koristimo iPhone User-Agent jer mobilna verzija lakše servira slike
         context = browser.new_context(
             user_agent="Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Mobile/15E148 Safari/604.1"
         )
@@ -27,21 +41,20 @@ def scrape_bild():
             print(f"Otvaram: {url}")
             page.goto(url, wait_until="domcontentloaded", timeout=60000)
             
-            # KLJUČNO ZA SLIKE: Skrolanje i čekanje da se lazy-load slike učitaju
-            page.evaluate("window.scrollBy(0, 1500)")
-            page.wait_for_timeout(4000) 
+            # Skrolanje da se pokrene lazy-load za slike
+            page.evaluate("window.scrollBy(0, 2000)")
+            page.wait_for_timeout(3000) 
             
             content = page.content()
             soup = BeautifulSoup(content, 'html.parser')
             
             news_items = []
-            
-            # Tražimo sve article elemente
             articles = soup.find_all('article')
 
             for art in articles:
-                # Naslov može biti u različitim tagovima ovisno o sekciji
-                title_elem = art.find(['h2', 'h3', 'h4', 'span'], class_=lambda x: x is not None and 'title' in x.lower())
+                # Bild drži pravi naslov često u klasi koja sadrži 'headline'
+                # Prvo pokušavamo naći element koji je baš naslov
+                title_elem = art.find(['h2', 'h3', 'h4'], class_=re.compile(r'headline|title', re.I))
                 if not title_elem:
                     title_elem = art.find(['h2', 'h3', 'h4'])
                 
@@ -49,7 +62,8 @@ def scrape_bild():
                 img_elem = art.find('img')
 
                 if title_elem and link_elem:
-                    raw_title = title_elem.get_text(strip=True)
+                    raw_title = title_elem.get_text(" ", strip=True) # Dodajemo razmak pri spajanju spanova
+                    
                     if len(raw_title) < 5:
                         continue
                     
@@ -59,25 +73,22 @@ def scrape_bild():
                     if link.startswith('/'):
                         link = "https://sportbild.bild.de" + link
                     
-                    # --- POPRAVAK ZA SLIKE ---
+                    # --- SLIKE ---
                     image = ""
                     if img_elem:
-                        # Prioritet: data-src -> srcset -> src
-                        # Bild često drži pravu sliku u data-src zbog lazy loadinga
                         image = (img_elem.get('data-src') or 
-                                 img_elem.get('srcset', '').split(' ')[0] or 
                                  img_elem.get('src') or "")
-                    
-                    # Ako je slika i dalje prazna, probaj naći unutar picture taga
+                        
                     if not image:
-                        pic_tag = art.find('source')
-                        if pic_tag:
-                            image = pic_tag.get('srcset', '').split(' ')[0]
+                        source_tag = art.find('source')
+                        if source_tag:
+                            image = source_tag.get('srcset', '').split(' ')[0]
 
                     if image and image.startswith('/'):
-                        image = "https://www.bild.de" + image
-                    # -------------------------
+                        image = "https://sportbild.bild.de" + image
+                    # --------------
 
+                    # Izbjegavamo duplikate
                     if not any(item['title'] == title for item in news_items):
                         news_items.append({
                             "title": title,
@@ -88,7 +99,6 @@ def scrape_bild():
                 if len(news_items) >= 20:
                     break
 
-            # Spremanje u bild.json (pazi da ti se i u YAML-u zove tako!)
             with open('bild.json', 'w', encoding='utf-8') as f:
                 json.dump(news_items, f, ensure_ascii=False, indent=4)
             
@@ -96,7 +106,7 @@ def scrape_bild():
             browser.close()
 
         except Exception as e:
-            print(f"Greška tijekom scrapanja: {e}")
+            print(f"Greška: {e}")
             if 'browser' in locals():
                 browser.close()
             sys.exit(1)
