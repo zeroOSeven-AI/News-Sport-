@@ -65,7 +65,7 @@ def scrape_bild():
                     break
 
             # Spremanje u JSON
-            with open('sportske.json', 'w', encoding='utf-8') as f:
+            with open('bild-sport.json', 'w', encoding='utf-8') as f:
                 json.dump(news_items, f, ensure_ascii=False, indent=4)
             
             print(f"Uspješno spremljeno {len(news_items)} vijesti u sportske.json")
