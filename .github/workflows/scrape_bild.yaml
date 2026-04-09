@@ -1,4 +1,4 @@
-name: Update Sportske Novosti
+name: Update Bild Sport
 on:
   schedule:
     - cron: '*/30 * * * *' # Pokreće se svaki puni sat
