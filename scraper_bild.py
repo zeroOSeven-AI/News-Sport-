@@ -14,7 +14,7 @@ def clean_title(title):
     return clean.strip()
 
 def scrape_sn():
-    url = "https://m.sportbild.bild.de/?t_ref=https%3A%2F%2Fwww.google.com%2F"
+    url = "https://m.sportbild.bild.de/"
     
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -43,7 +43,7 @@ def scrape_sn():
                     
                     link = link_elem['href']
                     if link.startswith('/'):
-                        link = "https://m.sportbild.bild.de/?t_ref=https%3A%2F%2Fwww.google.com%2F" + link
+                        link = "https://m.sportbild.bild.de/" + link
                     
                     image = ""
                     if img_elem:
