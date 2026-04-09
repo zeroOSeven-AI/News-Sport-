@@ -1,6 +1,11 @@
 [
     {
-        "title": "Sportsko jutroOpasno zagrmio i zatresao čitavu svlačionicu! Ovo je trenutak kada se rodio novi vođa DinamaU novoj epizodi našeg podcasta pogledajte i koje momčadi su pokazale najviše u Ligi prvaka, kao i prisjećanje na preminule Srećka Bogdana i Duška Vujoševića",
+        "title": "Sportsko jutroHrvatska je ostala bez prave legende, čovjeka kojem je vojska ‘ukrala‘ povijesni naslov s DinamomU novoj epizodi našeg podcasta prisjećamo se detalja i ostavštine iz života Srećka Bogdana i Duška Vujoševića",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/reprezentacija/sportsko-jutro-ceci-bogdan-dinamo-1982-karlsruhe-bilic-vujosevic-15697094",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38712553_640.jpg"
+    },
+    {
+        "title": "Sportsko jutroOpasno zagrmio i zatresao čitavu svlačionicu! Ovo je trenutak kada se rodio novi vođa Dinama",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/rijeka/sportsko-jutro-dinamo-miha-zajc-rijeka-victor-sanchez-mario-carevic-15697068",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38715648_640.jpg"
     },
@@ -15,7 +20,7 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_37896509_640.jpg"
     },
     {
-        "title": "AKUTNO PITANJEBilić prošao ‘kanonadu‘, održana velika sjednica o Poljudu: ‘Hajduk će svjesno ići u gubitak‘",
+        "title": "AKUTNO PITANJEŽustra rasprava, Bilić i ‘Naš Hajduk‘ jasni, legenda zagrmjela: ‘Stalno slušam gdje će Hajduk‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/poljud-rasprava-sanacija-ili-novi-stadion-sigurnost-krov-brodarica-split-15697070",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38718644_640.jpg"
     },
@@ -25,12 +30,17 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38715607_640.jpg"
     },
     {
+        "title": "TEŠKA SKUPINAMladi Vatreni saznali protivnike na Europskom prvenstvu: ‘Izuzetno kvalitetne reprezentacije‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-medjunarodni/euro-u-17-hrvatska-skupina-a-belgija-estonija-spanjolska-15697083",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_37784548_640.jpg"
+    },
+    {
         "title": "SUDAČKA ANALIZAVIDEO Layec pojasnio spornu situaciju, Vukovar nije oštećen: ‘VAR nije mogao izvršiti triangulaciju‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/vukovar1991/layec-analiza-cetiri-sudacke-odluke-28-kolo-hnl-var-zaledje-kazneni-udarac-15697058",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38709271_640.jpg"
     },
     {
-        "title": "TEŠKA ODLUKANavijači Dinama sanjaju o povratku Modrića na Maksimir, Talijani otkrivaju: Postoje samo dvije opcije",
+        "title": "TEŠKA ODLUKANavijači sanjaju povratak Modrića na Maksimir, Talijani potvrdili SN: Postoje samo dvije opcije",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/modric-odluka-milan-produzenje-ili-kraj-karijere-15697029",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_37931355_640.jpg"
     },
@@ -40,19 +50,14 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38327510_640.jpg"
     },
     {
-        "title": "UPITAN ZA UTAKMICUVušković izostao s treninga i zabrinuo navijače, Nijemci otkrili što se krije u pozadini priče",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bundesliga/hsv-vuskovic-upitan-stuttgart-ozljeda-polzin-barcelona-bayern-tottenham-15697016",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38409861_640.jpg"
-    },
-    {
-        "title": "SPORNE SITUACIJELjudi u crnom ‘zapalili Barcelonu‘, pljušte reakcije: ‘Nije mu prvi put, postao je neslavna legenda...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/liga-prvaka/atletico-sokirao-barcelonu-2-0-crveni-za-cubarsija-i-bijes-zbog-var-a-15697000",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38716119_640.jpg"
-    },
-    {
         "title": "apsolutni spektaklVIDEO Dinamo loše startao pa razmontirao Goricu! Čudesni potezi Zajca i šest golova za finale KupaModri su se nakon pobjede pridružili Rijeci u finalu Hrvatskog kupa koje će se 13. svibnja igrati u Osijeku",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/video-dinamo-lose-startao-pa-razmontirao-goricu-cudesni-potezi-zajca-i-sest-golova-za-finale-kupa-15696894",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_38715580_640.jpg"
+    },
+    {
+        "title": "ŽIVI S MAJKOM U SPLITUHajduk predstavio novog igrača: Zamijenio je Livaju, a ovo je na Poljudu uspjelo samo rijetkima",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/hajduk-istra-13-adam-huram-debitirao-zamijenio-livaju-15696660",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/07/k_33360837_640.jpg"
     },
     {
         "title": "piše davorin olivariKovačević je stvorio",
@@ -70,12 +75,17 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_38712245_640.png"
     },
     {
-        "title": "ČAROLIJA U TUROPOLJUVIDEO Akcija Dinama za pamćenje: ‘Najbolji dupli pas u povijesti, Hrvatska ovo mora poslati svijetu‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/polufinale-kupa-dinamova-akcija-za-antologiju-i-golijada-protiv-gorice-15696918",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_38715470_640.jpg"
+        "title": "UPITAN ZA UTAKMICUVušković izostao s treninga i zabrinuo navijače, Nijemci otkrili što se krije u pozadini pričeTrener Polzin uvježbava pričuve dok se čeka nalaz, a europski velikani motre 19-godišnjeg stopera.",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bundesliga/hsv-vuskovic-upitan-stuttgart-ozljeda-polzin-barcelona-bayern-tottenham-15697016",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38409861_640.jpg"
     },
     {
-        "title": "PREKINUO ŠUTNJUZvijezda Italije razočarana i bijesna: ‘Nije istina! To nitko nije tražio, ta me je laž najviše povrijedila...‘‘Kao kapetan nikada nisam tražio ni jedan euro za momčad. U reprezentaciji, kao i svugdje, postoje nagrade ako se ostvari cilj‘, rekao je talijanski vratar",
+        "title": "SPORNE SITUACIJELjudi u crnom ‘zapalili Barcelonu‘, pljušte reakcije: ‘Nije mu prvi put, postao je neslavna legenda...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/liga-prvaka/atletico-sokirao-barcelonu-2-0-crveni-za-cubarsija-i-bijes-zbog-var-a-15697000",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38716119_640.jpg"
+    },
+    {
+        "title": "PREKINUO ŠUTNJUZvijezda Italije razočarana i bijesna: ‘Nije istina! To nitko nije tražio, ta me je laž najviše povrijedila...‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/donnarumma-nakon-bih-negira-premije-proziva-medijske-lazi-15696991",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38678780_640.jpg"
     },
@@ -88,15 +98,5 @@
         "title": "piše davorin olivariKovačević je stvorio",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-gorica-golijada-polufinale-kupa-kovacevic-zajc-beljo-15696943",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_38715158_640.jpg"
-    },
-    {
-        "title": "Europski četvrtakMatanović se odmorio i želi zaustaviti Celtin niz, Pongračić gost kod donedavnog vatrenog kolege",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/konferencijska-liga/moro-matanovic-i-prpic-cetvrtfinala-bologna-aston-villa-freiburg-celta-porto-forest-15696985",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_38413958_640.jpg"
-    },
-    {
-        "title": "U MEKSIKUVeliko priznanje za Šukera! Bivši Vatreni kandidat za Međunarodnu nogometnu kuću slavnih",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/davor-suker-kandidat-za-medunarodnu-nogometnu-kucu-slavnih-pachuca-15697014",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38466308_640.jpg"
     }
 ]
