@@ -1,61 +1,77 @@
-const JSON_URL = "https://raw.githubusercontent.com/zeroOSeven-AI/News/main/sportske.json"
+import json
+import sys
+from playwright.sync_api import sync_playwright
+from bs4 import BeautifulSoup
 
-async function createWidget() {
-  let widget = new ListWidget()
-  widget.backgroundColor = new Color("#121212")
-  
-  try {
-    let req = new Request(JSON_URL)
-    // Dodajemo cache-breaker da uvijek vuče najnovije s GitHuba
-    req.method = "GET"
-    let items = await req.loadJSON()
+def scrape_sn():
+    # Direktna adresa sportske rubrike
+    url = "https://sportske.jutarnji.hr/"
     
-    let header = widget.addText("SPORTSKE NOVOSTI")
-    header.textColor = new Color("#ed1c24")
-    header.font = Font.boldSystemFont(13)
-    widget.addSpacer(12)
+    with sync_playwright() as p:
+        browser = p.chromium.launch(headless=True)
+        # Simuliramo običan desktop browser
+        context = browser.new_context(
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36"
+        )
+        page = context.new_page()
 
-    // Uzmi prve 3 vijesti
-    for (let i = 0; i < 3; i++) {
-      if (!items[i]) break
-      let item = items[i]
-      
-      let row = widget.addStack()
-      row.centerAlignContent()
-      row.url = item.link
+        try:
+            print(f"Otvaram: {url}")
+            page.goto(url, wait_until="networkidle", timeout=60000)
+            
+            # Uzimamo HTML i šaljemo ga u BeautifulSoup
+            content = page.content()
+            soup = BeautifulSoup(content, 'html.parser')
+            
+            news_items = []
+            # Sportske koriste <article> za svaku vijest
+            articles = soup.find_all('article')
 
-      // Slika
-      if (item.image && item.image.startsWith('http')) {
-        try {
-          let imgReq = new Request(item.image)
-          let img = await imgReq.loadImage()
-          let wImg = row.addImage(img)
-          wImg.imageSize = new Size(55, 38)
-          wImg.cornerRadius = 4
-          row.addSpacer(10)
-        } catch(e) {}
-      }
+            for art in articles:
+                # Tražimo naslov i link
+                title_elem = art.find(['h2', 'h3', 'h4'])
+                link_elem = art.find('a', href=True)
+                img_elem = art.find('img')
 
-      // Naslov
-      let title = row.addText(item.title)
-      title.textColor = Color.white()
-      title.font = Font.mediumSystemFont(11)
-      title.lineLimit = 2
-      
-      widget.addSpacer(10)
-    }
-  } catch(e) {
-    let err = widget.addText("Provjeri repozitorij (Public?)")
-    err.textColor = Color.gray()
-    err.font = Font.systemFont(10)
-  }
-  
-  return widget
-}
+                if title_elem and link_elem:
+                    title = title_elem.get_text(strip=True)
+                    link = link_elem['href']
+                    
+                    if link.startswith('/'):
+                        link = "https://sportske.jutarnji.hr" + link
+                    
+                    # Hvatanje slike (provjera više mogućih atributa zbog lazy-loadinga)
+                    image = ""
+                    if img_elem:
+                        image = img_elem.get('data-src') or img_elem.get('src') or ""
+                        # Ako je slika samo transparentni pixel, preskoči
+                        if "base64" in image or "empty.png" in image:
+                            image = img_elem.get('data-srcset') or ""
+                    
+                    if len(title) > 5:
+                        news_items.append({
+                            "title": title,
+                            "link": link,
+                            "image": image
+                        })
 
-if (config.runsInWidget) {
-  Script.setWidget(await createWidget())
-} else {
-  (await createWidget()).presentMedium()
-}
-Script.complete()
+                if len(news_items) >= 20:
+                    break
+
+            if not news_items:
+                print("Nije pronađena nijedna vijest.")
+                sys.exit(1)
+
+            # Spremanje u JSON
+            with open('sportske.json', 'w', encoding='utf-8') as f:
+                json.dump(news_items, f, ensure_ascii=False, indent=4)
+            
+            print(f"Uspješno spremljeno {len(news_items)} vijesti u sportske.json")
+            browser.close()
+
+        except Exception as e:
+            print(f"Greška: {e}")
+            sys.exit(1)
+
+if __name__ == "__main__":
+    scrape_sn()
