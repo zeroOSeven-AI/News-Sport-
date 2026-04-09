@@ -1,12 +1,15 @@
 name: Update Bild Sport
 on:
   schedule:
-    - cron: '*/30 * * * *' # Pokreće se svaki puni sat
-  workflow_dispatch: # Omogućuje ručno pokretanje u Actions tabu
+    - cron: '*/30 * * * *' # Svakih 30 minuta
+  workflow_dispatch: # Omogućuje ručno pokretanje
 
 jobs:
   scrape_job:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # KLJUČNO: Daje akciji dozvolu da zapiše file u repo
+    
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -26,13 +29,17 @@ jobs:
 
       - name: Commit and Push
         run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
-          if [ -f bild-sport.json ]; then
-            git add bild-sport.json
-            git commit -m "Automated news update" || exit 0
+          # Postavljanje Git identiteta
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Provjeravamo postoji li bild.json (tako ga tvoj Python kod sada sprema)
+          if [ -f bild.json ]; then
+            git add bild.json
+            # Commitaj samo ako ima promjena, inače nemoj srušiti workflow
+            git commit -m "Automated Bild update" || echo "Nema novih promjena"
             git push
           else
-            echo "File not found. Skipping."
+            echo "Greška: bild.json nije pronađen!"
             exit 1
           fi
