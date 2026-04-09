@@ -1,7 +1,7 @@
 name: Update Sportske Novosti
 on:
   schedule:
-    - cron: '0 * * * *' # Pokreće se svaki puni sat
+    - cron: '*/30 * * * *' # Pokreće se svaki puni sat
   workflow_dispatch: # Omogućuje ručno pokretanje u Actions tabu
 
 jobs:
