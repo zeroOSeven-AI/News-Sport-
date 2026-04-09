@@ -1,1 +1,38 @@
-.github/workflows/scrape.yml
+name: Update Sportske Novosti
+on:
+  schedule:
+    - cron: '*/30 * * * *' # Pokreće se svaki puni sat
+  workflow_dispatch: # Omogućuje ručno pokretanje u Actions tabu
+
+jobs:
+  scrape_job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install playwright beautifulsoup4 lxml
+          playwright install chromium
+
+      - name: Run scraper
+        run: python scraper.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          if [ -f sportske.json ]; then
+            git add sportske.json
+            git commit -m "Automated news update" || exit 0
+            git push
+          else
+            echo "File not found. Skipping."
+            exit 1
+          fi
