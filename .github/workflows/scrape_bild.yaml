@@ -28,8 +28,8 @@ jobs:
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
-          if [ -f bild.json ]; then
-            git add sportske.json
+          if [ -f bild-sport.json ]; then
+            git add bild-sport.json
             git commit -m "Automated news update" || exit 0
             git push
           else
