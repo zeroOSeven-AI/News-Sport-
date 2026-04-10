@@ -6,46 +6,52 @@ from bs4 import BeautifulSoup
 
 def clean_title(title):
     if not title: return ""
-    # Bild zna imati čudne prefikse poput "BILDplus" ili "KOMENTAR"
-    title = re.sub(r'^(BILDplus|KOMENTAR|VIDEO|FOTOS)\s*', '', title, flags=re.IGNORECASE)
+    title = re.sub(r'^(BILDplus|KOMENTAR|VIDEO|FOTOS|LIVE|EXKLUSIV)\s*', '', title, flags=re.IGNORECASE)
     return title.strip()
 
 def scrape_bild():
-    # Mobilna verzija je često lakša za scrapanje jer ima manje smeća
-    url = "https://m.bild.de/sport/fussball/"
+    # Vraćamo se na glavnu sportsku stranicu koja je stabilnija za scraping
+    url = "https://www.bild.de/sport/fussball/fotos-videos-news-66166138.bild.html"
     
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         context = browser.new_context(
-            user_agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Mobile/15E148 Safari/604.1",
-            viewport={'width': 390, 'height': 844}
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+            viewport={'width': 1280, 'height': 2000}
         )
         page = context.new_page()
 
         try:
-            print(f"Ulazimo u Bild bazu... Scraper pali cigaru.")
+            print(f"Napad na Bild... Scraper pali dvije cigare ovaj put.")
             page.goto(url, wait_until="domcontentloaded", timeout=60000)
             
-            # Pauza da se učitaju njihovi dinamički naslovi
-            page.wait_for_timeout(7000) 
+            # Duža pauza da JS odradi svoje
+            page.wait_for_timeout(10000) 
             
-            # Skrolanje je obavezno jer Bild ne učitava slike dok nisu blizu ekrana
-            for _ in range(3):
+            # Skrolanje da se aktiviraju slike
+            for _ in range(4):
                 page.evaluate("window.scrollBy(0, 800)")
-                page.wait_for_timeout(1500)
+                page.wait_for_timeout(1000)
             
             content = page.content()
             soup = BeautifulSoup(content, 'html.parser')
             
             news_items = []
             
-            # Bildove vijesti su obično u 'article' ili 'div' s klasama koje sadrže 'teaser'
-            articles = soup.select('article, div[class*="teaser"]')
+            # Bild sada koristi puno 'article' tagova ali i 'div' s posebnim data-atributima
+            articles = soup.find_all(['article', 'div'], class_=re.compile(r'teaser|m-entry|hentry', re.I))
+
+            if not articles:
+                # Ako ne nađe ništa, idemo na "brute force" - traži sve linkove koji imaju naslov u sebi
+                articles = soup.select('a[href*=".bild.html"]')
 
             for art in articles:
-                # Naslov je kod Bilda često duboko u h2/h3 ili u klasi 'headline'
-                title_elem = art.find(['h2', 'h3', 'span'], class_=re.compile(r'headline|title|text', re.I))
-                link_elem = art.find('a', href=True)
+                # Tražimo bilo koji tekstualni element koji liči na naslov
+                title_elem = art.find(['h2', 'h3', 'span', 'p'], class_=re.compile(r'headline|title|text|label', re.I))
+                if not title_elem and art.name == 'a':
+                    title_elem = art
+                
+                link_elem = art if art.name == 'a' else art.find('a', href=True)
                 img_elem = art.find('img')
 
                 if title_elem and link_elem:
@@ -61,23 +67,21 @@ def scrape_bild():
                     # --- BILD SLIKA FIX ---
                     image = ""
                     if img_elem:
-                        # Bild koristi srcset ili data-src za visoku rezoluciju
-                        image = (img_elem.get('data-src') or 
-                                 img_elem.get('src') or "")
+                        image = (img_elem.get('src') or 
+                                 img_elem.get('data-src') or 
+                                 img_elem.get('srcset', '').split(' ')[0])
                     
-                    # Ako je slika placeholder, tražimo u 'source' tagovima
-                    if not image or "1x1" in image or "data:image" in image:
-                        source_tag = art.find('source')
-                        if source_tag:
-                            # Uzimamo prvi URL iz srcset-a
-                            srcset = source_tag.get('srcset', '')
-                            if srcset:
-                                image = srcset.split(',')[0].split(' ')[0]
+                    # Ako nema slike u articleu, tražimo najbližu sliku (Bild nekad odvaja img od teksta)
+                    if not image or "1x1" in image:
+                        # Pokušaj naći sliku unutar istog roditelja
+                        parent = art.find_parent('div')
+                        if parent:
+                            nearby_img = parent.find('img')
+                            if nearby_img:
+                                image = nearby_img.get('src') or nearby_img.get('data-src') or ""
 
-                    # Čišćenje URL-a slike (neki imaju parametre za širinu na kraju)
-                    if image and not image.startswith('http'):
-                        if image.startswith('//'): image = "https:" + image
-                        else: image = "https://www.bild.de" + image
+                    if image and image.startswith('//'): image = "https:" + image
+                    elif image and image.startswith('/'): image = "https://www.bild.de" + image
 
                     if not any(item['title'] == title for item in news_items):
                         news_items.append({
@@ -86,22 +90,21 @@ def scrape_bild():
                             "image": image,
                             "source_title1": "BILD",
                             "source_title2": "SPORT",
-                            "source_color": "#fc4e4e", # Bild crvena
+                            "source_color": "#fc4e4e",
                             "flag": "🇩🇪"
                         })
 
-                if len(news_items) >= 15:
+                if len(news_items) >= 20:
                     break
 
-            # Spremanje u bild.json
             with open('bild.json', 'w', encoding='utf-8') as f:
                 json.dump(news_items, f, ensure_ascii=False, indent=4)
             
-            print(f"Gotovo! Bild je skeniran, {len(news_items)} vijesti spremno.")
+            print(f"Gotovo! Bild skeniran, {len(news_items)} vijesti u džepu.")
             browser.close()
 
         except Exception as e:
-            print(f"Greška kod Bilda: {e}")
+            print(f"Greška: {e}")
             if 'browser' in locals():
                 browser.close()
             sys.exit(1)
