@@ -1,0 +1,42 @@
+name: Update Marca Football
+on:
+  schedule:
+    - cron: '*/30 * * * *' # Svakih 30 minuta
+  workflow_dispatch: # Omogućuje ti da pokreneš ručno kad god želiš
+
+jobs:
+  scrape_job:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Dozvola za spremanje marca.json u repo
+    
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install playwright beautifulsoup4 lxml
+          playwright install chromium
+
+      - name: Run Marca Scraper
+        run: python scraper_marca.py  # Pazi da se file u repu zove točno ovako
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          if [ -f marca.json ]; then
+            git add marca.json
+            git commit -m "Automated Marca update" || echo "Nema novih promjena"
+            git push
+          else
+            echo "Greška: marca.json nije pronađen!"
+            exit 1
+          fi
