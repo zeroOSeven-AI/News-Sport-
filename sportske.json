@@ -1,13 +1,18 @@
 [
     {
-        "title": "‘Za to nismo nadležni‘ Grad odlučuje, navijači žele tradiciju, a sponzori čekaju svoju priliku.",
+        "title": "PREDSJEDNIČKI DODATAK Otkrivamo koliku će plaću Dominik Livaković imati u Dinamu, a jedna bi stvar bila ravna čudu Realno, ovoga trenutka nam se čini da je ostanak Livakovića u Dinamu pod dosta velikim upitnikom, da bi to mogla biti jako teška misija",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-odgadja-povratak-livakovica-nudi-milijun-eura-italija-zove-fener-ceka-izbore-15697651",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38675903_640.jpg"
+    },
+    {
+        "title": "‘Za to nismo nadležni‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/novi-stadion-kranjceviceva-ime-odlucuje-grad-maksimir-tradicija-sponzor-15697627",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38536519_640.png"
     },
     {
-        "title": "Zvijezda kratko odlazi u drugu momčad, ali iza svega se krije dobar razlog",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-cardoso-varela-povratak-b-momcad-derbi-rijeka-minutaza-15697602",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_37811194_640.jpg"
+        "title": "‘Svašta se priča po gradu, na njega ne treba trošiti riječ‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/rijeka/djalovic-otkriva-miskovic-stopirao-transfer-frigana-rijeka-zaradila-vise-15697660",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_37297600_640.jpg"
     },
     {
         "title": "‘Ovo je zapravo neka šala!",
@@ -18,6 +23,11 @@
         "title": "CIJENJEN U MADRIDU Real sprema nešto posebno, Perez više neće čekati!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/primera/deschamps-kandidat-za-trenera-real-madrida-perez-krece-po-francuskog-izbornika-15697642",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38710275_640.jpg"
+    },
+    {
+        "title": "Zvijezda kratko odlazi u drugu momčad, ali iza svega se krije dobar razlog",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-cardoso-varela-povratak-b-momcad-derbi-rijeka-minutaza-15697602",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_37811194_640.jpg"
     },
     {
         "title": "‘Nisam ništa bolji od Tudora.",
@@ -40,16 +50,6 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38726023_640.jpg"
     },
     {
-        "title": "ULAZNICE ZA SP FIFA šokirala cijenama i ‘deložacijom‘ ljudi, Hrvati pohrilili, evo koliko je bilo zahtjeva za Englesku",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/fifa-cijene-ulaznica-navijaci-prevara-prva-kategorija-vip-hrvatska-rekord-15697622",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_36969057_640.jpg"
-    },
-    {
-        "title": "BROJNA POZNATA IMENA FOTO Posljednji ispraćaj Srećka Bogdana, pogledajte tko se sve oprostio od nogometne legende",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/oprostaj-srecka-bogdana-mursko-sredisce-komemoracija-sprovod-15697607",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38727487_640.jpg"
-    },
-    {
         "title": "‘Pogodilo me, dugo se nismo čuli.",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/slaven-bilic-o-srecku-bogdanu-mentor-koji-mu-je-otvorio-vrata-karlsruhea-15696988",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_37896509_640.jpg"
@@ -58,6 +58,11 @@
         "title": "Šok u Hebrangovoj Raspad sustava u hrvatskom klubu koji puca na prvo mjesto!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/strajk-samobora-pobuna-igraca-kozul-smjene-derbi-inker-vojvoda-15697336",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_37021430_640.jpg"
+    },
+    {
+        "title": "Pa on već vrijedi 15 milijuna eura, a priča o pozivu na SP nije točna!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-beljo-stojkovic-trzisna-vrijednost-lakic-transferi-cies-15697331",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38715649_640.jpg"
     },
     {
         "title": "UOPĆE NEMA DILEME Gorica je teško oštećena, a ovakvom Dinamu sudačka pomoć zaista nije potrebna!",
@@ -70,9 +75,14 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/07/k_38226734_640.jpg"
     },
     {
-        "title": "‘Stalno slušam gdje će Hajduk‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/poljud-rasprava-sanacija-ili-novi-stadion-sigurnost-krov-brodarica-split-15697070",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38718644_640.jpg"
+        "title": "ULAZNICE ZA SP FIFA šokirala cijenama i ‘deložacijom‘ ljudi, Hrvati pohrilili, evo koliko je bilo zahtjeva za Englesku Pojedini hrvatski navijači odustali su shvativši da ulaznica u Dallasu za prvu kategoriju sada košta oko tri tisuće eura",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/fifa-cijene-ulaznica-navijaci-prevara-prva-kategorija-vip-hrvatska-rekord-15697622",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_36969057_640.jpg"
+    },
+    {
+        "title": "BROJNA POZNATA IMENA FOTO Posljednji ispraćaj Srećka Bogdana, pogledajte tko se sve oprostio od nogometne legende",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/oprostaj-srecka-bogdana-mursko-sredisce-komemoracija-sprovod-15697607",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38727487_640.jpg"
     },
     {
         "title": "KAKO STVARI STOJE Veliko iznenađenje u BiH nakon senzacije!",
@@ -88,15 +98,5 @@
         "title": "Pozlilo mu je na treningu, u bolnici su bili bespomoćni",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/preminuo-jacek-magiera-iznenadna-smrt-poljska-nogomet-legia-15697584",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38727249_640.jpg"
-    },
-    {
-        "title": "Najveću zvijezdu više ne pušta niti za 15 milijuna eura!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/transferi/beljo-dinamo-vrijedi-vise-od-15-milijuna-sportsko-jutro-15697501",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38715580_640.jpg"
-    },
-    {
-        "title": "Hrvatska ima novog tenisača u Top 100",
-        "link": "https://sportske.jutarnji.hr/sportske/tenis/atp-wta-turniri/prizmic-polufinale-monze-top-100-roland-garros-royer-6-3-6-2-15697617",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38209908_640.jpg"
     }
 ]
