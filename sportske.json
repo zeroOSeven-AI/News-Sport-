@@ -15,6 +15,11 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38664002_640.jpg"
     },
     {
+        "title": "CIJENJEN U MADRIDU Real sprema nešto posebno, Perez više neće čekati!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/primera/deschamps-kandidat-za-trenera-real-madrida-perez-krece-po-francuskog-izbornika-15697642",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38710275_640.jpg"
+    },
+    {
         "title": "‘Nisam ništa bolji od Tudora.",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/premiership/de-zerbi-preuzeo-tottenham-borba-za-ostanak-premier-liga-15697630",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38673068_640.jpg"
@@ -25,6 +30,16 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_37974499_640.jpg"
     },
     {
+        "title": "VATRENI U EUROPI Matanović s Freiburgom piše povijest, Pongračića muči stražnja loža i upitan je za sudar s Lazijom",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/konferencijska-liga/povijesni-tjedan-bundeslige-bayern-freiburg-mainz-pobjede-matanovic-asistencija-15697647",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38726613_640.jpg"
+    },
+    {
+        "title": "NOVI PUT U Grčkoj se postavlja temelj za vaterpolsko ‘zdanje‘ koje bi trebalo zablistati u Kaliforniji 2028.",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vaterpolo/vaterpolo-ostalo/u-grckoj-se-postavlja-temelj-za-vaterpolsko-zdanje-koje-bi-trebalo-zablistati-u-kaliforniji-2028-15697638",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38726023_640.jpg"
+    },
+    {
         "title": "ULAZNICE ZA SP FIFA šokirala cijenama i ‘deložacijom‘ ljudi, Hrvati pohrilili, evo koliko je bilo zahtjeva za Englesku",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/fifa-cijene-ulaznica-navijaci-prevara-prva-kategorija-vip-hrvatska-rekord-15697622",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_36969057_640.jpg"
@@ -33,21 +48,6 @@
         "title": "BROJNA POZNATA IMENA FOTO Posljednji ispraćaj Srećka Bogdana, pogledajte tko se sve oprostio od nogometne legende",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/oprostaj-srecka-bogdana-mursko-sredisce-komemoracija-sprovod-15697607",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38727487_640.jpg"
-    },
-    {
-        "title": "KAKO STVARI STOJE Veliko iznenađenje u BiH nakon senzacije!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/bih-mundijal-arena-sport-bht-bez-prijenosa-utakmica-15697595",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38675017_640.jpg"
-    },
-    {
-        "title": "PO IZBORU UEFA-E Sjajna partija Stanišića protiv Reala dovoljna za veliko priznanje!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/liga-prvaka/stanisic-uefa-momcad-tjedna-bayern-real-madrid-bernabeu-15697619",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38703889_640.jpg"
-    },
-    {
-        "title": "Pozlilo mu je na treningu, u bolnici su bili bespomoćni",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/preminuo-jacek-magiera-iznenadna-smrt-poljska-nogomet-legia-15697584",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38727249_640.jpg"
     },
     {
         "title": "‘Pogodilo me, dugo se nismo čuli.",
@@ -75,6 +75,21 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38718644_640.jpg"
     },
     {
+        "title": "KAKO STVARI STOJE Veliko iznenađenje u BiH nakon senzacije!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/bih-mundijal-arena-sport-bht-bez-prijenosa-utakmica-15697595",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38675017_640.jpg"
+    },
+    {
+        "title": "PO IZBORU UEFA-E Sjajna partija Stanišića protiv Reala dovoljna za veliko priznanje!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/liga-prvaka/stanisic-uefa-momcad-tjedna-bayern-real-madrid-bernabeu-15697619",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38703889_640.jpg"
+    },
+    {
+        "title": "Pozlilo mu je na treningu, u bolnici su bili bespomoćni",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/preminuo-jacek-magiera-iznenadna-smrt-poljska-nogomet-legia-15697584",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38727249_640.jpg"
+    },
+    {
         "title": "Najveću zvijezdu više ne pušta niti za 15 milijuna eura!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/transferi/beljo-dinamo-vrijedi-vise-od-15-milijuna-sportsko-jutro-15697501",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38715580_640.jpg"
@@ -83,20 +98,5 @@
         "title": "Hrvatska ima novog tenisača u Top 100",
         "link": "https://sportske.jutarnji.hr/sportske/tenis/atp-wta-turniri/prizmic-polufinale-monze-top-100-roland-garros-royer-6-3-6-2-15697617",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38209908_640.jpg"
-    },
-    {
-        "title": "‘Ovo je najveća utakmica moje karijere, nisam razmišljao o odlasku‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/vatreni-ponovno-u-prvom-planu-ovo-je-najveca-utakmica-moje-karijere-nisam-razmisljao-o-odlasku-15697577",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38604235_640.jpg"
-    },
-    {
-        "title": "ODLAZI I TRENER?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-medjunarodni/liverpool-egzodus-robertson-odlazi-konate-produzenje-slot-pod-znakom-pitanja-15697542",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_29172289_640.jpg"
-    },
-    {
-        "title": "‘Uživao sam u Livajinoj izvedbi!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/hajduk-gorica-garcia-livaja-rebic-presing-najava-utakmice-15697508",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38608582_640.jpg"
     }
 ]
