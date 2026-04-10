@@ -1,8 +1,33 @@
 [
     {
+        "title": "‘Ovo je najveća utakmica moje karijere, nisam razmišljao o odlasku‘ Sučić puno očekuje od finala španjolskog Kupa koje se igra 18.",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/vatreni-ponovno-u-prvom-planu-ovo-je-najveca-utakmica-moje-karijere-nisam-razmisljao-o-odlasku-15697577",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38604235_640.jpg"
+    },
+    {
+        "title": "‘STVAR SE ZATAŠKAVA‘ Nacija u šoku!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/mircea-lucescu-preminuo-leukemija-35-trofeja-rumunjska-sprovod-bukurest-15697561",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_37974499_640.jpg"
+    },
+    {
+        "title": "KAKO STVARI STOJE Veliko iznenađenje u BiH nakon senzacije!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/bih-mundijal-arena-sport-bht-bez-prijenosa-utakmica-15697595",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38675017_640.jpg"
+    },
+    {
+        "title": "Pozlilo mu je na treningu, u bolnici su bili bespomoćni",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/preminuo-jacek-magiera-iznenadna-smrt-poljska-nogomet-legia-15697584",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38727249_640.jpg"
+    },
+    {
         "title": "Najveću zvijezdu više ne pušta niti za 15 milijuna eura!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/transferi/beljo-dinamo-vrijedi-vise-od-15-milijuna-sportsko-jutro-15697501",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38715580_640.jpg"
+    },
+    {
+        "title": "ODLAZI I TRENER?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-medjunarodni/liverpool-egzodus-robertson-odlazi-konate-produzenje-slot-pod-znakom-pitanja-15697542",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_29172289_640.jpg"
     },
     {
         "title": "‘Uživao sam u Livajinoj izvedbi!",
@@ -15,7 +40,7 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38574853_640.jpg"
     },
     {
-        "title": "‘Ma kakva mobilizacija, pišu se svakakve neistine.",
+        "title": "‘Ma kakva mobilizacija, pišu se svakakve neistine‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-medjunarodni/tractor-osmina-finala-jeddah-drozdek-shabab-iran-primirje-afc-15697489",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_38713347_640.jpg"
     },
@@ -25,7 +50,32 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38726539_640.jpg"
     },
     {
-        "title": "INTERESA JE BILO Modrić je mogao završiti na skroz drugom kraju Europe, a za to bi bio zaslužan Ancelottijev sin",
+        "title": "‘Pogodilo me, dugo se nismo čuli.",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/slaven-bilic-o-srecku-bogdanu-mentor-koji-mu-je-otvorio-vrata-karlsruhea-15696988",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_37896509_640.jpg"
+    },
+    {
+        "title": "Šok u Hebrangovoj Raspad sustava u hrvatskom klubu koji puca na prvo mjesto!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/strajk-samobora-pobuna-igraca-kozul-smjene-derbi-inker-vojvoda-15697336",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_37021430_640.jpg"
+    },
+    {
+        "title": "MAKSIMIRSKA ČISTKA Šestorica napustila Dinamo, samo jedan profitirao!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/transferi/dinamo-zimski-odlasci-ljubicic-jedini-dobitnik-ostali-bez-iskoraka-15697168",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/07/k_38226734_640.jpg"
+    },
+    {
+        "title": "UOPĆE NEMA DILEME Gorica je teško oštećena, a ovakvom Dinamu sudačka pomoć zaista nije potrebna!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/gorica/dinamo-preokrenuo-goricu-6-3-sudacke-kontroverze-polufinale-hrvatski-kup-15697229",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38715379_640.jpg"
+    },
+    {
+        "title": "‘Stalno slušam gdje će Hajduk‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/poljud-rasprava-sanacija-ili-novi-stadion-sigurnost-krov-brodarica-split-15697070",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38718644_640.jpg"
+    },
+    {
+        "title": "INTERESA JE BILO Modrić je mogao završiti na skroz drugom kraju Europe, a za to bi bio zaslužan Ancelottijev sin 36-godišnji Talijan bio je u pregovorima za mjesto glavnog trenera Rangersa te su oni prošli jako pozitivno, ali posao na kraju nije dobio",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-medjunarodni/modric-je-mogao-zavrsiti-na-skroz-drugom-kraju-europe-a-za-to-bi-bio-zasluzan-ancelottijev-sin-15697488",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_36614133_640.jpg"
     },
@@ -48,55 +98,5 @@
         "title": "GDJE JE BIO LIVAJA?",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/livaja-dominacija-garcia-priznanje-hajduk-pula-istra-1961-poljud-15697367",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38608580_640.jpg"
-    },
-    {
-        "title": "‘Pogodilo me, dugo se nismo čuli.",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/slaven-bilic-o-srecku-bogdanu-mentor-koji-mu-je-otvorio-vrata-karlsruhea-15696988",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_37896509_640.jpg"
-    },
-    {
-        "title": "MAKSIMIRSKA ČISTKA Šestorica napustila Dinamo, samo jedan profitirao!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/transferi/dinamo-zimski-odlasci-ljubicic-jedini-dobitnik-ostali-bez-iskoraka-15697168",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/07/k_38226734_640.jpg"
-    },
-    {
-        "title": "UOPĆE NEMA DILEME Gorica je teško oštećena, a ovakvom Dinamu sudačka pomoć zaista nije potrebna!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/gorica/dinamo-preokrenuo-goricu-6-3-sudacke-kontroverze-polufinale-hrvatski-kup-15697229",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38715379_640.jpg"
-    },
-    {
-        "title": "‘Stalno slušam gdje će Hajduk‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/poljud-rasprava-sanacija-ili-novi-stadion-sigurnost-krov-brodarica-split-15697070",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38718644_640.jpg"
-    },
-    {
-        "title": "KAPA DO PODA Dinamo je dobio lidera nove ere!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/miha-zajc-voda-dinama-preokret-maksimir-serija-bez-poraza-15697278",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38715472_640.jpg"
-    },
-    {
-        "title": "IZAZVALI BIJES NAVIJAČA Klub bivšeg dinamovca čestitao BiH na pobjedi, ali izbrisali zastavu s ljiljanima!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-medjunarodni/pafos-uklonio-ljiljane-s-fotografije-izazvao-bijes-navijaca-bih-15697401",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38675043_640.jpg"
-    },
-    {
-        "title": "‘Sve je išlo kao po loju, na kraju 3:0, jednostavno nevjerojatno!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/europska-liga/freiburg-pregazio-celtu-3-0-matanovic-blista-put-prema-polufinalu-15697359",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38595072_640.jpg"
-    },
-    {
-        "title": "‘CRNA MAČKA‘ Diego Simeone na korak do Alexa Fergusona i Arsenea Wengera, a malu zahvalu može poslati i",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-medjunarodni/simeone-preskace-barcelonu-atletico-prema-polufinalu-lige-prvaka-15697386",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38716031_640.jpg"
-    },
-    {
-        "title": "Vuškovićev nastup pod upitnikom uoči velikog okršaja",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bundesliga/hsv-vuskovic-upitan-stuttgart-obrana-bundesliga-ozljeda-15697370",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38493061_640.jpg"
-    },
-    {
-        "title": "Modriću bi moglo stići spektakularno pojačanje?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/transferi/lewandowski-ponuden-milanu-modric-liga-prvaka-juventus-transfer-bez-odstete-15697346",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38521867_640.jpg"
     }
 ]
