@@ -1,6 +1,11 @@
 [
     {
-        "title": "PREDSJEDNIČKI DODATAK Otkrivamo koliku će plaću Dominik Livaković imati u Dinamu, a jedna bi stvar bila ravna čudu Realno, ovoga trenutka nam se čini da je ostanak Livakovića u Dinamu pod dosta velikim upitnikom, da bi to mogla biti jako teška misija",
+        "title": "FANTASTIČAN USPON U Hrvatskoj su ga mnogi ismijavali, a sada je došao na prag najbogatije lige svijeta Sergej Jakirović je s Hullom na samo tri boda od drugog mjesta i izravnog ulaska u najbogatiju i najjaču ligu svijeta.",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-medjunarodni/sergej-jakirovic-nominiran-za-efl-trenera-sezone-s-hull-cityjem-15697685",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38281629_640.jpg"
+    },
+    {
+        "title": "PREDSJEDNIČKI DODATAK Otkrivamo koliku će plaću Dominik Livaković imati u Dinamu, a jedna bi stvar bila ravna čudu",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-odgadja-povratak-livakovica-nudi-milijun-eura-italija-zove-fener-ceka-izbore-15697651",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38675903_640.jpg"
     },
@@ -13,6 +18,11 @@
         "title": "EMOCIJE NA VRHUNCU VIDEO Cijela dvorana u suzama!",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/basket-euroliga/partizan-oprostaj-dusko-vujosevic-deset-minuta-tisine-ruze-arena-15697673",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38729296_640.png"
+    },
+    {
+        "title": "U LOVU NA BODOVE Na Maksimiru s ‘dječjim vrtićem‘, trener zbog neslaganja odlučio važnog igrača staviti na ‘hlađenje‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/lokomotiva/lokomotiva-istgra-maksimir-jelavic-iera-mladi-ozljede-kljucni-dvoboj-15697681",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_37920926_640.jpg"
     },
     {
         "title": "ČAST NA ČEKANJU Hrvatski velikan zaslužio je puno više od ovoga!",
@@ -40,16 +50,6 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38710275_640.jpg"
     },
     {
-        "title": "Zvijezda kratko odlazi u drugu momčad, ali iza svega se krije dobar razlog",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-cardoso-varela-povratak-b-momcad-derbi-rijeka-minutaza-15697602",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_37811194_640.jpg"
-    },
-    {
-        "title": "‘Nisam ništa bolji od Tudora.",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/premiership/de-zerbi-preuzeo-tottenham-borba-za-ostanak-premier-liga-15697630",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38673068_640.jpg"
-    },
-    {
         "title": "‘Pogodilo me, dugo se nismo čuli.",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/slaven-bilic-o-srecku-bogdanu-mentor-koji-mu-je-otvorio-vrata-karlsruhea-15696988",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_37896509_640.jpg"
@@ -75,6 +75,16 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/07/k_38226734_640.jpg"
     },
     {
+        "title": "Zvijezda kratko odlazi u drugu momčad, ali iza svega se krije dobar razlog Portugalac je potpisao ugovor s Modrima, a poznato je i da je prilikom tog čina, potpisana i izlazna klauzula od pet milijuna",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-cardoso-varela-povratak-b-momcad-derbi-rijeka-minutaza-15697602",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_37811194_640.jpg"
+    },
+    {
+        "title": "‘Nisam ništa bolji od Tudora.",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/premiership/de-zerbi-preuzeo-tottenham-borba-za-ostanak-premier-liga-15697630",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38673068_640.jpg"
+    },
+    {
         "title": "‘STVAR SE ZATAŠKAVA‘ Nacija u šoku!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/mircea-lucescu-preminuo-leukemija-35-trofeja-rumunjska-sprovod-bukurest-15697561",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_37974499_640.jpg"
@@ -88,15 +98,5 @@
         "title": "NOVI PUT U Grčkoj se postavlja temelj za vaterpolsko ‘zdanje‘ koje bi trebalo zablistati u Kaliforniji 2028.",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vaterpolo/vaterpolo-ostalo/u-grckoj-se-postavlja-temelj-za-vaterpolsko-zdanje-koje-bi-trebalo-zablistati-u-kaliforniji-2028-15697638",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38726023_640.jpg"
-    },
-    {
-        "title": "ULAZNICE ZA SP FIFA šokirala cijenama i ‘deložacijom‘ ljudi, Hrvati pohrilili, evo koliko je bilo zahtjeva za Englesku",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/fifa-cijene-ulaznica-navijaci-prevara-prva-kategorija-vip-hrvatska-rekord-15697622",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_36969057_640.jpg"
-    },
-    {
-        "title": "BROJNA POZNATA IMENA FOTO Posljednji ispraćaj Srećka Bogdana, pogledajte tko se sve oprostio od nogometne legende",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/oprostaj-srecka-bogdana-mursko-sredisce-komemoracija-sprovod-15697607",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38727487_640.jpg"
     }
 ]
