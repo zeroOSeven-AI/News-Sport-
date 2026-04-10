@@ -1,13 +1,18 @@
 [
     {
-        "title": "‘Ovo je najveća utakmica moje karijere, nisam razmišljao o odlasku‘ Sučić puno očekuje od finala španjolskog Kupa koje se igra 18.",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/vatreni-ponovno-u-prvom-planu-ovo-je-najveca-utakmica-moje-karijere-nisam-razmisljao-o-odlasku-15697577",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38604235_640.jpg"
+        "title": "Zvijezda kratko odlazi u drugu momčad, ali iza svega se krije dobar razlog Portugalac je potpisao ugovor s Modrima, a poznato je i da je prilikom tog čina, potpisana i izlazna klauzula od pet milijuna",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-cardoso-varela-povratak-b-momcad-derbi-rijeka-minutaza-15697602",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_37811194_640.jpg"
     },
     {
         "title": "‘STVAR SE ZATAŠKAVA‘ Nacija u šoku!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/mircea-lucescu-preminuo-leukemija-35-trofeja-rumunjska-sprovod-bukurest-15697561",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_37974499_640.jpg"
+    },
+    {
+        "title": "BROJNA POZNATA IMENA FOTO Posljednji ispraćaj Srećka Bogdana, pogledajte tko se sve oprostio od nogometne legende",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/oprostaj-srecka-bogdana-mursko-sredisce-komemoracija-sprovod-15697607",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38727487_640.jpg"
     },
     {
         "title": "KAKO STVARI STOJE Veliko iznenađenje u BiH nakon senzacije!",
@@ -25,6 +30,11 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38715580_640.jpg"
     },
     {
+        "title": "‘Ovo je najveća utakmica moje karijere, nisam razmišljao o odlasku‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/vatreni-ponovno-u-prvom-planu-ovo-je-najveca-utakmica-moje-karijere-nisam-razmisljao-o-odlasku-15697577",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38604235_640.jpg"
+    },
+    {
         "title": "ODLAZI I TRENER?",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-medjunarodni/liverpool-egzodus-robertson-odlazi-konate-produzenje-slot-pod-znakom-pitanja-15697542",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_29172289_640.jpg"
@@ -38,16 +48,6 @@
         "title": "Sportsko jutro Projektant Poljuda danas bi izgubio licencu, a Hajduk gubi možda i 10 milijuna eura godišnje",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/sportsko-jutro-poljud-novi-stadion-kamp-stobrec-boban-beljo-15697436",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38574853_640.jpg"
-    },
-    {
-        "title": "‘Ma kakva mobilizacija, pišu se svakakve neistine‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-medjunarodni/tractor-osmina-finala-jeddah-drozdek-shabab-iran-primirje-afc-15697489",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_38713347_640.jpg"
-    },
-    {
-        "title": "‘Daj mi svoj broj, ako želiš‘",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/basket-euroliga/video-razgovor-srpske-legende-s-voditeljicom-zapalio-internet-daj-mi-svoj-broj-ako-zelis-15697513",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38726539_640.jpg"
     },
     {
         "title": "‘Pogodilo me, dugo se nismo čuli.",
@@ -75,7 +75,17 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38718644_640.jpg"
     },
     {
-        "title": "INTERESA JE BILO Modrić je mogao završiti na skroz drugom kraju Europe, a za to bi bio zaslužan Ancelottijev sin 36-godišnji Talijan bio je u pregovorima za mjesto glavnog trenera Rangersa te su oni prošli jako pozitivno, ali posao na kraju nije dobio",
+        "title": "‘Ma kakva mobilizacija, pišu se svakakve neistine‘ ‘Najgore je bilo u Teheranu, ali i Tabriz, iz kojeg dolazi moj klub Tractor, nije prošao neokrznut.",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-medjunarodni/tractor-osmina-finala-jeddah-drozdek-shabab-iran-primirje-afc-15697489",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_38713347_640.jpg"
+    },
+    {
+        "title": "‘Daj mi svoj broj, ako želiš‘",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/basket-euroliga/video-razgovor-srpske-legende-s-voditeljicom-zapalio-internet-daj-mi-svoj-broj-ako-zelis-15697513",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38726539_640.jpg"
+    },
+    {
+        "title": "INTERESA JE BILO Modrić je mogao završiti na skroz drugom kraju Europe, a za to bi bio zaslužan Ancelottijev sin",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-medjunarodni/modric-je-mogao-zavrsiti-na-skroz-drugom-kraju-europe-a-za-to-bi-bio-zasluzan-ancelottijev-sin-15697488",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_36614133_640.jpg"
     },
@@ -88,15 +98,5 @@
         "title": "WRC Croatia Rally VIDEO Nova izlijetanja!",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/automoto/automoto-domaci/wrc-croatia-evans-vodi-solberg-izletio-istria-otvaranje-15697469",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38725837_640.png"
-    },
-    {
-        "title": "Pa on već vrijedi 15 milijuna eura, a priča o pozivu na SP nije točna!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-beljo-stojkovic-trzisna-vrijednost-lakic-transferi-cies-15697331",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38715649_640.jpg"
-    },
-    {
-        "title": "GDJE JE BIO LIVAJA?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/livaja-dominacija-garcia-priznanje-hajduk-pula-istra-1961-poljud-15697367",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38608580_640.jpg"
     }
 ]
