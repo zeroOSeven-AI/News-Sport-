@@ -1,1 +1,182 @@
-[]
+[
+    {
+        "title": "Ein Herz für Kinder",
+        "link": "https://www.bild.de/news/einherzfuerkinder/ein-herz-fuer-kinder/home-15682108.bild.html",
+        "image": "",
+        "source_title1": "BILD",
+        "source_title2": "SPORT",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Der Tag bei BILD",
+        "link": "https://www.bild.de/schlagzeilen-des-tages/ateaserseite/der-tag-bei-bild/ateaserseite-15480098.bild.html",
+        "image": "",
+        "source_title1": "BILD",
+        "source_title2": "SPORT",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Kommentare und Kolumnen",
+        "link": "https://www.bild.de/home/hot-on-bild/bild-kommentar/kommentare-meinungen-und-kolumnen-zu-aktuellen-themen-35874522.bild.html",
+        "image": "",
+        "source_title1": "BILD",
+        "source_title2": "SPORT",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Bundesliga-Highlights",
+        "link": "https://www.bild.de/video/mediathek/1-bundesliga/alle-spielberichte-44719968.bild.html",
+        "image": "",
+        "source_title1": "BILD",
+        "source_title2": "SPORT",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Champions League",
+        "link": "https://www.bild.de/sport/fussball/champions-league/home-15770784.bild.html",
+        "image": "",
+        "source_title1": "BILD",
+        "source_title2": "SPORT",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Nationalmannschaft",
+        "link": "https://www.bild.de/sport/fussball/nationalmannschaft/home-15770882.bild.html",
+        "image": "",
+        "source_title1": "BILD",
+        "source_title2": "SPORT",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Bayer Leverkusen",
+        "link": "https://www.bild.de/sport/fussball/bayer-leverkusen/startseite-leverkusen-31074446.bild.html",
+        "image": "https://a.bildstatic.de/assets/club-leverkusen-LGPu0a-W.svg",
+        "source_title1": "BILD",
+        "source_title2": "SPORT",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Eintracht Frankfurt",
+        "link": "https://www.bild.de/sport/fussball/eintracht-frankfurt/startseite-eintracht-frankfurt-31074444.bild.html",
+        "image": "https://a.bildstatic.de/assets/club-frankfurt-CaFLT52N.svg",
+        "source_title1": "BILD",
+        "source_title2": "SPORT",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Borussia Dortmund",
+        "link": "https://www.bild.de/sport/fussball/borussia-dortmund/startseite-bvb-31074434.bild.html",
+        "image": "https://a.bildstatic.de/assets/club-dortmund-KSWPlZ4u.svg",
+        "source_title1": "BILD",
+        "source_title2": "SPORT",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "1. FSV Mainz 05",
+        "link": "https://www.bild.de/sport/fussball/mainz-05/startseite-mainz-31074438.bild.html",
+        "image": "https://a.bildstatic.de/assets/club-mainz-ChT27_SA.svg",
+        "source_title1": "BILD",
+        "source_title2": "SPORT",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Bor. Mönchengladbach",
+        "link": "https://www.bild.de/sport/fussball/borussia-moenchengladbach/startseite-gladbach-31074418.bild.html",
+        "image": "https://a.bildstatic.de/assets/club-moenchengladbach-D5t7xo4j.svg",
+        "source_title1": "BILD",
+        "source_title2": "SPORT",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "1. FC Union Berlin",
+        "link": "https://www.bild.de/sport/fussball/union-berlin/startseite-union-31148690.bild.html",
+        "image": "https://a.bildstatic.de/assets/club-union_berlin-Bubfedf7.svg",
+        "source_title1": "BILD",
+        "source_title2": "SPORT",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "1899 Hoffenheim",
+        "link": "https://www.bild.de/sport/fussball/hoffenheim/startseite-hoffenheim-31074440.bild.html",
+        "image": "https://a.bildstatic.de/assets/club-hoffenheim-BTGhqKWz.svg",
+        "source_title1": "BILD",
+        "source_title2": "SPORT",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "1. FC Heidenheim",
+        "link": "https://www.bild.de/sport/fussball/1-fc-heidenheim/startseite-heidenheim-31148890.bild.html",
+        "image": "https://a.bildstatic.de/assets/club-heidenheim-lzpIRfOP.svg",
+        "source_title1": "BILD",
+        "source_title2": "SPORT",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "SV 07 Elversberg",
+        "link": "https://www.bild.de/sport/fussball/sv-elversberg/startseite-elversberg-84236332.bild.html",
+        "image": "https://a.bildstatic.de/assets/club-elversberg-BIy1kUbu.svg",
+        "source_title1": "BILD",
+        "source_title2": "SPORT",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "SC Paderborn 07",
+        "link": "https://www.bild.de/sport/fussball/sc-paderborn/startseite-paderborn-31148730.bild.html",
+        "image": "https://a.bildstatic.de/assets/club-paderborn-g0D62eC7.svg",
+        "source_title1": "BILD",
+        "source_title2": "SPORT",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "1. FC Magdeburg",
+        "link": "https://www.bild.de/sport/fussball/1-fc-magdeburg/startseite-magdeburg-55900784.bild.html",
+        "image": "https://a.bildstatic.de/assets/club-magdeburg-CU79JSWc.svg",
+        "source_title1": "BILD",
+        "source_title2": "SPORT",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Fortuna Düsseldorf",
+        "link": "https://www.bild.de/sport/fussball/fortuna-duesseldorf/startseite-duesseldorf-31148850.bild.html",
+        "image": "https://a.bildstatic.de/assets/club-duesseldorf-BIhmqzLu.svg",
+        "source_title1": "BILD",
+        "source_title2": "SPORT",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "1. FC Kaiserslautern",
+        "link": "https://www.bild.de/sport/fussball/fc-kaiserslautern/startseite-kaiserslautern-31148622.bild.html",
+        "image": "https://a.bildstatic.de/assets/club-kaiserslautern-CuYZC2Nb.svg",
+        "source_title1": "BILD",
+        "source_title2": "SPORT",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "SV Darmstadt 98",
+        "link": "https://www.bild.de/sport/fussball/sv-darmstadt-98/startseite-darmstadt-31148930.bild.html",
+        "image": "https://a.bildstatic.de/assets/club-darmstadt-BX-Ul7NB.svg",
+        "source_title1": "BILD",
+        "source_title2": "SPORT",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    }
+]
