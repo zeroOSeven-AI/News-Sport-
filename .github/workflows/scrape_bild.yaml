@@ -1,14 +1,14 @@
-name: Update Bild Sport
+name: Update BILD Sport
 on:
   schedule:
-    - cron: '*/32 * * * *' # Svakih 30 minuta
-  workflow_dispatch: # Omogućuje ručno pokretanje
+    - cron: '*/28 * * * *' # Svakih 30 minuta
+  workflow_dispatch: # Omogućuje ručno pokretanje po potrebi
 
 jobs:
   scrape_job:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # KLJUČNO: Daje akciji dozvolu da zapiše file u repo
+      contents: write # Dozvola za pisanje u tvoj repozitorij
     
     steps:
       - name: Checkout repo
@@ -25,7 +25,7 @@ jobs:
           playwright install chromium
 
       - name: Run scraper
-        run: python scraper_bild.py
+        run: python scraper_bild.py  # Pazi da se tvoj Python file točno ovako zove
 
       - name: Commit and Push
         run: |
@@ -33,11 +33,11 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Provjeravamo postoji li bild.json (tako ga tvoj Python kod sada sprema)
+          # Provjeravamo postoji li bild.json (koji generira tvoj Python kod)
           if [ -f bild.json ]; then
             git add bild.json
-            # Commitaj samo ako ima promjena, inače nemoj srušiti workflow
-            git commit -m "Automated Bild update" || echo "Nema novih promjena"
+            # Commitaj samo ako ima stvarnih promjena u vijestima
+            git commit -m "Automated BILD update" || echo "Nema novih promjena"
             git push
           else
             echo "Greška: bild.json nije pronađen!"
