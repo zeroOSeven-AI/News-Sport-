@@ -10,14 +10,29 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38536519_640.png"
     },
     {
-        "title": "‘Svašta se priča po gradu, na njega ne treba trošiti riječ‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/rijeka/djalovic-otkriva-miskovic-stopirao-transfer-frigana-rijeka-zaradila-vise-15697660",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_37297600_640.jpg"
+        "title": "EMOCIJE NA VRHUNCU VIDEO Cijela dvorana u suzama!",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/basket-euroliga/partizan-oprostaj-dusko-vujosevic-deset-minuta-tisine-ruze-arena-15697673",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38729296_640.png"
+    },
+    {
+        "title": "ČAST NA ČEKANJU Hrvatski velikan zaslužio je puno više od ovoga!",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/split-odgoda-sportski-centar-gripe-bez-imena-petra-skansija-15697666",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_24309965_640.jpg"
     },
     {
         "title": "‘Ovo je zapravo neka šala!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/nikeovi-dresovi-izbocena-ramena-problematican-sav-navijaci-reakcije-15697634",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38664002_640.jpg"
+    },
+    {
+        "title": "STUDENTI MILIJUNAŠI Roko Prkačin postaje brucoš, napunit će džepove do vrha i u najgorem slučaju vratiti se u Europu",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/basket-international/roko-prkacin-penn-state-nil-milijuni-ncaa-hrvatski-kosarkasi-15697672",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_30093891_640.jpg"
+    },
+    {
+        "title": "‘Svašta se priča po gradu, na njega ne treba trošiti riječ‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/rijeka/djalovic-otkriva-miskovic-stopirao-transfer-frigana-rijeka-zaradila-vise-15697660",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_37297600_640.jpg"
     },
     {
         "title": "CIJENJEN U MADRIDU Real sprema nešto posebno, Perez više neće čekati!",
@@ -33,21 +48,6 @@
         "title": "‘Nisam ništa bolji od Tudora.",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/premiership/de-zerbi-preuzeo-tottenham-borba-za-ostanak-premier-liga-15697630",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38673068_640.jpg"
-    },
-    {
-        "title": "‘STVAR SE ZATAŠKAVA‘ Nacija u šoku!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/mircea-lucescu-preminuo-leukemija-35-trofeja-rumunjska-sprovod-bukurest-15697561",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_37974499_640.jpg"
-    },
-    {
-        "title": "VATRENI U EUROPI Matanović s Freiburgom piše povijest, Pongračića muči stražnja loža i upitan je za sudar s Lazijom",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/konferencijska-liga/povijesni-tjedan-bundeslige-bayern-freiburg-mainz-pobjede-matanovic-asistencija-15697647",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38726613_640.jpg"
-    },
-    {
-        "title": "NOVI PUT U Grčkoj se postavlja temelj za vaterpolsko ‘zdanje‘ koje bi trebalo zablistati u Kaliforniji 2028.",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vaterpolo/vaterpolo-ostalo/u-grckoj-se-postavlja-temelj-za-vaterpolsko-zdanje-koje-bi-trebalo-zablistati-u-kaliforniji-2028-15697638",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38726023_640.jpg"
     },
     {
         "title": "‘Pogodilo me, dugo se nismo čuli.",
@@ -75,7 +75,22 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/07/k_38226734_640.jpg"
     },
     {
-        "title": "ULAZNICE ZA SP FIFA šokirala cijenama i ‘deložacijom‘ ljudi, Hrvati pohrilili, evo koliko je bilo zahtjeva za Englesku Pojedini hrvatski navijači odustali su shvativši da ulaznica u Dallasu za prvu kategoriju sada košta oko tri tisuće eura",
+        "title": "‘STVAR SE ZATAŠKAVA‘ Nacija u šoku!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/mircea-lucescu-preminuo-leukemija-35-trofeja-rumunjska-sprovod-bukurest-15697561",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_37974499_640.jpg"
+    },
+    {
+        "title": "VATRENI U EUROPI Matanović s Freiburgom piše povijest, Pongračića muči stražnja loža i upitan je za sudar s Lazijom",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/konferencijska-liga/povijesni-tjedan-bundeslige-bayern-freiburg-mainz-pobjede-matanovic-asistencija-15697647",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38726613_640.jpg"
+    },
+    {
+        "title": "NOVI PUT U Grčkoj se postavlja temelj za vaterpolsko ‘zdanje‘ koje bi trebalo zablistati u Kaliforniji 2028.",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vaterpolo/vaterpolo-ostalo/u-grckoj-se-postavlja-temelj-za-vaterpolsko-zdanje-koje-bi-trebalo-zablistati-u-kaliforniji-2028-15697638",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38726023_640.jpg"
+    },
+    {
+        "title": "ULAZNICE ZA SP FIFA šokirala cijenama i ‘deložacijom‘ ljudi, Hrvati pohrilili, evo koliko je bilo zahtjeva za Englesku",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/fifa-cijene-ulaznica-navijaci-prevara-prva-kategorija-vip-hrvatska-rekord-15697622",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_36969057_640.jpg"
     },
@@ -83,20 +98,5 @@
         "title": "BROJNA POZNATA IMENA FOTO Posljednji ispraćaj Srećka Bogdana, pogledajte tko se sve oprostio od nogometne legende",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/oprostaj-srecka-bogdana-mursko-sredisce-komemoracija-sprovod-15697607",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38727487_640.jpg"
-    },
-    {
-        "title": "KAKO STVARI STOJE Veliko iznenađenje u BiH nakon senzacije!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/bih-mundijal-arena-sport-bht-bez-prijenosa-utakmica-15697595",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38675017_640.jpg"
-    },
-    {
-        "title": "PO IZBORU UEFA-E Sjajna partija Stanišića protiv Reala dovoljna za veliko priznanje!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/liga-prvaka/stanisic-uefa-momcad-tjedna-bayern-real-madrid-bernabeu-15697619",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38703889_640.jpg"
-    },
-    {
-        "title": "Pozlilo mu je na treningu, u bolnici su bili bespomoćni",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/preminuo-jacek-magiera-iznenadna-smrt-poljska-nogomet-legia-15697584",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38727249_640.jpg"
     }
 ]
