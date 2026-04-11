@@ -1,8 +1,17 @@
 [
     {
-        "title": "Is failing to qualify for the Champions League actually better for Premier League teams?",
-        "link": "https://www.espn.com/soccer/story/_/id/48439510/why-missing-champions-league-boost-premier-league-teams-data-shows",
-        "image": "https://a.espncdn.com/photo/2026/0409/r1640975_1296x729_16-9.jpg",
+        "title": "A big summer awaits Manchester United, where transfers take priority",
+        "link": "https://www.espn.com/soccer/story/_/id/48450525/a-big-summer-awaits-man-united-where-transfers-take-priority",
+        "image": "https://a.espncdn.com/photo/2026/0410/r1641576_1296x729_16-9.jpg",
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Maguire's Man United turnaround: 'It's made me stronger'",
+        "link": "https://www.espn.com/soccer/story/_/id/48435153/from-man-united-lows-england-boos-new-deal-why-harry-maguire-feels-back",
+        "image": "https://a.espncdn.com/photo/2026/0304/r1623054_1296x729_16-9.jpg",
         "source_title1": "ESPN",
         "source_title2": "FOOTBALL",
         "source_color": "#ff0021",
@@ -36,6 +45,33 @@
         "flag": "🇺🇸"
     },
     {
+        "title": "DOES EUROPE HELP OR HINDER?",
+        "link": "https://www.espn.com/soccer/story/_/id/48439510/why-missing-champions-league-boost-premier-league-teams-data-shows",
+        "image": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F23.png&w=80&h=80&scale=crop&cquality=80&location=origin",
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Is failing to qualify for the Champions League actually better for Premier League teams?",
+        "link": "https://www.espn.com/soccer/story/_/id/48439510/why-missing-champions-league-boost-premier-league-teams-data-shows",
+        "image": "https://a.espncdn.com/photo/2026/0409/r1640975_1296x729_16-9.jpg",
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Transfer rumors, news: Arsenal eye summer move for Newcastle's Gordon",
+        "link": "https://www.espn.com/soccer/story/_/id/48454582/transfer-rumors-news-arsenal-eyeing-newcastle-united-winger-anthony-gordon",
+        "image": "https://a.espncdn.com/photo/2026/0411/r1641783_1296x729_16-9.jpg",
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
         "title": "BAYERN'S TREBLE CHANCE",
         "link": "https://www.espn.com/soccer/story/_/id/48430373/this-bayern-special-force-reckoned-germany-europe",
         "image": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fsoccer%2F500%2F132.png&w=80&h=80&scale=crop&cquality=80&location=origin",
@@ -54,15 +90,6 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Transfer rumors, news: Real Madrid continue to eye move for Olise",
-        "link": "https://www.espn.com/soccer/story/_/id/48445152/transfer-rumors-news-arsenal-look-raise-100m-double-exit",
-        "image": "https://a.espncdn.com/photo/2026/0410/r1641602_1296x729_16-9.jpg",
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
         "title": "Why are some LaLiga clubs wearing retro kits this weekend?",
         "link": "https://www.espn.com/soccer/story/_/id/48268121/laliga-reveals-throwback-kits-teams-wear-retro-matchday",
         "image": "https://a.espncdn.com/photo/2026/0321/r1631700_1296x729_16-9.jpg",
@@ -74,7 +101,7 @@
     {
         "title": "DRONES, HYPE VIDEOS, DATA",
         "link": "https://www.espn.com/soccer/story/_/id/48412954/drones-hype-videos-data-number-crunchers-usmnt-fifa-world-cup-preparations",
-        "image": "https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fcountries%2F500%2Fusa.png&w=80&h=80&scale=crop&cquality=80&location=origin",
+        "image": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/usa.png&w=80&h=80&transparent=true",
         "source_title1": "ESPN",
         "source_title2": "FOOTBALL",
         "source_color": "#ff0021",
@@ -83,7 +110,7 @@
     {
         "title": "The number crunchers behind the USMNT's World Cup prep",
         "link": "https://www.espn.com/soccer/story/_/id/48412954/drones-hype-videos-data-number-crunchers-usmnt-fifa-world-cup-preparations",
-        "image": "https://a.espncdn.com/photo/2026/0407/r1639844_1296x729_16-9.jpg",
+        "image": "https://a.espncdn.com/photo/2026/0407/r1639844_1296x518_5-2.jpg",
         "source_title1": "ESPN",
         "source_title2": "FOOTBALL",
         "source_color": "#ff0021",
@@ -102,33 +129,6 @@
         "title": "Nervousness and hope: How players really approach a relegation battle",
         "link": "https://www.espn.com/soccer/story/_/id/48436617/how-players-really-approach-premier-league-relegation-battle",
         "image": "https://a.espncdn.com/photo/2026/0409/r1640841_1296x518_5-2.jpg",
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Maguire's Man United turnaround: 'It's made me stronger'",
-        "link": "https://www.espn.com/soccer/story/_/id/48435153/from-man-united-lows-england-boos-new-deal-why-harry-maguire-feels-back",
-        "image": "https://a.espncdn.com/photo/2026/0304/r1623054_1296x729_16-9.jpg",
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "LONG-TERM GOALS",
-        "link": "https://www.espn.com/soccer/story/_/id/48424472/key-uswnt-questions-answer-world-cup-coach-emma-hayes",
-        "image": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Make-or-break questions the USWNT must answer before next year's World Cup",
-        "link": "https://www.espn.com/soccer/story/_/id/48424472/key-uswnt-questions-answer-world-cup-coach-emma-hayes",
-        "image": "https://a.espncdn.com/photo/2026/0408/r1640152_1296x518_5-2.jpg",
         "source_title1": "ESPN",
         "source_title2": "FOOTBALL",
         "source_color": "#ff0021",
