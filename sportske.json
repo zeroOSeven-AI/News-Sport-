@@ -1,5 +1,10 @@
 [
     {
+        "title": "‘Pobunjenici‘ diverzijom vratili smijenjenog trenera!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/pobuna-igraca-samobor-vratio-smijenjenog-trenera-poraz-od-inkera-0-2-15697920",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38601050_640.jpg"
+    },
+    {
         "title": "Neka su nam zviždali!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/serie-a/video-cijeli-san-siro-okrenuo-palac-dolje-hit-igracu-milana-trener-porucio-neka-su-nam-zvizdali-15697906",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38734051_640.jpg"
@@ -45,11 +50,6 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38734915_640.jpg"
     },
     {
-        "title": "SVEMU DOĐE KRAJ Hit-momčad hrvatske druge lige doživjela težak poraz nakon osam uzastopnih pobjeda",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/druga-hnl/sesvete-dozivjele-tezak-poraz-nakon-osam-uzastopnih-pobjeda-15697897",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38419621_640.jpg"
-    },
-    {
         "title": "‘Za to nismo nadležni‘ Grad odlučuje, navijači žele tradiciju, a sponzori čekaju svoju priliku.",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/novi-stadion-kranjceviceva-ime-odlucuje-grad-maksimir-tradicija-sponzor-15697627",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38536519_640.png"
@@ -75,7 +75,12 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_37974499_640.jpg"
     },
     {
-        "title": "croatia rally Probušene gume darovale Neuvilleu vodstvo i ogromnu prednost Samo nevjerojatan peh može spriječiti svjetskog prvaka iz 2024.",
+        "title": "SVEMU DOĐE KRAJ Hit-momčad hrvatske druge lige doživjela težak poraz nakon osam uzastopnih pobjeda Domaćini su do 64.",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/druga-hnl/sesvete-dozivjele-tezak-poraz-nakon-osam-uzastopnih-pobjeda-15697897",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38419621_640.jpg"
+    },
+    {
+        "title": "croatia rally Probušene gume darovale Neuvilleu vodstvo i ogromnu prednost",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/automoto/automoto-domaci/probusene-gume-darovale-neuvilleu-vodstvo-i-ogromnu-prednost-15697898",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38732921_640.jpg"
     },
@@ -93,10 +98,5 @@
         "title": "MAJSTORIJA NA MAKSIMIRU Pogledajte jedan od najljepših golova cijele sezone SHNL-a, Lokosi s igračem manje sačuvali pobjedu!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/lokomotiva/pogledajte-jedan-od-najljepsih-golova-cijele-sezone-shnl-a-lokosi-s-igracem-manje-sacuvali-pobjedu-15697823",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38733017_640.jpg"
-    },
-    {
-        "title": "Kapetan golčinom rastužio Kovača!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bundesliga/bayer-pobijedio-borussiju-dortmund-1-0-andrich-za-skok-na-peto-mjesto-15697859",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38732949_640.jpg"
     }
 ]
