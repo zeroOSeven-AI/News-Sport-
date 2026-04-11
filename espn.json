@@ -72,6 +72,15 @@
         "flag": "🇺🇸"
     },
     {
+        "title": "GLOBAL SOCCER SCOREBOARD",
+        "link": "https://www.espn.com/soccer/match/_/gameId/401840932",
+        "image": "https://a2.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Ficons%2FESPN%2Dicon%2Dsoccer.png&w=80&h=80&scale=crop&cquality=80&location=origin",
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
         "title": "Why are some LaLiga clubs wearing retro kits this weekend?",
         "link": "https://www.espn.com/soccer/story/_/id/48268121/laliga-reveals-throwback-kits-teams-wear-retro-matchday",
         "image": "https://a.espncdn.com/photo/2026/0321/r1631700_1296x729_16-9.jpg",
@@ -120,15 +129,6 @@
         "title": "Maguire's Man United turnaround: 'It's made me stronger'",
         "link": "https://www.espn.com/soccer/story/_/id/48435153/from-man-united-lows-england-boos-new-deal-why-harry-maguire-feels-back",
         "image": "https://a.espncdn.com/photo/2026/0304/r1623054_1296x729_16-9.jpg",
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "LONG-TERM GOALS",
-        "link": "https://www.espn.com/soccer/story/_/id/48424472/key-uswnt-questions-answer-world-cup-coach-emma-hayes",
-        "image": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
         "source_title1": "ESPN",
         "source_title2": "FOOTBALL",
         "source_color": "#ff0021",
