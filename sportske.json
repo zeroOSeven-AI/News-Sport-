@@ -1,11 +1,31 @@
 [
     {
-        "title": "ŠOK ZA NAVIJAČE Senzacionalni potop Milana!",
+        "title": "Senzacionalni potop Milana!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/serie-a/udinese-razbio-milan-3-0-kriza-produbljena-rivali-prijete-trecem-mjestu-15697882",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38569143_640.jpg"
     },
     {
-        "title": "Hrvat nominiran za trenera godine u tri minute ostao bez velikog plijena!",
+        "title": "‘ILUZIJA O LIGI PRVAKA‘ Talijanski mediji ‘pokopali‘ zvijezdu Milana, izviždala ga i publika, evo kako je prošao Modrić",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/serie-a/udinese-razbio-milan-3-0-kriza-rossonera-leao-pod-zvizducima-15697895",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38734326_640.jpg"
+    },
+    {
+        "title": "(PRE)ŽESTOKE KRITIKE?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/premiership/upaljeni-su-svi-alarmi-a-glavni-optuzeni-je-arteta-trener-nam-je-s-e-gotovo-je-prijatelju-15697879",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38732430_640.jpg"
+    },
+    {
+        "title": "Bayern sa Stanišićem ispisao povijest!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bundesliga/bayern-srusio-rekord-bundeslige-105-golova-razbio-st-pauli-5-0-15697893",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38734327_640.jpg"
+    },
+    {
+        "title": "IZ MINUTE U MINUTU UŽIVO Gorostas izveo show uoči ulaska u kavez, a onda slavio u teškom i iscrpljujućem ‘ratu‘",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/regija/uzivo-gorostas-izveo-show-uoci-ulaska-u-kavez-a-onda-slavio-u-teskom-i-iscrpljujucem-ratu-15697848",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38734362_640.png"
+    },
+    {
+        "title": "Hrvat nominiran za trenera godine u tri minute ostao bez velikog plijena",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/sheffield-united-preokrenuo-hull-crveni-karton-derbi-jakirovic-15697865",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38733620_640.jpg"
     },
@@ -15,9 +35,9 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38733849_640.jpg"
     },
     {
-        "title": "(PRE)ŽESTOKE KRITIKE?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/premiership/upaljeni-su-svi-alarmi-a-glavni-optuzeni-je-arteta-trener-nam-je-s-e-gotovo-je-prijatelju-15697879",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38732430_640.jpg"
+        "title": "POČETAK NOVE ERE?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ivan-bebek-var-svjetsko-prvenstvo-hrvatski-sudac-mundijal-2026-15697887",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_37177604_640.jpg"
     },
     {
         "title": "OKRŠAJ ‘UZ KAVICU‘ Igraju Hrvatska i Srbija, ali to ovoga puta neće biti ‘sudar svjetova‘!",
@@ -30,26 +50,6 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38733017_640.jpg"
     },
     {
-        "title": "Stiglo objašnjenje za jedan od najbizarnijih autogolova u Hrvatskoj",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/druga-hnl/dubrava-cibalia-2-2-matic-fair-play-autogol-janjis-gol-za-remi-15697861",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_37631385_640.jpg"
-    },
-    {
-        "title": "Prvaci iz 1986.",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-mix/utakmica-koju-pamti-cijela-jugoslavija-kako-je-zadar-u-majstorici-snova-srusio-mocnu-cibonu-15697850",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38726326_640.jpg"
-    },
-    {
-        "title": "IZ MINUTE U MINUTU UŽIVO Upravo je započeo spektakl u Ljubljani!",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/regija/uzivo-upravo-je-zapoceo-spektakl-u-ljubljani-fnc-29-otvoren-krvavom-borbom-slovenca-i-srbina-15697848",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38733193_640.jpg"
-    },
-    {
-        "title": "Kapetan golčinom rastužio Kovača!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bundesliga/bayer-pobijedio-borussiju-dortmund-1-0-andrich-za-skok-na-peto-mjesto-15697859",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38732949_640.jpg"
-    },
-    {
         "title": "‘Za to nismo nadležni‘ Grad odlučuje, navijači žele tradiciju, a sponzori čekaju svoju priliku.",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/novi-stadion-kranjceviceva-ime-odlucuje-grad-maksimir-tradicija-sponzor-15697627",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38536519_640.png"
@@ -60,14 +60,14 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_37021430_640.jpg"
     },
     {
-        "title": "Pa on već vrijedi 15 milijuna eura, a priča o pozivu na SP nije točna!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-beljo-stojkovic-trzisna-vrijednost-lakic-transferi-cies-15697331",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38715649_640.jpg"
-    },
-    {
         "title": "FANTASTIČAN USPON U Hrvatskoj su ga mnogi ismijavali, a sada je došao na prag najbogatije lige svijeta",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-medjunarodni/sergej-jakirovic-nominiran-za-efl-trenera-sezone-s-hull-cityjem-15697685",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38281629_640.jpg"
+    },
+    {
+        "title": "Pa on već vrijedi 15 milijuna eura, a priča o pozivu na SP nije točna!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-beljo-stojkovic-trzisna-vrijednost-lakic-transferi-cies-15697331",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38715649_640.jpg"
     },
     {
         "title": "‘STVAR SE ZATAŠKAVA‘ Nacija u šoku!",
@@ -75,28 +75,28 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_37974499_640.jpg"
     },
     {
+        "title": "Stiglo objašnjenje za jedan od najbizarnijih autogolova u Hrvatskoj Dubrava i Cibalia remizirali su nakon raritetne geste napadača koji je ispravio nesporazum autogolom",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/druga-hnl/dubrava-cibalia-2-2-matic-fair-play-autogol-janjis-gol-za-remi-15697861",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_37631385_640.jpg"
+    },
+    {
+        "title": "Deveta momčad lige srušila Arsenal i zakomplicirala utrku za naslov, slavi i Liverpool",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/premiership/bournemouth-sokirao-arsenal-2-1-na-emiratesu-premier-liga-15697833",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38732635_640.jpg"
+    },
+    {
+        "title": "Prvaci iz 1986.",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-mix/utakmica-koju-pamti-cijela-jugoslavija-kako-je-zadar-u-majstorici-snova-srusio-mocnu-cibonu-15697850",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38726326_640.jpg"
+    },
+    {
+        "title": "Kapetan golčinom rastužio Kovača!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bundesliga/bayer-pobijedio-borussiju-dortmund-1-0-andrich-za-skok-na-peto-mjesto-15697859",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38732949_640.jpg"
+    },
+    {
         "title": "Treba li se Dalić zabrinuti?",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/primera/autogol-calette-cara-i-gol-luke-sucica-ludi-pocetak-real-sociedad-alaves-15697816",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38732462_640.jpg"
-    },
-    {
-        "title": "ŠTO JE PRAVA ISTINA?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/premiership/guardiola-gvardiol-daleko-od-povratka-kovacic-sve-blize-15697843",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38121660_640.jpg"
-    },
-    {
-        "title": "Režirao kaos, pa s centra odveo loptu u vlastitu mrežu!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/druga-hnl/dubrava-cibalia-kaos-sporni-gol-autogol-ante-matica-fair-play-15697824",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38732678_640.png"
-    },
-    {
-        "title": "mario CAREVIĆ ‘Hajduk sad pokazuje ogromnu kvalitetu.",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/gorica-na-poljudu-carevic-trazi-iznenadenje-protiv-probudenog-hajduka-15697838",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_37303017_640.jpg"
-    },
-    {
-        "title": "Deveta momčad lige srušila Arsenal na Emiratesu i zakomplicirala utrku za naslov",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/premiership/bournemouth-sokirao-arsenal-2-1-na-emiratesu-premier-liga-15697833",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38732635_640.jpg"
     }
 ]
