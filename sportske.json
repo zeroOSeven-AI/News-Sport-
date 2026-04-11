@@ -5,6 +5,11 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38601050_640.jpg"
     },
     {
+        "title": "Ogroman šok u Stožicama!",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/regija/uzivo-ogroman-sok-u-stozicama-hrvatski-udarac-pretrpio-tezak-nokaut-i-ostao-bez-pojasa-15697848",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38735681_640.png"
+    },
+    {
         "title": "Neka su nam zviždali!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/serie-a/video-cijeli-san-siro-okrenuo-palac-dolje-hit-igracu-milana-trener-porucio-neka-su-nam-zvizdali-15697906",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38734051_640.jpg"
@@ -15,9 +20,19 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38734326_640.jpg"
     },
     {
+        "title": "POVRATAK JE REALNA OPCIJA ‘Mirko svaki dan trenira i vrhunski je spreman.",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/borilacki-sportovi/borilackisportovi-ostalo/mirko-svaki-dan-trenira-i-vrhunski-je-spreman-ne-bih-bio-u-kozi-onome-tko-mu-stane-nasuprot-15697924",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38373145_640.jpg"
+    },
+    {
         "title": "Igor Štimac došao na presicu, poljubio Cvitanovića u čelo i",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/najludi-kraj-derbija-igor-stimac-dosao-na-presicu-poljubio-cvitanovica-u-celo-i-otisao-15697908",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_37370284_640.jpg"
+    },
+    {
+        "title": "Hrvatski trener smijenjen nakon europskog poraza?",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/basket-euroliga/prosirila-se-neugodna-vijest-hrvatski-trener-smijenjen-nakon-europskog-poraza-15697922",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38729456_640.jpg"
     },
     {
         "title": "Tvornica talenta To mogu samo Hrvatska i Španjolska!",
@@ -35,34 +50,19 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38732430_640.jpg"
     },
     {
-        "title": "Bayern sa Stanišićem ispisao povijest!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bundesliga/bayern-srusio-rekord-bundeslige-105-golova-razbio-st-pauli-5-0-15697893",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38734327_640.jpg"
-    },
-    {
-        "title": "Utrpala četiri komada i pobjegla Realu u borbi za vrh",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/primera/barcelona-razbila-espanyol-4-1-torres-dvaput-yamal-rashford-povecala-prednost-15697903",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38733896_640.jpg"
-    },
-    {
-        "title": "FNC 29 SPEKTAKL UŽIVO Strašan nokaut hrvatskog udarača!",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/regija/uzivo-strasan-nokaut-hrvatskog-udaraca-snajperski-preciznim-hicem-brutalno-ugasio-protivnika-15697848",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38734915_640.jpg"
-    },
-    {
         "title": "‘Za to nismo nadležni‘ Grad odlučuje, navijači žele tradiciju, a sponzori čekaju svoju priliku.",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/novi-stadion-kranjceviceva-ime-odlucuje-grad-maksimir-tradicija-sponzor-15697627",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38536519_640.png"
     },
     {
-        "title": "Šok u Hebrangovoj Raspad sustava u hrvatskom klubu koji puca na prvo mjesto!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/strajk-samobora-pobuna-igraca-kozul-smjene-derbi-inker-vojvoda-15697336",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_37021430_640.jpg"
-    },
-    {
         "title": "FANTASTIČAN USPON U Hrvatskoj su ga mnogi ismijavali, a sada je došao na prag najbogatije lige svijeta",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-medjunarodni/sergej-jakirovic-nominiran-za-efl-trenera-sezone-s-hull-cityjem-15697685",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38281629_640.jpg"
+    },
+    {
+        "title": "Šok u Hebrangovoj Raspad sustava u hrvatskom klubu koji puca na prvo mjesto!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/strajk-samobora-pobuna-igraca-kozul-smjene-derbi-inker-vojvoda-15697336",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_37021430_640.jpg"
     },
     {
         "title": "Pa on već vrijedi 15 milijuna eura, a priča o pozivu na SP nije točna!",
@@ -75,14 +75,19 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_37974499_640.jpg"
     },
     {
-        "title": "SVEMU DOĐE KRAJ Hit-momčad hrvatske druge lige doživjela težak poraz nakon osam uzastopnih pobjeda Domaćini su do 64.",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/druga-hnl/sesvete-dozivjele-tezak-poraz-nakon-osam-uzastopnih-pobjeda-15697897",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38419621_640.jpg"
+        "title": "Bayern sa Stanišićem ispisao povijest!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bundesliga/bayern-srusio-rekord-bundeslige-105-golova-razbio-st-pauli-5-0-15697893",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38734327_640.jpg"
     },
     {
-        "title": "croatia rally Probušene gume darovale Neuvilleu vodstvo i ogromnu prednost",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/automoto/automoto-domaci/probusene-gume-darovale-neuvilleu-vodstvo-i-ogromnu-prednost-15697898",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38732921_640.jpg"
+        "title": "Utrpala četiri komada i pobjegla Realu u borbi za vrh",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/primera/barcelona-razbila-espanyol-4-1-torres-dvaput-yamal-rashford-povecala-prednost-15697903",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38733896_640.jpg"
+    },
+    {
+        "title": "SVEMU DOĐE KRAJ Hit-momčad hrvatske druge lige doživjela težak poraz nakon osam uzastopnih pobjeda",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/druga-hnl/sesvete-dozivjele-tezak-poraz-nakon-osam-uzastopnih-pobjeda-15697897",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38419621_640.jpg"
     },
     {
         "title": "Hrvat nominiran za trenera godine u tri minute ostao bez velikog plijena",
@@ -93,10 +98,5 @@
         "title": "Novopečeni mladi Vatreni ušao s klupe i u nadoknadi kreirao veliko slavlje",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/segecic-asistirao-u-97-minuti-portsmouth-sokirao-middlesbrough-15697869",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38733849_640.jpg"
-    },
-    {
-        "title": "MAJSTORIJA NA MAKSIMIRU Pogledajte jedan od najljepših golova cijele sezone SHNL-a, Lokosi s igračem manje sačuvali pobjedu!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/lokomotiva/pogledajte-jedan-od-najljepsih-golova-cijele-sezone-shnl-a-lokosi-s-igracem-manje-sacuvali-pobjedu-15697823",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38733017_640.jpg"
     }
 ]
