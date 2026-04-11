@@ -5,9 +5,24 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38733017_640.jpg"
     },
     {
+        "title": "Hrvat nominiran za trenera godine u tri minute ostao bez velikog plijena!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/sheffield-united-preokrenuo-hull-crveni-karton-derbi-jakirovic-15697865",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38733620_640.jpg"
+    },
+    {
+        "title": "To bi bio ružan, nepošten pogodak.",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/druga-hnl/dubrava-cibalia-2-2-matic-fair-play-autogol-janjis-gol-za-remi-15697861",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_37631385_640.jpg"
+    },
+    {
         "title": "Prvaci iz 1986.",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-mix/utakmica-koju-pamti-cijela-jugoslavija-kako-je-zadar-u-majstorici-snova-srusio-mocnu-cibonu-15697850",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38726326_640.jpg"
+    },
+    {
+        "title": "Kapetan golčinom rastužio Kovača!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bundesliga/bayer-pobijedio-borussiju-dortmund-1-0-andrich-za-skok-na-peto-mjesto-15697859",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38732949_640.jpg"
     },
     {
         "title": "Treba li se Dalić zabrinuti?",
@@ -25,7 +40,7 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38732678_640.png"
     },
     {
-        "title": "CAREVIĆEVA PRESICA ‘Hajduk sad pokazuje baš ogromnu kvalitetu.",
+        "title": "mario CAREVIĆ ‘Hajduk sad pokazuje ogromnu kvalitetu.",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/gorica-na-poljudu-carevic-trazi-iznenadenje-protiv-probudenog-hajduka-15697838",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_37303017_640.jpg"
     },
@@ -33,21 +48,6 @@
         "title": "‘Ima četiri šava na glavi, a za to nije dosuđen čak ni prekršaj!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/rijeka/sanchez-o-svom-adutu-ima-cetiri-sava-na-glavi-a-za-to-nije-dosuden-cak-ni-prekrsaj-15697839",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38433750_640.jpg"
-    },
-    {
-        "title": "Deveta momčad lige srušila Arsenal na Emiratesu i zakomplicirala utrku za naslov",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/premiership/bournemouth-sokirao-arsenal-2-1-na-emiratesu-premier-liga-15697833",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38732635_640.jpg"
-    },
-    {
-        "title": "GDJE JE ZAPELO?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-medjunarodni/dominik-prpic-bez-minuta-u-portu-farioli-ga-hvali-konkurencija-zaca-15697809",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38729239_640.jpg"
-    },
-    {
-        "title": "MOJA PRIČA ‘Zbog mene je u Jugoslavenskom savezu izbio rat.",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/basket-international/danko-cvjeticanin-cibona-1986-drazen-petrovic-sabonis-zalgiris-budimpesta-intervju-15697729",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_38731449_640.jpg"
     },
     {
         "title": "‘Za to nismo nadležni‘ Grad odlučuje, navijači žele tradiciju, a sponzori čekaju svoju priliku.",
@@ -75,7 +75,22 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_37974499_640.jpg"
     },
     {
-        "title": "KORAK DO NASLOVA Hrvatski tenisač u lovu na najveći uspjeh karijere, prvi put ušao u prestižno društvo Ovo je Prižmićevo prvo finale u ovoj godini, a ukupno sedmo na Challenger Touru, na kojem je u dosadašnjih šest mečeva za trofej triput pobijedio",
+        "title": "Deveta momčad lige srušila Arsenal na Emiratesu i zakomplicirala utrku za naslov Kroupi i Scott donijeli preokret gostima, dok je Gyoekeres kratko vratio domaće u egal s bijele točke",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/premiership/bournemouth-sokirao-arsenal-2-1-na-emiratesu-premier-liga-15697833",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38732635_640.jpg"
+    },
+    {
+        "title": "GDJE JE ZAPELO?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-medjunarodni/dominik-prpic-bez-minuta-u-portu-farioli-ga-hvali-konkurencija-zaca-15697809",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38729239_640.jpg"
+    },
+    {
+        "title": "MOJA PRIČA ‘Zbog mene je u Jugoslavenskom savezu izbio rat.",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/basket-international/danko-cvjeticanin-cibona-1986-drazen-petrovic-sabonis-zalgiris-budimpesta-intervju-15697729",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/08/k_38731449_640.jpg"
+    },
+    {
+        "title": "KORAK DO NASLOVA Hrvatski tenisač u lovu na najveći uspjeh karijere, prvi put ušao u prestižno društvo",
         "link": "https://sportske.jutarnji.hr/sportske/tenis/atp-wta-turniri/dino-prizmic-finale-monza-top-100-collignon-15697829",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38732734_640.jpg"
     },
@@ -83,20 +98,5 @@
         "title": "OGORČENI MADRIĐANI Dok sami sebi mažu oči, Real je blizu kraha.",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/liga-prvaka/real-madrid-kriza-remi-girona-var-arbeloa-bayern-barcelona-15697821",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38729879_640.jpg"
-    },
-    {
-        "title": "Igrači štrajkali pa trenirali bez trenera, održan i važan sastanak",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/kaos-u-hrvatskom-klubu-igraci-strajkali-pa-trenirali-bez-trenera-odrzan-i-vazan-sastanak-15697786",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38728833_640.jpg"
-    },
-    {
-        "title": "‘Svaka čast!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/split-odobrio-novi-stadion-na-brodarici-poljuda-u-sjeni-15697790",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38216481_640.jpg"
-    },
-    {
-        "title": "ZAVRŠNICE PRVENSTAVA Hajduk i Dinamo u borbi za dvije titule, odluka pada u derbijima?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/dinamo-hajduk-dvostruki-derbi-kadeti-pioniri-maksimir-vrh-prvenstva-15697805",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_36558401_640.jpg"
     }
 ]
