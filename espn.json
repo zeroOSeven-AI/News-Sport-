@@ -10,7 +10,7 @@
     },
     {
         "title": "GLOBAL SOCCER SCOREBOARD",
-        "link": "https://www.espn.com/watch/player?eventCalendarId=401795460&om-navmethod=espn%3Asoccer%3Afeed%3Ascores%20card",
+        "link": "https://www.espn.com/soccer/match/_/gameId/737096",
         "image": "https://a2.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Ficons%2FESPN%2Dicon%2Dsoccer.png&w=80&h=80&scale=crop&cquality=80&location=origin",
         "source_title1": "ESPN",
         "source_title2": "FOOTBALL",
@@ -117,18 +117,18 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Stole Dimitrievski",
-        "link": "https://www.espn.com/soccer/",
-        "image": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png&h=40&w=40&cquality=40",
+        "title": "Everton snatch Brentford draw in battle of UCL hopefuls",
+        "link": "https://www.espn.com/soccer/report/_/gameId/740906",
+        "image": "https://a.espncdn.com/photo/2026/0411/r1641916_1296x729_16-9.jpg",
         "source_title1": "ESPN",
         "source_title2": "FOOTBALL",
         "source_color": "#ff0021",
         "flag": "🇺🇸"
     },
     {
-        "title": "Dzenan Pejcinovic",
-        "link": "https://www.espn.com/soccer/",
-        "image": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png&h=40&w=40&cquality=40",
+        "title": "English Premier League",
+        "link": "https://www.espn.com/soccer/league/_/name/eng.1",
+        "image": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png&w=80&h=80&transparent=true",
         "source_title1": "ESPN",
         "source_title2": "FOOTBALL",
         "source_color": "#ff0021",
