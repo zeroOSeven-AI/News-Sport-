@@ -1,11 +1,16 @@
 [
     {
+        "title": "Maksimir i ‘Kranjča‘ odlaze u povijest, izaberite imena dva nova zagrebačka stadiona Navijači i struka predlažu Jerkovića ili Kranjčara, dok se za Maksimir spominju imenovanja tribina legendama.",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/preimenovanje-stadiona-zagreb-kranjceviceva-maksimir-prijedlozi-legende-15698004",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38692852_640.jpg"
+    },
+    {
         "title": "Od Gorice do Gorice Nekad je bio ispred Livaje, igrao u životnoj formi, a danas je na Poljudu tek",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/sego-proljece-ozljeda-gorica-livaja-rebic-brajkovic-hajduk-15697985",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38292953_640.jpg"
     },
     {
-        "title": "‘Nevjerojatno, pa on je njega udario!",
+        "title": "‘Zamislite vi to!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/jakirovic-bijesan-penal-i-crveni-srusili-hull-protiv-sheffield-uniteda-15697995",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_38738342_640.jpg"
     },
@@ -15,14 +20,19 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_37221910_640.jpg"
     },
     {
+        "title": "Ritam sporta Bogat, ali mali klub.",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/komentari/golemac-smijenjen-dubai-mijenja-trenera-uoci-zavrsnice-eurolige-15697992",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_38168868_640.jpg"
+    },
+    {
         "title": "Marko Popović ZA SN ‘Ispred stana su mi palili lampione, zamalo sam završio u Realu, a 2008.",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-mix/marko-popovic-zadar-eurocup-mvp-karijera-mladi-bekovi-trenerski-planovi-15697961",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/09/k_38687987_640.jpg"
     },
     {
-        "title": "Ritam sporta Bogat, ali mali klub.",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/komentari/golemac-smijenjen-dubai-mijenja-trenera-uoci-zavrsnice-eurolige-15697992",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_38168868_640.jpg"
+        "title": "najava nove gošće ‘Od vrhunske sportašice očekuje se da nosi cijelo kućanstvo i donosi zaradu.",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/mirela-kardasevic-sportcast-mentalna-snaga-majcinstvo-sponzori-ronjenje-15697998",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_38713749_640.jpg"
     },
     {
         "title": "DALIĆEVO POSEBNO ORUŽJE ‘Nije Srna, ali može dominirati!",
@@ -38,16 +48,6 @@
         "title": "pitanje kriterija Dinamov kapetan je privilegiran kod sudaca, a Kovačevićevo obrazloženje tanko.",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-gorica-6-3-misic-drugi-zuti-karton-sudacki-kriterij-15697938",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_37530116_640.jpg"
-    },
-    {
-        "title": "Pao otkaz usred noći, klub donio nikad viđenu odluku",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bundesliga/union-berlin-smijenio-baumgarta-marie-louise-eta-prva-trenerica-bundeslige-15697973",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_38738154_640.jpg"
-    },
-    {
-        "title": "Toni Kroos se vraća u Real Madrid",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/primera/toni-kroos-vraca-se-u-real-madrid-u-novoj-ulozi-od-sljedece-sezone-15697956",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_33494583_640.jpg"
     },
     {
         "title": "Režirao kaos, pa s centra odveo loptu u vlastitu mrežu!",
@@ -75,6 +75,16 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38601050_640.jpg"
     },
     {
+        "title": "Pao otkaz usred noći, klub donio nikad viđenu odluku ‘Naša situacija ostaje nesigurna i očajnički nam trebaju bodovi‘, kazao je prvi čovjek Uniona objašnjavajući otkaz Baumgartu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bundesliga/union-berlin-smijenio-baumgarta-marie-louise-eta-prva-trenerica-bundeslige-15697973",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_38738154_640.jpg"
+    },
+    {
+        "title": "Toni Kroos se vraća u Real Madrid",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/primera/toni-kroos-vraca-se-u-real-madrid-u-novoj-ulozi-od-sljedece-sezone-15697956",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_33494583_640.jpg"
+    },
+    {
         "title": "‘To je apsolutno ludo‘",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/atletika/gout-gout-19-67-rusi-u20-rekord-i-prvi-australac-ispod-20-sekundi-15697957",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_38737766_640.jpg"
@@ -88,15 +98,5 @@
         "title": "S kim na Goricu?",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/hajduk-gorica-gonzalo-garcia-ne-mijenja-pobjednicku-postavu-rebic-hrgovic-melnjak-15697945",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_38609229_640.jpg"
-    },
-    {
-        "title": "Evo koliko je Tyson Fury zaradio u Londonu!",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/boks/fury-pobijedio-mahmudova-i-izazvao-anthonyja-joshuu-britanski-megasudar-15697941",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_38735685_640.jpg"
-    },
-    {
-        "title": "Rijeka mora pobijediti na Rujevici",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/rijeka-osijek-rujevica-pobjeda-za-europu-trece-mjesto-15697959",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38693781_640.jpg"
     }
 ]
