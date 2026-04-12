@@ -12,7 +12,7 @@ def clean_title(title):
 
 def scrape_espn():
     # Koristimo API endpoint za nogometne vijesti umjesto cijele web stranice
-    api_url = "https://site.api.espn.com/apis/site/v2/sports/soccer/all/news"
+    api_url = "https://site.api.espn.com/apis/site/v2/sports/soccer/all/news?limit=50"
     
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
