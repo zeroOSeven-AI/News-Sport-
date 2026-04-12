@@ -5,6 +5,11 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_38740606_640.jpg"
     },
     {
+        "title": "Fantastičan derbi sa čak sedam golova!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/serie-a/inter-preokrenuo-0-2-i-pobijedio-como-4-3-u-derbiju-serie-a-15698141",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_38741929_640.jpg"
+    },
+    {
         "title": "‘Gladan sam golova, a kad igrate protiv jačeg.",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/petkovic-golom-po-povratku-donio-bod-kocaelissporu-protiv-galatasarayja-15698137",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_38742230_640.jpg"
@@ -25,6 +30,11 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_38740058_640.jpg"
     },
     {
+        "title": "najava nove gošće ‘Od vrhunske sportašice očekuje se da nosi cijelo kućanstvo i donosi zaradu.",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/mirela-kardasevic-sportcast-mentalna-snaga-majcinstvo-sponzori-ronjenje-15697998",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_38713749_640.jpg"
+    },
+    {
         "title": "UOČI OKRŠAJA Trener Vukovara javno je zamolio Dinamo pomoć, evo što kaže na odbijenicu iz Maksimira",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/vukovar1991/stipic-smiruje-ocekivanja-vukovar-dinamo-borba-za-ostanak-15698135",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_38617162_640.jpg"
@@ -38,16 +48,6 @@
         "title": "Hajduk ponovno na minus 7 iza Dinama, Livaja junak Poljuda, ozlijedio se Šego!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/video-hajduk-ponovno-na-minus-7-iza-dinama-livaja-junak-poljuda-ozlijedio-se-sego-15698064",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_38740609_640.jpg"
-    },
-    {
-        "title": "najava nove gošće ‘Od vrhunske sportašice očekuje se da nosi cijelo kućanstvo i donosi zaradu.",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/mirela-kardasevic-sportcast-mentalna-snaga-majcinstvo-sponzori-ronjenje-15697998",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_38713749_640.jpg"
-    },
-    {
-        "title": "Petković zaustavio Galatasaray!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-medjunarodni/video-petkovic-zaustavio-galatasaray-zaigrao-nakon-dva-mjeseca-odmah-zabio-i-kreirao-dramu-u-lovu-na-titulu-15698118",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_37556957_640.jpg"
     },
     {
         "title": "Novi šokantan poraz Riječana na Rujevici!",
@@ -75,9 +75,14 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38732678_640.png"
     },
     {
-        "title": "do 12 godina Mladost sa sinom premijera Plenkovića osvojila najmasovniji vaterpolski turnir na svijetu U Dubrovniku je okončan najmasovniji i jedan od najboljih turnira na svijetu za djecu do 12 i do 14 godina, a koji je okupio 1.",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vaterpolo/vaterpolo-ostalo/mladost-sa-sinom-premijera-plenkovica-osvojila-najmasovniji-vaterpolski-turnir-na-svijetu-15698130",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_38700090_640.jpg"
+        "title": "Kraljevski pakt Mario Hezonja ima ugovor s Realom do 2029.",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/basket-international/hezonja-real-madrid-nba-interes-ostanak-scariolo-raznatovic-ugovor-15698144",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38460278_640.jpg"
+    },
+    {
+        "title": "Petković zaustavio Galatasaray!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-medjunarodni/video-petkovic-zaustavio-galatasaray-zaigrao-nakon-dva-mjeseca-odmah-zabio-i-kreirao-dramu-u-lovu-na-titulu-15698118",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_37556957_640.jpg"
     },
     {
         "title": "‘Nisam uopće uživao u utakmici, to je istina.",
@@ -93,10 +98,5 @@
         "title": "Scena obilazi svijet, zvijezda dana ‘uništava‘ Arsenal!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/premiership/city-pregazio-chelsea-3-0-viralni-navijac-s-bocicom-arsenala-15698099",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_38740779_640.png"
-    },
-    {
-        "title": "‘Kakav je to sudački kriterij?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/rijeka/rijeka-osijek-poraz-ozljede-barisic-fruk-sudacki-kriterij-15698094",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_38739690_640.jpg"
     }
 ]
