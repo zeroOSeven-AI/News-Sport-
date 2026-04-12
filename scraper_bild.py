@@ -7,9 +7,22 @@ from bs4 import BeautifulSoup
 def clean_title(title):
     if not title:
         return ""
-    # Mičemo višestruke razmake
-    title = re.sub(r'\s+', ' ', title)
-    # Mičemo uobičajeno smeće na početku
+    
+    # 1. Bild često spoji Kicker i Headline (npr. "BaumannJeder hat seinen Senf...")
+    # Tražimo granicu gdje malo slovo dodiruje veliko
+    # Ali umjesto da odrežemo sve prije, samo umetnemo razmak da rečenica ostane čitava
+    title = re.sub(r'([a-zčćžšđ])([A-ZČĆŽŠĐ])', r'\1 \2', title)
+
+    # 2. Ako i dalje želiš izbaciti taj prvi dio (Kicker), koristimo ovaj trik:
+    # Ako naslov počne s jednom riječi pa odmah ide veliko slovo (npr. "Freiburg Gelingt..."),
+    # mičemo tu prvu riječ.
+    parts = title.split(' ', 1)
+    if len(parts) > 1 and parts[0].strip().isalpha():
+        # Provjeravamo je li druga riječ počela velikim slovom (znak novog naslova)
+        if parts[1][0].isupper():
+            title = parts[1]
+
+    # 3. Standardno čišćenje separatora
     title = re.sub(r'^[:\s–|-]+', '', title)
     return title.strip()
 
@@ -45,19 +58,9 @@ def scrape_bild():
                 img_elem = art.find('img')
 
                 if title_elem and link_elem:
-                    # --- KLJUČNA IZMJENA ZA ČISTI NASLOV ---
-                    # Prvo kopiramo element da ne uništimo originalni soup
-                    import copy
-                    title_copy = copy.copy(title_elem)
+                    # Uzimamo tekst sa razmakom da se Kicker i Headline ne slijepe
+                    raw_title = title_elem.get_text(" ", strip=True) 
                     
-                    # Brišemo sve spanove (tamo Bild drži nadnaslove/kickere)
-                    for span in title_copy.find_all('span'):
-                        span.decompose()
-                    
-                    # Sad uzimamo tekst - ostaje samo čisti, glavni naslov
-                    raw_title = title_copy.get_text(strip=True)
-                    
-                    # Ako je nakon čišćenja ostalo nešto prekratko, preskoči
                     if len(raw_title) < 10:
                         continue
                     
@@ -70,8 +73,7 @@ def scrape_bild():
                     # --- SLIKE ---
                     image = ""
                     if img_elem:
-                        image = (img_elem.get('data-src') or 
-                                 img_elem.get('src') or "")
+                        image = (img_elem.get('data-src') or img_elem.get('src') or "")
                         
                     if not image or "1x1" in image:
                         source_tag = art.find('source')
@@ -98,7 +100,7 @@ def scrape_bild():
             with open('bild.json', 'w', encoding='utf-8') as f:
                 json.dump(news_items, f, ensure_ascii=False, indent=4)
             
-            print(f"Gotovo! Spremljeno {len(news_items)} čistih vijesti.")
+            print(f"Uspješno spremljeno {len(news_items)} vijesti u bild.json")
             browser.close()
 
         except Exception as e:
