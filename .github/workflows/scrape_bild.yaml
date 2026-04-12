@@ -33,12 +33,18 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Provjeravamo postoji li bild.json (koji generira tvoj Python kod)
+          # Provjeravamo postoji li bild.json
           if [ -f bild.json ]; then
             git add bild.json
-            # Commitaj samo ako ima stvarnih promjena u vijestima
-            git commit -m "Automated BILD update" || echo "Nema novih promjena"
-            git push
+            
+            # Commitamo samo ako ima promjena, inače ne radimo ništa
+            git commit -m "Automated BILD update" || { echo "Nema novih promjena"; exit 0; }
+            
+            # POVLAČIMO PROMJENE prije slanja (sprječava "rejected" grešku)
+            git pull origin main --rebase
+            
+            # Šaljemo na server
+            git push origin main
           else
             echo "Greška: bild.json nije pronađen!"
             exit 1
