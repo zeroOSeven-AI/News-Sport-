@@ -1,6 +1,6 @@
 [
     {
-        "title": "Premier League live updates: Chelsea face Man City in high-stakes clash of giants",
+        "title": "Premier League live updates: Man City seize control vs. Chelsea in second half",
         "link": "https://www.espn.com/soccer/match/_/gameId/740909",
         "image": "https://a1.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/363.png&h=104&w=104",
         "source_title1": "ESPN",
@@ -10,7 +10,7 @@
     },
     {
         "title": "GLOBAL SOCCER SCOREBOARD",
-        "link": "https://www.espn.com/soccer/match/_/gameId/740909",
+        "link": "https://www.espn.com/watch/player/_/id/2eed3e69-7aff-467d-bdb8-ee47ff6e8ccf?om-navmethod=espn%3Asoccer%3Afeed%3Ascores%20card",
         "image": "https://a2.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Ficons%2FESPN%2Dicon%2Dsoccer.png&w=80&h=80&scale=crop&cquality=80&location=origin",
         "source_title1": "ESPN",
         "source_title2": "FOOTBALL",
@@ -54,24 +54,6 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "PREMIER LEAGUE LEADERS SLUMP",
-        "link": "https://www.espn.com/soccer/story/_/id/48454951/arsenal-ratings-kai-havertz-gabriel-martinelli-loss-bournemouth",
-        "image": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F23.png&w=80&h=80&scale=crop&cquality=80&location=origin",
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Arsenal ratings: Havertz, Martinelli 4/10 in shock loss",
-        "link": "https://www.espn.com/soccer/story/_/id/48454951/arsenal-ratings-kai-havertz-gabriel-martinelli-loss-bournemouth",
-        "image": "https://a.espncdn.com/photo/2026/0411/r1641838_1296x729_16-9.jpg",
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
         "title": "U.S. showed progress in win over Japan on Saturday",
         "link": "https://www.espn.com/soccer/match/_/gameId/401857906/japan-united-states",
         "image": "https://a1.espncdn.com/combiner/i?img=/i/teamlogos/countries/500/usa.png&h=104&w=104",
@@ -81,54 +63,27 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "AGE IS JUST A NUMBER",
-        "link": "https://www.espn.com/soccer/story/_/id/48458123/liverpool-player-ratings-17-year-old-ngumoha-9-10-performance-dilemma-slot",
-        "image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fsoccer%2F500%2F364.png&w=80&h=80&scale=crop&cquality=80&location=origin",
+        "title": "Tom Brady teases Ryan Reynolds, Rob Mac after Birmingham beat Wrexham",
+        "link": "https://www.espn.com/soccer/story/_/id/48466840/tom-brady-teases-ryan-reynolds-rob-mac-birmingham-beat-wrexham",
+        "image": "https://a.espncdn.com/photo/2026/0412/r1642285_1296x729_16-9.jpg",
         "source_title1": "ESPN",
         "source_title2": "FOOTBALL",
         "source_color": "#ff0021",
         "flag": "🇺🇸"
     },
     {
-        "title": "Liverpool ratings: Teen Ngumoha's 9/10 display gives Slot dilemma",
-        "link": "https://www.espn.com/soccer/story/_/id/48458123/liverpool-player-ratings-17-year-old-ngumoha-9-10-performance-dilemma-slot",
-        "image": "https://a.espncdn.com/photo/2026/0411/r1641980_1296x729_16-9.jpg",
+        "title": "The enhanced ESPN App",
+        "link": "https://plus.espn.com/",
+        "image": "https://a.espncdn.com/photo/2025/1008/r1557392_1296x729_16-9.jpg",
         "source_title1": "ESPN",
         "source_title2": "FOOTBALL",
         "source_color": "#ff0021",
         "flag": "🇺🇸"
     },
     {
-        "title": "BAYERN'S TREBLE CHANCE",
-        "link": "https://www.espn.com/soccer/story/_/id/48430373/this-bayern-special-force-reckoned-germany-europe",
-        "image": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fsoccer%2F500%2F132.png&w=80&h=80&scale=crop&cquality=80&location=origin",
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Bayern are special and a force to be reckoned with in Germany, Europe",
-        "link": "https://www.espn.com/soccer/story/_/id/48430373/this-bayern-special-force-reckoned-germany-europe",
-        "image": "https://a.espncdn.com/photo/2026/0408/r1640446_1296x729_16-9.jpg",
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Hearts, Celtic, Rangers? Who's going to win the Scottish Premiership this season?",
-        "link": "https://www.espn.com/soccer/story/_/id/48121977/hearts-celtic-rangers-scottish-premiership-season-danny-rohl-derek-mcinnes-martin-oneill",
-        "image": "https://a.espncdn.com/photo/2026/0306/r1624259_1296x729_16-9.jpg",
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Abde Ezzalzouli",
-        "link": "https://www.espn.com/soccer/",
-        "image": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png&h=40&w=40&cquality=40",
+        "title": "Legends chasing milestones",
+        "link": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
+        "image": "https://a.espncdn.com/photo/2026/0219/r1617394_1296x729_16-9.jpg",
         "source_title1": "ESPN",
         "source_title2": "FOOTBALL",
         "source_color": "#ff0021",
