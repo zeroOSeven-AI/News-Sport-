@@ -7,13 +7,10 @@ from bs4 import BeautifulSoup
 def clean_title(title):
     if not title:
         return ""
-    
-    # Mičemo višestruke razmake i čistimo rubove
+    # Mičemo višestruke razmake
     title = re.sub(r'\s+', ' ', title)
-    
-    # Ako naslov počinje s nekim od separatora, makni ih
+    # Mičemo uobičajeno smeće na početku
     title = re.sub(r'^[:\s–|-]+', '', title)
-    
     return title.strip()
 
 def scrape_bild():
@@ -40,8 +37,6 @@ def scrape_bild():
             articles = soup.find_all('article')
 
             for art in articles:
-                # Bild često ima strukturu: <span class="kicker">Baumann</span> <span class="headline">...</span>
-                # Tražimo sve tekstualne elemente unutar naslova
                 title_elem = art.find(['h2', 'h3', 'h4'], class_=re.compile(r'headline|title', re.I))
                 if not title_elem:
                     title_elem = art.find(['h2', 'h3', 'h4'])
@@ -50,16 +45,19 @@ def scrape_bild():
                 img_elem = art.find('img')
 
                 if title_elem and link_elem:
-                    # PROMJENA: Hvataj sve unutar naslova i spoji ih razmakom
-                    # Ako postoje spanovi (kicker i headline), ovo će ih lijepo spojiti
-                    spans = title_elem.find_all('span')
-                    if spans:
-                        # Spajamo kicker i headline s dvotočkom ako ih ima više
-                        raw_title = " : ".join([s.get_text(strip=True) for s in spans if s.get_text(strip=True)])
-                    else:
-                        raw_title = title_elem.get_text(" ", strip=True)
+                    # --- KLJUČNA IZMJENA ZA ČISTI NASLOV ---
+                    # Prvo kopiramo element da ne uništimo originalni soup
+                    import copy
+                    title_copy = copy.copy(title_elem)
                     
-                    # Ako je naslov ispao samo broj (kao onaj "4" na slici), preskoči
+                    # Brišemo sve spanove (tamo Bild drži nadnaslove/kickere)
+                    for span in title_copy.find_all('span'):
+                        span.decompose()
+                    
+                    # Sad uzimamo tekst - ostaje samo čisti, glavni naslov
+                    raw_title = title_copy.get_text(strip=True)
+                    
+                    # Ako je nakon čišćenja ostalo nešto prekratko, preskoči
                     if len(raw_title) < 10:
                         continue
                     
@@ -100,7 +98,7 @@ def scrape_bild():
             with open('bild.json', 'w', encoding='utf-8') as f:
                 json.dump(news_items, f, ensure_ascii=False, indent=4)
             
-            print(f"Gotovo! Spremljeno {len(news_items)} vijesti.")
+            print(f"Gotovo! Spremljeno {len(news_items)} čistih vijesti.")
             browser.close()
 
         except Exception as e:
