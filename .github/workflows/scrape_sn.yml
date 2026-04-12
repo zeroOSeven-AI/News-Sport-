@@ -28,11 +28,21 @@ jobs:
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
+          
+          # Prvo dodajemo file
           if [ -f sportske.json ]; then
             git add sportske.json
+            
+            # Commitamo lokalno
             git commit -m "Automated news update" || exit 0
-            git push
+            
+            # KLJUČNI DIO: Povuci promjene s GitHub-a i stavi svoj commit na vrh
+            git pull origin main --rebase
+            
+            # Sad šalji bez straha od sudara
+            git push origin main
           else
             echo "File not found. Skipping."
             exit 1
           fi
+
