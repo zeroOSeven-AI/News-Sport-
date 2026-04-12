@@ -19,7 +19,7 @@
     },
     {
         "title": "GLOBAL SOCCER SCOREBOARD",
-        "link": "https://www.espn.com/soccer/match/_/gameId/737099",
+        "link": "https://www.espn.com/soccer/match/_/gameId/737095/napoli-parma",
         "image": "https://a2.espncdn.com/combiner/i?img=%2Fredesign%2Fassets%2Fimg%2Ficons%2FESPN%2Dicon%2Dsoccer.png&w=80&h=80&scale=crop&cquality=80&location=origin",
         "source_title1": "ESPN",
         "source_title2": "FOOTBALL",
@@ -72,6 +72,33 @@
         "flag": "🇺🇸"
     },
     {
+        "title": "Rosenior: Fernández suspension 'possibly' contributed to City defeat",
+        "link": "https://www.espn.com/soccer/story/_/id/48468891/rosenior-fernandez-suspension-possibly-contributed-city-defeat",
+        "image": "https://a.espncdn.com/photo/2026/0412/r1642492_1296x729_16-9.jpg",
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Arsenal and Man City's final Premier League fixtures compared as title race hots up",
+        "link": "https://www.espn.com/soccer/story/_/id/48468717/arsenal-man-city-final-premier-league-fixtures-compared-title-race-hots-up",
+        "image": "https://a.espncdn.com/photo/2026/0319/r1630594_1296x729_16-9.jpg",
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Alfonso González",
+        "link": "https://www.espn.com/soccer/",
+        "image": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png&h=40&w=40&cquality=40",
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
         "title": "English Premier League",
         "link": "https://www.espn.com/soccer/league/_/name/eng.1",
         "image": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png&w=80&h=80&transparent=true",
@@ -81,54 +108,18 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Man City vs Arsenal is a 'final' as title race hots up - Pep Guardiola",
-        "link": "https://www.espn.com/soccer/story/_/id/48468050/man-city-vs-arsenal-final-title-race-hots-pep-guardiola",
-        "image": "https://a.espncdn.com/photo/2026/0412/r1642461_1296x729_16-9.jpg",
+        "title": "The enhanced ESPN App",
+        "link": "https://plus.espn.com/",
+        "image": "https://a.espncdn.com/photo/2025/1008/r1557392_1296x729_16-9.jpg",
         "source_title1": "ESPN",
         "source_title2": "FOOTBALL",
         "source_color": "#ff0021",
         "flag": "🇺🇸"
     },
     {
-        "title": "Aarón Escandell",
-        "link": "https://www.espn.com/soccer/",
-        "image": "https://a.espncdn.com/combiner/i?img=/redesign/assets/img/icons/ESPN-icon-soccer.png&h=40&w=40&cquality=40",
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Chelsea 0-3 Man City: Pep Guardiola's side run rampant at Stamford Bridge - as it happened",
-        "link": "https://www.espn.com/soccer/story/_/id/48465744/chelsea-man-city-live-premier-league-latest-updates-commentary-score-result",
-        "image": "https://a.espncdn.com/photo/2026/0412/r1642399_1296x729_16-9.jpg",
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Oliver Glasner hopeful Mateta's brace earns back Palace fans' support",
-        "link": "https://www.espn.com/soccer/story/_/id/48467682/oliver-glasner-hopeful-jean-phillipe-mateta-brace-earns-crystal-palace-fans-support",
-        "image": "https://a.espncdn.com/photo/2026/0412/r1642429_1296x729_16-9.jpg",
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Bottle job? Man City fan celebrates with Arsenal taunt as Chelsea rout narrows title gap",
-        "link": "https://www.espn.com/soccer/story/_/id/48467447/bottle-job-man-city-fan-celebrates-arsenal-taunt-chelsea-rout-narrows-premier-league-title-gap",
-        "image": "https://a.espncdn.com/photo/2026/0412/r1642413_1080x608_16-9.jpg",
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Premier League recap: Man City top Chelsea, Spurs lose to Sunderland",
-        "link": "https://www.espn.com/soccer/story/_/id/48439323/premier-league-live-updates-sunderland-tottenham-hotspur-chelsea-manchester-city",
-        "image": "https://a.espncdn.com/photo/2026/0412/r1642392_1296x729_16-9.jpg",
+        "title": "Legends chasing milestones",
+        "link": "https://www.espn.com/soccer/story/_/id/47978642/lionel-messi-2026-tracker-inter-miami-argentina-games-goals-assists-stats",
+        "image": "https://a.espncdn.com/photo/2026/0219/r1617394_1296x729_16-9.jpg",
         "source_title1": "ESPN",
         "source_title2": "FOOTBALL",
         "source_color": "#ff0021",
