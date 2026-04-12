@@ -1,18 +1,43 @@
 [
     {
+        "title": "DALIĆEVO POSEBNO ORUŽJE ‘Nije Srna, ali može dominirati!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/stipe-stanisic-100-nastupa-za-bayern-blistao-protiv-reala-i-ucvrstio-status-15697952",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/10/k_38710357_640.jpg"
+    },
+    {
+        "title": "Toni Kroos se vraća u Real Madrid!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/primera/toni-kroos-vraca-se-u-real-madrid-u-novoj-ulozi-od-sljedece-sezone-15697956",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_33494583_640.jpg"
+    },
+    {
         "title": "pitanje kriterija Dinamov kapetan je privilegiran kod sudaca, a Kovačevićevo obrazloženje tanko.",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-gorica-6-3-misic-drugi-zuti-karton-sudacki-kriterij-15697938",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_37530116_640.jpg"
     },
     {
-        "title": "povratak iz mirovine Tyson Fury dominirao protiv Rusa i zaradio bogatstvo, a onda prozvao jednog od najboljih",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/boks/fury-pobijedio-mahmudova-i-izazvao-anthonyja-joshuu-britanski-megasudar-15697941",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_38735685_640.jpg"
-    },
-    {
         "title": "‘Pobunjenici‘ diverzijom vratili smijenjenog trenera!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/pobuna-igraca-samobor-vratio-smijenjenog-trenera-poraz-od-inkera-0-2-15697920",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38601050_640.jpg"
+    },
+    {
+        "title": "NA RUBU KATASTROFE Sezona Reala pred apsolutnim raspadom, sada im prijeti i scenarij iz noćne more!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/primera/barcelona-na-pragu-naslova-el-clasico-moze-odluciti-protiv-reala-15697947",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_38729879_640.jpg"
+    },
+    {
+        "title": "S kim na Goricu?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/hajduk-gorica-gonzalo-garcia-ne-mijenja-pobjednicku-postavu-rebic-hrgovic-melnjak-15697945",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_38609229_640.jpg"
+    },
+    {
+        "title": "‘U sjećanje na omiljenog Nikolu.",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/memorijal-nikola-pokrivac-derbi-dinamo-rijeka-stipendija-mladi-sportasi-15697950",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_36680147_640.jpg"
+    },
+    {
+        "title": "Evo koliko je Tyson Fury zaradio u Londonu!",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/boks/fury-pobijedio-mahmudova-i-izazvao-anthonyja-joshuu-britanski-megasudar-15697941",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_38735685_640.jpg"
     },
     {
         "title": "SPEKTAKL U LJUBLJANI FNC ima novog prvaka poluteške kategorije!",
@@ -23,31 +48,6 @@
         "title": "Neka su nam zviždali!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/serie-a/video-cijeli-san-siro-okrenuo-palac-dolje-hit-igracu-milana-trener-porucio-neka-su-nam-zvizdali-15697906",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38734051_640.jpg"
-    },
-    {
-        "title": "RUTINSKA POBJEDA Tyson Fury se uspješno vratio!",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/tyson-fury-se-uspjesno-vratio-kralj-cigana-podsjetio-na-svoje-najbolje-dane-15697928",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_38735907_640.jpg"
-    },
-    {
-        "title": "‘ILUZIJA O LIGI PRVAKA‘ Talijanski mediji ‘pokopali‘ zvijezdu Milana, izviždala ga i publika, evo kako je prošao Modrić",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/serie-a/udinese-razbio-milan-3-0-kriza-rossonera-leao-pod-zvizducima-15697895",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38734326_640.jpg"
-    },
-    {
-        "title": "POVRATAK JE REALNA OPCIJA ‘Mirko svaki dan trenira i vrhunski je spreman.",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/borilacki-sportovi/borilackisportovi-ostalo/mirko-svaki-dan-trenira-i-vrhunski-je-spreman-ne-bih-bio-u-kozi-onome-tko-mu-stane-nasuprot-15697924",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38373145_640.jpg"
-    },
-    {
-        "title": "Igor Štimac došao na presicu, poljubio Cvitanovića u čelo i",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/najludi-kraj-derbija-igor-stimac-dosao-na-presicu-poljubio-cvitanovica-u-celo-i-otisao-15697908",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_37370284_640.jpg"
-    },
-    {
-        "title": "Hrvatski trener smijenjen nakon europskog poraza?",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/basket-euroliga/prosirila-se-neugodna-vijest-hrvatski-trener-smijenjen-nakon-europskog-poraza-15697922",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38729456_640.jpg"
     },
     {
         "title": "Režirao kaos, pa s centra odveo loptu u vlastitu mrežu!",
@@ -65,6 +65,31 @@
         "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38733849_640.jpg"
     },
     {
+        "title": "Igor Štimac došao na presicu, poljubio Cvitanovića u čelo i",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/najludi-kraj-derbija-igor-stimac-dosao-na-presicu-poljubio-cvitanovica-u-celo-i-otisao-15697908",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_37370284_640.jpg"
+    },
+    {
+        "title": "RUTINSKA POBJEDA Tyson Fury se uspješno vratio!",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/tyson-fury-se-uspjesno-vratio-kralj-cigana-podsjetio-na-svoje-najbolje-dane-15697928",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_38735907_640.jpg"
+    },
+    {
+        "title": "‘ILUZIJA O LIGI PRVAKA‘ Talijanski mediji ‘pokopali‘ zvijezdu Milana, izviždala ga i publika, evo kako je prošao Modrić",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/serie-a/udinese-razbio-milan-3-0-kriza-rossonera-leao-pod-zvizducima-15697895",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38734326_640.jpg"
+    },
+    {
+        "title": "POVRATAK JE REALNA OPCIJA ‘Mirko svaki dan trenira i vrhunski je spreman.",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/borilacki-sportovi/borilackisportovi-ostalo/mirko-svaki-dan-trenira-i-vrhunski-je-spreman-ne-bih-bio-u-kozi-onome-tko-mu-stane-nasuprot-15697924",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38373145_640.jpg"
+    },
+    {
+        "title": "Hrvatski trener smijenjen nakon europskog poraza?",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/basket-euroliga/prosirila-se-neugodna-vijest-hrvatski-trener-smijenjen-nakon-europskog-poraza-15697922",
+        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38729456_640.jpg"
+    },
+    {
         "title": "Tvornica talenta To mogu samo Hrvatska i Španjolska!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-model-dijaspora-selekcija-vukovar-mlade-reprezentacije-15697910",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/07/k_30433665_640.jpg"
@@ -73,30 +98,5 @@
         "title": "Senzacionalni potop Milana!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/serie-a/udinese-razbio-milan-3-0-kriza-produbljena-rivali-prijete-trecem-mjestu-15697882",
         "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38569143_640.jpg"
-    },
-    {
-        "title": "(PRE)ŽESTOKE KRITIKE?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/premiership/upaljeni-su-svi-alarmi-a-glavni-optuzeni-je-arteta-trener-nam-je-s-e-gotovo-je-prijatelju-15697879",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38732430_640.jpg"
-    },
-    {
-        "title": "Bayern sa Stanišićem ispisao povijest!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bundesliga/bayern-srusio-rekord-bundeslige-105-golova-razbio-st-pauli-5-0-15697893",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38734327_640.jpg"
-    },
-    {
-        "title": "Utrpala četiri komada i pobjegla Realu u borbi za vrh",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/primera/barcelona-razbila-espanyol-4-1-torres-dvaput-yamal-rashford-povecala-prednost-15697903",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38733896_640.jpg"
-    },
-    {
-        "title": "Hrvat nominiran za trenera godine u tri minute ostao bez velikog plijena",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/sheffield-united-preokrenuo-hull-crveni-karton-derbi-jakirovic-15697865",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/11/k_38733620_640.jpg"
-    },
-    {
-        "title": "IŠAO JE NA SVE ILI NIŠTA Ludnica u Miamiju!",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ostalo/ludnica-u-miamiju-ozlijedeni-ulberg-se-vratio-iz-ponora-nokautirao-prochazku-i-osvojio-pojas-15697937",
-        "image": "https://media.jutarnji.hr/images/slike/2026/04/12/k_38737721_640.jpg"
     }
 ]
