@@ -17,19 +17,21 @@ def scrape_sn():
 
         try:
             print(f"Otvaram: {url}")
+            # Čekamo da se mreža smiri
             page.goto(url, wait_until="networkidle", timeout=60000)
 
             # --- SMART SCROLL: Probuđujemo slike da dobijemo rezoluciju ---
-            print("Učitavam slike i dimenzije...")
+            print("Učitavam slike i mjerim dimenzije...")
             page.evaluate("""async () => {
                 await new Promise((resolve) => {
                     let totalHeight = 0;
-                    let distance = 200;
+                    let distance = 250;
                     let timer = setInterval(() => {
                         let scrollHeight = document.body.scrollHeight;
                         window.scrollBy(0, distance);
                         totalHeight += distance;
-                        if(totalHeight >= 4000){ // Ne moramo do dna, prvih 4000px je dosta
+                        // Skrolaj do 4000px visine, to je obično dovoljno za prvih 20 vijesti
+                        if(totalHeight >= 4000 || totalHeight >= scrollHeight){
                             clearInterval(timer);
                             resolve();
                         }
@@ -37,14 +39,15 @@ def scrape_sn():
                 });
             }""")
             
-            # Kratka pauza da se JS izvrši do kraja
+            # Mala pauza da se browser "smiri" nakon skrolanja
             time.sleep(2)
 
-            # Izvlačimo mapu slika i njihovih stvarnih dimenzija
+            # Izvlačimo mapu slika i njihovih prirodnih dimenzija direktno iz browsera
             img_dims = page.evaluate("""() => {
                 let dims = {};
                 document.querySelectorAll('img').forEach(img => {
-                    let src = img.currentSrc || img.src || img.getAttribute('data-src');
+                    // Uzimamo currentSrc jer je to stvarni URL koji je browser odabrao
+                    let src = img.currentSrc || img.src;
                     if (src && img.naturalWidth > 0) {
                         dims[src] = { w: img.naturalWidth, h: img.naturalHeight };
                     }
@@ -64,29 +67,29 @@ def scrape_sn():
                 img_elem = art.find('img')
 
                 if title_elem and link_elem:
-                    # Čišćenje kickera iz naslova
+                    # Čišćenje kickera (kategorije) iz naslova
                     kicker = title_elem.find(['span', 'b', 'i'])
-                    full_text = title_elem.get_text(strip=True)
+                    full_text = title_elem.get_text(separator=" ", strip=True)
                     if kicker:
                         kicker_text = kicker.get_text(strip=True)
                         title = full_text.replace(kicker_text, "").strip()
                     else:
                         title = full_text
                     
-                    if len(title) < 10: title = full_text
+                    if len(title) < 15: title = full_text
                     title = re.sub(r'^[:\s–|-]+', '', title).strip()
                     
                     link = link_elem['href']
                     if link.startswith('/'):
                         link = "https://sportske.jutarnji.hr" + link
                     
-                    # Logika za sliku
+                    # Logika za sliku i njezinu rezoluciju
                     image = ""
                     width = 0
                     height = 0
                     
                     if img_elem:
-                        # Pokušavamo sve moguće izvore slike
+                        # Prioritet: currentSrc (ono što browser vidi), pa data-src, pa src
                         image = (img_elem.get('currentSrc') or img_elem.get('data-src') or img_elem.get('src') or "")
                     
                     if not image or "base64" in image:
@@ -97,13 +100,12 @@ def scrape_sn():
                     if image and image.startswith('/'):
                         image = "https://sportske.jutarnji.hr" + image
 
-                    # Sparivanje s dimenzijama iz img_dims mape
+                    # Sparivanje s izmjerenim dimenzijama
                     if image in img_dims:
                         width = img_dims[image]['w']
                         height = img_dims[image]['h']
-                    
-                    # Ako nismo našli direktno, probaj matchati bar dio URL-a
                     else:
+                        # Ako nema savršenog matcha, probaj naći sličan URL (fuzzy match)
                         for key in img_dims:
                             if image and (image in key or key in image):
                                 width = img_dims[key]['w']
@@ -123,11 +125,10 @@ def scrape_sn():
                 if len(news_items) >= 20:
                     break
 
-            # Spremanje u JSON
             with open('sportske.json', 'w', encoding='utf-8') as f:
                 json.dump(news_items, f, ensure_ascii=False, indent=4)
             
-            print(f"Uspješno spremljeno {len(news_items)} vijesti.")
+            print(f"Uspješno spremljeno {len(news_items)} vijesti s rezolucijama.")
             browser.close()
 
         except Exception as e:
