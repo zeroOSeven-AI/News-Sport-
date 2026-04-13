@@ -1,15 +1,12 @@
-name: Update BILD Sport
+name: Update Bild Sport
 on:
   schedule:
-    - cron: '*/28 * * * *' # Svakih 30 minuta
-  workflow_dispatch: # Omogućuje ručno pokretanje po potrebi
+    - cron: '*/35 * * * *'
+  workflow_dispatch:
 
 jobs:
   scrape_job:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write # Dozvola za pisanje u tvoj repozitorij
-    
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -21,30 +18,31 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install playwright beautifulsoup4 lxml
+          pip install playwright beautifulsoup4 lxml Pillow requests
           playwright install chromium
 
-      - name: Run scraper
-        run: python scraper_bild.py  # Pazi da se tvoj Python file točno ovako zove
+      - name: Run Bild Scraper
+        run: python scraper_bild.py
 
       - name: Commit and Push
         run: |
-          # Postavljanje Git identiteta
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Provjeravamo postoji li bild.json
           if [ -f bild.json ]; then
             git add bild.json
+            git commit -m "Automated Bild update" || exit 0
             
-            # Commitamo samo ako ima promjena, inače ne radimo ništa
-            git commit -m "Automated BILD update" || { echo "Nema novih promjena"; exit 0; }
-            
-            # POVLAČIMO PROMJENE prije slanja (sprječava "rejected" grešku)
-            git pull origin main --rebase
-            
-            # Šaljemo na server
-            git push origin main
+            for i in {1..3}; do
+              git pull origin main --rebase
+              if git push origin main; then
+                echo "Uspješan push za Bild!"
+                exit 0
+              fi
+              echo "Pokušaj $i propao, čekam 5 sekundi..."
+              sleep 5
+            done
+            exit 1
           else
             echo "Greška: bild.json nije pronađen!"
             exit 1
