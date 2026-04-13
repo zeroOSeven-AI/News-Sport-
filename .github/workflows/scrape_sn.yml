@@ -1,8 +1,8 @@
 name: Update Sportske Novosti
 on:
   schedule:
-    - cron: '*/30 * * * *' # Pokreće se svaki puni sat
-  workflow_dispatch: # Omogućuje ručno pokretanje u Actions tabu
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
 
 jobs:
   scrape_job:
@@ -18,7 +18,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install playwright beautifulsoup4 lxml
+          pip install playwright beautifulsoup4 lxml Pillow requests
           playwright install chromium
 
       - name: Run scraper
@@ -31,9 +31,10 @@ jobs:
           
           if [ -f sportske.json ]; then
             git add sportske.json
+            # Commitamo samo ako ima promjena, inače izlazimo bez greške
             git commit -m "Automated news update" || exit 0
             
-            # Pokušaj push 3 puta ako propadne zbog locka
+            # Retry logika: pokušaj push 3 puta u slučaju kolizije
             for i in {1..3}; do
               git pull origin main --rebase
               if git push origin main; then
@@ -47,7 +48,6 @@ jobs:
             echo "Nije uspjelo nakon 3 pokušaja."
             exit 1
           else
-            echo "File not found. Skipping."
+            echo "File sportske.json nije pronađen. Scraper nije uspio."
             exit 1
           fi
-
