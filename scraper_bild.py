@@ -4,27 +4,6 @@ import re
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 
-def clean_title(title):
-    if not title:
-        return ""
-    
-    # 1. Bild spoji nadnaslov i naslov (npr. "BaumannJeder hat...")
-    # Razdvajamo ih razmakom
-    title = re.sub(r'([a-zčćžšđ])([A-ZČĆŽŠĐ])', r'\1 \2', title)
-
-    # 2. MICANJE NADNASLOVA:
-    # Tražimo prvu riječ ili frazu do prvog velikog slova nakon razmaka
-    # Primjer: "Freiburg Gelingt..." -> uzimamo samo "Gelingt..."
-    parts = title.split(' ', 1)
-    if len(parts) > 1:
-        # Ako je prva riječ kraća (obično nadnaslov) i druga počinje velikim slovom
-        if len(parts[0]) < 15 and parts[1][0].isupper():
-            title = parts[1]
-            
-    # 3. Finalno čišćenje separatora i smeća
-    title = re.sub(r'^[:\s–|-]+', '', title)
-    return title.strip()
-
 def scrape_bild():
     url = "https://m.sportbild.bild.de/"
     
@@ -38,7 +17,6 @@ def scrape_bild():
         try:
             print(f"Otvaram: {url}")
             page.goto(url, wait_until="domcontentloaded", timeout=60000)
-            
             page.evaluate("window.scrollBy(0, 2000)")
             page.wait_for_timeout(3000) 
             
@@ -49,7 +27,6 @@ def scrape_bild():
             articles = soup.find_all('article')
 
             for art in articles:
-                # Koristimo tvoju provjerenu metodu za traženje elemenata
                 title_elem = art.find(['h2', 'h3', 'h4'], class_=re.compile(r'headline|title', re.I))
                 if not title_elem:
                     title_elem = art.find(['h2', 'h3', 'h4'])
@@ -58,19 +35,30 @@ def scrape_bild():
                 img_elem = art.find('img')
 
                 if title_elem and link_elem:
-                    # Uzimamo tekst (tvoja metoda)
-                    raw_title = title_elem.get_text(" ", strip=True) 
+                    # --- RJEŠENJE ZA ČISTI NASLOV ---
+                    # Bild drži nadnaslov (Kicker) u <span> ili <b> unutar h2/h3
+                    # Tražimo te pod-elemente
+                    kicker = title_elem.find(['span', 'b', 'i'])
                     
-                    if len(raw_title) < 10:
-                        continue
+                    if kicker:
+                        # Ako nađe kicker, uzmi samo tekst koji je IZVAN tog kickera
+                        # To je onaj pravi, veliki naslov
+                        title = title_elem.get_text(strip=True).replace(kicker.get_text(strip=True), "").strip()
+                    else:
+                        title = title_elem.get_text(strip=True)
                     
-                    title = clean_title(raw_title)
+                    # Ako je naslov i dalje ostao prazan ili prekratak, uzmi sve
+                    if len(title) < 10:
+                        title = title_elem.get_text(strip=True)
+                    
+                    # Čišćenje preostalih dvotočki na početku
+                    title = re.sub(r'^[:\s–|-]+', '', title).strip()
+                    # -------------------------------
                     
                     link = link_elem['href']
                     if link.startswith('/'):
                         link = "https://sportbild.bild.de" + link
                     
-                    # --- SLIKE ---
                     image = ""
                     if img_elem:
                         image = (img_elem.get('data-src') or img_elem.get('src') or "")
@@ -93,20 +81,15 @@ def scrape_bild():
                 if len(news_items) >= 20:
                     break
 
-            # OVO JE BITNO: Uvijek kreiraj bild.json, makar bio prazan, da GitHub Action ne pukne
             with open('bild.json', 'w', encoding='utf-8') as f:
                 json.dump(news_items, f, ensure_ascii=False, indent=4)
             
-            print(f"Uspješno spremljeno {len(news_items)} vijesti.")
+            print(f"Uspješno spremljeno {len(news_items)} vijesti u bild.json")
             browser.close()
 
         except Exception as e:
             print(f"Greška: {e}")
-            # Čak i ako pukne, napravi prazan json da ne rušiš cijeli workflow
-            if not os.path.exists('bild.json'):
-                with open('bild.json', 'w') as f: json.dump([], f)
             sys.exit(1)
 
 if __name__ == "__main__":
-    import os
     scrape_bild()
