@@ -28,21 +28,24 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          if [ -f espn.json ]; then
-            git add espn.json
-            git commit -m "Automated ESPN update" || exit 0
-            
-            for i in {1..3}; do
-              git pull origin main --rebase
-              if git push origin main; then
-                echo "Uspješan push za ESPN!"
-                exit 0
-              fi
-              echo "Pokušaj $i propao, čekam 5 sekundi..."
-              sleep 5
-            done
-            exit 1
-          else
-            echo "Greška: espn.json nije pronađen!"
-            exit 1
+          # 🔥 KLJUČ: Dodajemo SVE (JSON i slike)
+          git add -A
+          
+          # Provjera ima li uopće promjena prije commita
+          if git diff --staged --quiet; then
+            echo "Nema novih vijesti ni slika."
+            exit 0
           fi
+
+          git commit -m "Automated ESPN update: News + Cropped Images" || exit 0
+          
+          for i in {1..3}; do
+            git pull origin main --rebase
+            if git push origin main; then
+              echo "Uspješan push za ESPN (sve datoteke)!"
+              exit 0
+            fi
+            echo "Pokušaj $i propao, rebasam i čekam..."
+            sleep 5
+          done
+          exit 1
