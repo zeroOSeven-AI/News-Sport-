@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup
 import os
 
 # Mapa za spremanje kropanih slika
-OUTPUT_DIR = "images"
+OUTPUT_DIR = "images_bild"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # ============================================
