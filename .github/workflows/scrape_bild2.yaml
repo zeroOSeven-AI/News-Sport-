@@ -29,21 +29,25 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          if [ -f bild.json ]; then
-            git add bild.json
-            git commit -m "Automated Bild update" || exit 0
-            
-            for i in {1..3}; do
-              git pull origin main --rebase
-              if git push origin main; then
-                echo "Uspješan push za Bild!"
-                exit 0
-              fi
-              echo "Pokušaj $i propao, čekam 5 sekundi..."
-              sleep 5
-            done
-            exit 1
-          else
-            echo "Greška: bild.json nije pronađen!"
-            exit 1
+          # KLJUČNA PROMJENA: Dodajemo i slike i JSON
+          # Koristimo -A (All) da uhvati sve nove foldere i JPG fileove
+          git add -A
+          
+          if git diff --staged --quiet; then
+            echo "Nema promjena za commit."
+            exit 0
           fi
+
+          git commit -m "Automated update: JSON + Images" || exit 0
+          
+          # Rebase i push s ponavljanjem u slučaju konflikta
+          for i in {1..3}; do
+            git pull origin main --rebase
+            if git push origin main; then
+              echo "Uspješan push svega!"
+              exit 0
+            fi
+            echo "Pokušaj $i propao, čekam 5 sekundi..."
+            sleep 5
+          done
+          exit 1
