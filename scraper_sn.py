@@ -17,14 +17,10 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 # 🎯 FOCUS LOGIKA (Za centriranje)
 # ============================================
 def get_focus_y(ratio):
-    # Sportske često šalju portretne slike (ratio < 1)
-    # Ako je slika visoka, fokusiramo se skroz na vrh (glave)
     if ratio < 1.0:
         return 0.20
-    # Ako je kvadratna
     if 1.0 <= ratio <= 1.2:
         return 0.25
-    # Standardni landscape
     return 0.35
 
 # ============================================
@@ -36,23 +32,22 @@ def crop_to_16_9(img, focusY):
     current_ratio = w / h
 
     if current_ratio > target_ratio:
-        # Preširoko → režemo stranice
         new_w = int(h * target_ratio)
         x = (w - new_w) // 2
         return img.crop((x, 0, x + new_w, h))
     else:
-        # Previsoko → režemo visinu koristeći fokus na glave
         new_h = int(w / target_ratio)
         focus_px = int(h * focusY)
         y = max(0, min(h - new_h, focus_px - new_h // 2))
         return img.crop((0, y, w, y + new_h))
 
 # ============================================
-# 🖼️ DOWNLOAD + CROP + INFO
+# 🖼️ DOWNLOAD + CROP + RESIZE + INFO
 # ============================================
 def process_and_get_info(url, index):
     if not url or not url.startswith('http'):
         return "", 0, 0, 0
+
     try:
         headers = {'User-Agent': 'Mozilla/5.0'}
         res = requests.get(url, timeout=15, headers=headers)
@@ -61,14 +56,21 @@ def process_and_get_info(url, index):
         orig_w, orig_h = img.size
         orig_ratio = round(orig_w / orig_h, 2)
 
+        # 1. Crop
         focusY = get_focus_y(orig_ratio)
         cropped = crop_to_16_9(img, focusY)
 
-        filename = f"{OUTPUT_DIR}/sn_{index}.jpg"
-        cropped.save(filename, "JPEG", quality=85)
+        # 🔥 2. FORCE ISTA REZOLUCIJA (KLJUČNO)
+        FINAL_WIDTH = 1280
+        FINAL_HEIGHT = 720
 
-        new_w, new_h = cropped.size
-        return filename, new_w, new_h, orig_ratio
+        resized = cropped.resize((FINAL_WIDTH, FINAL_HEIGHT), Image.LANCZOS)
+
+        # 3. Save
+        filename = f"{OUTPUT_DIR}/sn_{index}.jpg"
+        resized.save(filename, "JPEG", quality=90, subsampling=0)
+
+        return filename, FINAL_WIDTH, FINAL_HEIGHT, orig_ratio
 
     except Exception as e:
         print(f"⚠️ Slika fail: {e}")
@@ -83,7 +85,7 @@ def scrape_sn():
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         context = browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
             viewport={'width': 1920, 'height': 1080}
         )
         page = context.new_page()
@@ -92,8 +94,7 @@ def scrape_sn():
             print(f"🚀 Otvaram Sportske Novosti: {url}")
             page.goto(url, wait_until="domcontentloaded", timeout=60000)
             
-            content = page.content()
-            soup = BeautifulSoup(content, 'html.parser')
+            soup = BeautifulSoup(page.content(), 'html.parser')
             
             news_items = []
             articles = soup.find_all('article')
@@ -104,12 +105,11 @@ def scrape_sn():
                 img_elem = art.find('img')
 
                 if title_elem and link_elem:
-                    # --- ČIŠĆENJE NASLOVA ---
+                    # --- NASLOV ---
                     full_text = title_elem.get_text(separator=" ", strip=True)
                     kicker = title_elem.find(['span', 'b', 'i'])
                     if kicker:
-                        kicker_text = kicker.get_text(strip=True)
-                        title = full_text.replace(kicker_text, "").strip()
+                        title = full_text.replace(kicker.get_text(strip=True), "").strip()
                     else:
                         title = full_text
                     title = re.sub(r'^[:\s–|-]+', '', title).strip()
@@ -127,9 +127,9 @@ def scrape_sn():
                     if image_url and image_url.startswith('/'):
                         image_url = "https://sportske.jutarnji.hr" + image_url
 
-                    # 🔥 OBRADA (Crop i mjerenje)
+                    # 🔥 OBRADA
                     if image_url:
-                        print(f"📸 Obrađujem sliku {len(news_items)+1}: {title[:30]}...")
+                        print(f"📸 Obrada {len(news_items)+1}: {title[:30]}...")
                         local_img, width, height, ratio = process_and_get_info(image_url, len(news_items))
                     else:
                         local_img, width, height, ratio = "", 0, 0, 0
@@ -154,12 +154,13 @@ def scrape_sn():
             with open('sportske.json', 'w', encoding='utf-8') as f:
                 json.dump(news_items, f, ensure_ascii=False, indent=4)
             
-            print(f"✅ Sportske gotove — {len(news_items)} vijesti spremno.")
+            print(f"✅ Gotovo — {len(news_items)} vijesti.")
             browser.close()
 
         except Exception as e:
             print(f"❌ Greška: {e}")
-            if 'browser' in locals(): browser.close()
+            if 'browser' in locals():
+                browser.close()
             sys.exit(1)
 
 if __name__ == "__main__":
