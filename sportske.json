@@ -24,9 +24,21 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Niko Kovač nabrojao imena: Ovakvi mu igrači nedostaju da Borussija bude - ‘svjetska‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/niko-kovac-nabrojao-imena-ovakvi-mu-igraci-nedostaju-da-borussija-bude-svjetska-15698769",
+        "image": "images_sn/sn_2.jpg",
+        "width": 640,
+        "height": 360,
+        "ratio": 1.0,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Menadžer objavio: Mirko Filipović se vraća u ring i to protiv 12 godina mlađeg borca!?",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/borilacki-sportovi/borilackisportovi-ostalo/cro-cop-povratak-fnc-hatef-moeil-borba-dijakovic-barbir-ilic-15698756",
-        "image": "images_sn/sn_2.jpg",
+        "image": "images_sn/sn_3.jpg",
         "width": 640,
         "height": 360,
         "ratio": 1.0,
@@ -38,7 +50,19 @@
     {
         "title": "Rakitić: ‘Ne možemo tražiti više od njega, njegovi nastupi već su nevjerojatni za te godine‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/rakitic-najavio-atletico-barcelona-savrsena-utakmica-i-obrana-laminea-yamala-15698761",
-        "image": "images_sn/sn_3.jpg",
+        "image": "images_sn/sn_4.jpg",
+        "width": 640,
+        "height": 360,
+        "ratio": 1.0,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Vodio ih do toliko željene titule, a sad je otpisan! Bolan kraj svega dva mjeseca prije SP-a",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/napoli-prekrizio-lukakua-izbacen-iz-kadra-i-na-transfer-listi-10-milijuna-15698768",
+        "image": "images_sn/sn_5.jpg",
         "width": 640,
         "height": 360,
         "ratio": 1.0,
@@ -50,7 +74,7 @@
     {
         "title": "Duško Vujošević ispraćen u Beogradu uz stihove legendarne hrvatske pjevačice",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/basket-international/oprostaj-duska-vujosevica-beograd-novo-groblje-aleja-zasluznih-gradana-15698664",
-        "image": "images_sn/sn_4.jpg",
+        "image": "images_sn/sn_6.jpg",
         "width": 640,
         "height": 360,
         "ratio": 1.0,
@@ -62,7 +86,7 @@
     {
         "title": "Velika vijest s Poljuda! Sjajni Španjolac nakon misterizozne ozljede ponovno na treningu Hajduka",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/iker-almena-vratio-se-treninzima-garcia-dobio-pojacanje-pred-zavrsnicu-15698740",
-        "image": "images_sn/sn_5.jpg",
+        "image": "images_sn/sn_7.jpg",
         "width": 640,
         "height": 360,
         "ratio": 1.0,
@@ -74,7 +98,7 @@
     {
         "title": "Srušio Arsenal pa najavio kraj: Kreator velike senzacije u borbi za naslov odlazi iz kluba",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/srusio-arsenal-pa-najavio-kraj-kreator-velike-senzacije-u-borbi-za-naslov-odlazi-iz-kluba-15698753",
-        "image": "images_sn/sn_6.jpg",
+        "image": "images_sn/sn_8.jpg",
         "width": 640,
         "height": 360,
         "ratio": 1.0,
@@ -86,30 +110,6 @@
     {
         "title": "Real putuje u München bez uvrijeđene zvijezde! Ispričao se svima, a sad je izbačen iz momčadi?",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/real-madrid-izbacio-asencija-za-bayern-sukob-s-arbeloom-i-sluzbena-bolest-15698633",
-        "image": "images_sn/sn_7.jpg",
-        "width": 640,
-        "height": 360,
-        "ratio": 1.0,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Strašne vijesti s Rujevice: Mladog Vatrenog dugo nećemo vidjeti, Fruk upitan za Dinamo!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/teo-barisic-ozljeda-acl-sezona-gotova-toni-fruk-spreman-za-dinamo-15698666",
-        "image": "images_sn/sn_8.jpg",
-        "width": 640,
-        "height": 360,
-        "ratio": 1.0,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Dinamo ostao bez prvotimca, stižu i loše vijesti za Rijeku! Najveći gubitnik mogao bi ispasti - Sanchez",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-rijeka-maksimir-derbi-livakovic-serija-pobjeda-sanchez-pod-pritiskom-15698629",
         "image": "images_sn/sn_9.jpg",
         "width": 640,
         "height": 360,
@@ -168,9 +168,33 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Na njega su dali milijune, više zarađuje samo Livaja, a priča je i dalje neizvjesna! Garcia dao jasan signal? Ili će produžiti suradnju, ili ga Hajduk ovog ljeta obavezno mora prodati. No, postoji i treća opcija...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/krovinovic-ljeto-odluke-rekorder-hajduka-produljenje-ili-prodaja-15698565",
+        "title": "Strašne vijesti s Rujevice: Mladog Vatrenog dugo nećemo vidjeti, Fruk upitan za Dinamo! Teo Barišić je, podsjetimo, izašao iz igre u 13. minuti dvoboja s Osijekom, a pregledi su potvrdili crne prognoze",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/teo-barisic-ozljeda-acl-sezona-gotova-toni-fruk-spreman-za-dinamo-15698666",
         "image": "images_sn/sn_14.jpg",
+        "width": 640,
+        "height": 360,
+        "ratio": 1.0,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Dinamo ostao bez prvotimca, stižu i loše vijesti za Rijeku! Najveći gubitnik mogao bi ispasti - Sanchez",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-rijeka-maksimir-derbi-livakovic-serija-pobjeda-sanchez-pod-pritiskom-15698629",
+        "image": "images_sn/sn_15.jpg",
+        "width": 640,
+        "height": 360,
+        "ratio": 1.0,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Na njega su dali milijune, više zarađuje samo Livaja, a priča je i dalje neizvjesna! Garcia dao jasan signal?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/krovinovic-ljeto-odluke-rekorder-hajduka-produljenje-ili-prodaja-15698565",
+        "image": "images_sn/sn_16.jpg",
         "width": 640,
         "height": 360,
         "ratio": 1.0,
@@ -182,7 +206,7 @@
     {
         "title": "Gorica potpisala kamerunskog stopera",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/gorica-dovela-moustaphu-hadji-issu-kamerunski-stoper-pojacanje-obrane-15698692",
-        "image": "images_sn/sn_15.jpg",
+        "image": "images_sn/sn_17.jpg",
         "width": 640,
         "height": 360,
         "ratio": 1.0,
@@ -194,7 +218,7 @@
     {
         "title": "Poderani dres Tadeja Pogačara prodan za gotovo 100 tisuća eura",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/poderani-dres-tadeja-pogacara-rekordna-aukcija-95100-eura-humanitarno-15698702",
-        "image": "images_sn/sn_16.jpg",
+        "image": "images_sn/sn_18.jpg",
         "width": 640,
         "height": 360,
         "ratio": 1.0,
@@ -206,30 +230,6 @@
     {
         "title": "FOTO: Žena koja ruši granice odradila prvi trening s nogometašima Union Berlina",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/marie-louise-eta-vodi-union-berlin-prva-trenerica-bundesliga-pet-utakmica-ostanak-15698684",
-        "image": "images_sn/sn_17.jpg",
-        "width": 640,
-        "height": 360,
-        "ratio": 1.0,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Dinamo više nije raj, a ovaj igrač je žrtva! Vušković? Šokiralo me kad su zvali novinari‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/jacek-kulig-shnl-mladi-hrvatska-srbija-talent-dinamo-hajduk-15698510",
-        "image": "images_sn/sn_18.jpg",
-        "width": 640,
-        "height": 360,
-        "ratio": 1.0,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Disciplinski sudac objavio kazne, evo koliko moraju platiti Dinamo i Hajduk",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/disciplinski-sudac-objavio-kazne-evo-koliko-moraju-platiti-dinamo-i-hajduk-15698674",
         "image": "images_sn/sn_19.jpg",
         "width": 640,
         "height": 360,
