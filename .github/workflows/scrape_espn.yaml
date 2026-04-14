@@ -1,15 +1,12 @@
 name: Update ESPN Soccer
 on:
   schedule:
-    - cron: '*/25 * * * *' # Svakih 30 minuta
-  workflow_dispatch: # Omogućuje ručno pokretanje po potrebi
+    - cron: '*/42 * * * *'
+  workflow_dispatch:
 
 jobs:
   scrape_job:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write # Dozvola za pisanje u tvoj repozitorij
-    
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -21,24 +18,30 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install playwright beautifulsoup4 lxml
-          playwright install chromium
+          pip install beautifulsoup4 lxml Pillow requests
 
-      - name: Run scraper
-        run: python scraper_espn.py  # Pazi da se tvoj Python file točno ovako zove
+      - name: Run ESPN Scraper
+        run: python scraper_espn.py
 
       - name: Commit and Push
         run: |
-          # Postavljanje Git identiteta
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Provjeravamo postoji li espn.json (koji generira tvoj Python kod)
           if [ -f espn.json ]; then
             git add espn.json
-            # Commitaj samo ako ima stvarnih promjena u vijestima
-            git commit -m "Automated ESPN update" || echo "Nema novih promjena"
-            git push
+            git commit -m "Automated ESPN update" || exit 0
+            
+            for i in {1..3}; do
+              git pull origin main --rebase
+              if git push origin main; then
+                echo "Uspješan push za ESPN!"
+                exit 0
+              fi
+              echo "Pokušaj $i propao, čekam 5 sekundi..."
+              sleep 5
+            done
+            exit 1
           else
             echo "Greška: espn.json nije pronađen!"
             exit 1
