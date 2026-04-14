@@ -26,28 +26,30 @@ jobs:
 
       - name: Commit and Push
         run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           
-          if [ -f sportske.json ]; then
-            git add sportske.json
-            # Commitamo samo ako ima promjena, inače izlazimo bez greške
-            git commit -m "Automated news update" || exit 0
-            
-            # Retry logika: pokušaj push 3 puta u slučaju kolizije
-            for i in {1..3}; do
-              git pull origin main --rebase
-              if git push origin main; then
-                echo "Uspješan push!"
-                exit 0
-              fi
-              echo "Pokušaj $i propao, čekam 5 sekundi..."
-              sleep 5
-            done
-            
-            echo "Nije uspjelo nakon 3 pokušaja."
-            exit 1
-          else
-            echo "File sportske.json nije pronađen. Scraper nije uspio."
-            exit 1
+          # 🔥 KLJUČ: Dodajemo SVE (JSON i mapu sa slikama)
+          git add -A
+          
+          # Provjera ima li uopće promjena (ako su vijesti iste, stani)
+          if git diff --staged --quiet; then
+            echo "Nema novih promjena za commit."
+            exit 0
           fi
+
+          git commit -m "Automated SN update: News + Cropped Images" || exit 0
+          
+          # Retry logika: pokušaj push 3 puta u slučaju kolizije s drugim scraperom
+          for i in {1..3}; do
+            git pull origin main --rebase
+            if git push origin main; then
+              echo "Uspješan push za Sportske!"
+              exit 0
+            fi
+            echo "Pokušaj $i propao, rebasam i čekam..."
+            sleep 5
+          done
+          
+          echo "Nije uspjelo nakon 3 pokušaja."
+          exit 1
