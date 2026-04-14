@@ -24,9 +24,21 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Španjolci hvale Atleticovog junaka, sudački ekspert tvrdi: Barcelona nije oštećena!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/spanjolci-hvale-atleticovog-junaka-sudacki-ekspert-tvrdi-barcelona-nije-ostecena-15698828",
+        "image": "images_sn/sn_2.jpg",
+        "width": 1280,
+        "height": 720,
+        "ratio": 1.0,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "VIDEO: Promašaj kakav se rijetko viđa! Pogledajte veliki gaf pa dva gola nekad najboljeg na svijetu",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/dembele-promasaj-anfield-liverpool-psg-cetvrtfinale-lige-prvaka-15698805",
-        "image": "images_sn/sn_2.jpg",
+        "image": "images_sn/sn_3.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.0,
@@ -38,7 +50,7 @@
     {
         "title": "Petković ima veće šanse otići na SP nego Beljo! I pet utakmica da uvjeri Dalića...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/petkovic-ima-vece-sanse-otici-na-sp-nego-beljo-i-pet-utakmica-da-uvjeri-dalica-15698803",
-        "image": "images_sn/sn_3.jpg",
+        "image": "images_sn/sn_4.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.0,
@@ -50,7 +62,7 @@
     {
         "title": "Došao je iz Beograda Draženu na sprovod usred rata, sada su njega ispratila dva bivša hrvatska košarkaša",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-mix/oprostaj-duska-vujosevica-beograd-sahrana-partizan-kosarka-15698780",
-        "image": "images_sn/sn_4.jpg",
+        "image": "images_sn/sn_5.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.0,
@@ -62,7 +74,7 @@
     {
         "title": "Novi mladi Vatreni nastavlja blistati! Pogledajte novu asistenciju u rušenju pretendenta na titulu",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/novi-mladi-vatreni-nastavlja-blistati-pogledajte-novu-asistenciju-u-rusenju-pretendenta-na-titulu-15698823",
-        "image": "images_sn/sn_5.jpg",
+        "image": "images_sn/sn_6.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.0,
@@ -74,7 +86,7 @@
     {
         "title": "‘Novi Fruk‘ zbog neviđenog poteza postao hit: ‘Kažu da sam kralj, čestitao mi je i predsjednik‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/ante-matic-autogol-za-fair-play-dubrava-protiv-cibalije-15698777",
-        "image": "images_sn/sn_6.jpg",
+        "image": "images_sn/sn_7.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.0,
@@ -86,7 +98,7 @@
     {
         "title": "Čitatelji SN izabrali: Ovo su imena novog stadiona u Maksimiru i Kranjčevićevoj",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/anketa-stadion-zagreb-maksimir-ostaje-cico-kranjcar-tribine-15698817",
-        "image": "images_sn/sn_7.jpg",
+        "image": "images_sn/sn_8.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.0,
@@ -98,18 +110,6 @@
     {
         "title": "Yamal se upisao u nogometnu povijest, ovo nije napravio nitko nikad prije u Ligi prvaka",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/lamine-yamal-rekord-liga-prvaka-gol-atletico-madrid-15698816",
-        "image": "images_sn/sn_8.jpg",
-        "width": 1280,
-        "height": 720,
-        "ratio": 1.0,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Stiglo objašnjenje za odluku koja je potresla čitavu Španjolsku: ‘Ne postoji očita pogreška...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/real-madrid-girona-bez-penala-var-88-minuta-mbappe-15698819",
         "image": "images_sn/sn_9.jpg",
         "width": 1280,
         "height": 720,
@@ -180,8 +180,8 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Olmo poludio na suca! Sve je napravio savršeno, ali ostaje pitanje - je li ovo penal? Tražili su gosti odmah najstrožu kaznu, ali glavni sudac Clément Turpin samo je odmahnuo rukama i rekao da se igra nastavlja",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/video-olmo-poludio-na-suca-sve-je-napravio-savrseno-ali-ostaje-pitanje-je-li-ovo-penal-15698808",
+        "title": "Stiglo objašnjenje za odluku koja je potresla čitavu Španjolsku: ‘Ne postoji očita pogreška...‘ \"Prema VAR protokolu, revizija je opravdana samo kada postoje nepobitni dokazi koji omogućuju ispravak očito pogrešne odluke\"",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/real-madrid-girona-bez-penala-var-88-minuta-mbappe-15698819",
         "image": "images_sn/sn_15.jpg",
         "width": 1280,
         "height": 720,
