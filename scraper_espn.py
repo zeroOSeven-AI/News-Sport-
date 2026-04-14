@@ -5,9 +5,8 @@ import requests
 import time
 from io import BytesIO
 from PIL import Image
-# Uvijek ostavljamo import na vrhu, on ne smeta
-from playwright.sync_api import sync_playwright
 
+# Funkcija za brzo mjerenje rezolucije slike
 def get_image_resolution(url):
     if not url or not url.startswith('http'):
         return 0, 0, 0
@@ -26,7 +25,7 @@ def clean_title(title):
     title = re.sub(r'\s*-\s*ESPN.*$', '', title, flags=re.IGNORECASE)
     return title.strip()
 
-# --- OPCIJA 1: BRZI API PRISTUP (Trenutno aktivno) ---
+# --- GLAVNA FUNKCIJA (API) ---
 def scrape_espn():
     api_url = "https://site.api.espn.com/apis/site/v2/sports/soccer/all/news?limit=50"
     
@@ -41,12 +40,15 @@ def scrape_espn():
 
     except Exception as e:
         print(f"Greška kod ESPN API-ja: {e}")
-        # Ako API padne, ovdje bi mogao automatski pozvati zakomentiranu funkciju
-        # scrape_espn_playwright() 
+        # Ako API padne, ovdje bi mogao ručno aktivirati scrape_espn_playwright()
 
-# --- OPCIJA 2: PLAYWRIGHT PRISTUP (Zakomentirano za budućnost) ---
+# --- ZAKOMENTIRANA REZERVA (Playwright) ---
+# Ako ikad zatreba, makni navodnike i pozovi ovu funkciju umjesto gornje
 """
 def scrape_espn_playwright():
+    # Import unutar funkcije sprečava ModuleNotFoundError na GitHubu
+    from playwright.sync_api import sync_playwright 
+    
     url = "https://www.espn.com/soccer/" 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -55,11 +57,7 @@ def scrape_espn_playwright():
         try:
             print(f"Otvaram ESPN preko Playwrighta: {url}")
             page.goto(url, wait_until="networkidle", timeout=60000)
-            
-            # Ovdje bi išla logika za BeautifulSoup ako skrejpamo HTML
-            # content = page.content()
-            # ...
-            
+            # Ovdje bi išla BeautifulSoup logika...
             browser.close()
         except Exception as e:
             print(f"Playwright greška: {e}")
@@ -82,7 +80,7 @@ def process_articles(articles):
             
             width, height, ratio = 0, 0, 0
             if image:
-                print(f"Mjerim sliku: {title[:40]}...")
+                print(f"Mjerim ESPN sliku: {title[:40]}...")
                 width, height, ratio = get_image_resolution(image)
 
             if not any(item['title'] == title for item in news_items):
@@ -104,7 +102,7 @@ def process_articles(articles):
 
     with open('espn.json', 'w', encoding='utf-8') as f:
         json.dump(news_items, f, ensure_ascii=False, indent=4)
-    print(f"Spremljeno {len(news_items)} vijesti.")
+    print(f"Uspješno spremljeno {len(news_items)} ESPN vijesti.")
 
 if __name__ == "__main__":
     scrape_espn()
