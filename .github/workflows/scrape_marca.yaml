@@ -29,21 +29,24 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          if [ -f marca.json ]; then
-            git add marca.json
-            git commit -m "Automated Marca update" || exit 0
-            
-            for i in {1..3}; do
-              git pull origin main --rebase
-              if git push origin main; then
-                echo "Uspješan push za Marcu!"
-                exit 0
-              fi
-              echo "Pokušaj $i propao, čekam 5 sekundi..."
-              sleep 5
-            done
-            exit 1
-          else
-            echo "Greška: marca.json nije pronađen!"
-            exit 1
+          # 🔥 KLJUČ: Dodajemo SVE (JSON i mapu sa slikama)
+          git add -A
+          
+          # Provjera ima li promjena (da bot ne spama ako nema novih vijesti)
+          if git diff --staged --quiet; then
+            echo "Nema novih vijesti ni slika za Marcu."
+            exit 0
           fi
+
+          git commit -m "Automated Marca update: News + Cropped Images" || exit 0
+          
+          for i in {1..3}; do
+            git pull origin main --rebase
+            if git push origin main; then
+              echo "Uspješan push za Marcu (sve datoteke)!"
+              exit 0
+            fi
+            echo "Pokušaj $i propao, čekam 5 sekundi..."
+            sleep 5
+          done
+          exit 1
