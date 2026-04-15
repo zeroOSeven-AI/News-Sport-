@@ -1,8 +1,20 @@
 [
     {
+        "title": "The national soccer teams with the worst records at the World Cups",
+        "link": "https://www.marca.com/en/world-cup/2026/04/15/69ded7df268e3e40318b457e.html",
+        "image": "images_marca/marca_0.jpg",
+        "width": 1280,
+        "height": 720,
+        "ratio": 1.5,
+        "source_title1": "MARCA",
+        "source_title2": "SPORT",
+        "source_color": "#ff4b00",
+        "flag": "🇪🇸"
+    },
+    {
         "title": "Video of fights in women's soccer goes viral showing that intensity has increased",
         "link": "https://www.marca.com/en/football/2026/04/15/69dec3bce2704e04658b4577.html",
-        "image": "images_marca/marca_0.jpg",
+        "image": "images_marca/marca_1.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.5,
@@ -14,7 +26,7 @@
     {
         "title": "Alexi Lalas rips U.S. Soccer leadership over Matt Crocker's Saudi move",
         "link": "https://www.marca.com/en/world-cup/2026/04/15/69debbdfe2704ec7618b4580.html",
-        "image": "images_marca/marca_1.jpg",
+        "image": "images_marca/marca_2.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.5,
@@ -26,7 +38,7 @@
     {
         "title": "Barcelona player suffers brutal blow and ends up bloodied in match against Atlético Madrid",
         "link": "https://www.marca.com/en/football/champions-league/2026/04/15/69debd08268e3e62728b4575.html",
-        "image": "images_marca/marca_2.jpg",
+        "image": "images_marca/marca_3.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.5,
@@ -38,7 +50,7 @@
     {
         "title": "Lionel Messi's injury relief arrives as Argentina receives unexpected boost before World Cup 2026",
         "link": "https://www.marca.com/en/world-cup/2026/04/14/69dea9c2e2704e0b778b4573.html",
-        "image": "images_marca/marca_3.jpg",
+        "image": "images_marca/marca_4.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.5,
@@ -50,7 +62,7 @@
     {
         "title": "Landon Donovan goes nuclear on Matt Crocker as the U.S. Soccer divorce turns ugly",
         "link": "https://www.marca.com/en/world-cup/2026/04/14/69deaf8ee2704e6d3f8b45d7.html",
-        "image": "images_marca/marca_4.jpg",
+        "image": "images_marca/marca_5.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.5,
@@ -62,7 +74,7 @@
     {
         "title": "Lionel Messi's son Ciro shows he may have double his dad's soccer IQ with a flurry of goals",
         "link": "https://www.marca.com/en/football/mls/2026/04/14/69deaba6e2704e290b8b456d.html",
-        "image": "images_marca/marca_5.jpg",
+        "image": "images_marca/marca_6.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.5,
@@ -74,7 +86,7 @@
     {
         "title": "Javier Mascherano resigns, but Inter Miami has friend of Leo Messi as elite option to replace him",
         "link": "https://www.marca.com/en/football/mls/2026/04/14/69dea35122601d8e688b4574.html",
-        "image": "images_marca/marca_6.jpg",
+        "image": "images_marca/marca_7.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.5,
@@ -86,7 +98,7 @@
     {
         "title": "Everything Messi owes to Ronaldinho and the argentine's endless gratitude",
         "link": "https://www.marca.com/en/football/barcelona/2026/04/14/69de9c7722601d47648b456f.html",
-        "image": "images_marca/marca_7.jpg",
+        "image": "images_marca/marca_8.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.5,
@@ -98,7 +110,7 @@
     {
         "title": "Which team is the best fit for the former head coach of Inter Miami, Javier Mascherano?",
         "link": "https://www.marca.com/en/football/mls/2026/04/14/69de9bb5268e3eac488b4573.html",
-        "image": "images_marca/marca_8.jpg",
+        "image": "images_marca/marca_9.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.5,
@@ -110,7 +122,7 @@
     {
         "title": "Javier Mascherano resigns from Inter Miami, LIVE updates: Reactions and everything we know so far",
         "link": "https://www.marca.com/en/football/mls/2026/04/14/69de7ce0dd250404cb6a3422-live.html",
-        "image": "images_marca/marca_9.jpg",
+        "image": "images_marca/marca_10.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.5,
@@ -122,7 +134,7 @@
     {
         "title": "Who is Ángel Guillermo Hoyos? Inter Miami's new coach is Messi's soccer \"father\"",
         "link": "https://www.marca.com/en/football/mls/2026/04/14/69de866d22601d7a5f8b4577.html",
-        "image": "images_marca/marca_10.jpg",
+        "image": "images_marca/marca_11.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.5,
@@ -134,7 +146,7 @@
     {
         "title": "Lionel Messi, the economic engine that transformed Miami",
         "link": "https://www.marca.com/en/football/mls/2026/04/14/69de7f6222601d43728b456c.html",
-        "image": "images_marca/marca_11.jpg",
+        "image": "images_marca/marca_12.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.5,
@@ -146,7 +158,7 @@
     {
         "title": "MLS and Messi in shock as Javier Mascherano quits Inter Miami head coach role",
         "link": "https://www.marca.com/en/football/mls/2026/04/14/69de7632ca47419b0e8b459c.html",
-        "image": "images_marca/marca_12.jpg",
+        "image": "images_marca/marca_13.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.5,
@@ -158,7 +170,7 @@
     {
         "title": "Cristiano Ronaldo urged to stay away from Lionel Messi and MLS",
         "link": "https://www.marca.com/en/football/mls/2026/04/14/69de723b22601d7a5f8b4570.html",
-        "image": "images_marca/marca_13.jpg",
+        "image": "images_marca/marca_14.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.5,
@@ -170,7 +182,7 @@
     {
         "title": "Robben 'eliminates' Real Madrid: \"If Bayern are focused, there's only one team that can win\"",
         "link": "https://www.marca.com/en/football/champions-league/2026/04/14/69de6299268e3eb1738b45d3.html",
-        "image": "images_marca/marca_14.jpg",
+        "image": "images_marca/marca_15.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.5,
@@ -182,7 +194,7 @@
     {
         "title": "Lamine Yamal challenges Diego Simeone ahead of the match against Atlético Madrid: \"Let's see if he does me a favor\"",
         "link": "https://www.marca.com/en/football/champions-league/2026/04/14/69de58d022601d764c8b45c9.html",
-        "image": "images_marca/marca_15.jpg",
+        "image": "images_marca/marca_16.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.5,
@@ -194,7 +206,7 @@
     {
         "title": "This is how Cuti Romero looked the day after his injury: bandaged and calm in the face of provocations",
         "link": "https://www.marca.com/en/football/premier-league/2026/04/14/69de4b6022601d21248b45c5.html",
-        "image": "images_marca/marca_16.jpg",
+        "image": "images_marca/marca_17.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.5,
@@ -206,7 +218,7 @@
     {
         "title": "Barcelona's complaints spark \"senseless comments\" backlash from Atletico Madrid fans",
         "link": "https://www.marca.com/en/football/champions-league/2026/04/14/69de490ce2704e30338b4595.html",
-        "image": "images_marca/marca_17.jpg",
+        "image": "images_marca/marca_18.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.5,
@@ -218,18 +230,6 @@
     {
         "title": "\"Game over\" for Arbeloa: Barcelona critics say the Real Madrid legend 'can't fool anyone anymore'",
         "link": "https://www.marca.com/en/football/real-madrid/2026/04/14/69de1f72e2704e1a678b4595.html",
-        "image": "images_marca/marca_18.jpg",
-        "width": 1280,
-        "height": 720,
-        "ratio": 1.5,
-        "source_title1": "MARCA",
-        "source_title2": "SPORT",
-        "source_color": "#ff4b00",
-        "flag": "🇪🇸"
-    },
-    {
-        "title": "Munich's Red Hell: Bayern issues special request to fans ahead of Real Madrid clash",
-        "link": "https://www.marca.com/en/football/champions-league/2026/04/14/69de1f92e2704e44748b4593.html",
         "image": "images_marca/marca_19.jpg",
         "width": 1280,
         "height": 720,
