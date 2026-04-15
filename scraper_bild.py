@@ -12,9 +12,9 @@ import os
 OUTPUT_DIR = "images_bild"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-# 🔒 STANDARD WIDTH (KLJUČNO)
+# 🔒 STANDARD DIMENZIJE
 TARGET_WIDTH = 1280
-TARGET_HEIGHT = int(TARGET_WIDTH * 9 / 16)
+TARGET_HEIGHT = 720  # Direktno 16:9
 
 # ============================================
 # 🎯 FOCUS LOGIKA
@@ -26,12 +26,15 @@ def get_focus_y(ratio):
         return 0.22
     if 1.2 <= ratio <= 1.6:
         return 0.35
+    # Ako ništa ne upadne, vrati sredinu (sigurnosni osigurač)
     return 0.5
 
 # ============================================
-# ✂️ CROP + RESIZE (PRAVA VERZIJA)
+# ✂️ CROP + RESIZE (FIXED)
 # ============================================
 def crop_and_resize(img):
+    # Osiguraj RGB mod (briše transparency ako postoji)
+    img = img.convert("RGB")
     w, h = img.size
     target_ratio = 16 / 9
     current_ratio = w / h
@@ -39,20 +42,19 @@ def crop_and_resize(img):
     focusY = get_focus_y(current_ratio)
 
     if current_ratio > target_ratio:
-        # PREŠIROKA → režemo strane
+        # PREŠIROKA → režemo strane simetrično
         new_w = int(h * target_ratio)
         x = (w - new_w) // 2
         cropped = img.crop((x, 0, x + new_w, h))
     else:
-        # PREVISOKA → režemo gore/dolje
+        # PREVISOKA → režemo gore/dolje prema focusY
         new_h = int(w / target_ratio)
         focus_px = int(h * focusY)
         y = max(0, min(h - new_h, focus_px - new_h // 2))
         cropped = img.crop((0, y, w, y + new_h))
 
-    # 🔥 KLJUČNO → svi dobiju ISTU DIMENZIJU
+    # 🔥 FORCE RESIZE na točne piksele
     resized = cropped.resize((TARGET_WIDTH, TARGET_HEIGHT), Image.LANCZOS)
-
     return resized
 
 # ============================================
@@ -64,8 +66,8 @@ def process_image(url, index):
 
     try:
         headers = {'User-Agent': 'Mozilla/5.0'}
-        res = requests.get(url, timeout=10, headers=headers)
-        img = Image.open(BytesIO(res.content)).convert("RGB")
+        res = requests.get(url, timeout=15, headers=headers)
+        img = Image.open(BytesIO(res.content))
 
         orig_w, orig_h = img.size
         ratio = round(orig_w / orig_h, 2)
@@ -73,12 +75,22 @@ def process_image(url, index):
         final_img = crop_and_resize(img)
 
         filename = f"{OUTPUT_DIR}/bild_{index}.jpg"
-        final_img.save(filename, "JPEG", quality=85)
+        
+        # 💾 SAVE s fiksiranim DPI-em i bez nepotrebnih metapodataka
+        final_img.save(
+            filename, 
+            "JPEG", 
+            quality=85, 
+            subsampling=0, 
+            dpi=(72, 72),
+            icc_profile=None,
+            exif=b""
+        )
 
         return filename, TARGET_WIDTH, TARGET_HEIGHT, ratio
 
     except Exception as e:
-        print(f"⚠️ Problem: {e}")
+        print(f"⚠️ Problem sa slikom {index}: {e}")
         return "", 0, 0, 0
 
 # ============================================
@@ -106,13 +118,11 @@ def scrape_bild():
             articles = soup.find_all('article')
 
             for i, art in enumerate(articles):
-
                 title_elem = art.find(['h2','h3','h4'])
                 link_elem = art.find('a', href=True)
                 img_elem = art.find('img')
 
                 if title_elem and link_elem:
-
                     title = title_elem.get_text(strip=True)
                     title = re.sub(r'^[:\s–|-]+', '', title).strip()
 
@@ -129,25 +139,25 @@ def scrape_bild():
                         if source_tag:
                             image_url = source_tag.get('srcset','').split(' ')[0]
 
-                    if image_url.startswith('/'):
+                    if image_url and image_url.startswith('/'):
                         image_url = "https://sportbild.bild.de" + image_url
 
-                    print(f"📸 {i+1}: {title[:30]}")
+                    if image_url:
+                        print(f"📸 Obrada {i+1}: {title[:30]}...")
+                        local, w, h, ratio = process_image(image_url, i)
 
-                    local, w, h, ratio = process_image(image_url, i)
-
-                    news_items.append({
-                        "title": title,
-                        "link": link,
-                        "image": local,
-                        "width": w,
-                        "height": h,
-                        "ratio": ratio,
-                        "source_title1": "SPORT",
-                        "source_title2": "BILD",
-                        "source_color": "#fc4e4e",
-                        "flag": "🇩🇪"
-                    })
+                        news_items.append({
+                            "title": title,
+                            "link": link,
+                            "image": local,
+                            "width": w,
+                            "height": h,
+                            "ratio": ratio,
+                            "source_title1": "SPORT",
+                            "source_title2": "BILD",
+                            "source_color": "#fc4e4e",
+                            "flag": "🇩🇪"
+                        })
 
                 if len(news_items) >= 20:
                     break
@@ -155,11 +165,11 @@ def scrape_bild():
             with open('bild.json', 'w', encoding='utf-8') as f:
                 json.dump(news_items, f, ensure_ascii=False, indent=4)
 
-            print("✅ GOTOVO - sve slike iste dimenzije")
+            print("✅ GOTOVO - Sve slike su sada točno 1280x720 (72 DPI)")
             browser.close()
 
         except Exception as e:
-            print("❌ Greška:", e)
+            print("❌ Greška u scraperu:", e)
             browser.close()
             sys.exit(1)
 
