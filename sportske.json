@@ -1,20 +1,8 @@
 [
     {
-        "title": "Ljubav na prvi pogled novog direktora Hajduka: ‘Zaljubio sam se u Split! Volim grad, ljude...‘ Robert Graf najavljuje pametnu kombinaciju rezultata i razvoja akademije uz jasne ciljeve i timski rad.",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/robert-graf-plan-za-hajduk-vizija-stabilnost-razvoj-mladih-15699123",
+        "title": "UŽIVO: GOOOL! Nestvaran početak u Münchenu, Real zabio na prazan gol, Bayern odmah uzvratio Utakmice Bayerna i Real Madrida, kao i Arsenala i Sportinga, pratimo i komentiramo iz minute u minutu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-bayern-real-madrid-stigli-su-sastavi-stanisic-u-prvoj-kraljevi-traze-preokret-u-munchenu-15699130",
         "image": "images_sn/sn_0.jpg",
-        "width": 1280,
-        "height": 720,
-        "ratio": 1.0,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "FOTO Pogledajte sportski centar vrijedan više od 41,5 milijuna eura, koji niče nedaleko Zagreba",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vodeni-sportovi/vodeni-sportovi-ostalo/pogledajte-sportski-centar-vrijedan-vise-od-41-5-milijuna-eura-koji-nice-nedaleko-zagreba-15699104",
-        "image": "images_sn/sn_1.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.0,
@@ -26,7 +14,67 @@
     {
         "title": "Vučević nije uspio, kakve šanse onda ima čovjek s daleko manjim referencama koji - ne poznaje Hajduk!?",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/robert-graf-novi-sportski-direktor-hajduka-riskantan-potez-15699120",
+        "image": "images_sn/sn_1.jpg",
+        "width": 1280,
+        "height": 720,
+        "ratio": 1.0,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "FOTO: Davor Šuker se napokon pojavio u javnosti i to u elitnom društvu! ‘Tu sam slučajno‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/foto-davor-suker-se-napokon-pojavio-u-javnosti-i-to-u-elitnom-drustvu-tu-sam-slucajno-15699146",
         "image": "images_sn/sn_2.jpg",
+        "width": 1280,
+        "height": 720,
+        "ratio": 1.0,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Sin je sve platio svojom karticom, a mene su tražili 50 tisuća eura da ne objave eksplicitne snimke!‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/borilacki-sportovi/judo/sin-je-sve-platio-svojom-karticom-a-mene-su-trazili-50-tisuca-eura-da-ne-objave-eksplicitne-snimke-15699147",
+        "image": "images_sn/sn_3.jpg",
+        "width": 1280,
+        "height": 720,
+        "ratio": 1.0,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Ljubav na prvi pogled novog direktora Hajduka: ‘Zaljubio sam se u Split! Volim grad, ljude...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/robert-graf-plan-za-hajduk-vizija-stabilnost-razvoj-mladih-15699123",
+        "image": "images_sn/sn_4.jpg",
+        "width": 1280,
+        "height": 720,
+        "ratio": 1.0,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "FOTO Pogledajte sportski centar vrijedan više od 41,5 milijuna eura, koji niče nedaleko Zagreba",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vodeni-sportovi/vodeni-sportovi-ostalo/pogledajte-sportski-centar-vrijedan-vise-od-41-5-milijuna-eura-koji-nice-nedaleko-zagreba-15699104",
+        "image": "images_sn/sn_5.jpg",
+        "width": 1280,
+        "height": 720,
+        "ratio": 1.0,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Leo Messi u središtu skandala: Slavni Argentinac optužen za prijevaru",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/vid-tuzi-messija-i-afa-zbog-krsenja-ugovora-i-propustenog-nastupa-15699140",
+        "image": "images_sn/sn_6.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.0,
@@ -38,7 +86,7 @@
     {
         "title": "Novi otkazi u Osijeku, smijenjen i sportski direktor! Vraća se bivši Vatreni?",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/osijek-rekonstrukcija-odlazi-koprivnjak-nesigurna-sudbina-petrovica-trazi-se-sportski-direktor-15699057",
-        "image": "images_sn/sn_3.jpg",
+        "image": "images_sn/sn_7.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.0,
@@ -50,7 +98,7 @@
     {
         "title": "Zvijezda Dinama postaje veliki problem za Talijane: ‘Mrtvi uteg kojeg skupo plaćaju...‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/bennacer-dinamo-ne-otkupljuje-povratak-u-milan-moguc-odlazak-u-saudijsku-arabiju-15699101",
-        "image": "images_sn/sn_4.jpg",
+        "image": "images_sn/sn_8.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.0,
@@ -62,54 +110,6 @@
     {
         "title": "Žestok napad na velikog šefa: ‘Modrić bi vam rekao - apsolutno ne! Želite li zamijeniti Trumpa?‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/de-laurentiis-uefa-fifa-previse-utakmica-modric-70-sezona-15699112",
-        "image": "images_sn/sn_5.jpg",
-        "width": 1280,
-        "height": 720,
-        "ratio": 1.0,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Obrat na Poljudu: Garcia saznao loše vijesti, ali Španjolac se vraća nakon 80 dana kalvarije!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-bez-sege-almena-se-vraca-uoci-slaven-belupa-15699115",
-        "image": "images_sn/sn_6.jpg",
-        "width": 1280,
-        "height": 720,
-        "ratio": 1.0,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "U Splitu je priličan cirkus, a Hrvatska bi iduće godine mogla dobiti prvog NBA All-Stara",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/puljic-polic-sportsko-jutro-split-kriza-nba-bez-hrvata-ivica-zubac-all-star-15699095",
-        "image": "images_sn/sn_7.jpg",
-        "width": 1280,
-        "height": 720,
-        "ratio": 1.0,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Drama u hrvatskom prvoligašu: Navijači upali na stadion i prekinuli trening!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/demoni-upali-na-trening-istre-traze-ostavku-oriola-riere-15699062",
-        "image": "images_sn/sn_8.jpg",
-        "width": 1280,
-        "height": 720,
-        "ratio": 1.0,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Graf je stvorio europski relevantan klub, a uveo je ‘novotariju‘ koju bi valjalo probati i u Hajduku",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/robert-graf-novi-sportski-direktor-hajduka-nasljednik-gorana-vucevica-15699083",
         "image": "images_sn/sn_9.jpg",
         "width": 1280,
         "height": 720,
@@ -180,8 +180,8 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Treba li Dalić biti zabrinut? Mundijal se bliži, a jedan od ključnih igrača je u ‘praznom hodu‘ Analizirajući ne samo ovu, već i posljednjih nekoliko sezona, uzorak je prilično jasan: Napadač gotovo u pravilu ima \"plus i minus\" faze",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/kramaricev-post-ne-brine-vatrene-sezonske-brojke-i-uloza-ostaju-jaki-15699029",
+        "title": "Obrat na Poljudu: Garcia saznao loše vijesti, ali Španjolac se vraća nakon 80 dana kalvarije! Među putnicima će biti Španjolac Iker Almena koji je posljednju utakmicu odigrao protiv Istre 1961 prije 80 dana",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-bez-sege-almena-se-vraca-uoci-slaven-belupa-15699115",
         "image": "images_sn/sn_15.jpg",
         "width": 1280,
         "height": 720,
@@ -192,8 +192,8 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Boban: ‘Barcelona nikad neće osvojiti Ligu prvaka s ovom momčadi, s napadačem poput njega...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/boban-kritizira-barcelonu-i-flicka-nakon-ispadanja-od-atletica-15698950",
+        "title": "Strmoglavi pad europskog velikana: Spiskali pola milijarde eura za ravno - nula trofeja!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/liverpool-potrosio-482-9-milijuna-eura-bez-trofeja-i-naslova-15699126",
         "image": "images_sn/sn_16.jpg",
         "width": 1280,
         "height": 720,
@@ -204,8 +204,8 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Gesta kakva se ne viđa često: Zvijezda Barcelone se ispričala zakletom rivalu nakon poraza",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/raphinha-nakon-ispadanja-barcelone-optuzio-sudenje-pa-se-ispricao-15699088",
+        "title": "U Splitu je priličan cirkus, a Hrvatska bi iduće godine mogla dobiti prvog NBA All-Stara",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/puljic-polic-sportsko-jutro-split-kriza-nba-bez-hrvata-ivica-zubac-all-star-15699095",
         "image": "images_sn/sn_17.jpg",
         "width": 1280,
         "height": 720,
@@ -216,8 +216,8 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Melje i ne misli stati! Nitko nikad prije u HNL-u nije bio ovako ubojit u tako malo vremena",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/beljo-treci-hat-trick-u-mjesec-dana-juri-hnl-rekord-i-vodi-europu-2026-15698999",
+        "title": "Drama u hrvatskom prvoligašu: Navijači upali na stadion i prekinuli trening!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/demoni-upali-na-trening-istre-traze-ostavku-oriola-riere-15699062",
         "image": "images_sn/sn_18.jpg",
         "width": 1280,
         "height": 720,
@@ -228,8 +228,8 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Koga je to Hajduk doveo?! Poljaci slave što su ga se riješili: ‘Gubitnik koji nas je uništio‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/robert-graf-novi-sportski-direktor-hajduka-poljud-rakow-lks-15698985",
+        "title": "Graf je stvorio europski relevantan klub, a uveo je ‘novotariju‘ koju bi valjalo probati i u Hajduku",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/robert-graf-novi-sportski-direktor-hajduka-nasljednik-gorana-vucevica-15699083",
         "image": "images_sn/sn_19.jpg",
         "width": 1280,
         "height": 720,
