@@ -7,94 +7,43 @@ from io import BytesIO
 from PIL import Image
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
-import os
-
-OUTPUT_DIR = "images_marca"
-os.makedirs(OUTPUT_DIR, exist_ok=True)
-
-# 🔒 STANDARD (IDENTIČNO ZA SVE)
-TARGET_WIDTH = 1280
-TARGET_HEIGHT = 720
 
 # ============================================
-# 🎯 FOCUS LOGIKA
+# 🎯 FOCUS LOGIKA (Meta-podaci za Scriptable)
 # ============================================
-def get_focus_y(ratio):
+def get_focus_y(w, h):
+    ratio = round(w / h, 2)
     if ratio > 1.6:
         return 0.30
     if 0.9 <= ratio <= 1.1:
         return 0.20
     if 1.2 <= ratio <= 1.6:
         return 0.35
-    # Osigurač ako omjer ne upadne u gornje kategorije
     return 0.5
 
 # ============================================
-# ✂️ CROP + RESIZE (FIXED)
+# 🖼️ IMAGE INFO (Dohvaćanje dimenzija bez spremanja)
 # ============================================
-def crop_and_resize(img):
-    # Osiguraj RGB mod
-    img = img.convert("RGB")
-    w, h = img.size
-    target_ratio = 16 / 9
-    current_ratio = w / h
-
-    focusY = get_focus_y(current_ratio)
-
-    if current_ratio > target_ratio:
-        # PREŠIROKA → režemo strane
-        new_w = int(h * target_ratio)
-        x = (w - new_w) // 2
-        cropped = img.crop((x, 0, x + new_w, h))
-    else:
-        # PREVISOKA → režemo gore/dolje
-        new_h = int(w / target_ratio)
-        focus_px = int(h * focusY)
-        y = max(0, min(h - new_h, focus_px - new_h // 2))
-        cropped = img.crop((0, y, w, y + new_h))
-
-    # 🔥 RESIZE na točne dimenzije
-    resized = cropped.resize((TARGET_WIDTH, TARGET_HEIGHT), Image.LANCZOS)
-    return resized
-
-# ============================================
-# 🖼️ DOWNLOAD + PROCESS
-# ============================================
-def process_and_get_info(url, index):
+def get_image_info(url):
     if not url or not url.startswith('http'):
-        return "", 0, 0, 0
-
+        return None
     try:
-        headers = {'User-Agent': 'Mozilla/5.0'}
-        res = requests.get(url, timeout=15, headers=headers)
+        headers = {'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X)'}
+        res = requests.get(url, timeout=10, headers=headers)
         img = Image.open(BytesIO(res.content))
-
-        orig_w, orig_h = img.size
-        ratio = round(orig_w / orig_h, 2)
-
-        final_img = crop_and_resize(img)
-
-        filename = f"{OUTPUT_DIR}/marca_{index}.jpg"
-        
-        # 💾 SAVE: Ključno za Scriptable (DPI + micanje metapodataka)
-        final_img.save(
-            filename, 
-            "JPEG", 
-            quality=85, 
-            subsampling=0, 
-            dpi=(72, 72),
-            icc_profile=None,
-            exif=b""
-        )
-
-        return filename, TARGET_WIDTH, TARGET_HEIGHT, ratio
-
+        w, h = img.size
+        return {
+            "url": url,
+            "w": w,
+            "h": h,
+            "focus_y": get_focus_y(w, h)
+        }
     except Exception as e:
-        print(f"⚠️ Slika fail na indexu {index}: {e}")
-        return "", 0, 0, 0
+        print(f"⚠️ Image info error: {e}")
+        return None
 
 # ============================================
-# 📰 SCRAPER
+# 📰 MARCA SCRAPER
 # ============================================
 def scrape_marca():
     url = "https://www.marca.com/en/football.html"
@@ -102,21 +51,23 @@ def scrape_marca():
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         context = browser.new_context(
-            user_agent="Mozilla/5.0",
-            viewport={'width': 1920, 'height': 1080}
+            user_agent="Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X)",
+            viewport={'width': 390, 'height': 844}
         )
         page = context.new_page()
 
         try:
-            print("🚀 Otvaram Marcu...")
-            page.goto(url, wait_until="domcontentloaded", timeout=60000)
-            time.sleep(3)
+            print("🚀 Otvaram Marcu (Meta-data mode)...")
+            page.goto(url, wait_until="networkidle", timeout=60000)
+            # Skrolanje da se učitaju slike
+            page.evaluate("window.scrollBy(0, 1500)")
+            time.sleep(2)
 
             soup = BeautifulSoup(page.content(), 'html.parser')
             news_items = []
             articles = soup.find_all('article')
 
-            for i, art in enumerate(articles):
+            for art in articles:
                 title_elem = art.find(['h2', 'h3'])
                 link_elem = art.find('a', href=True)
                 img_elem = art.find('img')
@@ -126,11 +77,16 @@ def scrape_marca():
 
                 title = title_elem.get_text(strip=True)
                 link = link_elem['href']
+                if not link.startswith('http'):
+                    link = "https://www.marca.com" + link
 
                 image_url = ""
                 if img_elem:
-                    image_url = img_elem.get('src') or img_elem.get('data-src')
-                    if image_url and 'pixel.gif' in image_url:
+                    image_url = img_elem.get('src') or img_elem.get('data-src') or img_elem.get('srcset')
+                    if image_url and ',' in image_url:
+                        image_url = image_url.split(',')[0].split(' ')[0]
+                    
+                    if image_url and ('pixel.gif' in image_url or image_url.startswith('data:')):
                         image_url = ""
 
                 if not image_url:
@@ -142,17 +98,21 @@ def scrape_marca():
                     image_url = "https:" + image_url
 
                 if image_url:
-                    print(f"📸 Obrada {len(news_items)+1}: {title[:40]}...")
-                    local_img, w, h, ratio = process_and_get_info(image_url, len(news_items))
+                    # Provjera duplikata
+                    if any(item['title'] == title for item in news_items):
+                        continue
+                        
+                    print(f"✅ Dohvaćam info: {title[:40]}...")
+                    info = get_image_info(image_url)
                     
-                    if local_img:
+                    if info:
                         news_items.append({
                             "title": title,
                             "link": link,
-                            "image": local_img,
-                            "width": w,
-                            "height": h,
-                            "ratio": ratio,
+                            "image_url": info["url"],
+                            "w": info["w"],
+                            "h": info["h"],
+                            "focus_y": info["focus_y"],
                             "source_title1": "MARCA",
                             "source_title2": "SPORT",
                             "source_color": "#ff4b00",
@@ -165,7 +125,7 @@ def scrape_marca():
             with open('marca.json', 'w', encoding='utf-8') as f:
                 json.dump(news_items, f, ensure_ascii=False, indent=4)
 
-            print("✅ MARCA GOTOVO - Sve slike su uniformne (1280x720, 72 DPI)")
+            print(f"✅ MARCA GOTOVO - Generiran JSON sa {len(news_items)} vijesti.")
             browser.close()
 
         except Exception as e:
