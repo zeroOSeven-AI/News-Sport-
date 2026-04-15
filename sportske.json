@@ -1,8 +1,44 @@
 [
     {
-        "title": "Hajduk imenovao novog sportskog direktora ‘Gospodin Graf javnosti će biti predstavljen na konferenciji za medije koja će se održati u subotu‘, objavio je Hajduk",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/robert-graf-novi-sportski-direktor-hajduka-stize-iz-poljske-15698894",
+        "title": "Bivši Vatreni na spektaklu: ‘To će biti vatromet! Čovjek s 40 godina izgleda kao u najboljim danima‘ Bayern je u prednosti, ali znamo kakav je Real, „kralj” Lige prvaka, uvijek je sposoban vratiti se u život - smatra naš bivši reprezentativac i nogometaš Bayerna, Danijel Pranjić",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/pranjic-najavljuje-bayern-real-neuer-kljuc-kontre-odlucuju-15698930",
         "image": "images_sn/sn_0.jpg",
+        "width": 1280,
+        "height": 720,
+        "ratio": 1.0,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Hajduk imenovao novog sportskog direktora",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/robert-graf-novi-sportski-direktor-hajduka-stize-iz-poljske-15698894",
+        "image": "images_sn/sn_1.jpg",
+        "width": 1280,
+        "height": 720,
+        "ratio": 1.0,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Boban: ‘Barcelona nikad neće osvojiti Ligu prvaka s ovom momčadi, s napadačem poput njega...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/boban-kritizira-barcelonu-i-flicka-nakon-ispadanja-od-atletica-15698950",
+        "image": "images_sn/sn_2.jpg",
+        "width": 1280,
+        "height": 720,
+        "ratio": 1.0,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Umro je José Emilio Santamaría, legenda Real Madrida i svjetskog nogometa",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/umro-je-jose-emilio-santamaria-legenda-real-madrida-i-svjetskog-nogometa-15698955",
+        "image": "images_sn/sn_3.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.0,
@@ -14,7 +50,7 @@
     {
         "title": "Otkrivamo pozadinu sastanka hrvatskog reprezentativca i slavnog svjetskog menadžera u Londonu",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/kramaric-odluka-hoffenheim-novi-ugovor-pini-zahavi-transfer-opcije-15698903",
-        "image": "images_sn/sn_1.jpg",
+        "image": "images_sn/sn_4.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.0,
@@ -26,7 +62,7 @@
     {
         "title": "HJS nakon dolaska policije po nalogu USKOK-a u prostorije Saveza: ‘Oni više nisu naši zaposlenici‘",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/borilacki-sportovi/judo/hjs-demantira-nepravilnosti-pokrece-internu-provjeru-suradnja-s-uskokom-15698921",
-        "image": "images_sn/sn_2.jpg",
+        "image": "images_sn/sn_5.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.0,
@@ -38,7 +74,7 @@
     {
         "title": "Dule ga je ‘stvorio‘, a ovaj mu nije došao na sprovod niti se oglasio. Svi se pitaju zašto...",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/basket-euroliga/milutinov-izostao-s-pogreba-duska-vujosevica-reakcije-navijaca-partizana-15698879",
-        "image": "images_sn/sn_3.jpg",
+        "image": "images_sn/sn_6.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.0,
@@ -50,7 +86,7 @@
     {
         "title": "FOTO: Izraz lica Danija Olma obilazi svijet, bivšem dinamovcu srušio se cijeli svijet",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/barcelona-ispala-olmo-igrac-utakmice-pobjeda-2-1-nedovoljna-protiv-atletica-15698910",
-        "image": "images_sn/sn_4.jpg",
+        "image": "images_sn/sn_7.jpg",
         "width": 1280,
         "height": 720,
         "ratio": 1.0,
@@ -62,42 +98,6 @@
     {
         "title": "Simeone: ‘Deset godina me terorizirao Ronaldo, vi biste da se užasavam tinejdžera Yamala?‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/simeone-prizemljio-yamala-atletico-u-polufinalu-barcelona-ispala-15698857",
-        "image": "images_sn/sn_5.jpg",
-        "width": 1280,
-        "height": 720,
-        "ratio": 1.0,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Francuska zvijezda doživjela jednu od najtežih ozljeda u nogometu! Propustit će SP?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/psg-svladao-liverpool-2-0-ozljeda-huga-ekitikea-slot-pod-pritiskom-15698885",
-        "image": "images_sn/sn_6.jpg",
-        "width": 1280,
-        "height": 720,
-        "ratio": 1.0,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Eduardo da Silva za SN: Čestitam Dinamu na novom naslovu prvaka, a Belji želim samo jednu stvar!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/eduardo-iz-rija-beljo-juri-rekord-dinamo-ide-po-naslov-15698832",
-        "image": "images_sn/sn_7.jpg",
-        "width": 1280,
-        "height": 720,
-        "ratio": 1.0,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Livaja skočio i na vječnoj ljestvici SHNL-a! Evo što bi moglo biti ključno za ostanak u Splitu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/livaja-juri-segu-i-vjecne-legende-kapetan-opet-pali-poljud-15698862",
         "image": "images_sn/sn_8.jpg",
         "width": 1280,
         "height": 720,
@@ -108,8 +108,8 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "U Barceloni će sanjati ovog čovjeka! Treći put im je zadao konačni udarac i postao - neuništiv",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/atletico-izbacio-barcelonu-ide-u-polufinale-lige-prvaka-15698845",
+        "title": "Kane i Mbappé sudaraju se kao dva stroja za golove, dvije sudbine",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kane-mbappe-obracun-allianz-arena-bayern-real-madrid-duel-golgetera-15698935",
         "image": "images_sn/sn_9.jpg",
         "width": 1280,
         "height": 720,
@@ -180,8 +180,8 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Riera i dalje ‘tvrd‘ po pitanju kapetana, samo jedan čovjek misli da je njegov ostanak dobro rješenje Njihovi su stavovi na suprotnim polovima, a uvjerljiv je dojam da Riera Radoševića neće koristiti ni protiv Vukovara...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/istra-1961-vukovar-1991-radosevic-izvan-plana-riera-pod-pritiskom-15698876",
+        "title": "VIDEO: Francuska zvijezda doživjela jednu od najtežih ozljeda u nogometu, propustit će i SP! Ako je došlo do puknuća, riječ je o ozljedi koja slovi kao jedna od najtežih u sportu, uz bok pucanju križnih ligamenata",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/psg-svladao-liverpool-2-0-ozljeda-huga-ekitikea-slot-pod-pritiskom-15698885",
         "image": "images_sn/sn_15.jpg",
         "width": 1280,
         "height": 720,
@@ -192,8 +192,8 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Lamelo Ball košem pet sekundi prije kraja izbacio Miami, Phoenix prosuo sve u ludoj završnici",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/play-in-hornetsi-izbacili-heat-blazersi-sokirali-sunse-lamelo-ball-deni-avdija-15698868",
+        "title": "Eduardo da Silva za SN: Čestitam Dinamu na novom naslovu prvaka, a Belji želim samo jednu stvar!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/eduardo-iz-rija-beljo-juri-rekord-dinamo-ide-po-naslov-15698832",
         "image": "images_sn/sn_16.jpg",
         "width": 1280,
         "height": 720,
@@ -204,8 +204,8 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Legenda Vatrenih u društvu Maradone, Cruyffa, Puskása...? Jednog dana tamo će biti i Modrić",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/davor-suker-kandidat-meksicka-kuca-slavnih-pachuca-15698848",
+        "title": "Livaja skočio i na vječnoj ljestvici SHNL-a! Evo što bi moglo biti ključno za ostanak u Splitu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/livaja-juri-segu-i-vjecne-legende-kapetan-opet-pali-poljud-15698862",
         "image": "images_sn/sn_17.jpg",
         "width": 1280,
         "height": 720,
@@ -216,8 +216,8 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Zvijezda Barcelone provocirala i optuživala za ‘pljačku‘, stigao mu odgovor: ‘To je suludo!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/raphinha-napao-sudenje-musso-odgovorio-atletico-barcelona-liga-prvaka-15698836",
+        "title": "U Barceloni će sanjati ovog čovjeka! Treći put im je zadao konačni udarac i postao - neuništiv",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/atletico-izbacio-barcelonu-ide-u-polufinale-lige-prvaka-15698845",
         "image": "images_sn/sn_18.jpg",
         "width": 1280,
         "height": 720,
@@ -228,8 +228,8 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Olmo: ‘Već dvije godine padamo ovako‘; Simeone: ‘Samo je jedan način za suočiti se s Barcom‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/atletico-u-polufinalu-unatoc-porazu-od-barcelone-liga-prvaka-15698826",
+        "title": "Riera i dalje ‘tvrd‘ po pitanju kapetana, samo jedan čovjek misli da je njegov ostanak dobro rješenje",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/istra-1961-vukovar-1991-radosevic-izvan-plana-riera-pod-pritiskom-15698876",
         "image": "images_sn/sn_19.jpg",
         "width": 1280,
         "height": 720,
