@@ -86,7 +86,7 @@ def clean_title(title):
 # 📰 ESPN API
 # ============================================
 def scrape_espn():
-    api_url = "https://site.api.espn.com/apis/site/v2/sports/soccer/all/news?limit=50"
+    api_url = "https://site.api.espn.com/apis/site/v2/sports/soccer/news?limit=50"
 
     try:
         print("🚀 ESPN API...")
