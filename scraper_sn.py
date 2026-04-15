@@ -22,10 +22,10 @@ TARGET_HEIGHT = 720
 # ============================================
 def get_focus_y(ratio):
     if ratio < 1.0:
-        return 0.20
+        return 0.40
     if 1.0 <= ratio <= 1.2:
-        return 0.25
-    return 0.35
+        return 0.35
+    return 0.50
 
 # ============================================
 # ✂️ CROP + RESIZE (STRIKTNI STANDARD)
