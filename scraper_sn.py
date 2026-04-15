@@ -102,4 +102,75 @@ def scrape_sn():
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
             viewport={'width': 1920, 'height': 1080}
         )
-        page =
+        # OVDJE JE BILA GREŠKA - linija mora biti potpuna:
+        page = context.new_page()
+
+        try:
+            print(f"🚀 Otvaram Sportske Novosti...")
+            page.goto(url, wait_until="domcontentloaded", timeout=60000)
+            
+            soup = BeautifulSoup(page.content(), 'html.parser')
+            news_items = []
+            articles = soup.find_all('article')
+
+            for i, art in enumerate(articles):
+                title_elem = art.find(['h2', 'h3', 'h4'])
+                link_elem = art.find('a', href=True)
+                img_elem = art.find('img')
+
+                if title_elem and link_elem:
+                    full_text = title_elem.get_text(separator=" ", strip=True)
+                    kicker = title_elem.find(['span', 'b', 'i'])
+                    if kicker:
+                        title = full_text.replace(kicker.get_text(strip=True), "").strip()
+                    else:
+                        title = full_text
+                    
+                    title = re.sub(r'^[:\s–|-]+', '', title).strip()
+                    
+                    link = link_elem['href']
+                    if link.startswith('/'):
+                        link = "https://sportske.jutarnji.hr" + link
+                    
+                    image_url = ""
+                    if img_elem:
+                        image_url = img_elem.get('data-src') or img_elem.get('src') or ""
+                    
+                    if image_url and image_url.startswith('/'):
+                        image_url = "https://sportske.jutarnji.hr" + image_url
+
+                    if image_url:
+                        print(f"📸 Obrada {len(news_items)+1}: {title[:30]}...")
+                        local_img, width, height, ratio = process_and_get_info(image_url, len(news_items))
+                        
+                        if local_img and not any(item['title'] == title for item in news_items):
+                            news_items.append({
+                                "title": title,
+                                "link": link,
+                                "image": local_img,
+                                "width": width,
+                                "height": height,
+                                "ratio": ratio,
+                                "source_title1": "SPORTSKE",
+                                "source_title2": "NOVOSTI",
+                                "source_color": "#007aff",
+                                "flag": "🇭🇷"
+                            })
+
+                if len(news_items) >= 20:
+                    break
+
+            with open('sportske.json', 'w', encoding='utf-8') as f:
+                json.dump(news_items, f, ensure_ascii=False, indent=4)
+            
+            print(f"✅ SN GOTOVO — {len(news_items)} vijesti spremljeno.")
+            browser.close()
+
+        except Exception as e:
+            print(f"❌ Greška u scraperu: {e}")
+            if 'browser' in locals():
+                browser.close()
+            sys.exit(1)
+
+if __name__ == "__main__":
+    scrape_sn()
