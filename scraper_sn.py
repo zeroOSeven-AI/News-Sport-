@@ -102,7 +102,6 @@ def scrape_sn():
             user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
             viewport={'width': 1920, 'height': 1080}
         )
-        # OVDJE JE BILA GREŠKA - linija mora biti potpuna:
         page = context.new_page()
 
         try:
@@ -163,13 +162,12 @@ def scrape_sn():
             with open('sportske.json', 'w', encoding='utf-8') as f:
                 json.dump(news_items, f, ensure_ascii=False, indent=4)
             
-            print(f"✅ SN GOTOVO — {len(news_items)} vijesti spremljeno.")
+            print(f"✅ SN GOTOVO — Sve slike su sada točno {TARGET_WIDTH}x{TARGET_HEIGHT}")
             browser.close()
 
         except Exception as e:
-            print(f"❌ Greška u scraperu: {e}")
-            if 'browser' in locals():
-                browser.close()
+            print(f"❌ Greška: {e}")
+            browser.close()
             sys.exit(1)
 
 if __name__ == "__main__":
