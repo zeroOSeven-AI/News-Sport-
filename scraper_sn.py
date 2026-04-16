@@ -14,10 +14,10 @@ from bs4 import BeautifulSoup
 def get_focus_y(w, h):
     ratio = round(w / h, 2)
     if ratio < 1.0:
-        return 0.40
-    if 1.0 <= ratio <= 1.2:
         return 0.35
-    return 0.50
+    if 1.0 <= ratio <= 1.2:
+        return 0.30
+    return 0.45
 
 # ============================================
 # 🖼️ IMAGE INFO (Dohvaćanje dimenzija)
