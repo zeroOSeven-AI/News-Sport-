@@ -1,6 +1,18 @@
 [
     {
-        "title": "‘Tražila je 70.000 eura ili ide na psihijatriju! Do danas o ovomu nismo smjeli javno govoriti‘ HJS od svoje bivše zaposlenice potražuje i račun za ljetovanje nje i njezinih kćeri u Poreču, a dok je bila na bolovanju, koristila je INA poslovnu karticu Saveza za osobne svrhe",
+        "title": "Potresne vijesti iz Njemačke, hrvatski rukometaš bori se s teškom bolesti Njegov bivši klub, Göppingen, objavio je tužnu vijest. \"O rukometu se sada uopće ne može razmišljati...\"",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/josip-sarac-tesko-bolestan-goppingen-potvrdio-prioritet-oporavak-15699484",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_34600665_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Tražila je 70.000 eura ili ide na psihijatriju! Do danas o ovomu nismo smjeli javno govoriti‘",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/borilacki-sportovi/judo/trazila-je-70-000-eura-ili-ide-na-psihijatriju-do-danas-o-ovomu-nismo-smjeli-javno-govoriti-15699462",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_38761262_640.jpg",
         "w": 640,
@@ -15,6 +27,18 @@
         "title": "Fascinantno što je Pavlek napravio prije izbijanja afere! ‘Savezi su stvorili paralelni, lopovski sustav!‘",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/borilacki-sportovi/judo/uskok-judo-afera-paralelni-sustav-sutnja-odbora-15699404",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_35955629_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Daliću se ovo neće svidjeti, Nijemci će riskirati s Vatrenim: ‘S obzirom na važnost utakmice...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/vuskovic-hsv-werder-bremen-odluka-petak-ozljeda-rizik-borba-za-opstanak-15699476",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_38643407_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,9 +120,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hrvatska saznala protivnike na EP-u, ždrijeb nas spojio sa Srbijom!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hrvatska-u-19-skupina-b-italija-srbija-ukrajina-euro-wales-2024-15699397",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_38671974_640.jpg",
+        "title": "Fascinantno što je Pavlek napravio prije izbijanja afere! ‘Savezi su...",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/borilacki-sportovi/judo/uskok-judo-afera-paralelni-sustav-sutnja-odbora-15699404",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_35955629_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -108,19 +132,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Tiha napetost između Dinama i Dalića: Izbornik s jednim trenerom nije imao nikakvu komunikaciju",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/beljo-rekordi-dalic-obrambena-filozofija-rasprava-poziv-hrvatska-15699352",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/15/k_38646980_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Čudesan kraj antologijske utakmice, Bayern u zadnjim...",
+        "title": "VIDEO: Čudesan kraj antologijske utakmice, Bayern u zadnjim minutama šokirao Real! Slavlje u Londonu",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/video-cudesan-kraj-antologijske-utakmice-bayern-u-zadnjim-minutama-sokirao-real-slavlje-u-londonu-15699130",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/15/k_38758773_640.jpg",
         "w": 640,
@@ -168,7 +180,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Jerko Leko planira srušiti Real: ‘Naš tihi lider ima budućnost u Dinamu. Lijepo je biti u ovakvom društvu‘ ‘Tek ćemo analizirati Real, u prvenstvu želimo dobiti sve do kraja, a ako to učine i Lokosi, nemam što drugo nego im čestitati‘",
+        "title": "Hrvatska saznala protivnike na EP-u, ždrijeb nas spojio sa Srbijom! Turnir traje od 28. lipnja do 11. srpnja, domaćin je Wales, a rekordni osvajač Španjolska s devet trofeja",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hrvatska-u-19-skupina-b-italija-srbija-ukrajina-euro-wales-2024-15699397",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_38671974_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Tiha napetost između Dinama i Dalića: Izbornik s jednim trenerom nije imao nikakvu komunikaciju",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/beljo-rekordi-dalic-obrambena-filozofija-rasprava-poziv-hrvatska-15699352",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/15/k_38646980_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Jerko Leko planira srušiti Real: ‘Naš tihi lider ima budućnost u Dinamu. Lijepo je biti u ovakvom društvu‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-u19-finale-london-real-madrid-castilla-valencija-4-3-15699383",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_35028443_640.jpg",
         "w": 640,
@@ -195,42 +231,6 @@
         "title": "Gonzalo Garcia o Grafu i zdravstvenom kartonu: ‘Želi surađivati, a ovaj igrač ne ide s nama‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/hajduk-peta-pobjeda-garcia-belupo-koprivnica-livaja-rebic-15699356",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_38744558_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Dinamo ima jasan plan, ali ‘nemoguću želju‘ na Maksimiru mogao bi pokvariti bivši hajdukovac",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-livakovic-ostanak-maksimir-fenerbahce-ponude-club-brugge-mignolet-transfer-15699292",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_38405811_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Da sam mogao, sigurno bih otišao na Duletov sprovod, a ovo je velika stvar za Hrvatsku‘",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/basket-international/da-sam-mogao-sigurno-bih-otisao-na-duletov-sprovod-a-ovo-je-velika-stvar-za-hrvatsku-15699367",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/15/k_36896319_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘On je na visokoj razini zbog utjecaja slovenskog lobija! Pokazao je da mu tu više nije mjesto‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/anonimni-sudac-vincic-prestrogo-iskljucio-camavingu-bayern-real-15699306",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_27013389_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
