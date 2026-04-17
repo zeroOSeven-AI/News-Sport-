@@ -12,6 +12,30 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Težak udarac za Rijeku, Sanchez uoči Dinama potvrdio najgore vijesti: ‘Ima ozbiljnu ozljedu...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/rijeka/rijeka-bez-tonija-fruka-na-maksimiru-sanchez-najavio-derbi-s-dinamom-15699716",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/17/k_38715267_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Vinčić je ‘pomogao‘ i Realu, a svađa zvijezda otkrila narušenu svlačionicu. Perez gubi energiju?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/real-se-raspao-u-munchenusvada-zvijezda-razotkrila-kaos-i-kraj-ere-15699731",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_38758449_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Bruno Petković ponovo ozlijeđen! Sezona pod upitnikom, bivši Modri gubi svaku šansu za SP?",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/bruno-petkovic-nova-ozljeda-kocaelispor-upitan-kraj-sezone-15699674",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/17/k_36386677_640.jpg",
@@ -96,30 +120,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Prvak stiže lideru: Rijeka teško može pobjeći od etikete autsajdera na Maksimiru",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/dinamo-rijeka-maksimir-derbi-oslabljena-rijeka-crna-serija-forma-15699668",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_38327444_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Spektakl Vatrenog i ekipe, naklonili im se čak i protivnički navijači: ‘O ovome ću pričati djeci‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/spektakl-vatrenog-i-ekipe-naklonili-im-se-cak-i-protivnicki-navijaci-o-ovome-cu-pricati-djeci-15699621",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/17/k_38762920_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Fascinantno što je Pavlek napravio prije izbijanja afere! ‘Savezi su...",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/borilacki-sportovi/judo/uskok-judo-afera-paralelni-sustav-sutnja-odbora-15699404",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_35955629_640.jpg",
@@ -180,45 +180,33 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dinamo ne smije prodati Belju i Stojkovića, a Dalićev izbor za SP ima skromne brojke U Hajduku nisu prošli ni Stanić, Vučević i Kalinić, a novi sportski direktor već traži budžet za pojačanja",
+        "title": "Prvak stiže lideru: Rijeka teško može pobjeći od etikete autsajdera na Maksimiru Povijest pamti da su i slabije Rijeke znale uzeti puni plijen na Maksimiru, pa ni ovu, koliko god načetu i umornu, ne treba unaprijed otpisati",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/dinamo-rijeka-maksimir-derbi-oslabljena-rijeka-crna-serija-forma-15699668",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_38327444_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Spektakl Vatrenog i ekipe, naklonili im se čak i protivnički navijači: ‘O ovome ću pričati djeci‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/spektakl-vatrenog-i-ekipe-naklonili-im-se-cak-i-protivnicki-navijaci-o-ovome-cu-pricati-djeci-15699621",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/17/k_38762920_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Dinamo ne smije prodati Belju i Stojkovića, a Dalićev izbor za SP ima skromne brojke",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/borilacki-sportovi/judo/graf-u-hajduku-osijek-trazi-sportskog-direktora-dinamo-27-mil-bayern-real-4-3-15699522",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_38715647_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Janica ju je prozvala ‘novom Janicom‘: Ovo je priča o gubitku jedne generacije i novom početku",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/skijanje/sasa-trsinski-od-skijanja-do-eu-projekata-u-zaboku-15699568",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_38752541_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Realu zbog odlaska Modrića nedostaje vođa, a tu grešku su sada shvatili‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/realu-zbog-odlaska-modrica-nedostaje-voda-a-tu-gresku-su-sada-shvatili-15699582",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/17/k_37146340_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Ako im se otvori, to bi bio show! Tri Hrvata u najboljoj drugoj ligi svijeta sanjaju Vatrene",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/brekalo-ljubicic-simic-hrvati-u-2-bundesligi-uspon-povratak-15699565",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/15/k_38280384_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -231,6 +219,18 @@
         "title": "Potresne vijesti iz Njemačke, hrvatski rukometaš bori se s teškom bolesti",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/josip-sarac-tesko-bolestan-goppingen-potvrdio-prioritet-oporavak-15699484",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_34600665_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Janica ju je prozvala ‘novom Janicom‘: Ovo je priča o gubitku jedne generacije i novom početku",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/skijanje/sasa-trsinski-od-skijanja-do-eu-projekata-u-zaboku-15699568",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_38752541_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
