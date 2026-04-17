@@ -23,25 +23,25 @@ def get_image_info(url):
         headers = {'User-Agent': 'Mozilla/5.0'}
         res = requests.get(url, timeout=10, headers=headers)
         
-        # PROVJERA TEŽINE DATOTEKE (u bajtovima)
-        # Ove njihove grafike su obično jako lagane (npr. ispod 30KB)
+        # PROVJERA TEŽINE: Prave fotke su teže, grafike su lagane
         content_length = len(res.content)
-        if content_length < 35000: # 35KB prag - prilagodi ako treba
-            print(f"⚠️ Slika odbijena zbog težine ({content_length} bytes): {url[:50]}")
+        if content_length < 35000: # Sve ispod 35KB smatramo grafikom
             return None
 
         img = Image.open(BytesIO(res.content))
         w, h = img.size
         return {"url": url, "w": w, "h": h, "focus_y": get_focus_y(w, h)}
-    except Exception as e:
-        print(f"❌ Error u get_image_info: {e}")
+    except:
         return None
 
 def scrape_bild():
     url = "https://m.sportbild.bild.de/"
-    # Dodajemo ID-ove koje si poslao kao sumnjive
-    trash_markers = ["7af5745e", "eb64ff1c", "bitter", "overlay", "live-ticker"]
-    placeholder = "https://raw.githubusercontent.com/zeroOSeven-AI/News-Sport-/main/placeholder.png"
+    
+    # Lista markera za smeće - uključujući tvoj zadnji primjer
+    trash_markers = [
+        "7af5745e", "eb64ff1c", "4d38f5802dd09cf2ce001869bbc2bccd", 
+        "bitter", "overlay", "live-ticker", "banner"
+    ]
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -52,7 +52,7 @@ def scrape_bild():
         page = context.new_page()
 
         try:
-            print(f"🚀 Pokrećem scraping s provjerom težine slika...")
+            print(f"🚀 Scraping Bild (Striktni mod bez placeholdera)...")
             page.goto(url, wait_until="networkidle", timeout=60000)
             page.evaluate("window.scrollBy(0, 3500)")
             time.sleep(5)
@@ -72,26 +72,28 @@ def scrape_bild():
                     if link.startswith('/'): link = "https://sportbild.bild.de" + link
 
                     valid_img = None
-                    # Prolazimo kroz sve slike u članku da nađemo onu koja nije banner
                     for img in all_imgs:
                         tmp_url = img.get('data-src') or img.get('src')
                         if not tmp_url: continue
                         if tmp_url.startswith('/'): tmp_url = "https://sportbild.bild.de" + tmp_url
                         
-                        # Prva provjera: URL markeri
-                        if any(m in tmp_url.lower() for m in trash_markers):
+                        # Čistimo URL za provjeru
+                        clean_url = tmp_url.split('?')[0]
+                        
+                        # Provjera markera
+                        if any(m in clean_url.lower() for m in trash_markers):
                             continue
                         
-                        # Druga provjera: Težina i dimenzije
+                        # Provjera težine i dimenzija
                         info = get_image_info(tmp_url)
                         if info:
                             valid_img = info
                             break
                     
-                    # Ako nismo našli ništa čisto, koristi placeholder da ostane najnovija vijest
+                    # AKO NEMA ČISTE SLIKE, PRESKOČI CIJELU VIJEST (Bez placeholdera!)
                     if not valid_img:
-                        print(f"ℹ️ Koristim placeholder za: {title[:30]}")
-                        valid_img = {"url": placeholder, "w": 800, "h": 600, "focus_y": 0.3}
+                        print(f"⏭️ Preskačem vijest jer je slika smeće: {title[:30]}")
+                        continue
 
                     news_items.append({
                         "title": title,
@@ -111,7 +113,7 @@ def scrape_bild():
             if news_items:
                 with open("bild.json", 'w', encoding='utf-8') as f:
                     json.dump(news_items, f, ensure_ascii=False, indent=4)
-                print(f"🎉 bild.json spreman. Ukupno: {len(news_items)}")
+                print(f"🎉 bild.json spreman. Ukupno čistih vijesti: {len(news_items)}")
             
             browser.close()
         except Exception as e:
