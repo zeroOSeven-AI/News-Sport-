@@ -22,18 +22,26 @@ def get_image_info(url):
     try:
         headers = {'User-Agent': 'Mozilla/5.0'}
         res = requests.get(url, timeout=10, headers=headers)
+        
+        # PROVJERA TEŽINE DATOTEKE (u bajtovima)
+        # Ove njihove grafike su obično jako lagane (npr. ispod 30KB)
+        content_length = len(res.content)
+        if content_length < 35000: # 35KB prag - prilagodi ako treba
+            print(f"⚠️ Slika odbijena zbog težine ({content_length} bytes): {url[:50]}")
+            return None
+
         img = Image.open(BytesIO(res.content))
         w, h = img.size
-        # Grafike su često fiksne širine, prave fotke su veće
         return {"url": url, "w": w, "h": h, "focus_y": get_focus_y(w, h)}
-    except:
+    except Exception as e:
+        print(f"❌ Error u get_image_info: {e}")
         return None
 
 def scrape_bild():
     url = "https://m.sportbild.bild.de/"
-    trash_indicators = ["7af5745e", "b481d26b", "f61f5128", "ticker", "banner", "bitter", "overlay", "live-score"]
-    # Link na tvoj logo ili neku čistu sportsku pozadinu na tvom GitHubu
-    placeholder_img = "https://raw.githubusercontent.com/zeroOSeven-AI/News-Sport-/main/placeholder.png"
+    # Dodajemo ID-ove koje si poslao kao sumnjive
+    trash_markers = ["7af5745e", "eb64ff1c", "bitter", "overlay", "live-ticker"]
+    placeholder = "https://raw.githubusercontent.com/zeroOSeven-AI/News-Sport-/main/placeholder.png"
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -44,9 +52,9 @@ def scrape_bild():
         page = context.new_page()
 
         try:
-            print(f"🚀 Scraping Bild (Smart-News mode)...")
+            print(f"🚀 Pokrećem scraping s provjerom težine slika...")
             page.goto(url, wait_until="networkidle", timeout=60000)
-            page.evaluate("window.scrollBy(0, 3000)")
+            page.evaluate("window.scrollBy(0, 3500)")
             time.sleep(5)
 
             soup = BeautifulSoup(page.content(), 'html.parser')
@@ -63,35 +71,35 @@ def scrape_bild():
                     link = link_elem['href']
                     if link.startswith('/'): link = "https://sportbild.bild.de" + link
 
-                    # LOGIKA ZA ODABIR NAJBOLJE SLIKE
-                    best_img = None
+                    valid_img = None
+                    # Prolazimo kroz sve slike u članku da nađemo onu koja nije banner
                     for img in all_imgs:
-                        tmp = img.get('data-src') or img.get('src')
-                        if not tmp: continue
-                        if tmp.startswith('/'): tmp = "https://sportbild.bild.de" + tmp
+                        tmp_url = img.get('data-src') or img.get('src')
+                        if not tmp_url: continue
+                        if tmp_url.startswith('/'): tmp_url = "https://sportbild.bild.de" + tmp_url
                         
-                        clean_url = tmp.split('?')[0]
-                        is_trash = any(x in clean_url.lower() for x in trash_indicators)
+                        # Prva provjera: URL markeri
+                        if any(m in tmp_url.lower() for m in trash_markers):
+                            continue
                         
-                        if not is_trash:
-                            best_img = tmp
-                            break # Našli smo čistu, izlazi
+                        # Druga provjera: Težina i dimenzije
+                        info = get_image_info(tmp_url)
+                        if info:
+                            valid_img = info
+                            break
                     
-                    # Ako su sve slike smeće, uzmi placeholder ali NE preskači vijest
-                    final_img = best_img if best_img else placeholder_img
-                    
-                    info = get_image_info(final_img)
-                    if not info: # Ako čak i placeholder propadne
-                        info = {"url": final_img, "w": 800, "h": 600, "focus_y": 0.3}
+                    # Ako nismo našli ništa čisto, koristi placeholder da ostane najnovija vijest
+                    if not valid_img:
+                        print(f"ℹ️ Koristim placeholder za: {title[:30]}")
+                        valid_img = {"url": placeholder, "w": 800, "h": 600, "focus_y": 0.3}
 
-                    print(f"✅ {'ČISTA' if best_img else 'FALLBACK'} vijest: {title[:35]}...")
                     news_items.append({
                         "title": title,
                         "link": link,
-                        "image_url": info["url"],
-                        "w": info["w"],
-                        "h": info["h"],
-                        "focus_y": info["focus_y"],
+                        "image_url": valid_img["url"],
+                        "w": valid_img["w"],
+                        "h": valid_img["h"],
+                        "focus_y": valid_img["focus_y"],
                         "source_title1": "SPORT",
                         "source_title2": "BILD",
                         "source_color": "#fc4e4e",
