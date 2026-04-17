@@ -22,26 +22,41 @@ def get_image_info(url):
     try:
         headers = {'User-Agent': 'Mozilla/5.0'}
         res = requests.get(url, timeout=10, headers=headers)
-        
-        # PROVJERA TEŽINE: Prave fotke su teže, grafike su lagane
-        content_length = len(res.content)
-        if content_length < 35000: # Sve ispod 35KB smatramo grafikom
+        # Provjera težine: grafike su lagane, prave slike teške
+        if len(res.content) < 35000:
             return None
-
         img = Image.open(BytesIO(res.content))
         w, h = img.size
         return {"url": url, "w": w, "h": h, "focus_y": get_focus_y(w, h)}
     except:
         return None
 
+def get_clean_image_from_article(browser_context, article_url):
+    """Ulazi u članak i traži prvu pravu sliku bez teksta."""
+    try:
+        page = browser_context.new_page()
+        page.goto(article_url, wait_until="networkidle", timeout=30000)
+        time.sleep(2)
+        soup = BeautifulSoup(page.content(), 'html.parser')
+        page.close()
+        
+        # U člancima slike obično imaju klasu ili su unutar figure taga
+        all_imgs = soup.find_all('img')
+        for img in all_imgs:
+            src = img.get('data-src') or img.get('src')
+            if src:
+                if src.startswith('/'): src = "https://sportbild.bild.de" + src
+                # Provjera je li slika prava (težina/dimenzije)
+                info = get_image_info(src)
+                if info:
+                    return info
+        return None
+    except:
+        return None
+
 def scrape_bild():
     url = "https://m.sportbild.bild.de/"
-    
-    # Lista markera za smeće - uključujući tvoj zadnji primjer
-    trash_markers = [
-        "7af5745e", "eb64ff1c", "4d38f5802dd09cf2ce001869bbc2bccd", 
-        "bitter", "overlay", "live-ticker", "banner"
-    ]
+    trash_markers = ["7af5745e", "eb64ff1c", "4d38f580", "bitter", "overlay", "live-ticker"]
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
@@ -52,10 +67,10 @@ def scrape_bild():
         page = context.new_page()
 
         try:
-            print(f"🚀 Scraping Bild (Striktni mod bez placeholdera)...")
+            print(f"🚀 Scraping Bild (Deep-Dive mode)...")
             page.goto(url, wait_until="networkidle", timeout=60000)
-            page.evaluate("window.scrollBy(0, 3500)")
-            time.sleep(5)
+            page.evaluate("window.scrollBy(0, 3000)")
+            time.sleep(3)
 
             soup = BeautifulSoup(page.content(), 'html.parser')
             news_items = []
@@ -64,56 +79,48 @@ def scrape_bild():
             for art in articles:
                 title_elem = art.find(['h2','h3','h4'])
                 link_elem = art.find('a', href=True)
-                all_imgs = art.find_all('img')
+                img_elem = art.find('img')
 
-                if title_elem and link_elem and all_imgs:
+                if title_elem and link_elem and img_elem:
                     title = title_elem.get_text(strip=True)
                     link = link_elem['href']
                     if link.startswith('/'): link = "https://sportbild.bild.de" + link
 
-                    valid_img = None
-                    for img in all_imgs:
-                        tmp_url = img.get('data-src') or img.get('src')
-                        if not tmp_url: continue
-                        if tmp_url.startswith('/'): tmp_url = "https://sportbild.bild.de" + tmp_url
-                        
-                        # Čistimo URL za provjeru
-                        clean_url = tmp_url.split('?')[0]
-                        
-                        # Provjera markera
-                        if any(m in clean_url.lower() for m in trash_markers):
-                            continue
-                        
-                        # Provjera težine i dimenzija
-                        info = get_image_info(tmp_url)
-                        if info:
-                            valid_img = info
-                            break
-                    
-                    # AKO NEMA ČISTE SLIKE, PRESKOČI CIJELU VIJEST (Bez placeholdera!)
-                    if not valid_img:
-                        print(f"⏭️ Preskačem vijest jer je slika smeće: {title[:30]}")
-                        continue
+                    img_url = img_elem.get('data-src') or img_elem.get('src')
+                    if img_url and img_url.startswith('/'): img_url = "https://sportbild.bild.de" + img_url
 
-                    news_items.append({
-                        "title": title,
-                        "link": link,
-                        "image_url": valid_img["url"],
-                        "w": valid_img["w"],
-                        "h": valid_img["h"],
-                        "focus_y": valid_img["focus_y"],
-                        "source_title1": "SPORT",
-                        "source_title2": "BILD",
-                        "source_color": "#fc4e4e",
-                        "flag": "🇩🇪"
-                    })
+                    # Provjera: Je li slika na naslovnici smeće?
+                    is_trash = any(m in img_url.lower() for m in trash_markers)
+                    
+                    final_info = None
+                    if is_trash:
+                        print(f"🔍 Detektirana grafika. Ulazim u članak: {title[:30]}...")
+                        final_info = get_clean_image_from_article(context, link)
+                    else:
+                        final_info = get_image_info(img_url)
+
+                    # Ako smo našli dobru sliku (bilo na naslovnici ili unutra)
+                    if final_info:
+                        print(f"✅ Dodano: {title[:40]}...")
+                        news_items.append({
+                            "title": title,
+                            "link": link,
+                            "image_url": final_info["url"],
+                            "w": final_info["w"],
+                            "h": final_info["h"],
+                            "focus_y": final_info["focus_y"],
+                            "source_title1": "SPORT",
+                            "source_title2": "BILD",
+                            "source_color": "#fc4e4e",
+                            "flag": "🇩🇪"
+                        })
 
                 if len(news_items) >= 20: break
 
             if news_items:
                 with open("bild.json", 'w', encoding='utf-8') as f:
                     json.dump(news_items, f, ensure_ascii=False, indent=4)
-                print(f"🎉 bild.json spreman. Ukupno čistih vijesti: {len(news_items)}")
+                print(f"🎉 bild.json spreman s čistim slikama!")
             
             browser.close()
         except Exception as e:
