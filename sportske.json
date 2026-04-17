@@ -1,6 +1,18 @@
 [
     {
-        "title": "Dinamo ne smije prodati Belju i Stojkovića, a Dalićev izbor za SP ima skromne brojke U Hajduku nisu prošli ni Stanić, Vučević i Kalinić, a novi sportski direktor već traži budžet za pojačanja",
+        "title": "‘Da je Livaja igrao, Hajduk bi možda još uvijek bio u utrci za naslov. Mora ostati, i on i Rebić!‘ Belupu nije lako nadomjestiti odlazak Jagušića, ali on je samo jedan. Mislim da je Hajduk favorit u ovom susretu - govori Radeljić",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-lovi-petu-radeljic-upozorava-na-koprivnicu-15699578",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/15/k_34943865_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Dinamo ne smije prodati Belju i Stojkovića, a Dalićev izbor za SP ima skromne brojke",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/borilacki-sportovi/judo/graf-u-hajduku-osijek-trazi-sportskog-direktora-dinamo-27-mil-bayern-real-4-3-15699522",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_38715647_640.jpg",
         "w": 640,
@@ -15,6 +27,18 @@
         "title": "Janica ju je prozvala ‘novom Janicom‘: Ovo je priča o gubitku jedne generacije i novom početku",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/skijanje/sasa-trsinski-od-skijanja-do-eu-projekata-u-zaboku-15699568",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_38752541_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Realu zbog odlaska Modrića nedostaje vođa, a tu grešku su sada shvatili‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/realu-zbog-odlaska-modrica-nedostaje-voda-a-tu-gresku-su-sada-shvatili-15699582",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/17/k_37146340_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,30 +120,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Posljednji nogometni romantik: Ne uklapa se, ali briljira. S ocem se kladio za Zlatnu loptu...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/rayan-cherki-krade-show-guardiola-ga-jedva-sputava-publika-trazi-jos-15699515",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/15/k_38756206_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Delije ispred zastave Velike Srbije vrijeđale Marija Hezonju",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/basket-euroliga/navijaci-crvene-zvezde-vrijedali-maria-hezonju-ispred-movistar-arene-u-madridu-15699527",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_38460894_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Fascinantno što je Pavlek napravio prije izbijanja afere! ‘Savezi su...",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/borilacki-sportovi/judo/uskok-judo-afera-paralelni-sustav-sutnja-odbora-15699404",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_35955629_640.jpg",
@@ -180,7 +180,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Otvorena izložba koja vraća uspomenu na Dražena i Cibonu na europskom tronu Muzejsko-memorijalni centar Dražen Petrović slavi 40 godina budimpeštanske krune uz ispovijesti legendi i raritetne snimke",
+        "title": "Posljednji nogometni romantik: Ne uklapa se, ali briljira. S ocem se kladio za Zlatnu loptu... ‘Ja sam trener koji voli kontrolu, pa je to nekad teško gledati. Moje srce... Pff! Instinkt govori da se derem: ‘Prestani!‘. No, ako to kažem, onda ću ga uništiti‘, kaže Guardiola",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/rayan-cherki-krade-show-guardiola-ga-jedva-sputava-publika-trazi-jos-15699515",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/15/k_38756206_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Delije ispred zastave Velike Srbije vrijeđale Marija Hezonju",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/basket-euroliga/navijaci-crvene-zvezde-vrijedali-maria-hezonju-ispred-movistar-arene-u-madridu-15699527",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_38460894_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Otvorena izložba koja vraća uspomenu na Dražena i Cibonu na europskom tronu",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-mix/izlozba-drazen-cibona-40-godina-budimpestanske-titule-15699547",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_38762944_640.jpg",
         "w": 640,
@@ -207,30 +231,6 @@
         "title": "‘Raspudići prepisuju od SN‘. Pojavio se naš prijedlog za stadion, a jednom smo dobili srednji prst",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/stadion-kranjceviceva-imena-drazan-jerkovic-prijedlog-skupstina-15699508",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_38437228_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Real na krilima Hezonje svladao Zvezdu pred Đokovićem i Dončićem",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/basket-euroliga/real-madrid-crvena-zvezda-103-82-mario-hezonja-19-poena-doncic-djokovic-15699556",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_38460891_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Fascinantno što je Pavlek napravio prije izbijanja afere! ‘Savezi su stvorili paralelni, lopovski sustav!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/borilacki-sportovi/judo/uskok-judo-afera-paralelni-sustav-sutnja-odbora-15699404",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_35955629_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
