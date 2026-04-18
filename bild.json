@@ -12,9 +12,21 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Handball-Ticker:Magdeburg-Coach mit kuriosem Fahrstuhl-Aberglauben",
+        "title": "Halbfinale im DHB-Pokal:Lemgo gegen die Füchse Berlin HIER im Live-Ticker!",
+        "link": "https://sportbild.bild.de/sportmix/handball/handball-heute-lemgo-gegen-die-fuechse-berlin-hier-im-live-ticker-69df9cfe7711c440ff1d7dd6",
+        "image_url": "https://images.bild.de/69df9cfe7711c440ff1d7dd6/ca0acaaf4feb4966646fb58c0a98d16c,6418ef53?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Final4-Ticker:Aufwärmen läuft! Lemgo und Füchse bereit für Pokal-Fight",
         "link": "https://sportbild.bild.de/sportmix/handball/handball-heute-hier-alle-news-zum-dhb-pokal-final4-im-ticker-69e32134064e04c985e97b94",
-        "image_url": "https://images.bild.de/69e32134064e04c985e97b94/b114f4422213e1b3d45f6eacb6228301,2937dfed?w=992",
+        "image_url": "https://images.bild.de/69e32134064e04c985e97b94/ca0acaaf4feb4966646fb58c0a98d16c,a322564b?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -36,18 +48,6 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Pokal-Final4:Er ist Wiegerts Geheimwaffe für den Titel",
-        "link": "https://sportbild.bild.de/sportmix/handball/handball-dieser-magdeburg-star-ist-wiegerts-geheimwaffe-fuers-final4-69e093af1de1a5649f7cc775",
-        "image_url": "https://images.bild.de/69e093af1de1a5649f7cc775/ddaea3a75ad4da1b0c39e884e3e26558,b9c24adf?w=992",
-        "w": 992,
-        "h": 661,
-        "focus_y": 0.35,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
         "title": "Wem er absagte, wo er hin will:Italien-Star Bastoni trifft Wechsel-Entscheidung!",
         "link": "https://sportbild.bild.de/fussball/internationaler-fussball/italien-star-bastoni-trifft-wechsel-entscheidung-wem-er-absagte-wo-er-hin-will-69e33a767c6e5e236a26a9cb",
         "image_url": "https://images.bild.de/69e33a767c6e5e236a26a9cb/49bc50062af87ee93da805e1c39770cc,c6950785?w=992",
@@ -60,9 +60,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "„Zwangsehe“?:Bayern-Boss spricht über Zoff-Gerücht",
-        "link": "https://sportbild.bild.de/fussball/fc-bayern-muenchen/fc-bayern-zwangsehe-bayern-boss-spricht-ueber-zoff-geruecht-69e36a25064e04c985e9803a",
-        "image_url": "https://images.bild.de/69e36a25064e04c985e9803a/8a660823770f29b3dccd96fb61c0c274,2943122?w=992",
+        "title": "BMW Open in München:Zverev-Besieger weint um toten Freund",
+        "link": "https://sportbild.bild.de/sportmix/tennis/tennis-zverev-besieger-weint-um-toten-freund-69e386c0769e68aeef7a6b91",
+        "image_url": "https://images.bild.de/69e386c0769e68aeef7a6b91/68503d23543c0f4f82a66d1a53a588fb,f6b692b?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -72,9 +72,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Nach 10 Jahren:Liebes-Aus bei Weltmeisterin",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/nach-10-jahren-liebes-aus-bei-fussball-weltmeisterin-69e32ee8aaecd0de63504b4f",
-        "image_url": "https://images.bild.de/69e32ee8aaecd0de63504b4f/53dc228dc3a5227996bab31d5b9ce9d7,e05b329d?w=992",
+        "title": "„Zwangsehe“?:Bayern-Boss spricht über Zoff-Gerücht",
+        "link": "https://sportbild.bild.de/fussball/fc-bayern-muenchen/fc-bayern-zwangsehe-bayern-boss-spricht-ueber-zoff-geruecht-69e36a25064e04c985e9803a",
+        "image_url": "https://images.bild.de/69e36a25064e04c985e9803a/8a660823770f29b3dccd96fb61c0c274,2943122?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -108,6 +108,30 @@
         "flag": "🇩🇪"
     },
     {
+        "title": "Nach 10 Jahren:Liebes-Aus bei Weltmeisterin",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/nach-10-jahren-liebes-aus-bei-fussball-weltmeisterin-69e32ee8aaecd0de63504b4f",
+        "image_url": "https://images.bild.de/69e32ee8aaecd0de63504b4f/53dc228dc3a5227996bab31d5b9ce9d7,e05b329d?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Experte verwundert:Warum rufen die Bayern nicht bei Gavel an?",
+        "link": "https://sportbild.bild.de/sportmix/basketball/experte-verwundert-warum-rufen-die-bayern-nicht-bei-gavel-an-69e3551a8a212bc0a08d3ec0",
+        "image_url": "https://images.bild.de/69e3551a8a212bc0a08d3ec0/2878bdb89846a92e67c736c7f4dc25b9,1265bac6?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
         "title": "Deal vorbereitet:Flick bremst Barça bei Vertragsverlängerung",
         "link": "https://sportbild.bild.de/fussball/internationaler-fussball/fc-barcelona-klub-macht-bei-vertragsverlaengerung-druck-flick-zoegert-69e276dc7c6e5e236a26a3d4",
         "image_url": "https://images.bild.de/69e276dc7c6e5e236a26a3d4/d926dfc6bce9aaf55600341d58603046,3003acba?w=992",
@@ -132,18 +156,6 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Kurz vor dem Mega-Event:Publikumsliebling vor Wrestlemania-Rückkehr",
-        "link": "https://sportbild.bild.de/sportmix/wrestlemania-wwe-star-paige-vor-rueckkehr-in-den-ring-69e28f13064e04c985e977be",
-        "image_url": "https://images.bild.de/69e28f13064e04c985e977be/c0838db8f25f8a1b443158df823cffa0,b03bfc9f?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
         "title": "Nach schwerem Olympia-Sturz:Daran leidet Bob-Pilot Mandlbauer noch heute",
         "link": "https://sportbild.bild.de/sportmix/wintersport/nach-olympia-sturz-in-cortina-bob-pilot-mandlbauer-leidet-noch-heute-69e1f50693130bd3499d4ace",
         "image_url": "https://images.bild.de/69e1f50693130bd3499d4ace/9669adc90e87a57f9ba489794880d14d,a0ebdf54?w=992",
@@ -156,7 +168,7 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Ex-Bundesliga-Coach mischt Spanien auf:Matarazzo: „Mein Co-Trainer war nicht ganz ehrlich“",
+        "title": "Matarazzo mischt Spanien auf:„Mein Co-Trainer war nicht ganz ehrlich“",
         "link": "https://sportbild.bild.de/fussball/internationaler-fussball/matarazzo-vor-dem-copa-del-rey-finale-so-entfachte-er-real-sociedad-69de3e1fe0f60045a48ba7a9",
         "image_url": "https://images.bild.de/69de3e1fe0f60045a48ba7a9/4b907ea68167032c3c4381e3cace601f,18468372?w=992",
         "w": 992,
@@ -171,18 +183,6 @@
         "title": "Von der Bundesliga nach England:Rose findet neuen Job bei Premier-League-Klub",
         "link": "https://sportbild.bild.de/fussball/internationaler-fussball/marco-rose-vor-wechsel-in-die-premier-klub-und-trainer-einig-69e268bb064e04c985e97588",
         "image_url": "https://images.bild.de/69e268bb064e04c985e97588/b034e0385d97265de538d52b95cf551a,43d90ee8?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Das wird es erstmals geben!:Infantino kündigt für WM 2026 historische Neuerung an",
-        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-2026-infantino-kuendigt-historische-neuerung-an-69e0b15193130bd3499d37c4",
-        "image_url": "https://images.bild.de/69e0b15193130bd3499d37c4/9393b70a3ff0557167bfa003482a4696,a305c4c0?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -216,9 +216,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Dreiste Preiserhöhung vor Turnierbeginn:Astronomische Preise für WM-Anreise",
-        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-2026-preisexplosion-so-teuer-wird-die-stadionaneise-69e2926a064e04c985e977dd",
-        "image_url": "https://images.bild.de/69e2926a064e04c985e977dd/ebeb46393ebf1577ec46134397042984,7bec9528?w=992",
+        "title": "Kurz vor dem Mega-Event:Publikumsliebling vor Wrestlemania-Rückkehr",
+        "link": "https://sportbild.bild.de/sportmix/wrestlemania-wwe-star-paige-vor-rueckkehr-in-den-ring-69e28f13064e04c985e977be",
+        "image_url": "https://images.bild.de/69e28f13064e04c985e977be/c0838db8f25f8a1b443158df823cffa0,b03bfc9f?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -228,9 +228,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Nächste Gala:Achten Sie mal darauf, was Müller vor dem Tor macht",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/naechste-gala-achten-sie-mal-darauf-was-mueller-vor-dem-tor-macht-69e33a860335c1438703446b",
-        "image_url": "https://images.bild.de/69e33a860335c1438703446b/0b61b45793b6615d82f8c0d56f4086e7-landscape,9b99740d?w=992",
+        "title": "Dreiste Preiserhöhung vor Turnierbeginn:Astronomische Preise für WM-Anreise",
+        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-2026-preisexplosion-so-teuer-wird-die-stadionaneise-69e2926a064e04c985e977dd",
+        "image_url": "https://images.bild.de/69e2926a064e04c985e977dd/ebeb46393ebf1577ec46134397042984,7bec9528?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
