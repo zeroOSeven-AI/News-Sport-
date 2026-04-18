@@ -1,8 +1,8 @@
 [
     {
-        "title": "UŽIVO Dinamo - Rijeka: Dinamova gol-mašina ponovno zabila, sve je bliže rekordu! Oba trenera su morala mijenjati ranije nego inače zbog ozljeda. Kod Rijeke se ozlijedio Husić, a kod Dinama Vidović",
+        "title": "UŽIVO Dinamo - Rijeka: GOOOL! Beljo ekspresno zabio, Rijeka izjednačila iz penala na startu drugog dijela! Modri su imali vodstvo od pete minute, no Rijeka se pogotkom Dantasa vratila u dvoboj na početku drugog poluvremena",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/dinamo-juri-prema-naslovu-rijeka-bez-fruka-trazi-recept-u-maksimiru-15700061",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38767310_640.jpg",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38767354_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,6 +84,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "No Modrić, no party: Perezove suze na maestrovu oproštaju nagovijestile su ono što je danas Real",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/real-bez-modrica-trofeji-izmice-vezni-red-problem-carvajal-zaostaje-15700102",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_37227759_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Nakon nestvarnog niza pobjeda, Sesvete i drugi put za redom kiksale",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nakon-nestvarnog-niza-pobjeda-sesvete-i-drugi-put-za-redom-kiksale-15700084",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38683386_640.jpg",
@@ -99,18 +111,6 @@
         "title": "U pitanju je budućnost Hajduka, na Grafovim grafovima mnogi bi mogli biti prekriženi...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/robert-graf-ljetni-reset-hajduk-rezovi-koprivnica-slaven-belupo-15700051",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38765250_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Pobjednica Grand Slama u šoku! Prijeti joj izgon iz tenisa jer nije otvorila vrata: ‘Bila sam uplašena‘",
-        "link": "https://sportske.jutarnji.hr/sportske/tenis/grand-slam/vondrousova-pod-istragom-itia-odbijanje-dopinga-prijeti-cetverogodisnja-suspenzija-15700038",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38766894_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,7 +180,19 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Oscar je među tri najbolja strijelca u povijesti košarke, bio je bolji šuter i od Dražena Aco Petrović je točno godinu dana mlađi od Oscara Schmidta s kojim se puno puta susretao na parketu još kao igrač, onda i trener te od 2017. u drukčijem odnosu kao izbornik Brazila",
+        "title": "Pobjednica Grand Slama u šoku! Prijeti joj izgon iz tenisa jer nije otvorila vrata: ‘Bila sam uplašena‘ Incident se dogodio jer sam jednostavno došla do točke pucanja, pokušala se opravdati češka tenisačica",
+        "link": "https://sportske.jutarnji.hr/sportske/tenis/grand-slam/vondrousova-pod-istragom-itia-odbijanje-dopinga-prijeti-cetverogodisnja-suspenzija-15700038",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38766894_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Oscar je među tri najbolja strijelca u povijesti košarke, bio je bolji šuter i od Dražena",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/basket-international/oscar-je-medu-tri-najbolja-strijelca-u-povijesti-kosarke-bio-je-bolji-suter-i-od-drazena-15700064",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38766864_640.jpg",
         "w": 640,
@@ -216,21 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Povratak velikog talenta, čekao je 505 dana, a onda zabio Hajduku: ‘Napokon da i ja doživim sreću‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/slaven-belupo/marko-dabro-prekinuo-505-dana-bez-gola-protiv-hajduka-15700060",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38765255_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Zagubio se, kod Kovačevića bio višak, a sada je nezaobilazni adut i najveći dobitnik proljeća!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/galesic-dinamo-uspon-desni-bek-povratak-na-stopera-rijeka-15699992",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_37603523_640.jpg",
+        "title": "Bježao iz Dinama, na treninge je išao biciklom i tramvajem: ‘Nećemo se lagati, znalo se popiti‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/petar-brucic-dinamo-univerzalac-sampionska-generacija-rapid-bec-15699965",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/14/k_38765246_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
