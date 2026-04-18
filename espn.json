@@ -1,5 +1,17 @@
 [
     {
+        "title": "Real Sociedad upset Atlético Madrid to win 4th Copa del Rey",
+        "link": "http://www.espn.com/soccer/report/_/gameId/401859852",
+        "image_url": "https://a.espncdn.com/photo/2026/0418/r1645657_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
         "title": "Premier League recap: Man United beat Chelsea, Spurs let lead slip",
         "link": "https://www.espn.com/soccer/story/_/id/48504811/premier-league-live-updates-tottenham-brighton-hove-albion-chelsea-manchester-united",
         "image_url": "https://a.espncdn.com/photo/2026/0418/r1645595_1296x729_16-9.jpg",
@@ -159,18 +171,6 @@
         "title": "Marseille's Champions League hopes hurt despite team bonding trip to Marbella",
         "link": "https://www.espn.com/soccer/story/_/id/48522799/marseille-champions-league-hopes-hurt-team-bonding-trip-marbella",
         "image_url": "https://a.espncdn.com/photo/2026/0418/r1645510_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Jermain Defoe extends his unbeaten run as Woking manager",
-        "link": "https://www.espn.com/soccer/story/_/id/48522583/jermain-defoe-extends-unbeaten-run-woking-manager",
-        "image_url": "https://a.espncdn.com/photo/2026/0329/r1635622_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
