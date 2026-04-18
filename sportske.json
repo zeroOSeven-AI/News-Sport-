@@ -1,8 +1,32 @@
 [
     {
-        "title": "Bježao iz Dinama, na treninge je išao biciklom i tramvajem: ‘Nećemo se lagati, znalo se popiti‘ ‘Vlatko Marković se baš zauzeo za mene: Dajte Peri stan u Travnom ili ja više neću biti trener Dinama‘",
+        "title": "Zagubio se, kod Kovačevića bio višak, a sada je nezaobilazni adut i najveći dobitnik proljeća! Od klupe do ključnog beka, protiv Rijeke želi potvrditi status i otvoriti put prema prirodnoj mu poziciji",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/galesic-dinamo-uspon-desni-bek-povratak-na-stopera-rijeka-15699992",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_37603523_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Bježao iz Dinama, na treninge je išao biciklom i tramvajem: ‘Nećemo se lagati, znalo se popiti‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/petar-brucic-dinamo-univerzalac-sampionska-generacija-rapid-bec-15699965",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/14/k_38765246_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "FOTO: Džeko ovako nešto sigurno nije očekivao, evo što je dočekalo legendu u restoranu u Beogradu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/edin-dzeko-beograd-baklava-poruka-kapetan-ne-placa-oporavak-15700001",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38677030_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,30 +120,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Orlando već do poluvremena eliminirao Charlotte, Jalen Green poslao Warriorse u ‘lutriju‘",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/orlando-vec-do-poluvremena-eliminirao-charlotte-jalen-green-poslao-warriorse-u-lutriju-15699960",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38766469_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Dinamova ljetna želja teže ozlijeđena, Bukvić igrao drugo poluvrijeme sa slomljenom rukom!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/varazdin-pobijedio-osijek-2-0-preuzeo-trece-mjesto-hnl-opus-arena-15699925",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/17/k_38765579_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Nogometni svijet zavijen u crno, oglasili se Lovren, Buffon... ‘Svoju...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/preminuo-alexander-manninger-nesreca-salzburg-oprostaji-arsenal-juventus-liverpool-15699650",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/17/k_31043913_640.jpg",
@@ -168,7 +168,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Preminuo legendarni Oscar Schmidt. Pamtimo ga po kultnom finalu i dvoboju s Draženom Kraljevi su u drami s produžetkom tada slavili 117:113. Dražen je bio bolji i u dvoboju strijelaca, zabio je čak 62 poena, dok je Brazilac utrpao 44",
+        "title": "Orlando već do poluvremena eliminirao Charlotte, Jalen Green poslao Warriorse u ‘lutriju‘ U posljednjim utakmicama play-ina su Orlando i Phoenix izborili prvi krug doigravanja i okršaje s najboljim momčadima Istoka i Zapada - Detroitom, odnosno Oklahoma Cityjem",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/orlando-vec-do-poluvremena-eliminirao-charlotte-jalen-green-poslao-warriorse-u-lutriju-15699960",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38766469_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Dinamova ljetna želja teže ozlijeđena, Bukvić igrao drugo poluvrijeme sa slomljenom rukom!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/varazdin-pobijedio-osijek-2-0-preuzeo-trece-mjesto-hnl-opus-arena-15699925",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/17/k_38765579_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Preminuo legendarni Oscar Schmidt. Pamtimo ga po kultnom finalu i dvoboju s Draženom",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-mix/preminuo-oscar-schmidt-legenda-brazilske-kosarke-olimpijski-rekorder-15699932",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/17/k_38765961_640.jpg",
         "w": 640,
@@ -207,30 +231,6 @@
         "title": "VIDEO Poraz Osijeka na Opus Areni, Varaždin preskočio Rijeku",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/video-poraz-osijeka-na-opus-areni-varazdin-preskocio-rijeku-15699868",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/17/k_38765467_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Bijeli se vukli po terenu kao da su puškom natjerani na utakmicu, za sve postoji samo jedno opravdanje",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/rebic-spasio-hajduk-slaven-belupo-nadigrao-bijele-koprivnica-2-2-15699883",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/17/k_38765228_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Garcia nakon Koprivnice: ‘Kad nismo pravi može nas ‘ubiti‘ bilo tko, možemo biti sretni rezultatom‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/garcia-nakon-koprivnice-kad-nismo-pravi-moze-nas-ubiti-bilo-tko-mozemo-biti-sretni-rezultatom-15699895",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/17/k_38765038_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
