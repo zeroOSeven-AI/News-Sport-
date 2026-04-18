@@ -1,6 +1,18 @@
 [
     {
-        "title": "Zagubio se, kod Kovačevića bio višak, a sada je nezaobilazni adut i najveći dobitnik proljeća! Od klupe do ključnog beka, protiv Rijeke želi potvrditi status i otvoriti put prema prirodnoj mu poziciji",
+        "title": "Hoće li se Mišković pojaviti u Maksimiru? Potvrde i dalje nema, konačna odluka pada u zadnji tren Rijeka stiže oslabljena na Dinamo, dok predsjednik još vaga dolazak zbog poslovnih obveza",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/miskovic-neizvjestan-za-derbi-dinamo-rijeka-rijeka-stize-oslabljena-15700032",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/17/k_38631932_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Zagubio se, kod Kovačevića bio višak, a sada je nezaobilazni adut i najveći dobitnik proljeća!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/galesic-dinamo-uspon-desni-bek-povratak-na-stopera-rijeka-15699992",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_37603523_640.jpg",
         "w": 640,
@@ -15,6 +27,18 @@
         "title": "Livaji i Rebiću se dogodio ‘onaj‘ dan, sve je bilo jasno već nakon pet minuta utakmice",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/livaja-rebic-zapeli-u-sjeni-hajduk-remi-koprivnica-slaven-belupo-osijek-15700022",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38765226_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Sprema se izdaja koja će zatresti Španjolsku! Barca iz Madrida dovodi gorostasa koji ih ‘ubija‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/barcelona-dovodi-sorlotha-iz-atletica-umjesto-lewandowskog-transfer-40-milijuna-15700027",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/17/k_38716583_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,30 +120,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Kovačevićev ‘rock and roll‘ protiv Sánchezova pragmatizma: Derbi u Maksimiru kao najava finala",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/dinamo-rijeka-maksimir-derbi-bez-fruka-najava-15699981",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/17/k_37785480_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hajduk je odigrao ispod razine, vrijeme je da Garcia svoje igrače podsjeti na jednu bitnu stvar",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/slaven-belupo-sokirao-hajduk-rebiceva-carolija-nije-spasila-15699951",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/17/k_38765266_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Nogometni svijet zavijen u crno, oglasili se Lovren, Buffon... ‘Svoju...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/preminuo-alexander-manninger-nesreca-salzburg-oprostaji-arsenal-juventus-liverpool-15699650",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/17/k_31043913_640.jpg",
@@ -180,9 +180,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Talijani svom silom udarili po Vatrenom: ‘Nije uspio razbiti igru, jedna od najgorih izvedbi‘ ‘Nije poznat po sjajnim potezima, iako treba reći da je upisao asistenciju za gol Nice Paza‘, pisali su Talijani pak o Smolčiću",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/talijanski-mediji-kritiziraju-baturinu-smolcic-asistirao-protiv-sassuola-15699908",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/17/k_38765640_640.jpg",
+        "title": "Kovačevićev ‘rock and roll‘ protiv Sánchezova pragmatizma: Derbi u Maksimiru kao najava finala Dinamov trener otkrio je sveti gral u Maksimiru i stvorio igru, njegova momčad ruši rekorde i postavlja nove granice, ali Sánchez je pokazao da zna otupiti oštricu favorita",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/dinamo-rijeka-maksimir-derbi-bez-fruka-najava-15699981",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/17/k_37785480_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Hajduk je odigrao ispod razine, vrijeme je da Garcia svoje igrače podsjeti na jednu bitnu stvar",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/slaven-belupo-sokirao-hajduk-rebiceva-carolija-nije-spasila-15699951",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/17/k_38765266_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -219,18 +231,6 @@
         "title": "Hrvatski reprezentativac radi kao informatičar: ‘Nije sve u novcu, ovdje nema problema, nasilja...‘",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/andrija-galic-hrvatska-ragbi-odlucujuca-utakmica-litva-trophy-divizija-15699957",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/17/k_38766495_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Orlando već do poluvremena eliminirao Charlotte, Jalen Green poslao Warriorse u ‘lutriju‘",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/orlando-vec-do-poluvremena-eliminirao-charlotte-jalen-green-poslao-warriorse-u-lutriju-15699960",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38766469_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
