@@ -1,8 +1,8 @@
 [
     {
-        "title": "Deal vorbereitet:Flick bremst Barça bei Vertragsverlängerung",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/fc-barcelona-klub-macht-bei-vertragsverlaengerung-druck-flick-zoegert-69e276dc7c6e5e236a26a3d4",
-        "image_url": "https://images.bild.de/69e276dc7c6e5e236a26a3d4/d926dfc6bce9aaf55600341d58603046,3003acba?w=992",
+        "title": "Wem er absagte, wo er hin will:Italien-Star Bastoni trifft Wechsel-Entscheidung!",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/italien-star-bastoni-trifft-wechsel-entscheidung-wem-er-absagte-wo-er-hin-will-69e33a767c6e5e236a26a9cb",
+        "image_url": "https://images.bild.de/69e33a767c6e5e236a26a9cb/49bc50062af87ee93da805e1c39770cc,c6950785?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -12,9 +12,45 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Harte Kritik an Madrid-Star:„Er hat die Real-Kabine mit Egoismus gefüllt“",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/harte-kritik-an-madrid-star-er-hat-die-real-kabine-mit-egoismus-gefuellt-69e1f5197711c440ff1da2fd",
-        "image_url": "https://images.bild.de/69e1f5197711c440ff1da2fd/fab776c699979d5c4cb1bc092193f7bc,f15a27e6?w=992",
+        "title": "Handball-Ticker:Magdeburg-Coach mit kuriosem Fahrstuhl-Aberglauben",
+        "link": "https://sportbild.bild.de/sportmix/handball/handball-heute-hier-alle-news-zum-dhb-pokal-final4-im-ticker-69e32134064e04c985e97b94",
+        "image_url": "https://images.bild.de/69e32134064e04c985e97b94/b114f4422213e1b3d45f6eacb6228301,2937dfed?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Handball-Final4:So sehen Sie Lemgo – Füchse Berlin im TV",
+        "link": "https://sportbild.bild.de/sportmix/handball/handball-heute-wo-wird-lemgo-fuechse-berlin-im-tv-livestream-uebertragen-69e334490335c1438703443e",
+        "image_url": "https://images.bild.de/69e334490335c1438703443e/85f51ed477e62d71649588cd349f784f,61733b6b?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Pokal-Final4:Er ist Wiegerts Geheimwaffe für den Titel",
+        "link": "https://sportbild.bild.de/sportmix/handball/handball-dieser-magdeburg-star-ist-wiegerts-geheimwaffe-fuers-final4-69e093af1de1a5649f7cc775",
+        "image_url": "https://images.bild.de/69e093af1de1a5649f7cc775/ddaea3a75ad4da1b0c39e884e3e26558,b9c24adf?w=992",
+        "w": 992,
+        "h": 661,
+        "focus_y": 0.35,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Deal vorbereitet:Flick bremst Barça bei Vertragsverlängerung",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/fc-barcelona-klub-macht-bei-vertragsverlaengerung-druck-flick-zoegert-69e276dc7c6e5e236a26a3d4",
+        "image_url": "https://images.bild.de/69e276dc7c6e5e236a26a3d4/d926dfc6bce9aaf55600341d58603046,3003acba?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -36,9 +72,45 @@
         "flag": "🇩🇪"
     },
     {
+        "title": "Harte Kritik an Madrid-Star:„Er hat die Real-Kabine mit Egoismus gefüllt“",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/harte-kritik-an-madrid-star-er-hat-die-real-kabine-mit-egoismus-gefuellt-69e1f5197711c440ff1da2fd",
+        "image_url": "https://images.bild.de/69e1f5197711c440ff1da2fd/fab776c699979d5c4cb1bc092193f7bc,f15a27e6?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Nach 8 Jahren!:Sensations-Comeback bei WrestleMania",
+        "link": "https://sportbild.bild.de/sportmix/wrestlemania-wwe-star-paige-vor-rueckkehr-in-den-ring-69e28f13064e04c985e977be",
+        "image_url": "https://images.bild.de/69e28f13064e04c985e977be/c0838db8f25f8a1b443158df823cffa0,b03bfc9f?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
         "title": "Nach Dopingproben-Vorfall:Tennis-Star macht mentale Probleme öffentlich",
         "link": "https://sportbild.bild.de/sportmix/tennis/nach-dopingproben-vorfall-tennis-star-macht-mentale-probleme-oeffentlich-69e26c817c6e5e236a26a36a",
         "image_url": "https://images.bild.de/69e26c817c6e5e236a26a36a/b1ac516564e946fba74133b56664b2c6,2c26b382?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Ex-Bundesliga-Coach mischt Spanien auf:Matarazzo: „Mein Co-Trainer war nicht ganz ehrlich“",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/matarazzo-vor-dem-copa-del-rey-finale-so-entfachte-er-real-sociedad-69de3e1fe0f60045a48ba7a9",
+        "image_url": "https://images.bild.de/69de3e1fe0f60045a48ba7a9/4b907ea68167032c3c4381e3cace601f,18468372?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -72,54 +144,6 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "„Für alle ein Riesending“:Beendet Gidsel seinen Pokal-Fluch?",
-        "link": "https://sportbild.bild.de/sportmix/handball/fuer-alle-ein-riesending-beendet-gidsel-seinen-pokal-fluch-69e23e141c16f61f4253771e",
-        "image_url": "https://images.bild.de/69e23e141c16f61f4253771e/6cb4f90a3a331d67883db1493edc49e6,e93ee889?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Er gewann als Spieler und Trainer:Handball-Weltmeister ist der Pokal-Fuchs",
-        "link": "https://sportbild.bild.de/sportmix/handball/handball-achtung-scm-und-fuechse-weltmeister-ist-der-pokal-schreck-69e208c3595b738aa6f3231a",
-        "image_url": "https://images.bild.de/69e208c3595b738aa6f3231a/f559b6611288946bedcd2d79139debf0,64bcb05e?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Hier spricht der Pokal-Außenseiter:„Warum sollten wir Magdeburg nicht schlagen können?“",
-        "link": "https://sportbild.bild.de/sportmix/handball/handball-kapitaen-von-pokal-aussenseiter-so-wollen-wir-magdeburg-aergern-69de59da29e54b63db390c75",
-        "image_url": "https://images.bild.de/69de59da29e54b63db390c75/d31d10bda4241a355e9681d3bce6833b,ef988f53?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Ex-Bundesliga-Coach mischt Spanien auf:Matarazzo: „Mein Co-Trainer war nicht ganz ehrlich“",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/matarazzo-vor-dem-copa-del-rey-finale-so-entfachte-er-real-sociedad-69de3e1fe0f60045a48ba7a9",
-        "image_url": "https://images.bild.de/69de3e1fe0f60045a48ba7a9/4b907ea68167032c3c4381e3cace601f,18468372?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
         "title": "Von der Bundesliga nach England:Rose findet neuen Job bei Premier-League-Klub",
         "link": "https://sportbild.bild.de/fussball/internationaler-fussball/marco-rose-vor-wechsel-in-die-premier-klub-und-trainer-einig-69e268bb064e04c985e97588",
         "image_url": "https://images.bild.de/69e268bb064e04c985e97588/b034e0385d97265de538d52b95cf551a,43d90ee8?w=992",
@@ -132,9 +156,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Später Elfer-Ärger:Pauli verspielt Sieg im Keller-Krimi",
-        "link": "https://sportbild.bild.de/fussball/1-bundesliga/bundesliga-spaeter-koeln-elfer-kostet-pauli-den-sieg-69e297ef064e04c985e97839",
-        "image_url": "https://images.bild.de/69e297ef064e04c985e97839/2dc302def9cabf37d5dd42fde6d8a8fb,35e82b7f?w=992",
+        "title": "Das wird es erstmals geben!:Infantino kündigt für WM 2026 historische Neuerung an",
+        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-2026-infantino-kuendigt-historische-neuerung-an-69e0b15193130bd3499d37c4",
+        "image_url": "https://images.bild.de/69e0b15193130bd3499d37c4/9393b70a3ff0557167bfa003482a4696,a305c4c0?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -156,9 +180,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Das wird es erstmals geben!:Infantino kündigt für WM 2026 historische Neuerung an",
-        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-2026-infantino-kuendigt-historische-neuerung-an-69e0b15193130bd3499d37c4",
-        "image_url": "https://images.bild.de/69e0b15193130bd3499d37c4/9393b70a3ff0557167bfa003482a4696,a305c4c0?w=992",
+        "title": "Später Elfer-Ärger:Pauli verspielt Sieg im Keller-Krimi",
+        "link": "https://sportbild.bild.de/fussball/1-bundesliga/bundesliga-spaeter-koeln-elfer-kostet-pauli-den-sieg-69e297ef064e04c985e97839",
+        "image_url": "https://images.bild.de/69e297ef064e04c985e97839/2dc302def9cabf37d5dd42fde6d8a8fb,35e82b7f?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -180,30 +204,6 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "„Haben das Zeug, etwas zu erreichen“:Dennis Schröder träumt vom großen Wurf",
-        "link": "https://sportbild.bild.de/sportmix/us-sport/dennis-schroeder-traeumt-vom-grossen-wurf-haben-das-zeug-etwas-zu-erreichen-69e20cf8ab7e43938a3b4903",
-        "image_url": "https://images.bild.de/69e20cf8ab7e43938a3b4903/2b6f52f1561131e4fcb66afeb91ea3a1,a6fc6a88?w=992",
-        "w": 992,
-        "h": 630,
-        "focus_y": 0.35,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Angstgegner entzaubert:Zverev bricht Sand-Fluch in München",
-        "link": "https://sportbild.bild.de/sportmix/tennis/tennis-zverev-beendet-sand-fluch-halbfinale-in-muenchen-wartet-69e23ff17c6e5e236a26a099",
-        "image_url": "https://images.bild.de/69e23ff17c6e5e236a26a099/2c4be5878c51090f6b90e7a656083fe3,9975cfec?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
         "title": "Nichts mehr verpassen!:Der 24-Stunden-Stream von SPORT BILD",
         "link": "https://sportbild.bild.de/sportmix/nichts-mehr-verpassen-der-24-stunden-stream-von-sport-bild-67e3f21af933f731d4312a95",
         "image_url": "https://images.bild.de/67e3f21af933f731d4312a95/ba25ea86c257543f201c3f37f05b52d4-landscape,1cd6388a?w=992",
@@ -216,9 +216,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "SPORTBILD-Ticker:Hier alle Final4-News auf einen Blick",
-        "link": "https://sportbild.bild.de/sportmix/handball/handball-heute-hier-alle-news-zum-dhb-pokal-final4-im-ticker-69e32134064e04c985e97b94",
-        "image_url": "https://images.bild.de/69e32134064e04c985e97b94/b114f4422213e1b3d45f6eacb6228301,2937dfed?w=992",
+        "title": "Jetzt Matchball in Köln!:Hier ballern sich die Eisbären zum Sieg",
+        "link": "https://sportbild.bild.de/sportmix/eishockey/jetzt-matchball-in-koeln-hier-ballern-sich-die-eisbaeren-zum-sieg-69e3486b8a212bc0a08d3df6",
+        "image_url": "https://images.bild.de/69e3486b8a212bc0a08d3df6/26201879b6c4240d848d03633bea78ba-landscape,700108a?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -228,9 +228,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Alle Tore im Video:Nix Red Bull! Hier fliegen die Adler ins Finale!",
-        "link": "https://sportbild.bild.de/sportmix/eishockey/alle-tore-im-video-nix-red-bull-hier-fliegen-die-adler-ins-finale-69e3322b8a212bc0a08d3d07",
-        "image_url": "https://images.bild.de/69e3322b8a212bc0a08d3d07/854c4c7984627c91bc9f924c9ced41b5-landscape,e324c357?w=992",
+        "title": "Nächste Gala:Achten Sie mal darauf, was Müller vor dem Tor macht",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/naechste-gala-achten-sie-mal-darauf-was-mueller-vor-dem-tor-macht-69e33a860335c1438703446b",
+        "image_url": "https://images.bild.de/69e33a860335c1438703446b/0b61b45793b6615d82f8c0d56f4086e7-landscape,9b99740d?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
