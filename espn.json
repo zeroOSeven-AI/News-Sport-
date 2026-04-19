@@ -1,8 +1,8 @@
 [
     {
-        "title": "Premier League live updates: Everton-Liverpool",
-        "link": "https://www.espn.com/soccer/story/_/id/48504979/premier-league-live-updates-everton-liverpool-arsenal-manchester-city",
-        "image_url": "https://a.espncdn.com/photo/2026/0419/r1645875_1296x729_16-9.jpg",
+        "title": "Everton vs Liverpool LIVE: Beto scores historic goal to equalise at Hill Dickinson Stadium",
+        "link": "https://www.espn.com/soccer/story/_/id/48530241/everton-liverpool-live-latest-updates-merseyside-derby-hill-dickinson-stadium-premier-league-commentary-score-result",
+        "image_url": "https://a.espncdn.com/photo/2026/0419/r1645896_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -12,9 +12,21 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Everton vs Liverpool LIVE: Latest updates from first Merseyside derby at Hill Dickinson Stadium",
-        "link": "https://www.espn.com/soccer/story/_/id/48530241/everton-liverpool-live-latest-updates-merseyside-derby-hill-dickinson-stadium-premier-league-commentary-score-result",
-        "image_url": "https://a.espncdn.com/photo/2026/0419/r1645872_1296x729_16-9.jpg",
+        "title": "Premier League live updates: Everton-Liverpool",
+        "link": "https://www.espn.com/soccer/story/_/id/48504979/premier-league-live-updates-everton-liverpool-arsenal-manchester-city",
+        "image_url": "https://a.espncdn.com/photo/2026/0419/r1645884_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Watch: First 'daylight offside' goal scored in Canadian Premier League",
+        "link": "https://www.espn.com/soccer/story/_/id/48530936/watch-first-daylight-offside-goal-scored-canadian-premier-league",
+        "image_url": "https://a.espncdn.com/photo/2026/0419/r1645881_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -160,18 +172,6 @@
         "link": "https://www.espn.com/soccer/story/_/id/47480434/premier-league-players-contract-leave-your-team-free-summer",
         "image_url": "https://a.espncdn.com/photo/2026/0308/r1625315_1296x729_16-9.jpg",
         "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "England 2026 World Cup watch: Who's trending up, who's trending down as Thomas Tuchel mulls squad",
-        "link": "https://www.espn.com/soccer/story/_/id/48223046/england-2026-world-cup-watch-squad-trending-squad-premier-league-fixtures-thomas-tuchel",
-        "image_url": "https://a.espncdn.com/photo/2026/0401/r1637051_1296x729_16-9.jpg",
-        "w": 1295,
         "h": 729,
         "focus_y": 0.35,
         "source_title1": "ESPN",
