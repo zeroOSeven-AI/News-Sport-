@@ -1,6 +1,30 @@
 [
     {
-        "title": "Spektakl za Pokrivača: Zvijezde ‘haklale‘, Mandžo pokazao klasu, a od VAR-a može učiti i HNL Nekadašnji Vatreni pobijedili su bivše Dinamove karike na Klinčeku u revijalnoj utakmici za Nikolu Pokrivača, kojega su se okupljeni prisjetili minutom šutnje i glasnim aplauzom",
+        "title": "Nijemci lansirali zabrinjavajuće vijesti o Vuškoviću. Doznajemo pravu istinu o stanju Vatrenog Stanka je Vuškoviću stigla kao naručena jer je u finišu naporne sezone, iako bi, naravno, igrao da nije zadobio lakšu ozljedu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bundesliga/luka-vuskovic-ozljeda-oporavak-hsv-tottenham-povratak-po-planu-15700395",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/19/k_38643567_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO City u spektakularnom okršaju srušio Arsenal i stigao do ogromne pobjede u borbi za naslov",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-man-city-arsenal-guardiolina-momcad-lovi-pobjedu-koja-bi-ih-vratila-u-borbu-za-naslov-prvaka-15700354",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/19/k_38771195_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Spektakl za Pokrivača: Zvijezde ‘haklale‘, Mandžo pokazao klasu, a od VAR-a može učiti i HNL",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/memorijal-pokrivac-mandzukic-volej-leko-hat-trick-bivsi-vatreni-6-4-15700383",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/19/k_38770955_640.jpg",
         "w": 640,
@@ -12,9 +36,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO/VIDEO Velika bitka u utakmici sezone: Nižu se prilike nakon ludog otvaranja, Donnarumma...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-man-city-arsenal-guardiolina-momcad-lovi-pobjedu-koja-bi-ih-vratila-u-borbu-za-naslov-prvaka-15700354",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/19/k_38770996_640.jpg",
+        "title": "Bayern München obranio titulu prvaka Njemačke!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bayern-munchen-obranio-titulu-prvaka-njemacke-15700398",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/19/k_38771019_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Modrić vadi Milan iz ‘potpunog mraka‘, a njegova umjetnost imponira: ‘Sve što radi ima smisla‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/modric-odusevio-u-veroni-milan-do-pobjede-uz-rabiotov-gol-15700387",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/19/k_38770997_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,6 +84,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "VIDEO Ovo se ne viđa svaki dan, kultni klub ‘strepio‘, a onda zabio četiri gola u šest minuta",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/celtic-st-mirren-6-2-produzeci-finale-skotskog-kupa-dunfermline-15700386",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/19/k_38771010_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "VIDEO: Dinamo je napustio zbog ‘presporog‘ nogometa, a sada vodi kultni klub prema Bundesligi!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/dejan-ljubicic-dvije-asistencije-schalke-pobjeda-munster-2-bundesliga-15700341",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/19/k_38770882_640.jpg",
@@ -61,56 +109,8 @@
     },
     {
         "title": "Dinamo već za tri dana lovi meč-loptu, a Kovačević sprema rošadu! Evo tko sve neće igrati",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-rotira-u-puli-prekid-817-dnevne-suse-i-lov-na-mec-loptu-15700304",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-rotira-u-puli-prekid-817-dnevne-suse-i-lov-na-mec-loptu-15700304",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38767289_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO Ovo se ne viđa svaki dan, kultni klub ‘strepio‘, a onda zabio četiri gola u šest minuta",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/celtic-st-mirren-6-2-produzeci-finale-skotskog-kupa-dunfermline-15700386",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/19/k_38771010_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Vratili se u život i maksimalno zakomplicirali stvari: ‘Nikad se nismo predali, spremni smo zakuhati‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/vukovar-se-dize-otpisani-zapalili-nadu-za-ostanak-poslije-pule-15700348",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38746706_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Znalo je biti svakakvih komentara, ali i kod nas ponekad prorade emocije, nismo ni mi roboti...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vaterpolo/mia-simunic-razotkriva-predrasude-i-pritiske-u-zenskom-vaterpolu-15700276",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/19/k_38298747_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO Modrić i društvo prekinuli krizu i napravili veliki korak ka ostvarenju glavnog cilja",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/milan-pobijedio-veronu-1-0-rabiot-strijelac-skok-na-drugo-mjesto-15700364",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/19/k_38770922_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -132,9 +132,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Što je to radio jedan od najcjenjenijih hrvatskih sudaca? Ima li u sobi VAR ili Commodore 64?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/var-kaos-drosina-bebek-rekordne-provjere-vukovar-91-pula-shnl-15700177",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_37177603_640.jpg",
+        "title": "‘Zaboravljena‘ zvijezda uskoro napušta Maksimir: ‘Talijani već stoje u redu. Cijena? 15 milijuna je realno‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/valincic-transfer-serie-a-dinamo-odsteta-ljeto-15700238",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/19/k_37559697_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -156,6 +156,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "VIDEO: Što je to radio jedan od najcjenjenijih hrvatskih sudaca? Ima li u sobi VAR ili Commodore 64?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/var-kaos-drosina-bebek-rekordne-provjere-vukovar-91-pula-shnl-15700177",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_37177603_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Bježao iz Dinama, na treninge je išao biciklom i tramvajem: ‘Nećemo se lagati, znalo se popiti‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/petar-brucic-dinamo-univerzalac-sampionska-generacija-rapid-bec-15699965",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/14/k_38765246_640.jpg",
@@ -168,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "FOTO Rijeka je dobila kazneni udarac protiv Dinama, pogledajte kako su u VAR sobi povukli liniju",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-rijeka-2-2-tri-penala-var-kontroverza-sporno-zaledje-derbi-15700190",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38768236_640.jpg",
+        "title": "‘Znalo je biti svakakvih komentara, ali i kod nas ponekad prorade emocije, nismo ni mi roboti...‘ U novom Sportcastu by Paola, izbornica hrvatskih vaterpolistica Mia Šimunić otvara teme o stidu, predrasudama i stvarnosti ženskog vaterpola",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vaterpolo/mia-simunic-razotkriva-predrasude-i-pritiske-u-zenskom-vaterpolu-15700276",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/19/k_38298747_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,7 +192,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Liverpool u 100. minuti do pobjede u Merseysideu: Van Dijk velike rivale bacio u očaj Kada se već činilo kako će susret završiti bez pobjednika, Van Dijk je duboko u sudačkoj nadoknadi pogodio za pobjedu gostiju",
+        "title": "Vratili se u život i maksimalno zakomplicirali stvari: ‘Nikad se nismo predali, spremni smo zakuhati‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/vukovar-se-dize-otpisani-zapalili-nadu-za-ostanak-poslije-pule-15700348",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38746706_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Modrić i društvo prekinuli krizu i napravili veliki korak ka ostvarenju glavnog cilja",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/milan-pobijedio-veronu-1-0-rabiot-strijelac-skok-na-drugo-mjesto-15700364",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/19/k_38770922_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Liverpool u 100. minuti do pobjede u Merseysideu: Van Dijk velike rivale bacio u očaj",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/van-dijk-odlucio-derbi-na-hill-dickinsonu-liverpool-pobijedio-everton-2-1-15700368",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/19/k_38770923_640.jpg",
         "w": 640,
@@ -195,42 +231,6 @@
         "title": "Novi sudionik SHNL-a na vidiku: Rudeš preokretom do tri boda i bijega od Sesveta",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/rudes-preokretom-protiv-hrvaca-2-1-allyson-i-cvetko-za-bijeg-na-plus-cetiri-15700358",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/19/k_38419621_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Kovač stiže u Hrvatsku po pojačanje?! Ugledni stručnjak tvrdi: Borussija u shoppingu kod Lokomotive",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/borussia-dortmund-bayern-love-liama-claudea-kantea-iz-lokomotive-15700297",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/19/k_38510756_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Najavljen kao spasitelj, na putu je da postane mrtvozornik. Ovo se ne pamti skoro 50 godina",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/tottenham-15-utakmica-bez-pobjede-de-zerbi-optimizam-brighton-rutter-zona-ispadanja-15700307",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/19/k_38739294_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Kraj priče, Istra smijenila trenera! Vijećalo se do kasno u noć, a onda je pala konačna odluka",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/istra-1961-otpustila-oriola-rieru-palomar-i-blagojevic-privremeno-vode-momcad-15700265",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/19/k_38504152_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
