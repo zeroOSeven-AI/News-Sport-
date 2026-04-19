@@ -1,8 +1,44 @@
 [
     {
-        "title": "‘Zaboravljena‘ zvijezda uskoro napušta Maksimir: ‘Talijani već stoje u redu. Cijena? 15 milijuna je realno‘ ‘Dinamo nije dobro odradio njegov povratak, jer nije bio spreman ni fizički ni mentalno, stoga je malo zapeo s dobrim izvedbama‘",
+        "title": "Kraj priče, Istra smijenila trenera! Vijećalo se do kasno u noć, a onda je pala konačna odluka Saša Bjelanović dobio je nalog od vlasnika da pronađe novo rješenje, ako ništa drugo, barem do kraja ove sezone",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/istra-1961-otpustila-oriola-rieru-palomar-i-blagojevic-privremeno-vode-momcad-15700265",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/19/k_38504152_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Vučević se oprostio od Hajduka: ‘Osjećam potrebu da kažem nešto, umoran sam od neiskrenih...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/goran-vucevic-poruka-nakon-dolaska-roberta-grafa-sportski-direktor-hajduk-15700266",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/19/k_37951248_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Zaboravljena‘ zvijezda uskoro napušta Maksimir: ‘Talijani već stoje u redu. Cijena? 15 milijuna je...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/valincic-transfer-serie-a-dinamo-odsteta-ljeto-15700238",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/19/k_37559697_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Bijeli skupo platili bod u Koprivnici, standardni veznjak izgubljen na duži period! A tu nije kraj...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/krovinovic-ozlijeden-livaja-suspendiran-hajduk-bez-asa-protiv-osijeka-15700261",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/19/k_38574857_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,42 +120,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Majstor ili šegrt, Katalonac ili Bask? Guardioli igra samo pobjeda, za Artetu je ona i remi...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/arsenal-manchester-city-etihad-guardiola-arteta-derbi-za-naslov-15700218",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38617437_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Zadar protiv Zaboka lovi nastavak pobjedničkog niza i potvrdu dizanja igrača s klupe",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/hrvatska-liga/zadar-zabok-potvrda-prvog-mjesta-supersport-premijer-liga-15700253",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38128301_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Novi šef poljudske struke hladno ‘ošamario‘ Hajduk i cijeli SHNL, zvuči kao da je rekao - istinu?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/robert-graf-hajduk-intenzitet-rezovi-pojacanja-prodaje-10-milijuna-15700187",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38755069_640.png",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "VIDEO: Dinamo i Rijeka bez pobjednika u ludoj golijadi...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/dinamo-juri-prema-naslovu-rijeka-bez-fruka-trazi-recept-u-maksimiru-15700061",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38767350_640.jpg",
@@ -156,6 +156,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "FOTO Rijeka je dobila kazneni udarac protiv Dinama, pogledajte kako su u VAR sobi povukli liniju",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-rijeka-2-2-tri-penala-var-kontroverza-sporno-zaledje-derbi-15700190",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38768236_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Ovacije za Vatrenog: Kramarića ‘nosili na rukama‘, Niko Kovač strijeljao pogledom, Bayern prvak!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/kramaric-dva-penala-rusi-dortmund-hoffenheim-prema-ligi-prvaka-15700126",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38767407_640.jpg",
@@ -168,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Konačno je dočekao! Miljenik Dinamovih navijača ušao u završnici i bacio tribine u trans",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/mudrazija-prvijenac-za-aek-bod-u-89-minuti-povratak-u-dinamo-neizvjesna-buducnost-15700158",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38767776_640.png",
+        "title": "Majstor ili šegrt, Katalonac ili Bask? Guardioli igra samo pobjeda, za Artetu je ona i remi... Tri i pol godine Arteta je radio kao pomoćnik Guardiole, a danas ne postoji trener protiv kojeg je vodio više utakmica i od kojeg, u barem pet okršaja, ima lošiji skor",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/arsenal-manchester-city-etihad-guardiola-arteta-derbi-za-naslov-15700218",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38617437_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,7 +192,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Što je to radio jedan od najcjenjenijih hrvatskih sudaca? Ima li u sobi VAR ili Commodore 64? Vukovar ‘91 slavio u Puli, ali dugačke provjere zasjenile su borbu za ostanak i razbjesnile tribine",
+        "title": "Zadar protiv Zaboka lovi nastavak pobjedničkog niza i potvrdu dizanja igrača s klupe",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/hrvatska-liga/zadar-zabok-potvrda-prvog-mjesta-supersport-premijer-liga-15700253",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38128301_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Novi šef poljudske struke hladno ‘ošamario‘ Hajduk i cijeli SHNL, zvuči kao da je rekao - istinu?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/robert-graf-hajduk-intenzitet-rezovi-pojacanja-prodaje-10-milijuna-15700187",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38755069_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Što je to radio jedan od najcjenjenijih hrvatskih sudaca? Ima li u sobi VAR ili Commodore 64?",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/var-kaos-drosina-bebek-rekordne-provjere-vukovar-91-pula-shnl-15700177",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_37177603_640.jpg",
         "w": 640,
@@ -195,42 +231,6 @@
         "title": "VIDEO Veliko slavlje vatrenog dvojca: Pao je Atletico Madrid, Sučić i Ćaleta-Car osvojili Kup kralja!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/caleta-car-i-sucic-osvojili-kup-kralja-real-sociedad-srusio-atletico-na-penale-15700200",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/19/k_38604234_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "FOTO Rijeka je dobila kazneni udarac protiv Dinama, pogledajte kako su u VAR sobi povukli liniju",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-rijeka-2-2-tri-penala-var-kontroverza-sporno-zaledje-derbi-15700190",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38768236_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Čudesni hrvatski tinejdžer opet oduševio i srušio rekord svoje momčadi",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/basket-international/michael-ruzic-rekordna-vecer-joventut-srusio-baskoniju-81-69-15700198",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38098539_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Alarm u Realu: Mlada zvijezda drastično gubi kilograme, liječnici su zbunjeni, stanje se pogoršalo...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/raul-asencio-real-madrid-bolnica-gastroenteritis-gubitak-tezine-6-kg-15700185",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38768168_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
