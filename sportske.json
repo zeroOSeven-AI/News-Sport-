@@ -1,8 +1,32 @@
 [
     {
-        "title": "Novi šef poljudske struke hladno ‘ošamario‘ Hajduk i cijeli SHNL, zvuči kao da je rekao - istinu? Robert Graf došao je bez alibija, s planom, kritikom i realnim ciljevima za vruće ljeto na Poljudu",
+        "title": "Beljine su brojke impresivne, ali HNL ne može biti mjerilo! Evo što mora popraviti ako želi u elitu Veliki okršaj Dinama i Rijeke (2:2) na Maksimiru za Sportske novosti komentira stručni komentator Gordon Schildenfeld",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-rijeka-derbi-penali-preokreti-crveni-najava-finala-kupa-15700213",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38767456_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Novi šef poljudske struke hladno ‘ošamario‘ Hajduk i cijeli SHNL, zvuči kao da je rekao - istinu?",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/robert-graf-hajduk-intenzitet-rezovi-pojacanja-prodaje-10-milijuna-15700187",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38755069_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Dvojac Vatrenih stigao do prvog trofeja u Petici! Pljušte pohvale: ‘On je kompletan igrač‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/real-sociedad-kup-kralja-marrero-sucic-caletacar-penali-baskija-15700216",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/19/k_38732462_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,7 +72,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Čudesni hrvatski tinejdžer opet oduševio! Ovakav nastup u ligi nije viđena od Luke Dončića",
+        "title": "Čudesni hrvatski tinejdžer opet oduševio i srušio rekord svoje momčadi",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/basket-international/michael-ruzic-rekordna-vecer-joventut-srusio-baskoniju-81-69-15700198",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38098539_640.jpg",
         "w": 640,
@@ -96,7 +120,55 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Neville: Arsenal može do remija na Etihadu; Scholes: Lagan posao za City, bit će 2:0 ili 3:0!",
+        "title": "VIDEO: Dinamo i Rijeka bez pobjednika u ludoj golijadi...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/dinamo-juri-prema-naslovu-rijeka-bez-fruka-trazi-recept-u-maksimiru-15700061",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38767350_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Ovacije za Vatrenog: Kramarića ‘nosili na rukama‘, Niko Kovač strijeljao pogledom, Bayern prvak!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kramaric-dva-penala-rusi-dortmund-hoffenheim-prema-ligi-prvaka-15700126",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38767407_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Stravične scene, nokautirana bivša zvijezda Hajduka, igrači se držali za glavu, na tribinama muk",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/jairo-da-silva-ozlijeden-u-johoru-hospitaliziran-stanje-stabilno-al-ahli-pobijedio-15699969",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38766581_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Konačno je dočekao! Miljenik Dinamovih navijača ušao u završnici i bacio tribine u trans",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/mudrazija-prvijenac-za-aek-bod-u-89-minuti-povratak-u-dinamo-neizvjesna-buducnost-15700158",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38767776_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Neville: Arsenal može do remija na Etihadu; Scholes: Lagan posao za City, bit će 2:0 ili 3:0! U nedjeljnom derbiju na Etihadu Manchester City ugostit će Arsenal u izravnom okršaju u utrci za naslov engleskog prvaka",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/premiership/manchester-city-arsenal-derbi-etihad-utrka-za-naslov-15700195",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/17/k_38756205_640.jpg",
         "w": 640,
@@ -120,55 +192,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Dinamo i Rijeka bez pobjednika u ludoj golijadi...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/dinamo-juri-prema-naslovu-rijeka-bez-fruka-trazi-recept-u-maksimiru-15700061",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38767350_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Stravične scene, nokautirana bivša zvijezda Hajduka, igrači se držali za glavu, na tribinama muk",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/jairo-da-silva-ozlijeden-u-johoru-hospitaliziran-stanje-stabilno-al-ahli-pobijedio-15699969",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38766581_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Ovacije za Vatrenog: Kramarića ‘nosili na rukama‘, Niko Kovač strijeljao pogledom, Bayern prvak!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kramaric-dva-penala-rusi-dortmund-hoffenheim-prema-ligi-prvaka-15700126",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38767407_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Zagubio se, kod Kovačevića bio višak, a sada je nezaobilazni adut i najveći dobitnik proljeća!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/galesic-dinamo-uspon-desni-bek-povratak-na-stopera-rijeka-15699992",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/16/k_37603523_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Stipić: Bacao sam bisere pred svinje; Riera: Sudac i VAR su nas kaznili! - Imam igrače koji će za dvije, tri godine biti u ligama petice (Čaić, Butić, Gurlica...) - kazao je trener Vukovara nakon utakmice",
+        "title": "Stipić: Bacao sam bisere pred svinje; Riera: Sudac i VAR su nas kaznili!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/osijek/vukovar-pobijedio-istru-2-1-u-puli-prva-gostujuca-pobjeda-var-drama-15700173",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38746904_640.jpg",
         "w": 640,
@@ -204,33 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Konačno je dočekao! Miljenik Dinamovih navijača ušao u završnici i bacio tribine u trans",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/mudrazija-prvijenac-za-aek-bod-u-89-minuti-povratak-u-dinamo-neizvjesna-buducnost-15700158",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38767776_640.png",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Sanchez opet prozvao HNS: ‘Patimo cijele sezone zbog toga, natjecanje mora biti fer za sve!‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/dinamo-rijeka-reakcije-bod-ozljede-kovacevic-sanchez-fruk-15700142",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38767290_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Kovačević nije pronašao recept, Stojković skroman, Valinčić podbacio, samo dva igrača dobila ‘sedmice‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-rijeka-ocjene-dantas-dvaput-s-penala-beljo-najbolji-15700132",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/18/k_38767448_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
