@@ -1,8 +1,44 @@
 [
     {
-        "title": "Odluka je pala: Evo tko će voditi hrvatskog prvoligaša protiv Dinama i do kraja sezone Režić će sa 44 godine debitirati u SHNL-u, a uz rad u Hajdukovoj školi ima nepunu sezonu u Zmijavcima",
+        "title": "Garcia nahvalio novog direktora: ‘Zbog jedne stvari sam jako optimistačn u vezi naše suradnje‘ Trener Bijelih je uoči susreta protiv Osijeka govorio o Robertu Grafu, izvedbi protiv Belupa, ali i zdravstvenom biltenu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/osijek/hajduk-bez-livaje-i-krovinovica-trazi-pobjedu-osijek-se-bori-za-opstanak-15700594",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/20/k_38765041_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Legenda Vatrenih otkrila gdje je Modrić počeo tražiti stan: ‘Ne ulazim u obiteljske stvari...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/simic-modric-trazi-stan-u-milanu-ugovor-istjece-30-lipnja-15700614",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/20/k_37444702_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Odluka je pala: Evo tko će voditi hrvatskog prvoligaša protiv Dinama i do kraja sezone",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/transferi/odluka-je-pala-evo-tko-ce-voditi-hrvatskog-prvoligasa-protiv-dinama-i-do-kraja-sezone-15700545",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/20/k_32707963_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Dantas otkrio što je rekao Livakoviću uoči jedanaesterca na Maksimiru",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dantas-otkriva-dva-penala-dinamu-i-razgovor-s-livakovicem-15700604",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/20/k_38767434_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,9 +120,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Pogazio je vlastitu riječ, vratio se u Hajduk, a sad nepovratno odlazi: ‘Zauvijek stavljam točku!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/goran-vucevic-napusta-hajduk-najjaci-potez-je-otici-15700464",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/19/k_37313111_640.jpg",
+        "title": "‘Kupaći curama ponekad zna skliznuti, a komentari budu...",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vaterpolo/mia-simunic-predsude-kupaci-istina-zenski-vaterpolo-sportcast-15700488",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/20/k_38756658_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,31 +132,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘VAR je uništio nogomet! To nije normalno i nešto se mora promijeniti. Beljo je dobro rekao...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/vjesce-rijeka-nadigrala-dinamo-var-usporio-beljo-blize-reprezentaciji-15700485",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/20/k_38767463_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Novi udarac za Dončića: Najbolji je strijelac lige, ima monstruoznu statistiku, ali neće biti MVP",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/doncic-izvan-mvp-top-3-unatoc-najboljoj-strijackoj-sezoni-15700504",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/20/k_38686550_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Zaboravljena‘ zvijezda uskoro napušta Maksimir: ‘Talijani već...",
+        "title": "‘Zaboravljena‘ zvijezda uskoro napušta Maksimir: ‘Talijani već stoje u redu. Cijena? 15 milijuna je realno‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/valincic-transfer-serie-a-dinamo-odsteta-ljeto-15700238",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/19/k_37559697_640.jpg",
         "w": 640,
@@ -168,9 +180,33 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Čulina imao jednu pogrešku, maratonski VAR nijednu! Evo zašto utakmice HNL-a nekad prelaze u lakrdiju VAR-suci imaju jedan problem koji vuku iz terenskog suđenja, a to je nedosljednost. I u procjenama i u pozivima.",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/hnl-var-culina-ispravne-odluke-spori-alat-nesigurne-crte-15700480",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/19/k_38767954_640.jpg",
+        "title": "Pogazio je vlastitu riječ, vratio se u Hajduk, a sad nepovratno odlazi: ‘Zauvijek stavljam točku!‘ Prije dvije godine Vučević je govorio da mu povratak na Poljud ne pada na pamet, ali, priznat će, povjerovao je i \"ispao naivan\"",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/goran-vucevic-napusta-hajduk-najjaci-potez-je-otici-15700464",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/19/k_37313111_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘VAR je uništio nogomet! To nije normalno i nešto se mora promijeniti. Beljo je dobro rekao...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/vjesce-rijeka-nadigrala-dinamo-var-usporio-beljo-blize-reprezentaciji-15700485",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/20/k_38767463_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Novi udarac za Dončića: Najbolji je strijelac lige, ima monstruoznu statistiku, ali neće biti MVP",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/doncic-izvan-mvp-top-3-unatoc-najboljoj-strijackoj-sezoni-15700504",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/20/k_38686550_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,45 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Orlando priredio senzaciju, čudesni Wembanyama ubacio 35 poena",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/nba-doigravanje-orlando-sokirao-detroit-wembanyama-briljirao-celtics-thunder-dominantni-15700510",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/20/k_38773263_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "‘Hrvatski učenik‘ je rođeni pobjednik: Na njega treba obratiti pozornost na idućem Grand Slamu",
         "link": "https://sportske.jutarnji.hr/sportske/tenis/grand-slam/fils-osvaja-barcelonu-uz-ivanisevica-skok-na-25-atp-roland-garros-15700470",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/19/k_38771681_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Cibona ovisi o namjerama jednog čovjeka, a uskoro će se dogoditi nešto na što se čeka 30 godina",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/hrvatska-liga/cibona-80-bez-dugova-dodig-preuzima-nova-era-15700497",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/19/k_38400387_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Dalić će morati razbiti armirani beton! Pomagao Fergusonu, pao s Realom, a sad prijeti Vatrenima",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/dalic-ce-morati-razbiti-armirani-beton-pomagao-fergusonu-pao-s-realom-a-sad-prijeti-vatrenima-15700448",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/15/k_37653014_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
