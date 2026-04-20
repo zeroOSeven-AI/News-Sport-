@@ -1,6 +1,30 @@
 [
     {
-        "title": "Težak poraz u Beogradu: Split ispao iz ABA lige! Beograđani ubacili gas u trećoj četvrtini i presudili splitskim nadama za ostanak, dok u posljednjem kolu na Gripe stiže Spartak",
+        "title": "Miljama je iza Dinama, bio je pred otkazom, ali jedan igrač pod njim je doživio renesansu Mnogi navijači Rijeke mogli su povjerovati da počinje rekvijem za Victora Sancheza, no još uvijek može pobjednički završiti sezonu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/rijeka/rijeka-dinamo-dantas-deset-golova-sanchez-karakter-bod-bez-fruka-15700796",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/19/k_38715078_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Treneri s diplomama, ali upitnih sadržaja: kako je Ćirin put stvorio hrvatski DNK",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/blazevicev-dnk-ravnoteza-tehnike-i-snage-hrvatska-nogomet-15700801",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/17/k_25302325_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Težak poraz u Beogradu: Split ispao iz ABA lige!",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/aba-liga/mega-superbet-srusila-split-95-72-ispadanje-iz-aba-lige-u-beogradu-15700782",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/20/k_38617574_640.jpg",
         "w": 640,
@@ -96,30 +120,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Vahid Halilhodžić pred nemilosrdnom kaznom: ‘Uvrede i prijetnje? Nevjerojatno! Ako sam to napravio...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/halilhodzic-negira-uvrede-sucu-odluka-disciplinske-komisije-u-utorak-15700767",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/20/k_38553971_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Proglasili su ih materijalom za Vatrene, a sad ih nema nigdje. Kovačević od njih ne dobiva - ništa!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/var-soba-analiza-dinamo-rijeka-hajduk-intenzitet-hnl-a-15700706",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/20/k_38746907_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "‘Kupaći curama ponekad zna skliznuti, a komentari budu...",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vaterpolo/mia-simunic-predsude-kupaci-istina-zenski-vaterpolo-sportcast-15700488",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/20/k_38756658_640.jpg",
@@ -180,7 +180,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Jasna poruka Hajduka: ‘Potičemo lokalnu ekonomiju za 4,6 milijuna eura godišnje. Zato nema dvojbe‘ ‘Novi stadion jedina je opcija koja Hajduk, gradu Splitu i cijeloj Hrvatskoj donosi jasun budućnost i prosperitet‘",
+        "title": "Vahid Halilhodžić pred nemilosrdnom kaznom: ‘Uvrede i prijetnje? Nevjerojatno! Ako sam to napravio...‘ Samo sam ga zamolio da dođe i objasni zašto, a sudac nije došao. Zaslužujem malo poštovanja, kao i moja momčad",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/halilhodzic-negira-uvrede-sucu-odluka-disciplinske-komisije-u-utorak-15700767",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/20/k_38553971_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Proglasili su ih materijalom za Vatrene, a sad ih nema nigdje. Kovačević od njih ne dobiva - ništa!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/var-soba-analiza-dinamo-rijeka-hajduk-intenzitet-hnl-a-15700706",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/20/k_38746907_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Jasna poruka Hajduka: ‘Potičemo lokalnu ekonomiju za 4,6 milijuna eura godišnje. Zato nema dvojbe‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-novi-stadion-prosperitet-split-hrvatska-ekonomski-ucinci-15700769",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/20/k_38741014_640.jpg",
         "w": 640,
@@ -207,30 +231,6 @@
         "title": "Javno likovala zbog prevare, a onda i nju dočekao otkaz: ‘Gubi se! Znamo tko si i što radiš...‘",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/usa-today-otpustio-crissy-froyd-nakon-objava-o-dianni-russini-i-mikeu-vrabelu-15700730",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/20/k_38755115_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Bliži li se kraj ere? Slijedi burno ljeto za Simeonea i veterane, a u igri su i novi vlasnici",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/simeone-800-utakmica-liga-prvaka-atletico-kraj-ere-15700761",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/20/k_38774243_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Legenda Vatrenih otkrila gdje je Modrić počeo tražiti stan: ‘Ne ulazim u obiteljske stvari...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/simic-modric-trazi-stan-u-milanu-ugovor-istjece-30-lipnja-15700614",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/20/k_37444702_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
