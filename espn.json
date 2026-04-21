@@ -1,5 +1,29 @@
 [
     {
+        "title": "FIFA to put more World Cup tickets on sale for all games",
+        "link": "https://www.espn.com/soccer/story/_/id/48551738/fifa-put-more-world-cup-tickets-sale-all-games",
+        "image_url": "https://a.espncdn.com/photo/2026/0202/r1609489_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Tracking Europe's top soccer leagues: Title races, UCL, relegation",
+        "link": "https://www.espn.com/soccer/story/_/id/48109229/tracking-europe-top-soccer-leagues-2025-26-title-races-champions-league-relegation-premier-league-laliga-bundesliga",
+        "image_url": "https://a.espncdn.com/photo/2026/0421/r1647018_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
         "title": "Transfer rumors, news: Man United eye Real Madrid star as Casemiro replacement",
         "link": "https://www.espn.com/soccer/story/_/id/48548178/transfer-rumors-news-man-united-eye-real-madrid-star-casemiro-replacement",
         "image_url": "https://a.espncdn.com/photo/2026/0226/r1620255_1296x729_16-9.jpg",
@@ -147,30 +171,6 @@
         "title": "How Burnley could get relegated from the Premier League this week",
         "link": "https://www.espn.com/soccer/story/_/id/48548757/how-burnley-get-relegated-premier-league-week",
         "image_url": "https://a.espncdn.com/photo/2026/0421/r1646865_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Leonardo Bonucci 'dreaming' of Pep Guardiola as Italy manager: 'Right man for the job'",
-        "link": "https://www.espn.com/soccer/story/_/id/48548795/leonardo-bonucci-dreaming-pep-guardiola-italy-manager-right-man-job",
-        "image_url": "https://a.espncdn.com/photo/2026/0421/r1646873_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Vitor Reis intends to return to Man City for 'regular game time'",
-        "link": "https://www.espn.com/soccer/story/_/id/48548697/vitor-reis-intends-return-man-city-regular-game",
-        "image_url": "https://a.espncdn.com/photo/2026/0421/r1646868_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
