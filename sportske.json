@@ -1,8 +1,20 @@
 [
     {
-        "title": "Ekskluzivno za SN: Menadžer demantirao priču o Gvardiolu! ‘Za Hrvatsku bi igrao i na štakama‘ Klub nije potvrdio kraj sezone, a reprezentacija ga očekuje 25. svibnja",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/gvardiol-trenira-dvaput-dnevno-povratak-moguc-pocetkom-svibnja-15701886",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_38720097_640.png",
+        "title": "Dinamo sprema feštu za pamćenje: Ekskluzivna večer, omiljeni voditelj, šampanjci pa Trg! ‘Čekajte malo...‘ Otkrivamo detalje slavljeničkog, pobjedničkog vikenda, s pogledom prema velikom, plavom tulumu koji još čeka posljednje note jer ipak treba pobijediti Varaždin",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-115-rodendanski-zet-tramvaj-rasprodani-sjever-maksimir-naslov-protiv-varazdina-15701907",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_38492112_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Evo kako je Dinamo došao korak do titule, u ostalim dvobojima je na razini - Hajduka",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/dinamo-dominira-derbijima-hajduk-gubi-bodove-na-malim-utakmicama-15701915",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/22/k_38525415_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,9 +36,33 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Ekskluzivno za SN: Menadžer demantirao priču o Gvardiolu! ‘Za Hrvatsku bi igrao i na štakama‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/gvardiol-trenira-dvaput-dnevno-povratak-moguc-pocetkom-svibnja-15701886",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_38720097_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Vukovi pred novim gazdom nakon dvije i pol godine došli do pobjede protiv najvećeg rivala",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/hrvatska-liga/vukovi-pred-novim-gazdom-nakon-dvije-i-pol-godine-dosli-do-pobjede-protiv-najveceg-rivala-15701897",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_38783414_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Nakon 25 godina trofejni je klub na rubu ispadanja u drugu ligu, čeka ga teška borba za opstanak",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sevilla-na-rubu-ispadanja-poraz-od-levantea-gura-velikana-prema-segundi-15701911",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_38703441_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,42 +120,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Nova ‘runda ljubavi‘ između Rujevice i kapetana Hajduka: Garcia nema izbora, Livaja se vraća",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/livaja-povratak-rujevica-hajduk-rijeka-garcia-derbi-15701894",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/22/k_38744565_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Na Poljud uskoro stiže novo pojačanje, bivši trener Bijelih: ‘Izrazita tehnika, strašan karakter, ali...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/etnik-brruti-hajduk-profil-karoglan-transfer-ljevak-osmica-desetka-15701783",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_32909179_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Jedan napravio podvig kakav se ne pamti od LeBrona, drugog se ne bi posramio ni Steph Curry",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/knueppel-vs-flagg-utrka-za-nba-rookieja-godine-15701877",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/22/k_38779029_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Potpuna drama slavne Hrvatice: ‘Umirem od gladi, ne daju mi ni...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/zenski-nogomet-strani/ana-maria-markovic-slomila-nos-u-sad-u-satima-cekala-ct-pregled-15701559",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/22/k_31499475_640.png",
@@ -168,9 +168,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Marin Čilić otkrio kada bi mogao završiti karijeru! Progovorio i o ratu, Federeru, Nadalu... Gledanje Federera i Nadala kako igraju bila je čista poezija u pokretu, rekao je najbolji hrvatski tenisač u razgovoru za AS",
-        "link": "https://sportske.jutarnji.hr/sportske/tenis/atp-wta-turniri/cilic-preokret-madrid-drugo-kolo-fonseca-intervju-15701872",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_38714825_640.jpg",
+        "title": "Nova ‘runda ljubavi‘ između Rujevice i kapetana Hajduka: Garcia nema izbora, Livaja se vraća Nakon promašaja i suspenzije Šege, Garcia računa na spremnog Marka Livaju za prekid negativnog niza",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/livaja-povratak-rujevica-hajduk-rijeka-garcia-derbi-15701894",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/22/k_38744565_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Matjaž Kek ljutit zbog glasina: ‘Na kavi me vidjelo 500 ljudi, ne želim da me se ovako provlači‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/matjaz-kek-odbacuje-pregovore-rijeka-ima-trenera-ne-dolazi-na-derbi-15701820",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_33985503_640.jpg",
+        "title": "Na Poljud uskoro stiže novo pojačanje, bivši trener Bijelih: ‘Izrazita tehnika, strašan karakter, ali...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/etnik-brruti-hajduk-profil-karoglan-transfer-ljevak-osmica-desetka-15701783",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_32909179_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,21 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Kako izgleda kad imaš love, a nemaš pojma o nogometu? Još se pamte provale na Maksimiru",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/boehlyjev-chelsea-milijarde-troskovi-bez-europe-kaos-odluka-15701859",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_38781924_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Francis Ngannou odabrao protivnika za kraj karijere: ‘Dajte mi njega i mirne duše idem u mirovinu!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ostalo/francis-ngannou-odabrao-protivnika-za-kraj-karijere-dajte-mi-njega-i-mirne-duse-idem-u-mirovinu-15701771",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_38782255_640.jpg",
+        "title": "Jedan napravio podvig kakav se ne pamti od LeBrona, drugog se ne bi posramio ni Steph Curry",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/knueppel-vs-flagg-utrka-za-nba-rookieja-godine-15701877",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/22/k_38779029_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -228,9 +216,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Svi pričaju o Belji, ali Dinamo ima još jednu mašinu: ‘Vatreni nemaju boljeg, ne znam zašto ga Dalić ne zove‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/dinamo-dominira-hajduk-slabi-varazdin-ispred-rijeke-misic-blista-15701726",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_38226736_640.jpg",
+        "title": "Matjaž Kek ljutit zbog glasina: ‘Na kavi me vidjelo 500 ljudi, ne želim da me se ovako provlači‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/matjaz-kek-odbacuje-pregovore-rijeka-ima-trenera-ne-dolazi-na-derbi-15701820",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_33985503_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "U prodaji knjiga koju je Hrvatska trebala i čekala - \"Vatreno prijestolje\"!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/vatreno-prijestolje-knjiga-drazena-antolica-zlatna-era-vatrenih-15701770",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/22/k_38782253_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
