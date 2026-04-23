@@ -1,5 +1,29 @@
 [
     {
+        "title": "Stuttgart score extra-time win over Freiburg in German Cup semifinal",
+        "link": "http://www.espn.com/soccer/report/_/gameId/401862314",
+        "image_url": "https://a.espncdn.com/photo/2026/0423/r1648168_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Amnesty International, rights groups issue World Cup travel advisory",
+        "link": "https://www.espn.com/espn/story/_/id/48573705/amnesty-international-world-cup-travel-advisory-us",
+        "image_url": "https://a.espncdn.com/photo/2025/0903/r1540476_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
         "title": "Transfer rumors, news: Bournemouth join race to sign Tillman",
         "link": "https://www.espn.com/soccer/story/_/id/48567959/transfer-rumors-news-replace-rosenior-chelsea-manager",
         "image_url": "https://a.espncdn.com/photo/2026/0423/r1648159_1296x729_16-9.jpg",
@@ -60,7 +84,7 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "World Cup final tickets listed on FIFA resale at over $2M",
+        "title": "World Cup final tickets listed on FIFA resale at over $2 million",
         "link": "https://www.espn.com/soccer/story/_/id/48572372/world-cup-final-tickets-listed-fifa-resale-2-million",
         "image_url": "https://a.espncdn.com/photo/2025/1120/r1578300_1296x729_16-9.jpg",
         "w": 1296,
@@ -149,30 +173,6 @@
         "image_url": "https://a.espncdn.com/photo/2025/1110/r1573573_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Liverpool supporters write to owner with 'deep concern' for future of the club",
-        "link": "https://www.espn.com/soccer/story/_/id/48571234/liverpool-supporters-write-owner-deep-concern-future-club",
-        "image_url": "https://a.espncdn.com/photo/2026/0412/r1642257_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "BBC to axe Football Focus show after 52 years",
-        "link": "https://www.espn.com/soccer/story/_/id/48571122/bbc-axe-football-focus-show-52-years",
-        "image_url": "https://a.espncdn.com/photo/2026/0423/r1648028_800x450_16-9.jpg",
-        "w": 800,
-        "h": 450,
         "focus_y": 0.35,
         "source_title1": "ESPN",
         "source_title2": "FOOTBALL",
