@@ -48,6 +48,30 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Jedan napravio podvig kakav se ne pamti od LeBrona, drugog se ne bi posramio ni Steph Curry",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/knueppel-vs-flagg-utrka-za-nba-rookieja-godine-15701877",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/22/k_38779029_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Marin Čilić otkrio kada bi mogao završiti karijeru! Progovorio i o ratu, Federeru, Nadalu...",
+        "link": "https://sportske.jutarnji.hr/sportske/tenis/atp-wta-turniri/cilic-preokret-madrid-drugo-kolo-fonseca-intervju-15701872",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_38714825_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Matjaž Kek ljutit zbog glasina: ‘Na kavi me vidjelo 500 ljudi, ne želim da me se ovako provlači‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/matjaz-kek-odbacuje-pregovore-rijeka-ima-trenera-ne-dolazi-na-derbi-15701820",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_33985503_640.jpg",
@@ -87,30 +111,6 @@
         "title": "Nevjerojatna nogometna priča: Ušli u finale bez ijednog upućenog udarca, a protivnik imao čak 31",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/fc-cernihiv-bez-udarca-u-finalu-ukrajinskog-kupa-penalima-protiv-metalista-1925-15701849",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_32058015_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Kaos u Dubrovniku: Dio tribine stogodišnjeg stadiona pao usred utakmice, jedna osoba lakše ozlijeđena",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/urusavanje-tribina-stadion-lapad-dubrovnik-zatvaranje-hitna-sanacija-15701815",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_38782481_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "FOTO Zavladala totalna plava euforija! Pogledajte kako danas izgledaju zagrebački tramvaji",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-pred-26-naslovom-rasprodan-sjever-derbi-na-poljudu-odlucuje-15701766",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_38692852_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Svi pričaju o Belji, ali Dinamo ima još jednu mašinu: ‘Vatreni nemaju boljeg, ne znam zašto ga Dalić ne zove‘ ‘Takvu dominaciju takvog igrača na jednoj poziciji nisam vidio već dulje vremena‘, tvrdi Ilija Lončarević",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/dinamo-dominira-hajduk-slabi-varazdin-ispred-rijeke-misic-blista-15701726",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_38226736_640.jpg",
+        "title": "Kaos u Dubrovniku: Dio tribine stogodišnjeg stadiona pao usred utakmice, jedna osoba lakše ozlijeđena ‘Grad Dubrovnik izražava žaljenje, jer gradska uprava nije zaprimila informaciju od Javne ustanove Športski objekti Dubrovnik o izuzetno lošem stanju tribina‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/urusavanje-tribina-stadion-lapad-dubrovnik-zatvaranje-hitna-sanacija-15701815",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_38782481_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -204,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "On je Dinamova ‘vruća roba‘: Jednim potezom je jasno pokazao zašto mu predviđaju veliki transfer",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sergi-dominguez-asistencija-la-masija-dinamo-istria-interes-transfer-15701751",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/22/k_38780132_640.jpg",
+        "title": "FOTO Zavladala totalna plava euforija! Pogledajte kako danas izgledaju zagrebački tramvaji",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-pred-26-naslovom-rasprodan-sjever-derbi-na-poljudu-odlucuje-15701766",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_38692852_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -216,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Stigle vijesti o ozljedi Yamala! Barca tuguje, ali Španjolska slavi - čudo od djeteta ide na SP",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/yamal-zavrsio-sezonu-barcelona-pobjedila-celtu-ozljeda-sp-neo-15701764",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_38781731_640.jpg",
+        "title": "Oglasio se otac Zrinke Ljutić: ‘Oni se goste šampanjcem, a vi idete na klupicu u hladno skladište‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/zimski-sportovi/goran-racki-novi-direktor-alpskih-reprezentacija-skijasi-u-prvom-planu-15701602",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_23988159_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -228,9 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Bivši trener Dinama potpuno slomljen: ‘Gotovo je, stvarno mi je žao... možda sam proklet‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nantes-psg-3-0-halilhodzic-ocajan-ispadanje-auxerre-raspored-ligue-1-15701687",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_38778615_640.jpg",
+        "title": "Svi pričaju o Belji, ali Dinamo ima još jednu mašinu: ‘Vatreni nemaju boljeg, ne znam zašto ga Dalić ne zove‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/dinamo-dominira-hajduk-slabi-varazdin-ispred-rijeke-misic-blista-15701726",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_38226736_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
