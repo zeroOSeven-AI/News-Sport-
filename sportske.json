@@ -1,6 +1,18 @@
 [
     {
-        "title": "Kovačević otkrio svoj strah pa nahvalio jednog igrača: ‘Svašta je prošao, a sad je imao veliku ulogu‘ ‘Nikad nisam posumnjao u osvajanje naslova, a valjda će me preplaviti emocije kad osvojimo trofej‘",
+        "title": "VIDEO Čudesna utakmica ‘novog Vatrenog‘! Zabio hat-trick i samostalno odveo momčad do pobjede Mladi reprezentativac ukupno ove sezone ima deset golova i pet asistencija u prvenstvu, te jedan asist u Liga-kupu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/adrian-segecic-zabio-za-portsmouth-protiv-stokea-championship-15702449",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38624569_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Kovačević otkrio svoj strah pa nahvalio jednog igrača: ‘Svašta je prošao, a sad je imao veliku ulogu‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/kovacevic-otkrio-svoj-strah-pa-nahvalio-jednog-igraca-svasta-je-prosao-a-sad-je-imao-veliku-ulogu-15702443",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38746907_640.jpg",
         "w": 640,
@@ -48,9 +60,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Bio sam u Tottenhamu i Arsenalu, Ćiri sam rekao ‘ne‘, odbio Hajduk, a u karijeri ništa nisam zaradio",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/mislav-bradvic-tottenham-arsenal-dinamo-talent-ozljede-karijera-15702318",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/22/k_38786448_640.jpg",
+        "title": "VIDEO Vukovar se u ludoj utakmici izvukao u 91. i zadržao nadu za ostanak živom",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/slaven-belupo/video-vukovar-se-u-ludoj-utakmici-izvukao-u-91-i-zadrzao-nadu-za-ostanak-zivom-15702421",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38788626_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -60,9 +72,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO Slaven - Vukovar: GOOOL! Gosti na koljenima, Koprivničani preokrenuli rezultat. Dabro briljira",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/slaven-belupo/uzivo-slaven-vukovar-goool-domacini-izjednacili-nakon-sjajne-akcije-i-efektnog-pogotka-15702421",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38788553_640.jpg",
+        "title": "VIDEO Zato su prvaci! Bayern gubio 0:3 pa režirao spektakularan preokret i slavio",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bayern-preokret-0-3-4-3-mainz-kane-musiala-olise-bundesliga-15702456",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38788630_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -72,9 +84,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Novi skandal trese Italiju: Šef sudaca pod istragom, izravno je utjecao na odluke VAR sobe?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/rocchi-pod-istragom-navodni-utjecaj-na-var-penal-udinese-parma-15702437",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38334187_640.jpg",
+        "title": "FOTO Pogledajte ‘najvjernijeg‘ navijača u SHNL-u! Scena iz Koprivnice je apsolutni hit",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/usamljeni-navijac-vukovara-prkosi-tisini-na-kusek-apasu-u-koprivnici-15702455",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38788617_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,9 +96,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Šok za Jakirovića: Hull poražen u ključnoj utakmici, doigravanje sve opasnije ‘visi‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/fevrier-sokirao-hull-jakirovicev-lov-na-doigravanje-ovisi-o-coventryju-15702423",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38324777_640.jpg",
+        "title": "UŽIVO Osijek - Lokomotiva: Stigli su sastavi, gosti imaju veliku priliku na Opus Areni",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/lokomotiva/uzivo-osijek-lokomotiva-gosti-pobjedom-mogu-privremeno-preskociti-rijeku-15702450",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38426538_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,21 +108,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hrvatska je u 35 godina samostalnosti ‘brendirala‘ jednu stvar kao svoj veliki forte",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/hnl-poljski-intenzitet-igra-struka-talent-analiza-15702425",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/24/k_38525402_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Dvojac iz MLS-a sve više osvaja Dalića, evo što moraju napraviti za veću minutažu na SP-u",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/musa-pasalic-mls-ozljede-popis-svjetsko-prvenstvo-dalic-vatreni-15702370",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_38643976_640.jpg",
+        "title": "VIDEO Pogledajte jedan od promašaja sezone u Njemačkoj, napadač se propisno osramotio",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/el-mala-promasio-prazan-gol-schick-dvaput-kaznio-koln-leverkusen-15702447",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38788615_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Borba koja traje već 11 godina: ‘Više ne mogu pobijediti rak, proširio se po cijelom tijelu‘ Allan Peiper bio je Pogačarov mentor kada je osvojio prvi Tour de France, a u biciklizmu se vodi kao strateški genije",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/allan-peiper-rak-prostate-otkrice-mentor-pogacar-roglic-red-bull-bora-hansgrohe-15702358",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38788198_640.jpg",
+        "title": "Bio sam u Tottenhamu i Arsenalu, Ćiri sam rekao ‘ne‘, odbio Hajduk, a u karijeri ništa nisam zaradio Od londonskih snova do HNL lutanja, ozljeda i požara, a nogomet mu i dalje ostaje cijeli život",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/mislav-bradvic-tottenham-arsenal-dinamo-talent-ozljede-karijera-15702318",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/22/k_38786448_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,9 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Veliki udarac za Brazil, zvijezda Reala propušta Svjetsko prvenstvo!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/eder-militao-propusta-svjetsko-prvenstvo-operacija-kraj-sezone-real-madrid-15702401",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_37574493_640.jpg",
+        "title": "Novi skandal trese Italiju: Šef sudaca pod istragom, izravno je utjecao na odluke VAR sobe?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/rocchi-pod-istragom-navodni-utjecaj-na-var-penal-udinese-parma-15702437",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38334187_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -204,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Valjao se ogroman skandal, a Dalić nije ništa znao. Kaže - ne ide u Rusiju, neće se pojaviti u avionu‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/vatreno-prijestolje-tajne-hrvatske-reprezentacije-neispricane-price-15702340",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38777265_640.jpg",
+        "title": "Šok za Jakirovića: Hull poražen u ključnoj utakmici, doigravanje sve opasnije ‘visi‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/fevrier-sokirao-hull-jakirovicev-lov-na-doigravanje-ovisi-o-coventryju-15702423",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38324777_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -216,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Anonimac preko noći postao hit dana, a sad ga čeka životni izazov: Bila bi to nestvarna priča!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/freddie-woodman-junak-liverpoola-neocekivani-uspon-nakon-ozljede-15702405",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/22/k_38778773_640.jpg",
+        "title": "Hrvatska je u 35 godina samostalnosti ‘brendirala‘ jednu stvar kao svoj veliki forte",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/hnl-poljski-intenzitet-igra-struka-talent-analiza-15702425",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/24/k_38525402_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -228,9 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Baturina bi uskoro mogao ostati bez trenera? ‘Mi mu nećemo stajati na putu ako želi u London‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/chelsea-otpustio-roseniora-fabregas-na-meti-uz-zeleno-svjetlo-iz-coma-15702381",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/24/k_38407199_640.jpg",
+        "title": "Dvojac iz MLS-a sve više osvaja Dalića, evo što moraju napraviti za veću minutažu na SP-u",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/musa-pasalic-mls-ozljede-popis-svjetsko-prvenstvo-dalic-vatreni-15702370",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_38643976_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
