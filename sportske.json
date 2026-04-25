@@ -1,6 +1,18 @@
 [
     {
-        "title": "Bio sam u Tottenhamu i Arsenalu, Ćiri sam rekao ‘ne‘, odbio Hajduk, a u karijeri ništa nisam zaradio Od londonskih snova do HNL lutanja, ozljeda i požara, a nogomet mu i dalje ostaje cijeli život",
+        "title": "Dvojac iz MLS-a sve više osvaja Dalića, evo što moraju napraviti za veću minutažu na SP-u Izbornik će popis vjerojatno objaviti 18. svibnja, a dvojac iz SAD-a ostavio je trag protiv Kolumbije i Brazila",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/musa-pasalic-mls-ozljede-popis-svjetsko-prvenstvo-dalic-vatreni-15702370",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_38643976_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Bio sam u Tottenhamu i Arsenalu, Ćiri sam rekao ‘ne‘, odbio Hajduk, a u karijeri ništa nisam zaradio",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/mislav-bradvic-tottenham-arsenal-dinamo-talent-ozljede-karijera-15702318",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/22/k_38786448_640.jpg",
         "w": 640,
@@ -24,9 +36,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Posljednji čavao u lijes Real Madrida: Dva scenarija, jedan gori od drugoga",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/real-kiksao-barcelona-na-pragu-naslova-moguc-s-palir-u-el-clasicu-15702329",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38788108_640.jpg",
+        "title": "Borba koja traje već 11 godina: ‘Više ne mogu pobijediti rak, proširio se po cijelom tijelu‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/allan-peiper-rak-prostate-otkrice-mentor-pogacar-roglic-red-bull-bora-hansgrohe-15702358",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38788198_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -39,6 +51,18 @@
         "title": "Ovaj čovjek spašava velikana i ponos Zagreba: ‘Bili smo na intenzivnoj, ali ovo je novi život‘",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/hrvatska-liga/victor-dodig-obnova-cibone-put-prema-medaljama-europski-vrh-15702308",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/24/k_38785293_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Posljednji čavao u lijes Real Madrida: Dva scenarija, jedan gori od drugoga",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/real-kiksao-barcelona-na-pragu-naslova-moguc-s-palir-u-el-clasicu-15702329",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38788108_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,30 +120,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Gazzetta: U paralelnom svijetu Modrić bi bio konobar. Elegantan, besprijekoran...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/gazzetta-modric-konobar-derbi-milan-juventus-alternativne-karijere-15702314",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38788066_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Dinamo opet juri Ligu prvaka: U Maksimiru već imaju ozbiljne planove, evo gdje traže pojačanja",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-juri-elitu-kovacevic-planira-pojacanja-za-kvalifikacije-15702263",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_38693154_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Svi su htjeli veliku feštu, a onda se javio Boban i lupio šakom o stol:...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-odgada-proslavu-slavlje-23-svibnja-oprostaj-od-maksimira-15702020",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/24/k_38673459_640.jpg",
@@ -156,18 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Neki ga osuđuju za izdaju, a što je to napravio?! Zbog svih uspjeha s Hrvatskom treba mu podići spomenik",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vaterpolo/ivica-tucak-oprostaj-2028-fokus-na-olimpijsko-zlato-15702114",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_32302069_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "VIDEO: Gubili 3:0 na poluvremenu, a onda umalo režirali potpuni preokret u borbi za naslov prvaka",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/video-gubili-3-0-na-poluvremenu-a-onda-umalo-rezirali-potpuni-preokret-u-borbi-za-naslov-prvaka-15702274",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/24/k_38786984_640.jpg",
@@ -180,7 +168,43 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Nakon devet mjeseci, završena je istraga o smrti Dioga Jota. Ovo su detalji nesreće Istraga potvrdila eksploziju Lamborghinija pri pretjecanju, ali oštećeni mogu potražiti odštetu građanskim putem",
+        "title": "Neki ga osuđuju za izdaju, a što je to napravio?! Zbog svih uspjeha s Hrvatskom treba mu podići spomenik",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vaterpolo/ivica-tucak-oprostaj-2028-fokus-na-olimpijsko-zlato-15702114",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_32302069_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Gazzetta: U paralelnom svijetu Modrić bi bio konobar. Elegantan, besprijekoran... ‘Zamislite da sjedite u restoranu, spremni za pizzu, a poslužuje vas... Luka Modrić. Jelo bi stiglo na stol s takvom preciznošću da ga ne biste morali ni postavljati‘, pišu Talijani",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/gazzetta-modric-konobar-derbi-milan-juventus-alternativne-karijere-15702314",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38788066_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Dinamo opet juri Ligu prvaka: U Maksimiru već imaju ozbiljne planove, evo gdje traže pojačanja",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-juri-elitu-kovacevic-planira-pojacanja-za-kvalifikacije-15702263",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_38693154_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Nakon devet mjeseci, završena je istraga o smrti Dioga Jota. Ovo su detalji nesreće",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/visoki-sud-nema-kaznenog-postupka-za-smrt-dioga-jote-i-brata-na-a-52-15702317",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38788090_640.jpg",
         "w": 640,
@@ -207,30 +231,6 @@
         "title": "LeBron opet ‘vratio vrijeme‘, Tatum poslao Iversona kući, mlade zvijezde povukle Spurse",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/lebron-opet-vratio-vrijeme-tatum-poslao-iversona-kuci-mlade-zvijezde-povukle-spurse-15702313",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38788004_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Milijuni na putu prema Poljudu? Legenda jasna: ‘Volio bih to, ali ne bi se svidjelo svima...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/nosov-i-piric-ulaze-u-hajduk-balic-trazi-finansijsku-stabilnost-i-promjene-15702245",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/24/k_37336958_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Suigrač hrvatskog dragulja otkrio: ‘Bilo mu je jako teško, ali opustio se, sve ide na bolje...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/pantovic-o-jagusicu-minute-panathinaikos-benitez-smjena-napredak-15702272",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/24/k_38673019_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
