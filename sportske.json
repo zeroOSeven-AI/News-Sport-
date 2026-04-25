@@ -24,18 +24,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Mourinho poslao poruku Daliću, jasno je i zbog koga: ‘On može puno dati Hrvatskoj‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/ivanovic-dva-kasna-gola-benfica-mourinho-poruka-dalicu-hrvatska-15702526",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38497326_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Izbačeni reprezentativac: ‘Sponzori odlaze od saveza, teško je. Na kraju ispaštaju skijaši‘",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/skijanje/istok-rodes-izvan-reprezentacije-sponzori-odlaze-hss-pokriva-dio-troskova-15702493",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38155668_640.jpg",
@@ -48,9 +36,33 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Mourinho poslao poruku Daliću, jasno je i zbog koga: ‘On može puno dati Hrvatskoj‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/ivanovic-dva-kasna-gola-benfica-mourinho-poruka-dalicu-hrvatska-15702526",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38497326_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Strašna tragedija u BiH, nogometaš se srušio na travnjak i preminuo: ‘Svi smo u šoku‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/tragedija-u-vitezu-preminuo-nogometas-amir-dzihan-tijekom-utakmice-15702504",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38789438_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Senzacija u Grčkoj, Hrvat i društvo u ludom finalu srušili PAOK i osvojili Kup nakon 37 godina",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/ofi-sokirao-paok-u-ludom-finalu-osvojio-kup-nakon-37-godina-15702537",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38790068_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -75,18 +87,6 @@
         "title": "VIDEO Ivanović ušao s klupe i zablistao, hrvatski napadač zabio dvaput u tri minute",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/ivanovic-dvostrukim-pogotkom-vodi-benficu-do-41-protiv-moreirensea-15702507",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38562181_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO Čudesna utakmica ‘novog Vatrenog‘! Zabio hat-trick i samostalno odveo momčad do pobjede",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/adrian-segecic-zabio-za-portsmouth-protiv-stokea-championship-15702449",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38624569_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,7 +180,19 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Osijek i Lokomotiva u velikoj bitci podijelili bodove, susret s tribina pratio i Nenad Bjelica Arnel Jakupović je u prvom poluvremenu imao nekoliko prilika, ali nije ih uspio pretvoriti u pogodak, odnosno pogotke",
+        "title": "VIDEO Čudesna utakmica ‘novog Vatrenog‘! Zabio hat-trick i samostalno odveo momčad do pobjede Mladi reprezentativac ukupno ove sezone ima deset golova i pet asistencija u prvenstvu, te jedan asist u Liga-kupu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/adrian-segecic-zabio-za-portsmouth-protiv-stokea-championship-15702449",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38624569_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Osijek i Lokomotiva u velikoj bitci podijelili bodove, susret s tribina pratio i Nenad Bjelica",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/lokomotiva/osijek-i-lokomotiva-u-velikoj-bitci-podijelili-bodove-susret-s-tribina-pratio-i-nenad-bjelica-15702450",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38788683_640.jpg",
         "w": 640,
@@ -219,18 +231,6 @@
         "title": "VIDEO: Arsenal ponovno na vrhu Premier lige! Golčina presudila dvoboj, pogledajte sjajan pogodak",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/arsenal-svladao-newcastle-1-0-vratio-vrh-premier-lige-15702496",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38789418_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hajduk: ‘Sve su se sile udružile kako bi nas ostavile u ‘80-im godinama. Iskoristimo priliku‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-novi-stadion-jedina-opcija-provjera-stanja-poljuda-15702485",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38744805_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
