@@ -1,6 +1,18 @@
 [
     {
-        "title": "VIDEO Čudesna utakmica ‘novog Vatrenog‘! Zabio hat-trick i samostalno odveo momčad do pobjede Mladi reprezentativac ukupno ove sezone ima devet golova i pet asistencija u prvenstvu, te jedan asist u Liga-kupu",
+        "title": "Fair-play ili nervoza? Dinamo je osvojio naslov, ali njegova sezona na izvjestan način tek počinje Ostatak prvenstva priprema je za finale Hrvatskog kupa (13. svibnja, Opus Arena), a ujedno i aranžiranje izloga za mercato i sve što nas čeka ovog ljeta",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/varazdin/dinamo-odgadja-proslavu-naslova-fokus-na-kup-i-ljetne-transfere-15702477",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38767449_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Čudesna utakmica ‘novog Vatrenog‘! Zabio hat-trick i samostalno odveo momčad do pobjede",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/adrian-segecic-zabio-za-portsmouth-protiv-stokea-championship-15702449",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38624569_640.jpg",
         "w": 640,
@@ -12,9 +24,33 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO Osijek - Lokomotiva: Domaćini propustili velike prilike, tražili i penal. Na tribinama Nenad...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/lokomotiva/uzivo-osijek-lokomotiva-pocela-je-utakmica-gosti-imaju-veliku-priliku-na-opus-areni-15702450",
+        "title": "UŽIVO Osijek - Lokomotiva: Posavec spašava goste! Sijevaju prilike, na tribinama i Nenad Bjelica",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/lokomotiva/uzivo-osijek-lokomotiva-domacini-propustili-velike-prilike-trazili-i-penal-na-tribinama-nenad-bjelica-15702450",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38788683_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Hajduk: ‘Sve su se sile udružile kako bi nas ostavile u 80im godinama. Iskoristimo priliku‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/hajduk-novi-stadion-jedina-opcija-provjera-stanja-poljuda-15702485",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38744805_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Katastrofa za Pijetlove, ali i Nizozemsku: Zvijezda zbog ozljede koljena propušta SP?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/tottenham-pobijedio-wolverhampton-1-0-ozljeda-xavija-simonsa-zasjenila-trijumf-15702487",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38788964_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,18 +72,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Kovačević otkrio svoj strah pa nahvalio jednog igrača: ‘Svašta je prošao, a sad je imao veliku ulogu‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/kovacevic-otkrio-svoj-strah-pa-nahvalio-jednog-igraca-svasta-je-prosao-a-sad-je-imao-veliku-ulogu-15702443",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38746907_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "VIDEO Vukovar se u ludoj utakmici izvukao u 91. minuti i zadržao nadu za ostanak",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/slaven-belupo/video-vukovar-se-u-ludoj-utakmici-izvukao-u-91-minuti-i-zadrzao-nadu-za-ostanak-15702421",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38788626_640.jpg",
@@ -60,21 +84,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Je li ovo najluđi kraj prvenstva ikad? U spektakularnom finišu golom u 103. osvojili naslov",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/york-gol-u-13-minuti-nadoknade-rusi-rochdale-i-nosi-naslov-15702429",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38788527_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Barcelona pobjedom u Madridu jednom rukom zagrabila pehar prvaka Španjolske",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/barcelona-getafe-2-0-fermin-lopez-rashford-alaves-preokret-mallorca-15702469",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38788684_640.jpg",
+        "title": "Kovačević otkrio svoj strah pa nahvalio jednog igrača: ‘Svašta je prošao, a sad je imao veliku ulogu‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/kovacevic-otkrio-svoj-strah-pa-nahvalio-jednog-igraca-svasta-je-prosao-a-sad-je-imao-veliku-ulogu-15702443",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38746907_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,21 +108,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Tottenham slavio, ali dočekao loše vijesti iz Londona. Kontroverza na utakmici Liverpoola",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/tottenham-prekida-susu-west-ham-slavi-u-nadoknadi-liverpool-i-fulham-pobjeduju-15702462",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38788664_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "FOTO Pogledajte ‘najvjernijeg‘ navijača u SHNL-u! Scena iz Koprivnice je apsolutni hit",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/usamljeni-navijac-vukovara-prkosi-tisini-na-kusek-apasu-u-koprivnici-15702455",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38788617_640.jpg",
+        "title": "Dinamov tramvaj provozao se kod stadiona, za najsretnije navijače održan i koncert",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-zet-rodendanski-tramvaj-koncert-zapresic-boysa-kviz-maksimirska-115-15702484",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38788646_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,57 +180,57 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Vatreni tjednima igrao s trostrukom frakturom, trener sve iznenadio: ‘Nismo to htjeli isticati‘ Sučić je tjednima igrao s frakturama u jednom od ručnih prstiju, no ta je \"ozljeda\" sada dio prošlosti",
+        "title": "VIDEO Je li ovo najluđi kraj prvenstva ikad? U spektakularnom finišu golom u 103. osvojili naslov Rochdale je mislio da je osvojio naslov golom u petoj minuti nadoknade, samo da bi York zabio nekoliko minuta kasnije",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/york-gol-u-13-minuti-nadoknade-rusi-rochdale-i-nosi-naslov-15702429",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38788527_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Tottenham slavio, ali dočekao loše vijesti iz Londona. Kontroverza na utakmici Liverpoola",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/tottenham-prekida-susu-west-ham-slavi-u-nadoknadi-liverpool-i-fulham-pobjeduju-15702462",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38788664_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "FOTO Pogledajte ‘najvjernijeg‘ navijača u SHNL-u! Scena iz Koprivnice je apsolutni hit",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/usamljeni-navijac-vukovara-prkosi-tisini-na-kusek-apasu-u-koprivnici-15702455",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38788617_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Barcelona pobjedom u Madridu jednom rukom zagrabila pehar prvaka Španjolske",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/barcelona-getafe-2-0-fermin-lopez-rashford-alaves-preokret-mallorca-15702469",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38788684_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Vatreni tjednima igrao s trostrukom frakturom, trener sve iznenadio: ‘Nismo to htjeli isticati‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/chivu-bastoni-uzima-rizik-sucic-igrao-s-trostrukom-frakturom-uoci-torino-inter-15702444",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38777659_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO Pogledajte jedan od promašaja sezone u Njemačkoj, napadač se propisno osramotio",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/el-mala-promasio-prazan-gol-schick-dvaput-kaznio-koln-leverkusen-15702447",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38788615_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Bio sam u Tottenhamu i Arsenalu, Ćiri sam rekao ‘ne‘, odbio Hajduk, a u karijeri ništa nisam zaradio",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/mislav-bradvic-tottenham-arsenal-dinamo-talent-ozljede-karijera-15702318",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/22/k_38786448_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Novi skandal trese Italiju: Šef sudaca pod istragom, izravno je utjecao na odluke VAR sobe?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/rocchi-pod-istragom-navodni-utjecaj-na-var-penal-udinese-parma-15702437",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38334187_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Šok za Jakirovića: Hull poražen u ključnoj utakmici, doigravanje sve opasnije ‘visi‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/fevrier-sokirao-hull-jakirovicev-lov-na-doigravanje-ovisi-o-coventryju-15702423",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38324777_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
