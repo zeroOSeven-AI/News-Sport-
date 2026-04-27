@@ -1,8 +1,8 @@
 [
     {
-        "title": "Koga ćemo gledati do kraja sezone? Kreće izlog, Kovačević se plaši jedne zamke... Rijeka bez Fruka nije pobijedila nikoga cijele sezone, a u zadnje je četiri utakmice bez pogotka iz igre",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/hnl-rasplet-mladi-igraci-dobivaju-priliku-dinamo-hajduk-rijeka-varazdin-15702868",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38475028_640.jpg",
+        "title": "Dinamo prodao napadača usred proslave naslova prvaka. Na Maksimir stiže tri milijuna eura Da priča bude još zanimljivija, Dinamu je veliku financijsku injekciju osigurao Nikola Vlašić, bivši hajdukovac",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/vlasicev-penal-aktivirao-otkup-kulenovic-trajno-u-torinu-dinamo-dobiva-3-milijuna-eura-15702916",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38226876_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -12,9 +12,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO ‘Bok, ja sam Luka i dolazim iz Hrvatske‘; Kolekcija koja je zadivila internet oduševila i Ronalda",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/luka-grkovic-lego-setovi-cristiano-ronaldo-lego-editions-hrvatski-dizajner-15702901",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38794700_640.jpg",
+        "title": "VIDEO: Pogledajte ludnicu u Dinamovoj svlačionici nakon titule: ‘Goda na sjever dolje‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/dinamo-prvak-bbb-spektakl-bruno-goda-bubnjevi-maksimir-varazdin-26-naslov-15702934",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38792754_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,9 +36,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Na pomolu skandal neviđenih razmjera, ovo su osumnjičeni: ‘Tko se mača laća, od mača i gine...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/afera-var-milansko-tuziteljstvo-istrazuje-rocchija-i-pritiske-na-delegiranje-15702879",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38794657_640.jpg",
+        "title": "Srceparajuća ispovijest supruge teško bolesnog Slovenca: ‘Nikad ne znaš koliko vremena imaš...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/zimski-sportovi/supruga-alesa-kranjca-ispovijest-zivot-s-alsom-andreja-poruka-15702963",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38795113_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,9 +48,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Trenutak koji će zatresti Otok, ovo su čekali više od 60 godina! Posljednji put sve je šokirao Sir Alex",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hearts-preokrenuo-derbi-rusi-duopol-i-juri-na-naslov-uz-bloomovu-analitiku-15702874",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38794563_640.jpg",
+        "title": "Cijeli Osijek zabio manje od Belje, imaju više utakmica nego golova! Gazda bježi iz Mađarske?!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/osijek-treca-domacica-bez-gola-opus-arena-obrana-cvrsta-napad-suti-15702954",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38790046_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -60,9 +60,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Najtrofejnija hrvatska košarkašica oprostila se pobjedom i sa suzama na Baldekinu",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/basket-zene/najtrofejnija-hrvatska-kosarkasica-oprostila-se-pobjedom-i-sa-suzama-na-baldekinu-15702893",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38794772_640.jpg",
+        "title": "Koga ćemo gledati do kraja sezone? Kreće izlog, Kovačević se plaši jedne zamke...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/hnl-rasplet-mladi-igraci-dobivaju-priliku-dinamo-hajduk-rijeka-varazdin-15702868",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38475028_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO ‘Bok, ja sam Luka i dolazim iz Hrvatske‘; Kolekcija koja je zadivila internet oduševila i Ronalda",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/luka-grkovic-lego-setovi-cristiano-ronaldo-lego-editions-hrvatski-dizajner-15702901",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38794700_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -87,18 +99,6 @@
         "title": "Javno pokajanje nogometnog ‘nokautera‘, Španjolci poručuju: ‘Ne smije više nikad zaigrati!‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/andrada-udarac-derbi-huesca-real-zaragoza-suspenzija-12-utakmica-15702817",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38794433_640.png",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Pobuna u Splitu, predsjednik suočen s optužbama za trošenje klupskog novca! Slijede prijave USKOK-u",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vodeni-sportovi/jedrenje/pobuna-jk-split-optuzbe-protiv-marka-bertolina-samovolja-trosenje-novca-15702841",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38792160_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -168,9 +168,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Predsjednik Porta napao Dinamo: ‘Izigrali su nas! Evo što mi je rekao Deco‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/villas-boas-napao-dinamo-zagreb-izigrani-smo-transfer-cardosa-varele-15702633",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_32698475_640.jpg",
+        "title": "Samo su Mbappe, Kane i Haaland ispred Belje! Kovačević? Nisu baš sve sumnje nestale... Vidjelo se kako su igrači u svlačionici slavili bez kočnica, za dosta njih to je prvi trofej. Prošla je momčad ipak bila zasićena",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/dinamo-prvak-belj0-lovi-rekorde-derbi-rujevica-analiza-sportsko-jutro-15702924",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38767456_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Locatelli otkrio što mu je Modrić rekao nakon sudara, a Talijani tvrde: ‘Luka će htjeti igrati već u nedjelju‘ Klupska liječnička služba pustila ga je kući uz preporuku da drži led na jagodici, a klinički su pregledi zakazani za ponedjeljak ujutro",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/modric-sudar-juventus-locatelli-ozljeda-milan-optimistican-izvjestaj-15702830",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38793279_640.jpg",
+        "title": "Na pomolu skandal neviđenih razmjera, ovo su osumnjičeni: ‘Tko se mača laća, od mača i gine...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/afera-var-milansko-tuziteljstvo-istrazuje-rocchija-i-pritiske-na-delegiranje-15702879",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38794657_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,9 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Znalo se i ranije da Dinamu ne može izmaknuti titula, Modri su kao Bayern, razina više iznad svih‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/jozinovic-dinamo-kao-bayern-derbi-bez-golova-rujevica-hnl-15702851",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38792752_640.jpg",
+        "title": "Riječki ‘bombarder‘ prozvao Sancheza: ‘Fruk samo dobiva batine bez veze, Adu-Adjei nema s kim igrati‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/milan-radovic-kritizira-sancheza-fruk-nije-spica-rijeka-nema-igru-za-napadace-15702907",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38779722_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -204,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dinamova titula u 10 ključnih točaka: od Bobanove rekonstrukcije, šokova i kaosa do uvjerljivog naslova",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-boban-kovacevic-preokret-naslov-beljo-stojkovic-bennacer-15702823",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38767312_640.jpg",
+        "title": "Pobuna u Splitu, predsjednik suočen s optužbama za trošenje klupskog novca! Slijede prijave USKOK-u",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vodeni-sportovi/jedrenje/pobuna-jk-split-optuzbe-protiv-marka-bertolina-samovolja-trosenje-novca-15702841",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38792160_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -216,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO ‘Najsramotniji derbi‘ završio velikom tučnjavom igrača, golman suparnika udario šakom u glavu!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/video-najsramotniji-derbi-zavrsio-velikom-tucnjavom-igraca-golman-suparnika-udario-sakom-u-glavu-15702789",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38524538_640.jpg",
+        "title": "Trenutak koji će zatresti Otok, ovo su čekali više od 60 godina! Posljednji put sve je šokirao Sir Alex",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hearts-preokrenuo-derbi-rusi-duopol-i-juri-na-naslov-uz-bloomovu-analitiku-15702874",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38794563_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -228,9 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Udarac za Nizozemsku i Spurse! Zvijezda doživjela najgoru ozljedu u nogometu, SP može samo sanjati",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/xavi-simons-ozlijedio-koljeno-zavrsio-sezonu-i-propusta-svjetsko-prvenstvo-15702857",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38788964_640.jpg",
+        "title": "Najtrofejnija hrvatska košarkašica oprostila se pobjedom i sa suzama na Baldekinu",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/basket-zene/najtrofejnija-hrvatska-kosarkasica-oprostila-se-pobjedom-i-sa-suzama-na-baldekinu-15702893",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38794772_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
