@@ -12,6 +12,30 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Andy Bara uzvraća udarac: To što on priča je neviđena glupost! Evo koliko sam zaradio na Olmu i...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/andi-bara-odgovara-villas-boasu-brani-dinamo-olmo-faye-varela-15703104",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_32190845_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Dinamo dogovorio prvo veliko ljetno pojačanje, zvijezda Rijeke stiže besplatno!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/radeljic-u-dinamu-besplatno-cetverogodisnji-ugovor-i-status-obrane-15703110",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_37363421_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Modrić će biti spreman za SP, ali neće mu biti ugodno! Meni je jagodična kost bila smrskana...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/milovic-modric-spreman-za-svjetsko-prvenstvo-s-karbonskom-maskom-15703078",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38795638_640.jpg",
@@ -48,6 +72,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Životna priča čovjeka koji je oduševio svijet, ispisao povijest i pomaknuo ljudske granice izdržljivosti",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/atletika/sabastian-sawe-prvi-ispod-dva-sata-maraton-london-svjetski-rekord-15703103",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38791850_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Boban ga je naciljao, a sada je postao ‘heroj‘ i vodi klub ka Europi tek treći put u povijesti!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/dinamo-zeli-srdana-kuzmica-viborg-trazi-25-milijuna-eura-i-postotak-15703088",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38795911_640.jpg",
@@ -72,45 +108,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Osijek prije sportskog direktora izabrao njegovog prvog pomoćnika!? ‘Šest sezona sam bio glavni skaut...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/osijek-novi-sportski-direktor-ljetni-rezovi-ugovori-proracun-radotic-15703077",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38795817_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Velikan iz susjedstva i klub legendarnog dinamovca u problemima: U minusu su od 6 mil eura",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/maribor-gubitak-2025-minus-6-26-milijuna-eura-ajpes-rashodi-prihodi-15703076",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38795602_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Direktori Lokomotive izbjegli najgore u prometnoj nesreći: Evo kakve ozljede imaju nakon bizarnog sudara",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sikic-doma-gudasic-na-pretragama-nakon-naleta-jelena-a3-15703056",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_37311474_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Junak Hajduka više je puta osvajao naslovnice i odgovarao na sumnje. Treba čestitati i njemu i Garciji",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/toni-silic-potvrdio-garciino-povjerenje-rujevica-jadranski-derbi-15703054",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38792169_640.jpg",
+        "title": "Šikić nam se javio nakon nesreće: ‘Jelen je trčao direktno preko autoceste, nije ga se moglo izbjeći...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/jelen-na-a3-izazvao-lancani-sudar-ozlijedjeni-celnici-lokomotive-15703098",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38510682_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -156,9 +156,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Ovo je Dinamov put do Lige prvaka! Modri će biti nositelji do kraja kvalifikacija, ali postoji kvaka Modri startaju 21. ili 22. srpnja, a u drugom pretkolu u kojem može zaprijetiti i Borac Banja Luka, bilo bi dobro izbjeći dvoboje s prvacima Švedske i Švicarske",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-zdrijeb-lipanj-start-21-22-srpnja-opasni-rivali-i-milijuni-15702971",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38792745_640.jpg",
+        "title": "Osijek prije sportskog direktora izabrao njegovog prvog pomoćnika!? ‘Šest sezona sam bio glavni skaut...‘ Novog sportskog direktora dočekat će prilično posla i prometno ljeto uoči kojega se trebaju donijeti ozbiljne odluke",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/osijek-novi-sportski-direktor-ljetni-rezovi-ugovori-proracun-radotic-15703077",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38795817_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -168,21 +168,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Sjajna akcija Gorice dovoljna za skok na šesto mjesto, peti uzastopni poraz Istre",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/gorica/video-sjajna-akcija-gorice-dovoljna-za-skok-na-sesto-mjesto-peti-uzastopni-poraz-istre-15703066",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38795659_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Nije na nama sportašima da rješavamo takve stvari, postoje ljudi čiji je to posao‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/iva-oberan-bronca-skandali-pravilo-pariz-sportcast-15702825",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38779406_640.jpg",
+        "title": "Velikan iz susjedstva i klub legendarnog dinamovca u problemima: U minusu su od 6 mil eura",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/maribor-gubitak-2025-minus-6-26-milijuna-eura-ajpes-rashodi-prihodi-15703076",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38795602_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -204,21 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Garcia kao da se na Rujevici htio osvetiti Livaji! Rijeka? Užas...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rijeka-hajduk-0-0-dinamo-prvak-rujevica-gonzalo-garcia-livaja-15703030",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38791938_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Francuska nogometna zvijezda pod istragom zbog teških optužbi: ‘Bio je poput čudovišta, grabežljivca...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dimitri-payet-pod-istragom-optuzbe-bivse-partnerice-nasilje-15703051",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_32077567_640.jpg",
+        "title": "‘Nije na nama sportašima da rješavamo takve stvari, postoje ljudi čiji je to posao‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/iva-oberan-bronca-skandali-pravilo-pariz-sportcast-15702825",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38779406_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -231,6 +207,30 @@
         "title": "Dinamo prodao napadača usred proslave naslova prvaka. Na Maksimir stiže tri milijuna eura",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/vlasicev-penal-aktivirao-otkup-kulenovic-trajno-u-torinu-dinamo-dobiva-3-milijuna-eura-15702916",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38226876_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Junak Hajduka više je puta osvajao naslovnice i odgovarao na sumnje. Treba čestitati i njemu i Garciji",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/toni-silic-potvrdio-garciino-povjerenje-rujevica-jadranski-derbi-15703054",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38792169_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Garcia kao da se na Rujevici htio osvetiti Livaji! Rijeka? Užas...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rijeka-hajduk-0-0-dinamo-prvak-rujevica-gonzalo-garcia-livaja-15703030",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38791938_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
