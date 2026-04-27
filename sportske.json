@@ -1,8 +1,8 @@
 [
     {
-        "title": "Ovo je nova kralježnica Dinama koji je pomeo sve pred sobom! Dvije legende i tri prvoklasna ‘uboda‘ Dvojica lidera su dobila nadogradnju s pravim odabirima kluba u ljetnom prijelaznom roku: stameni branič, raznovrsna \"osmica\" i ubojiti golgeter su se savršeno uklopili",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/dinamo-razbio-zasicenje-povratak-trona-livakovic-misic-belio-mckenna-zajc-15702800",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38693154_640.jpg",
+        "title": "Talijani otkrili Modrićevo stanje: ‘On će htjeti biti na terenu već u nedjelju‘ Klupska liječnička služba pustila ga je kući uz preporuku da drži led na jagodici, a klinički su pregledi zakazani za ponedjeljak ujutro",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/modric-sudar-juventus-locatelli-ozljeda-milan-optimistican-izvjestaj-15702830",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38793279_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -12,7 +12,67 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Trenutak kad je utihnuo San Siro! Modrić pretrpio težak sudar glavama, izašao ošamućen i...",
+        "title": "Pobuna u Splitu, predsjednik suočen s optužbama za trošenje klupskog novca! Slijede prijave USKOK-u",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vodeni-sportovi/jedrenje/pobuna-jk-split-optuzbe-protiv-marka-bertolina-samovolja-trosenje-novca-15702841",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38792160_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Dinamova titula u 10 ključnih točaka: od Bobanove rekonstrukcije, šokova i kaosa do uvjerljivog naslova",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-boban-kovacevic-preokret-naslov-beljo-stojkovic-bennacer-15702823",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38767312_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Nije na nama sportašima da rješavamo takve stvari, postoje ljudi čiji je to posao‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/iva-oberan-bronca-skandali-pravilo-pariz-sportcast-15702825",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38779406_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Javno pokajanje nogometnog ‘nokautera‘, Španjolci poručuju: ‘Ne smije više nikad zaigrati!‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/andrada-udarac-derbi-huesca-real-zaragoza-suspenzija-12-utakmica-15702817",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38794433_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Zamisli koliko me mrziš, a ja hranim svoje kokoši u vrtu. Ti loviš novac, a mene zanima veličina‘",
+        "link": "https://www.jutarnji.hr/sportske/fightsite/ostalo/nazivas-me-kujom-a-ja-hranim-svoje-kokosi-u-vrtu-ti-lovis-novac-a-mene-zanima-velicina-15702827",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_33820823_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Trenutak kad je utihnuo San Siro! Modrić pretrpio težak sudar glavama, izašao ošamućen i uzdrman",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/modric-uzdrman-sudar-locatelli-san-siro-derbi-milan-juventus-15702790",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38793278_640.jpg",
         "w": 640,
@@ -24,9 +84,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Rollercoaster‘ emocija! Dinamo slavi, Maksimir je povijest, ali ovo nije bila samo borba za naslov...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/dinamo-nazdravio-naslovu-misicev-gol-i-oprostaj-od-starog-maksimira-15702775",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38792704_640.jpg",
+        "title": "Ovo je nova kralježnica Dinama koji je pomeo sve pred sobom! Dvije legende i tri prvoklasna ‘uboda‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/dinamo-razbio-zasicenje-povratak-trona-livakovic-misic-belio-mckenna-zajc-15702800",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38693154_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,7 +96,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO ‘Najsramotniji derbi‘ završio velikom tučnjavom igrača, golman suparnika udario šakom...",
+        "title": "VIDEO ‘Najsramotniji derbi‘ završio velikom tučnjavom igrača, golman suparnika udario šakom u glavu!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/video-najsramotniji-derbi-zavrsio-velikom-tucnjavom-igraca-golman-suparnika-udario-sakom-u-glavu-15702789",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38524538_640.jpg",
         "w": 640,
@@ -48,69 +108,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Kovačević: ‘Sumnjalo se u mene, a te me utakmice sram, sjećam se, padao je snijeg, bilo me strah...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/kovacevic-sumnjalo-se-u-mene-a-te-me-utakmice-sram-sjecam-se-padao-je-snijeg-bilo-me-strah-15702776",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38474647_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Čovjek koji je imao ‘bliski susret‘ s Modrićem: ‘Žao mi je što je takav prvak morao napustiti teren‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/modric-sudar-s-locatellijem-izlazak-iz-igre-isprika-i-pohvale-iz-italije-15702798",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38793279_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "FOTO: Mišić ispalio ‘projektil‘, Dinamo reagirao na Facebooku, a potom se javila majka kapetana",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/misicev-projektil-gol-protiv-varazdina-i-emotivna-poruka-majke-15702784",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38792697_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Stojković govorio o svom transferu, Beljo o rekordu, Mišić naglasio: ‘Kad pucaš lijevom, zažmiriš i opališ!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/stojkovic-govorio-o-svom-transferu-beljo-o-rekordu-misic-naglasio-kad-pucas-lijevom-zazmiris-i-opalis-15702769",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38792752_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Polako stižu čestitke na Maksimir! Evo tko je među prvima poslao poruku prvacima Hrvatske",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-26-naslov-spalir-varazdin-cestitke-slaven-belupo-istra-15702787",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38792748_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Gabrijel Veočić ima srebro sa Svjetskog kupa u Brazilu! U finalu ga je zaustavio domaći predstavnik",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/gabrijel-veocic-ima-srebro-sa-svjetskog-kupa-u-brazilu-u-finalu-ga-je-zaustavio-domaci-predstavnik-15702795",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38793283_640.png",
+        "title": "VIDEO Ivan Rakitić najavio novu knjigu o Vatrenima: ‘Uživat ćete čitajući‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/vatreno-prijestolje-knjiga-drazena-antolica-o-eri-vatrenih-2018-2023-15702816",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_38459930_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Ta je utakmica za Vatrene bila prijelomnica! Večer kad su se samo dva igrača javila za pucanje penala Knjiga Vatreno prijestolje analizira kako je generacija kojoj je prijetilo da bude gubitnička postala pobjednička",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ta-je-utakmica-za-vatrene-bila-prijelomnica-vecer-kad-su-se-samo-dva-igraca-javila-za-pucanje-penala-15702695",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_38792124_640.jpg",
+        "title": "Garcia je iznenadio već i prije utakmice, a jedan detalj jasno dokazuje u kakvom su Bijeli stanju Nakon poraza od Osijeka htio sam vidjeti da igramo kao momčad. U tom aspektu momčad je ispunila misiju - kazao je nakon utakmice trener Bijelih",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/garcia-promjena-formacije-hajduk-trojica-u-obrani-bod-rujevica-rijeka-15702808",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38792257_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,9 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "FOTO Pjesma, ples i baklje, pogledajte slavlje igrača i navijača Dinama!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/pjesma-ples-i-baklje-pogledajte-slavlje-igraca-i-navijaca-dinama-15702772",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38792749_640.jpg",
+        "title": "Wemby se vratio i izblokirao Blazerse, ‘kažnjenička bojna‘ protutnjala Philadelphijom",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/wemby-se-vratio-i-izblokirao-blazerse-kaznjenicka-bojna-protutnjala-philadelphijom-15702812",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38787948_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -204,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Kovačević uzeo titulu pa poručio: ‘Smijali su mi se, podcjenjivali me, a ja sam osvojio sve lige‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/dinamo-osvojio-26-naslov-pobjeda-21-protiv-varazdina-na-maksimiru-15702767",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38517650_640.jpg",
+        "title": "‘Rollercoaster‘ emocija! Dinamo slavi, Maksimir je povijest, ali ovo nije bila samo borba za naslov...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/dinamo-nazdravio-naslovu-misicev-gol-i-oprostaj-od-starog-maksimira-15702775",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38792704_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -216,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Grički top dobio je konkurenciju u Maksimiru! Čovjek je odigrao još jednu briljantnu utakmicu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/dinamo-26-naslov-pobjeda-varazdin-115-godina-maksimir-15702764",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38792700_640.jpg",
+        "title": "Mario Kovačević: ‘Sumnjalo se u mene, a jedne utakmice me bilo posebno sram...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/mario-kovacevic-sumnjalo-se-u-mene-a-jedne-utakmice-me-bilo-posebno-sram-15702776",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38474647_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -228,9 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Delije palile hrvatsku zastavu, spominjao se i Tuđman, Zvezda razbila Partizan i osvojila naslov",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/zvezda-osvojila-devetu-uzastopnu-titulu-3-0-protiv-partizana-15702747",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38637224_640.jpg",
+        "title": "Čovjek koji je imao ‘bliski susret‘ s Modrićem: ‘Žao mi je što je takav prvak morao napustiti teren‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/modric-sudar-s-locatellijem-izlazak-iz-igre-isprika-i-pohvale-iz-italije-15702798",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38793279_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
