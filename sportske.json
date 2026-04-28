@@ -1,8 +1,20 @@
 [
     {
-        "title": "UŽIVO PSG - Bayern: Počeo je spektakl na Parku prinčeva, Stanišić u prvih 11 bavarskog stroja Prvu utakmicu polufinala Lige prvaka između PSG-a i Bayerna pratimo i komentiramo iz minute u minutu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-psg-bayern-stigli-su-sastavi-15703443",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38795495_640.jpg",
+        "title": "UŽIVO PSG - Bayern: Devet golova u najluđoj utakmici sezone, Bavarci blizu izjednačenja Pravi spektakl priredili su Parižani i Bavarci, a srušen je i rekord Lige prvaka za najviše postignutih pogodak u polufinalu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-psg-bayern-golijada-na-parku-princeva-u-najludoj-utakmici-sezone-15703443",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38815372_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Dinamovi juniori ostali bez finala nakon 120 minuta teške bitke protiv Reala",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-dinamo-u21-real-u21-u-prvih-11-madridana-klinac-koji-vrijedi-20-milijuna-eura-15703427",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38815548_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,9 +36,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "GLEDAJ UŽIVO Dinamo U21 - Real U21: Varela završio u ogradi, Modri propustili veliku priliku",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-dinamo-u21-real-u21-u-prvih-11-madridana-klinac-koji-vrijedi-20-milijuna-eura-15703427",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_37287338_640.jpg",
+        "title": "Senzacija u Našicama: Nexe srušio najveći njemački klub svih vremena!",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/senzacija-u-nasicama-nexe-srusio-najveci-njemacki-klub-svih-vremena-15703449",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38812416_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,9 +48,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Najveći njemački klub svih vremena pao u Našicama!",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/najveci-njemacki-klub-svih-vremena-pao-u-nasicama-15703449",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38811709_640.jpg",
+        "title": "Ne pije alkohol, ali svejedno je ispunio obećanje! Zvijezda BiH oduševila: ‘Sve častim rundom‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/demirovic-casti-stuttgart-800-litara-piva-plasman-bih-hofbrau-15703464",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38807865_640.png",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -60,7 +72,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "EKSKLUZIVNO: Pričali smo s Modrićem nakon operacije, našao je i energije da se našali sa...",
+        "title": "Nizao poraze na klupi hrvatskog prvoligaša, sad se oprostio od kluba: ‘Ostvarili smo nešto povijesno‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/istra1961/oriol-riera-oprostaj-istra-1961-emotivna-poruka-15703459",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38768149_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "HOO ‘pretresa‘ financiranje Skijaškog saveza. Prvi rezultati Radne skupine mogli bi vas šokirati",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/hrvatski-olimpijci/hoo-transparentno-trosenje-16-milijuna-eura-bloudek-medju-a-kandidatima-15703414",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38600041_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "EKSKLUZIVNO: Pričali smo s Modrićem nakon operacije, našao je i energije da se našali sa situacijom",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/modric-uspjesno-operiran-povratak-na-meazzu-i-mundijal-s-maskom-15703409",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38795559_640.jpg",
         "w": 640,
@@ -84,9 +120,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "HOO ‘pretresa‘ financiranje Skijaškog saveza. Prvi rezultati Radne skupine mogli bi vas šokirati",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/hrvatski-olimpijci/hoo-transparentno-trosenje-16-milijuna-eura-bloudek-medju-a-kandidatima-15703414",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38600041_640.jpg",
+        "title": "Andy Bara uzvraća udarac: To što on priča je neviđena glupost! Evo...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/andi-bara-odgovara-villas-boasu-brani-dinamo-olmo-faye-varela-15703104",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_32190845_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,31 +132,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Bio bih lud da oca ne pitam za savjet! Ne želim si zatvoriti vrata u Hrvatskoj, ali cilj je Bundesliga‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dino-buric-sportski-direktor-laska-uspon-kluba-prema-trofejima-15703352",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38791889_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Kad besramnost ne poznaje granice: Zarađuje 20 mil. eura godišnje, a dužan je ratu za automobil!?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/osimhen-istraga-mercedes-gle-leasing-dug-90000-eura-15703442",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38810986_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Šokantne vijesti iz Milana, Luka Modrić završio klupsku sezonu...",
+        "title": "Šokantne vijesti iz Milana, Luka Modrić završio klupsku sezonu! Evo kakva je situacija sa SP-om",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/reprezentacija/modric-dvostruki-prijelom-jagodicne-kosti-kraj-sezone-u-milanu-sp-s-maskom-15703000",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38793279_640.jpg",
         "w": 640,
@@ -168,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dinamo prodao napadača usred proslave naslova prvaka. Na Maksimir stiže tri milijuna eura",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/vlasicev-penal-aktivirao-otkup-kulenovic-trajno-u-torinu-dinamo-dobiva-3-milijuna-eura-15702916",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38226876_640.jpg",
+        "title": "‘Bio bih lud da oca ne pitam za savjet! Ne želim si zatvoriti vrata u Hrvatskoj, ali cilj je Bundesliga‘ Sin negdašnjeg Hajdukovog trenera Damira, radi odličan posao u Linzu i kao sportski direktor gradi pobjednički LASK",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dino-buric-sportski-direktor-laska-uspon-kluba-prema-trofejima-15703352",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38791889_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,7 +192,19 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Izbornik izazvao delirij, Dalić sat i pol ostao s djecom i mladima iz Kistanja Izbornik podijelio poklone, primio dres NK Janjevo te davao autograme i fotografirao se sa svima",
+        "title": "Kad besramnost ne poznaje granice: Zarađuje 20 mil. eura godišnje, a dužan je ratu za automobil!?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/osimhen-istraga-mercedes-gle-leasing-dug-90000-eura-15703442",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38810986_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Izbornik izazvao delirij, Dalić sat i pol ostao s djecom i mladima iz Kistanja",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/dalic-posjetio-kistanje-odusevio-djecu-nk-janjevo-pokloni-dres-15703416",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38807616_640.jpg",
         "w": 640,
@@ -207,30 +231,6 @@
         "title": "Bomba iz Madrida: ‘Veliki‘ gazda odabrao trenera za sljedeću sezonu! Na Bernabeu se vraća ikona",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/perez-vraca-mourinha-na-klupu-real-madrida-15703363",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38624020_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Divac o posljednjem susretu s Draženom: ‘Tu smo prekinuli...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-mix/vlade-divac-posljednji-susret-drazen-petrovic-raskid-prijateljstva-podcast-15703406",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_29378041_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "CIES: Ovo su tri najskuplja Dinamova igrača, zajedno vrijede više od 30 milijuna eura!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/cies-procjene-beljo-161-mil-lazio-cilja-domingueza-marseille-za-belju-15703399",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38767310_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
