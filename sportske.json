@@ -1,8 +1,56 @@
 [
     {
-        "title": "Prijeti li Rijeci crni scenarij? Momčad s Rujevice opasno pleše po rubu, ovo bi bila katastrofa Izostanak europskih utakmica rezao bi budžet, spuštao ambicije i tjerao ključne igrače prema izlazu iz kluba",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/rijeka-bez-europe-financijski-udar-rezovi-i-pad-konkurentnosti-15703314",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_37439138_640.jpg",
+        "title": "EKSKLUZIVNO: Pričali smo s Modrićem nakon operacije, našao je i energije da se našali sa situacijom Navijači su ga s terena ispratili pjesmom Maradone, tijekom ponedjeljka i utorka na mobitel mu je stiglo preko 200 poruka svekolikih aktera svijeta nogometa",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/modric-uspjesno-operiran-povratak-na-meazzu-i-mundijal-s-maskom-15703409",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38795559_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Bio bih lud da oca ne pitam za savjet! Ne želim si zatvoriti vrata u Hrvatskoj, ali cilj je Bundesliga‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dino-buric-sportski-direktor-laska-uspon-kluba-prema-trofejima-15703352",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38791889_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Bomba iz Madrida: ‘Veliki‘ gazda odabrao trenera za sljedeću sezonu! Na Bernabeu se vraća ikona",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/perez-vraca-mourinha-na-klupu-real-madrida-15703363",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38624020_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Divac o posljednjem susretu s Draženom: ‘Tu smo prekinuli...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-mix/vlade-divac-posljednji-susret-drazen-petrovic-raskid-prijateljstva-podcast-15703406",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_29378041_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "CIES: Ovo su tri najskuplja Dinamova igrača, zajedno vrijede više od 30 milijuna eura!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/cies-procjene-beljo-161-mil-lazio-cilja-domingueza-marseille-za-belju-15703399",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38767310_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,69 +72,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Modrić je prošao puno, ali jednu ozljedu kapetan Vatrenih posebno pamti: ‘Onda me stvarno...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/modricev-dosje-ozljeda-kronologija-povrataka-jagodicna-kost-15703294",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38798576_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Nikad ne bih učinio ono što je Boban! Dinamu fali desetka, čast Belji, ali dva igrača su ključna‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/munjakovic-boban-kovacevic-dinamo-prvak-pojacanja-liga-prvaka-15703237",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38767450_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Horor i tragedija, 28-godišnjaka ‘izrešetali‘ mecima i to uoči nastupa, preminuo je u bolnici",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/automoto/pucnjava-na-reliju-warnes-ubijen-jose-pedro-rojas-reli-prekinut-15703327",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38802783_640.png",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Dečko od milijun eura!‘ Na Maksimiru nije uspio, a sada je preokrenuo priču: ‘On je spektakularan‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/gonzalo-villar-elche-otkup-dinamo-gol-oviedo-tri-pobjede-15703266",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38792126_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Filip Hrgović jasno poručuje: ‘Englezu ću srezati krila na početku meča, ne smije se razmahati‘",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ostalo/filip-hrgovic-jasno-porucuje-englezu-cu-srezati-krila-na-pocetku-meca-ne-smije-se-razmahati-15703256",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_33694407_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Za jastoge i skupe butelje se imalo, a darovitom skijašu rekli su - zbogom! ‘Svi smo bili u šoku‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/skijanje/marko-abramovic-sustav-luksuz-sljeme-izgubljena-karijera-15703191",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38797178_640.jpg",
+        "title": "HNS objavio cijene ulaznica za finale Kupa. Duplo su skuplje nego prije tri godine",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/kup-hnl/dinamo-rijeka-finale-kupa-opus-arena-ulaznice-hns-aplikacija-15703375",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38767317_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -108,9 +96,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Ukrajinski milijarder uskoro stiže u Split! Ponudit će milijune, ali postoji jedan važan uvjet",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/whitebit-nosov-sponzorira-hajduk-piric-u-upravi-milijuni-poljud-15703156",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_37645254_640.jpg",
+        "title": "Enriqueov novi ‘izum‘ oduševio Francuze uoči Bayerna: ‘Poput reinkarnacije Pirla ili Busquetsa‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/enrique-zakljucao-svlacionicu-psg-spreman-za-polufinale-protiv-bayerna-15703384",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38795200_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Prijeti li Rijeci crni scenarij? Momčad s Rujevice opasno pleše po rubu, ovo bi bila katastrofa",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/rijeka-bez-europe-financijski-udar-rezovi-i-pad-konkurentnosti-15703314",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_37439138_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -168,9 +168,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "HNS izašao u susret Riječanima, u finale Kupa idu s danom odmora više od Dinama Utakmica Varaždina i Lokomotive, koja se trebala igrati u petak, prebačena je na subotu, s početkom u 18.45 sati",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/rijeka/rijeka-dobila-dan-vise-odmora-prije-finala-kupa-dinamo-osijek-15703309",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_36906626_640.jpg",
+        "title": "Za naježiti se: Cijela dvorana skandirala ime teško bolesnog hrvatskog reprezentativca U fenomenalnoj atmosferi pred 4000 navijača momčad iz Ljubuškog u prvoj polufinalnoj utakmici Europskog kupa priredila iznenađenje i pobijedila jaku Tatabanyu",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/za-najeziti-se-cijela-dvorana-skandirala-ime-tesko-bolesnog-hrvatskog-reprezentativca-15703358",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_38795389_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Žuta majica SN: Niska efikasnost u prvi plan bacila vratare, Mišić sjajnim golom ponio titulu igrača kola",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/dinamo-prvak-misic-blista-posavec-herojski-borba-za-europu-i-ostanak-15703242",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38797455_640.jpg",
+        "title": "‘Nikad ne bih učinio ono što je Boban! Dinamu fali desetka, čast Belji, ali dva igrača su ključna‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/munjakovic-boban-kovacevic-dinamo-prvak-pojacanja-liga-prvaka-15703237",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38767450_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,9 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Kačavenda s LASK-om lovi prvi naslov nakon 61 godine, napadaju ga čak tri trenerska ‘klinca‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/austrijska-bundesliga-lask-sturm-salzburg-rapid-borba-za-naslov-15703278",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_37191048_640.jpg",
+        "title": "Horor i tragedija, 28-godišnjaka ‘izrešetali‘ mecima uoči nastupa, preminuo je u bolnici",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/automoto/pucnjava-na-reliju-warnes-ubijen-jose-pedro-rojas-reli-prekinut-15703327",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38802783_640.png",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -204,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Stižu poruke podrške Modriću, javila se i legenda Milana: ‘Bio si stvarno nezaustavljiv...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/modric-ozljeda-jagodicna-kost-operacija-milan-podrska-sp-hrvatska-15703187",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38795570_640.jpg",
+        "title": "Terzić je devet godina živio svoj san, a sad ga čeka novi izazov. Stiže u posebno okruženje...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/primera/terzic-je-devet-godina-zivio-svoj-san-a-sad-ga-ceka-novi-izazov-stize-u-posebno-okruzenje-15703345",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/25/k_33355045_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -216,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Vatreni je zbog njega prošao pakao, a on je sada spreman uništiti velikana - iskrcajte 22 milijuna i odlazim!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/fenerbahce-kriza-ederson-odsteta-livakovic-povratak-dinamo-15703169",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38797107_640.jpg",
+        "title": "Modrić je prošao puno, ali jednu ozljedu kapetan Vatrenih posebno pamti: ‘Onda me stvarno presjeklo‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/modricev-dosje-ozljeda-kronologija-povrataka-jagodicna-kost-15703294",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38798576_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -228,9 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Andy Bara uzvraća udarac: To što on priča je neviđena glupost! Evo koliko sam zaradio na Olmu i Vareli!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/andi-bara-odgovara-villas-boasu-brani-dinamo-olmo-faye-varela-15703104",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_32190845_640.jpg",
+        "title": "‘Dečko od milijun eura!‘ Na Maksimiru nije uspio, a sada je preokrenuo priču: ‘On je spektakularan‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/gonzalo-villar-elche-otkup-dinamo-gol-oviedo-tri-pobjede-15703266",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38792126_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
