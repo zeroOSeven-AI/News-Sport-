@@ -1,8 +1,8 @@
 [
     {
-        "title": "FOTO: Je li Filip Zubčić ovom fotografijom prozvao Vedrana Pavleka? ‘Samo skupo‘ Hrvatski skijaš objavio je fotografiju sa žičare. Bezazlena opservacija ili neizravno prozivanje, možda nikad nećemo saznati",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/skijanje/hoo-novac-namjenski-pavlek-u-bijegu-zubcic-samo-skupo-15703578",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/29/k_38822980_640.jpg",
+        "title": "‘Oni skijaju lošije od Janice s jednim štapom. Dobro žive, a obijest i pohlepa odveli su ih predaleko‘ Kao mladi novinar imao sam više nesreću pratiti aferu ‘Offside‘. Sad samo čekam da se i ovdje pojave nekakvi kuleni i slični nazivi",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/sportsko-jutro-novi-detalji-afere-hrvatskog-skijaskog-saveza-15703638",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/29/k_38823320_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -15,6 +15,18 @@
         "title": "Podigne li Dinamo ‘rampu‘, na Maksimiru bismo uskoro mogli gledati nekadašnji riječki stoperski...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/dinamo-dovodi-stjepana-radeljica-bez-odstete-mckenna-i-dominguez-na-izlazu-15703556",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38714954_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "FOTO: Je li Filip Zubčić ovom fotografijom prozvao Vedrana Pavleka? ‘Samo skupo‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/skijanje/hoo-novac-namjenski-pavlek-u-bijegu-zubcic-samo-skupo-15703578",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/29/k_38822980_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -108,18 +120,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Čudesni okršaj Lige prvaka oduševio legende i zvijezde: ‘Samo se smijem!; ‘Ovo je nogomet‘...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/psg-bayern-5-4-golijada-park-princeva-spektakl-15703513",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/29/k_38804441_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Vatreni nazvao Dalića i šokirao ga: ‘Prestajem! Odlučio sam završiti...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/brozovic-zamalo-napustio-vatrene-dalic-ga-uvjerio-da-ostane-15703208",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/27/k_37691306_640.jpg",
@@ -168,9 +168,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "HOO ‘pretresa‘ financiranje Skijaškog saveza. Prvi rezultati Radne skupine mogli bi vas šokirati",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/hrvatski-olimpijci/hoo-transparentno-trosenje-16-milijuna-eura-bloudek-medju-a-kandidatima-15703414",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38600041_640.jpg",
+        "title": "Čudesni okršaj Lige prvaka oduševio legende i zvijezde: ‘Samo se smijem!; ‘Ovo je nogomet‘... ‘Nevjerojatno je koliko talenta ima na terenu, a Kvarachelia je jedan od njih‘, oduševljen bio Alan Shearer",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/psg-bayern-5-4-golijada-park-princeva-spektakl-15703513",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/29/k_38804441_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,7 +180,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Nogomet za koji poželiš da sudac nikada ne svira kraj Bila je to noć kada su vratari i braniči jedini gledali na semafor priželjkujući kraj, dok nogometni zaljubljenici pred TV ekranima nisu stigli otići u frižider po novo pivo",
+        "title": "Nogomet za koji poželiš da sudac nikada ne svira kraj",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/psg-bayern-5-4-pariz-golijada-uzvrat-munchen-stanisic-kvarachelija-15703488",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38817523_640.jpg",
         "w": 640,
@@ -228,9 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Rekao sam prije dvije godine, on je najbolji hrvatski napadač, danas vrijedi 15-20 mil. eura!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/beljo-dinamo-36-golova-rusi-rekord-eduarda-dalic-reprezentacija-15703438",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_31299215_640.png",
+        "title": "Ruski i bjeloruski boksači moći će se opet...",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/boks/world-boxing-neutralni-nastup-ruski-bjeloruski-boksaci-ain-15703645",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/29/k_28880439_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
