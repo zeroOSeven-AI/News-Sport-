@@ -1,8 +1,56 @@
 [
     {
-        "title": "VIDEO: Nizozemac u ‘formi‘, čovjek kojeg je čitava Hrvatska zapamtila za sva vremena ‘ukrao‘ show u Madridu! Makkelijeva dvojbena odluka i poništen udarac za goste podigli buru prije londonskog raspleta",
+        "title": "Otkrivamo veliki Dinamov plan za ljetni mercato: Cilj su još četiri pojačanja, ovo su kandidati Planiraju se izlazni transferi i pet ulaznih, uz lov na skupine i balans budžeta bez plaćanja skupih odšteta...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-boban-ljeto-transferi-pet-pojacanja-budzet-evropa-15703837",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/29/k_38491924_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Žestoki udar na najplaćenijeg trenera svijeta: ‘Zbog ovoga ih nitko ne voli! Užasno...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/var-ponistio-penal-arsenalu-mcmanaman-i-keown-prozvali-diegu-simeonea-15703845",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/30/k_38813466_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Zabrinjavajući podaci iz Italije, Grčke i Portugala, jedan je Hrvat u posebno teškoj situaciji",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hrvatska-u21-olicevi-klinci-minutaza-problem-vode-skupinu-euro-2027-15703861",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/29/k_38673878_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Nizozemac u ‘formi‘, čovjek kojeg je čitava Hrvatska zapamtila za sva vremena ‘ukrao‘ show u...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/atletico-arsenal-1-1-tri-penala-var-kontroverze-makkelie-15703828",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/29/k_34063529_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Evo zašto je drugoligaš ostao bez licence: ‘Očekivano, a gradonačelniku smo već predali popis‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/druga-hnl/hns-odbio-licencu-karlovac-1919-radovi-zalba-i-plan-za-visi-rang-15703840",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/29/k_31590251_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,18 +72,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Koke: ‘Primili smo pogodak iz sumnjivog penala‘; Arteta: ‘Ne možeš mijenjati odluku...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/arsenal-atletico-remi-1-1-dva-penala-odluka-uzvrat-emirates-15703831",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/29/k_38825974_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Dalić se o njemu raspituje, sprema li izbornik senzaciju za SP? ‘On je igrač za A reprezentaciju‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/adrian-segecic-dalicev-skriveni-joker-hrvatske-sp-sad-15703773",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/29/k_38558251_640.jpg",
@@ -48,69 +84,33 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Koke: ‘Primili smo pogodak iz sumnjivog penala‘; Arteta: ‘Ne možeš mijenjati odluku...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/arsenal-atletico-remi-1-1-dva-penala-odluka-uzvrat-emirates-15703831",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/29/k_38825974_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Poraz Lakersa, LeBron i društvo propustili potvrditi prolaz, Cleveland poveo, Pistonsi smanjili zaostatak",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/pistonsi-smanjuju-cavsi-vode-3-2-lakersi-porazeni-od-rocketsa-15703854",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/30/k_38827406_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Slavni agent otkriva zašto Hrvati zaobilaze ligu pod sankcijama: ‘Lakše je zaraditi na Srbima‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/ruski-agent-seljuk-zasto-hrvati-zaobilaze-ligu-pod-sankcijama-transparentnost-provizije-15703819",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38804802_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Nikad u životu ništa nije konačno, ali ne vjerujem da ću ponovno zaigrati za hrvatski klub‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/duvnjak-najavljuje-preokret-kiela-nakon-poraza-od-nexea-u-nasicama-15703822",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/29/k_36431642_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Boban je uzeo trofej s Dinamom, ali njegova misija u Maksimiru je na početku, sada kreće ono pravo",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/zvonimir-boban-prvi-trofej-s-dinamom-kao-predsjednik-preokret-sezone-15703806",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_37845366_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Spoj koji će opet ‘zapaliti‘ nogomet: Evo zašto je ‘Special One‘ prvi izbor za najvruću klupu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/mourinho-povratak-real-madrid-perez-rekonstrukcija-bernabeu-15703816",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/29/k_37590624_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Real sprema veliko iznenađenje! Na Bernabeu se vraća čovjek koji je s Modrićem ispisao povijest",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/real-madrid-pregovara-s-tonijem-kroosom-o-novoj-savjetnickoj-ulozi-15703799",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/29/k_33600665_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Rijeka odradila veliki posao za budućnost! Zorom u teretani, dan poslije u uredu sportskog direktora",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/noel-bodetic-potpisao-novi-ugovor-s-rijekom-do-2029-15703793",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/29/k_38779724_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Ovo baš nitko u Los Angelesu nije želio čuti! Stigle su katastrofalne vijesti o Luki Dončiću Poznati insajder Shams Charania otkrio je da se situacija oko ozljede zakomplicirala te da će Slovenac sigurno propustiti početak serije protiv aktualnih prvaka",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/lakersi-protiv-rocketsa-doncic-propusta-start-serije-s-thunderom-15703785",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/29/k_38686555_640.jpg",
+        "title": "‘Nikad u životu ništa nije konačno, ali ne vjerujem da ću ponovno zaigrati za hrvatski klub‘ Kapetan Kiela priznao je krizu formea ali vjeruje u prolaz na Final Four u Hamburgu",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/duvnjak-najavljuje-preokret-kiela-nakon-poraza-od-nexea-u-nasicama-15703822",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/29/k_36431642_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,9 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Mijenja li jedna sprava na nadlaktici Haalanda cijeli nogomet? Goveđe srca, jetra, sirovo mlijeko...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/haaland-rutina-prehrana-6000-kalorija-cgm-ledene-kupke-15703777",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_38692720_640.jpg",
+        "title": "Boban je uzeo trofej s Dinamom, ali njegova misija u Maksimiru je na početku, sada kreće ono pravo",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/zvonimir-boban-prvi-trofej-s-dinamom-kao-predsjednik-preokret-sezone-15703806",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/26/k_37845366_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -204,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Odjeci trijumfa u Slavoniji koji će se pamtiti: ‘Ovakvo ludilo nisam doživio u 20 godina‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/nexe-sokirao-kiel-33-30-u-nasicama-korak-prema-final-fouru-15703790",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/29/k_38812424_640.jpg",
+        "title": "Spoj koji će opet ‘zapaliti‘ nogomet: Evo zašto je ‘Special One‘ prvi izbor za najvruću klupu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/mourinho-povratak-real-madrid-perez-rekonstrukcija-bernabeu-15703816",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/29/k_37590624_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -216,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Ozljeda zvijezde u sjeni spektakla! Ovo će biti ozbiljan udarac za PSG uoči uzvrata u Münchenu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/psg-bez-hakimija-uzvrat-bayern-muenchen-ozljeda-zadnje-loze-15703783",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/29/k_38752858_640.jpg",
+        "title": "Real sprema veliko iznenađenje! Na Bernabeu se vraća čovjek koji je s Modrićem ispisao povijest",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/real-madrid-pregovara-s-tonijem-kroosom-o-novoj-savjetnickoj-ulozi-15703799",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/29/k_33600665_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -228,9 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "U Hrvatskoj su takvi igrači rijetki, ali on ima jedan veliki problem, čim netko stavi ruku na njega...",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/hajduk-graf-garcia-intenzitet-tehnika-budzet-sportsko-jutro-15703756",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/29/k_38824849_640.jpg",
+        "title": "‘On je lud, apsolutni stroj! Bez obzira što ima 52 godine, njegova kondicija je bolja od moje!‘",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ostalo/on-je-lud-apsolutni-stroj-bez-obzira-sto-ima-52-godine-njegova-kondicija-je-bolja-od-moje-15703747",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/29/k_38824760_640.png",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
