@@ -1,6 +1,18 @@
 [
     {
-        "title": "Ugledni pravnik otkrio nam je što prijeti Pavleku: ‘Radi se o jedinstvenoj kazni‘ ‘Postupak izručenja iz Kazahstana može trajati jedan do dva mjeseca, ovisno o tome hoće li se Pavlek protiviti‘",
+        "title": "‘U Hajduku se već 15 godina krivo radi, ali Garcia mora ostati! Pa mi mjesecima ne bi vidjeli plaću...‘ Bivši veznjak vidi europske nastupe kao presudne te zagovara ulazak ulagača i jači kadar za lov na Dinamo.",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/trebotic-hajduk-drugo-mjesto-garcia-pojacanja-europa-ulagaci-15704424",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/30/k_38831406_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Ugledni pravnik otkrio nam je što prijeti Pavleku: ‘Radi se o jedinstvenoj kazni‘",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/skijanje/pavlek-kazna-izrucenje-davor-radic-hss-povrat-stete-15704404",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/01/k_38640864_640.jpg",
         "w": 640,
@@ -60,21 +72,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Srbin izazvao skandal i zgrozio sve! Šakama ga udarao na podu, pogledajte nevjerojatne scene",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-mix/zlatibor-sokirao-zvezdu-tucnjava-kalinica-prekinula-utakmicu-15704406",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/01/k_38837625_640.png",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Brat na brata za povijest HNL-a: ‘Naše će mjesto od 3000 ljudi biti ponosno, a ne znam kako će tata izdržati‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/hnl-povijest-braca-silic-na-suprotnim-golovima-hajduk-varazdin-poljud-15704390",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/01/k_38777462_640.jpg",
+        "title": "‘U gaćama sam, bez majice i idem se boriti do smrti. Mi se tučemo u kavezu, a za to moraš biti glup‘",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/u-gacama-sam-bez-majice-i-idem-se-boriti-do-smrti-mi-se-tucemo-u-kavezu-a-za-to-moras-biti-glup-15704428",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/01/k_38838388_640.png",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,9 +96,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Jedan gol srušio snove klubu iz BiH: Hrvat prestrogo isključen, ništa od velikog finala",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/izvidac-ostao-bez-finala-europskog-kupa-poraz-u-tatabanji-15704384",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/01/k_38795391_640.jpg",
+        "title": "VIDEO: Srbin izazvao skandal i zgrozio sve! Šakama ga udarao na podu, pogledajte nevjerojatne scene",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-mix/zlatibor-sokirao-zvezdu-tucnjava-kalinica-prekinula-utakmicu-15704406",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/01/k_38837625_640.png",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -108,9 +108,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Kaos u Turskoj! Boksač doveden da padne, a on nokautirao domaćina - na kraju ga gazila cijela dvorana",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/video-kaos-u-turskoj-boksac-doveden-da-padne-a-on-nokautirao-domacina-na-kraju-ga-gazila-cijela-dvorana-15704394",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/01/k_38836400_640.png",
+        "title": "Brat na brata za povijest HNL-a: ‘Naše će mjesto od 3000 ljudi biti ponosno, a ne znam kako će tata izdržati‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/hnl-povijest-braca-silic-na-suprotnim-golovima-hajduk-varazdin-poljud-15704390",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/01/k_38777462_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -144,6 +144,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Raskol u Realu: Zvijezda Kraljeva rekla ‘zbogom‘ i poručila treneru - ‘Nemoj mi se više obraćati‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/ceballos-napusta-real-madrid-nakon-sukoba-s-arbeloom-betis-u-igri-15704236",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/01/k_38834351_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Dinamo i Hajduk stali u red za hrvatsko čudo od djeteta, jedan velikan već dobio - odbijenicu!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-hajduk-rijeka-love-tina-kusanovica-klose-ga-zeli-zadrzati-u-nurnbergu-15704094",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/30/k_36445958_640.jpg",
@@ -156,9 +168,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Bez ikakve dvojbe, on je za mene najbolji igrač HNL-a! A Stojković me podsjeća na Danija Olma‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/spehar-misic-najbolji-belio-rekord-dinamo-prvak-shnl-15703869",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/29/k_38474728_640.jpg",
+        "title": "Jedan gol srušio snove klubu iz BiH: Hrvat prestrogo isključen, ništa od velikog finala U nastavku su agresivni igrači Tatabanye uspjeli slomiti otpor Ljubušaka i povesti s 37:33 minutu prije kraja",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/izvidac-ostao-bez-finala-europskog-kupa-poraz-u-tatabanji-15704384",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/01/k_38795391_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -168,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Žestoki udar na najplaćenijeg trenera svijeta: ‘Zbog ovoga ih nitko ne voli! Užasno...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/var-ponistio-penal-arsenalu-mcmanaman-i-keown-prozvali-diegu-simeonea-15703845",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/30/k_38813466_640.jpg",
+        "title": "VIDEO Kaos u Turskoj! Boksač doveden da padne, a on nokautirao domaćina - na kraju ga gazila cijela dvorana",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/video-kaos-u-turskoj-boksac-doveden-da-padne-a-on-nokautirao-domacina-na-kraju-ga-gazila-cijela-dvorana-15704394",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/01/k_38836400_640.png",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,7 +192,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Posuđeni dinamovac osvojio trofej koji se čekao 61 godinu, ali spektakl je odgledao - s klupe LASK je dva puta stizao vodstvo Altacha u finalu austrijskog Kupa, te u produžecima postigao dva pogotka za trijumf",
+        "title": "Posuđeni dinamovac osvojio trofej koji se čekao 61 godinu, ali spektakl je odgledao - s klupe",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/lask-osvojio-ofb-cup-nakon-61-godine-preokret-protiv-altacha-4-2-15704379",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/01/k_37191047_640.jpg",
         "w": 640,
@@ -219,18 +231,6 @@
         "title": "Kovačević otkrio: Dinamo bez jednog od najboljih igrača! ‘Neki imaju manjih problema‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-ne-spusta-gas-kovacevic-protiv-gorice-rotacije-ali-napad-na-pobjedu-15704363",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/01/k_38792315_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Nema mu ravnog: Sinner ‘pomeo‘ i Ivaniševićevu zvijezdu, Talijan pred povijesnim podvigom",
-        "link": "https://sportske.jutarnji.hr/sportske/tenis/atp-wta-turniri/nema-mu-ravnog-sinner-pomeo-i-ivanisevicevu-zvijezdu-talijan-pred-povijesnim-podvigom-15704377",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/01/k_38836110_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
