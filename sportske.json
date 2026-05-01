@@ -12,9 +12,33 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Brat na brata za povijest HNL-a: ‘Naše će mjesto od 3000 ljudi biti ponosno, a ne znam kako će tata...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/hnl-povijest-braca-silic-na-suprotnim-golovima-hajduk-varazdin-poljud-15704390",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/01/k_38777462_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Susjedi skupo plaćaju debakl: Pad BDP-a, rast nezaposlenosti i gubitak - milijardu i pol eura",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/italija-bez-sp-azzurri-gospodarski-pad-fifine-nagrade-gubici-15704368",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/29/k_38679105_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Jedan gol srušio snove klubu iz BiH: Hrvat prestrogo isključen, ništa od velikog finala",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/izvidac-ostao-bez-finala-europskog-kupa-poraz-u-tatabanji-15704384",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/01/k_38795391_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,30 +120,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Sportski direktor progovorio o Modriću, navijači Milana mogu početi slaviti? ‘Srce će presuditi‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/igli-tare-modric-ostaje-u-milanu-produzuje-ugovor-15704356",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/01/k_38371535_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Spremili smo vam poseban izazov. Isprobajte svoje znanje u kvizu Sportskih novosti",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/spremili-smo-vam-poseban-izazov-isprobajte-svoje-znanje-u-kvizu-sportskih-novosti-15704209",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38806688_640.gif",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Najveća drama u povijesti Vatrenih: ‘Rekao je da se Daliću ne bi...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/vatreno-prijestolje-otkriva-slucaj-kalinica-i-tajne-vatrenih-15704124",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/04/30/k_38828236_640.jpg",
@@ -180,7 +180,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Anketa SN: Izaberite najboljeg igrača hrvatske lige! Konkurencija nikad izjednačenija Beljo prijeti Eduardovom rekordu, Dinamo ima još kandidata, ali i Rijeka i Hajduk imaju svoje adute s jakim argumentima...",
+        "title": "Sportski direktor progovorio o Modriću, navijači Milana mogu početi slaviti? ‘Srce će presuditi‘ ‘Njegov dolazak bio je vrlo važan, također i s obzirom na njegov mentalitet‘, dodao je Igli Tare, koji smatra da će Luka produžiti ugovor na još godinu dana",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/igli-tare-modric-ostaje-u-milanu-produzuje-ugovor-15704356",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/01/k_38371535_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Spremili smo vam poseban izazov. Isprobajte svoje znanje u kvizu Sportskih novosti",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/spremili-smo-vam-poseban-izazov-isprobajte-svoje-znanje-u-kvizu-sportskih-novosti-15704209",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/28/k_38806688_640.gif",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Anketa SN: Izaberite najboljeg igrača hrvatske lige! Konkurencija nikad izjednačenija",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/josip-misic-najbolji-igrac-hnl-spihar-kapetan-dinama-2026-15704347",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/01/k_32871679_640.jpg",
         "w": 640,
@@ -207,30 +231,6 @@
         "title": "Dinamovci pomeli konkurenciju: Ovo se u SHNL-u još nije dogodilo, Modri osvojili sve nagrade",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-supersport-hnl-travanj-belio-kovacevic-stojkovic-filipovic-sve-nagrade-15704339",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/01/k_38767312_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Trener PSG-a odgovorio kritičarima: ‘Loše mišljenje ne moraš poštovati. Pet sati sam analizirao susret‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/enrique-brani-triler-psg-bayern-odgovara-na-kritike-nakon-5-4-15704344",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/01/k_38817067_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Raskol u Realu: Zvijezda Kraljeva rekla ‘zbogom‘ i poručila treneru - ‘Nemoj mi se više obraćati‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/ceballos-napusta-real-madrid-nakon-sukoba-s-arbeloom-betis-u-igri-15704236",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/01/k_38834351_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
