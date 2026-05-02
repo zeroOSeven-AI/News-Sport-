@@ -12,6 +12,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "UŽIVO: GOOOL! Sjajna vijest za Jakirovića već u četvrtoj minuti, luda završnica na Otoku",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-trenutak-odluke-za-jakirovica-hull-mora-pobijediti-ali-ne-ovise-samo-o-sebi-za-ulazak-u-doigravanje-15704536",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/02/k_38281629_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Rijeka za kraj sezone dobila najbolje moguće pojačanje, a transfer u Dinamo ne žele komentirati",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/toni-fruk-povratak-treninzi-rijeka-finale-kupa-osijek-15704521",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/01/k_38693916_640.jpg",
@@ -39,6 +51,18 @@
         "title": "‘Prišao mi je Tuđman, još pamtim što je rekao pred svima. Mislili su da ću posvađati Hrvatsku‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/ivan-katalinic-kritika-vodstva-hajduka-trofeji-poljud-nas-hajduk-15704454",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/01/k_38840541_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Hajduk se oglasio o priči s novim investitorom: ‘Postoje kontakti, ali ne i formalna ponuda‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-kontakti-s-whitetechom-bez-formalne-ponude-15704531",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/02/k_30652967_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,30 +120,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Utakmica sezone za Jakirovića, evo što mu treba u ludoj završnici! Svaki gol može biti presudan",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hull-jakirovic-norwich-play-off-championship-hirakawa-matazzo-15704461",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/30/k_38444705_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Trener na štakama, ali momčad na nitro pogonu: ‘Nabrijani smo na Europu, to je povijesna šansa‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/lokomotiva-juri-europu-rijeka-maksimir-nikica-jelavic-hnl-15704501",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/02/k_38732909_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Iznenada preminuo Goran Županac (51) Bio je član legendarne generacije Slaven Belupa te postigao pogodak u utakmici koja ih je dovela u hrvatsku elitu",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/preminuo-goran-zupanac-slaven-belupo-legenda-presudni-gol-1997-15704407",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/01/k_38837649_640.jpg",
@@ -168,9 +168,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Spreman sam na ‘fajt‘ sa svima koji tvrde da u hrvatskom sportu ima dovoljno novca‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/atletika/spreman-sam-na-fajt-sa-svima-koji-tvrde-da-u-hrvatskom-sportu-ima-dovoljno-novca-15704275",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/29/k_36138329_640.jpg",
+        "title": "Utakmica sezone za Jakirovića, evo što mu treba u ludoj završnici! Svaki gol može biti presudan ‘Naš prvi cilj je igrati taktički mudro. Nema žurbe, nema srljanja, jer 90 minuta je jako dugo‘, istaknuo je bivši trener Dinama i Rijeke",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hull-jakirovic-norwich-play-off-championship-hirakawa-matazzo-15704461",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/30/k_38444705_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,7 +180,19 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Danas nas čeka možda i najbolji boksački meč u 2026.! Japansko ‘Čudovište‘ moglo bi pasti Danas u Japanu svojevrsni je \"praznik boksa\", ali i velik dio svjetske boksačke javnost imat će oči uprte prema Tokiju.",
+        "title": "Trener na štakama, ali momčad na nitro pogonu: ‘Nabrijani smo na Europu, to je povijesna šansa‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/lokomotiva-juri-europu-rijeka-maksimir-nikica-jelavic-hnl-15704501",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/02/k_38732909_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Danas nas čeka možda i najbolji boksački meč u 2026.! Japansko ‘Čudovište‘ moglo bi pasti",
         "link": "https://sportske.jutarnji.hr/sportske/fightsite/ostalo/danas-nas-ceka-mozda-i-najbolji-boksacki-mec-u-2026-japansko-cudoviste-moglo-bi-pasti-15704500",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/02/k_38840566_640.jpg",
         "w": 640,
@@ -219,18 +231,6 @@
         "title": "Imaju 13.000 stanovnika i spremaju senzaciju godine! Može li se ostvariti najveća nogometna bajka?",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/elversberg-bundesliga-rasprodana-ursapharm-arena-paderborn-derbi-32-kolo-15704446",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/01/k_38838125_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Dva Vatrena ‘zvijezde‘ filma, Hrvatskoj respekt, a ova revolucionarna najava posebno zanima Dinamo",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hns-vancouver-vece-premije-infantino-kandidatura-pravilo-u-21-15704458",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/01/k_38832846_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
