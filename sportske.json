@@ -48,18 +48,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Preokret Hajduka na Poljudu! Pukštas ‘poletio‘, VAR poništio gol Livaji, palo i isključenje",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/video-preokret-hajduka-na-poljudu-pukstas-poletio-var-ponistio-gol-livaji-palo-i-iskljucenje-15704839",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38849712_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Sergej Jakirović za SN nakon podviga: ‘Bog sve vidi! A nitko ne spominje što su nam radili suci...‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/jakirovic-vodi-hull-city-u-play-off-za-premiership-nakon-pobjede-nad-norwichom-15704883",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38847634_640.jpg",
@@ -84,33 +72,45 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "VIDEO: Preokret Hajduka na Poljudu! Pukštas ‘poletio‘, VAR poništio gol Livaji, palo i isključenje",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/video-preokret-hajduka-na-poljudu-pukstas-poletio-var-ponistio-gol-livaji-palo-i-iskljucenje-15704839",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38849712_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Napravili smo nešto za Guinnessovu knjigu rekorda! Finale? Izgledi su nam nikakvi‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/sesvete-povijesno-finale-vori-zagreb-paket24-premijer-liga-15704907",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_35747788_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Ovo se nije dogodilo u povijesti Premier lige! Glupa ideja mogla je skupo koštati United",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/manchester-united-liverpool-3-2-old-trafford-liga-prvaka-mainoo-15704903",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38848449_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Garcia o mladim nadama: ‘Nikome ništa ne dajem besplatno!‘, Šafarić pričao o ‘utakmici sezone‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/hajduk-preokretom-svladao-varazdin-3-1-na-poljudu-ucvrstio-drugo-mjesto-15704892",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38848820_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Kaos u zadnjem krugu i novo slavlje tinejdžerske senzacije! Herojski povratak Verstappena",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/automoto/formula1/antonelli-pobjeduje-vn-miamija-mercedes-strategija-norris-piastri-verstappen-15704858",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38849738_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Borba za treće mjesto u SHNL-u: Evo što čeka Rijeku i Varaždin do kraja sezone",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/rijeka-varazdin-borba-za-trece-mjesto-shnl-finis-i-kup-15704885",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38779694_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,7 +180,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Tišina Poljuda: poluprazne tribine, jedan od najmanjih posjeta, čak su se čula i crkvena zvona Splićani jedva čekaju da završi Hajdukova sezona. Definirana i zabetonirana druga pozicija donijela je monotoniju iz koje se ne mogu izvući igrači, a čini se ni navijači",
+        "title": "VIDEO: Kaos u zadnjem krugu i novo slavlje tinejdžerske senzacije! Herojski povratak Verstappena Max Verstappen je imao katastrofalan početak utrke jer se izvrtio u prvom zavoju, ali sjajnom vožnjom vratio se među prvih pet",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/automoto/formula1/antonelli-pobjeduje-vn-miamija-mercedes-strategija-norris-piastri-verstappen-15704858",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38849738_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Borba za treće mjesto u SHNL-u: Evo što čeka Rijeku i Varaždin do kraja sezone",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/rijeka-varazdin-borba-za-trece-mjesto-shnl-finis-i-kup-15704885",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38779694_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Tišina Poljuda: poluprazne tribine, jedan od najmanjih posjeta, čak su se čula i crkvena zvona",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/poljud-poluprazan-hajdukova-rutina-druga-pozicija-niska-posjeta-varazdin-oprostaj-vukovar-15704865",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38848982_640.jpg",
         "w": 640,
@@ -207,30 +231,6 @@
         "title": "FOTO: Ovako se oporavlja od ozljede? Mbappe uhvaćen s atraktivnom glumicom, pogledajte kadrove s jahte",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/mbappe-na-jahti-s-ester-exposito-dok-real-igra-protiv-espanyola-15704862",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38810326_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Veliko slavlje Rijeke na Maksimiru! Pogreške Lokosa, Englez briljirao, vratio se Fruk",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/video-veliko-slavlje-rijeke-na-maksimiru-pogreske-lokosa-englez-briljirao-vratio-se-fruk-15704806",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38848149_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Napadač iz BiH u zadnjim trenucima srušio Kovača, pogledajte pogodak i ludo slavlje",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/video-napadac-iz-bih-u-zadnjim-trenucima-srusio-kovaca-pogledajte-pogodak-i-ludo-slavlje-15704867",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38849132_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
