@@ -1,6 +1,30 @@
 [
     {
-        "title": "Ovaj igrač mora ostati na Poljudu. Pravi je znalac, bio bi bingo za novog sportskog direktora Velika je i odgovornost na predsjedniku Ivanu Biliću da kako zna i može stabilizira i poboljša financije dugovima opterećenog splitskog kluba",
+        "title": "Kovačevićev potez neke je začudio, ali zapravo je vrlo logičan. I puno smisleniji od onih jesenskih Nakon serije od 14 uzastopnih 90-minutnih nastupa, najboljem golgeteru Modrih je ipak potrebno osvježenje",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-gorica-beljo-bez-gola-rana-zamjena-fokus-finale-kupa-rijeka-15704915",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38517269_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Vinicius srušio Katalonce pa sve šokirao proslavom! Pogledajte gnjusan potez Brazilca",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/real-madrid-pobijedio-espanyol-vinicius-dvostruki-strijelac-odgoda-slavlja-barcelone-15704919",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38850612_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Ovaj igrač mora ostati na Poljudu. Pravi je znalac, bio bi bingo za novog sportskog direktora",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/hajduk-almena-bilic-preokret-financije-poljud-15704896",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_37557790_640.jpg",
         "w": 640,
@@ -12,9 +36,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Garcia otkrio zašto je bio ljut i poručio: ‘Vjerojatno me mrzio! Bilo bi pametno da produži ugovor‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/garcia-otkrio-zasto-je-bio-ljut-i-porucio-vjerojatno-me-mrzio-bilo-bi-pametno-da-produzi-ugovor-15704900",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38849982_640.jpg",
+        "title": "Tek je početak sezone, a ‘klinac‘ je već postao dosadan. Uklesao je ime među najveće legende",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/automoto/formula1/antonelli-rekordi-miami-treca-pobjeda-mclaren-povratak-verstappen-borba-15704924",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38850722_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,9 +60,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Pukštas ga je toliko izludio da je morao izaći na poluvremenu! Briljirao i brat hajdukovca",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/pukstas-ga-je-toliko-izludio-da-je-morao-izaci-na-poluvremenu-briljirao-i-brat-hajdukovca-15704894",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38849581_640.jpg",
+        "title": "Garcia otkrio zašto je bio ljut i poručio: ‘Vjerojatno me mrzio! Bilo bi pametno da produži ugovor‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/garcia-otkrio-zasto-je-bio-ljut-i-porucio-vjerojatno-me-mrzio-bilo-bi-pametno-da-produzi-ugovor-15704900",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38849982_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Petar Sučić je prvak Italije! Inter osigurao titulu, Meazza eksplodirala na kraju susreta",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/inter-osigurao-scudetto-2-0-protiv-parme-tri-kola-prije-kraja-15704918",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38850652_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -60,57 +96,21 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Pukštas ga je toliko izludio da je morao izaći na poluvremenu! Briljirao i brat hajdukovca",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/pukstas-ga-je-toliko-izludio-da-je-morao-izaci-na-poluvremenu-briljirao-i-brat-hajdukovca-15704894",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38849581_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "FOTO: Kamera na Poljudu uhvatila slavnu manekenku. Vatrena je navijačica Hajduka",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/faretta-radic-na-poljudu-top-model-bodri-hajduk-protiv-varazdina-15704878",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38849309_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Preokret Hajduka na Poljudu! Pukštas ‘poletio‘, VAR poništio gol Livaji, palo i isključenje",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/video-preokret-hajduka-na-poljudu-pukstas-poletio-var-ponistio-gol-livaji-palo-i-iskljucenje-15704839",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38849712_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Napravili smo nešto za Guinnessovu knjigu rekorda! Finale? Izgledi su nam nikakvi‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/sesvete-povijesno-finale-vori-zagreb-paket24-premijer-liga-15704907",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_35747788_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Ovo se nije dogodilo u povijesti Premier lige! Glupa ideja mogla je skupo koštati United",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/manchester-united-liverpool-3-2-old-trafford-liga-prvaka-mainoo-15704903",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38848449_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Garcia o mladim nadama: ‘Nikome ništa ne dajem besplatno!‘, Šafarić pričao o ‘utakmici sezone‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/hajduk-preokretom-svladao-varazdin-3-1-na-poljudu-ucvrstio-drugo-mjesto-15704892",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38848820_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Kaos u zadnjem krugu i novo slavlje tinejdžerske senzacije! Herojski povratak Verstappena Max Verstappen je imao katastrofalan početak utrke jer se izvrtio u prvom zavoju, ali sjajnom vožnjom vratio se među prvih pet",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/automoto/formula1/antonelli-pobjeduje-vn-miamija-mercedes-strategija-norris-piastri-verstappen-15704858",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38849738_640.jpg",
+        "title": "VIDEO: Preokret Hajduka na Poljudu! Pukštas ‘poletio‘, VAR poništio gol Livaji, palo i isključenje Povijesni trenutak u SHNL-u, prvi put branio je brat protiv brata - Toni Silić protiv Josipa Silića",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/video-preokret-hajduka-na-poljudu-pukstas-poletio-var-ponistio-gol-livaji-palo-i-iskljucenje-15704839",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38849712_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,9 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Borba za treće mjesto u SHNL-u: Evo što čeka Rijeku i Varaždin do kraja sezone",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/rijeka-varazdin-borba-za-trece-mjesto-shnl-finis-i-kup-15704885",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38779694_640.jpg",
+        "title": "‘Napravili smo nešto za Guinnessovu knjigu rekorda! Finale? Izgledi su nam nikakvi‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/sesvete-povijesno-finale-vori-zagreb-paket24-premijer-liga-15704907",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_35747788_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -204,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Tišina Poljuda: poluprazne tribine, jedan od najmanjih posjeta, čak su se čula i crkvena zvona",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/poljud-poluprazan-hajdukova-rutina-druga-pozicija-niska-posjeta-varazdin-oprostaj-vukovar-15704865",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38848982_640.jpg",
+        "title": "Ovo se nije dogodilo u povijesti Premier lige! Glupa ideja mogla je skupo koštati United",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/manchester-united-liverpool-3-2-old-trafford-liga-prvaka-mainoo-15704903",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38848449_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -228,9 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "FOTO: Ovako se oporavlja od ozljede? Mbappe uhvaćen s atraktivnom glumicom, pogledajte kadrove s jahte",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/mbappe-na-jahti-s-ester-exposito-dok-real-igra-protiv-espanyola-15704862",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38810326_640.jpg",
+        "title": "VIDEO: Kaos u zadnjem krugu i novo slavlje tinejdžerske senzacije! Herojski povratak Verstappena",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/automoto/formula1/antonelli-pobjeduje-vn-miamija-mercedes-strategija-norris-piastri-verstappen-15704858",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38849738_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
