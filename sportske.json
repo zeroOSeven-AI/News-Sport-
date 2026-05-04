@@ -12,6 +12,30 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "‘Tumor mi je uzeo ono što najviše volim - kosu! Maradona me zvao u Napoli, a Pele rekao da sam...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bruno-conti-napusta-romu-nakon-53-godine-pobjeda-nad-tumorom-intervju-15705225",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/04/k_38854185_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Istra slavila u okršaju najlošijih momčadi u 2026. godini",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/istra-razbila-prokletstvo-2026-srusila-slaven-belupo-hrvatin-asistirao-prevljak-zabijao-15705232",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/04/k_38854261_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Ni voditelj kviza nije znao odgovor na sportsko pitanje vrijedno 578 tisuća eura, znate ga li vi?",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/milijunas-sportsko-pitanje-badminton-rekord-jen-clarkson-izgubila-pola-milijuna-15705203",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/04/k_38854019_640.jpg",
@@ -24,9 +48,33 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Nakon pomne analize, Borussia Dortmund donijela je odluku o budućnosti Nike Kovača",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/borussia-dortmund-zeli-produziti-ugovor-s-nikom-kovacem-do-2028-15705229",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/04/k_38792385_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "‘Htio sam u Dinamo, sve sam radio da to ostvarim. Međutim, čovjek snuje, a Bog određuje‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/fabijan-krivak-dva-gola-sigma-olomouc-uzlet-ceska-liga-15705208",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/04/k_38854152_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Svaki dan sam ga prebijao i bježao je od mene, a jednom sam ga toliko izudarao da se žalio treneru‘",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/svaki-dan-sam-ga-prebijao-i-bjezao-je-od-mene-a-jednom-sam-ga-toliko-izudarao-da-se-zalio-treneru-15705220",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/04/k_38053849_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -63,54 +111,6 @@
         "title": "Dinamo diže letvicu! Odbijeno 12 milijuna, otkrivamo koliko Modri traže za kapitalca, ali i za Hoxhu...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-dominguez-12-milijuna-hoxha-topic-kuzmic-prodaje-nakon-kvalifikacija-15705113",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/04/k_38024821_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Užasan sudar glavama u Premiershipu, tinejdžer na nosilima iznesen s travnjaka",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/chelsea-nottingham-derry-abbott-sudar-ozljeda-sels-obranio-penal-palmer-15705206",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/04/k_38854042_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Talijani plasirali veliku vijest: Modrić na klupi već idući vikend! U svemu ipak postoji ‘caka‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/modric-pomaze-milanu-s-klupe-nakon-operacije-i-cilja-brzi-povratak-15705145",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/04/k_38816240_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Na Maksimir ‘sletjelo‘ 500 tisuća eura, a evo koliko Modri još mogu zaraditi od velike prodaje",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/interov-naslov-bonus-dinamo-petar-sucic-500-tisuca-eura-15705172",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/04/k_36607853_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Režirao senzaciju u susjedstvu, želio ga je i Boban, sad je na pragu debakla: ‘Zabrinjavajuće‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/albert-riera-kritike-eintracht-frankfurt-poraz-hsv-buducnost-15705059",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38849521_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -168,9 +168,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Bio je talent uz bok Baturine, htjela ga Barca, ali imao je veliku manu. Sad se vraća u HNL?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/ivan-saranic-povratak-iz-sesveta-14-golova-istra-1961-shnl-15704980",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38601497_640.jpg",
+        "title": "VIDEO: Ogorčeni navijači tjeraju hrvatskog trenera iz kluba! Pogledajte što su mu skandirali",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/zvizduci-na-kosevu-mario-odlazi-poraz-sarajeva-od-borca-cvitanovic-reakcija-15704958",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/04/k_38850544_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Nismo napravili igračicu svjetske klase još od Samante Fabris, to nas sve zajedno čini krivcima‘ ‘Nikako nisam zadovoljan pozicijom reprezentacije, mi smo genetski predisponirani za sudjelovanje na velikim natjecanjima, pogotovo djevojke. Ali nerijetko djeca ne mogu ni uhvatiti loptu‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/odbojka/odbojka-ostalo/antunovic-hrvatska-odbojka-nema-novu-samantu-fabris-problemi-treneri-odlasci-15705197",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/30/k_26249975_640.jpg",
+        "title": "Misteriozno došao do zapisnika ‘meča stoljeća‘ pa ga prodao za 163 tisuće eura! ovski je sudac ujedno i kolekcionar, no nije jasno kako se dokopao papira koji se inače čuva u muzejima na Islandu",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/chess/misteriozno-dosao-do-zapisnika-meca-stoljeca-pa-ga-prodao-za-163-tisuce-eura-15705222",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/02/k_38844683_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,9 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Andrej Kramarić dvostruki strijelac, zabili Jakić i Musa, Sučić prvak s Interom",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kramaric-musa-petar-sucic-inter-naslov-hrvatski-reprezentativci-ucinak-15705201",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/04/k_38841743_640.jpg",
+        "title": "VIDEO: Užasan sudar glavama u Premiershipu, tinejdžer na nosilima iznesen s travnjaka",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/chelsea-nottingham-derry-abbott-sudar-ozljeda-sels-obranio-penal-palmer-15705206",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/04/k_38854042_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -204,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Linč kakav se ne pamti: ‘Sramota! Maknite se s terena, potrošili ste mi godinu karijere‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/richie-wellens-kritizira-igrace-leyton-orienta-najavljuje-cistku-15705100",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/04/k_38852545_640.jpg",
+        "title": "Talijani plasirali veliku vijest: Modrić na klupi već idući vikend! U svemu ipak postoji ‘caka‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/modric-pomaze-milanu-s-klupe-nakon-operacije-i-cilja-brzi-povratak-15705145",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/04/k_38816240_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -216,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Navikli smo na bol, na neki način smo i mazohisti, a ljudi očekuju da izgledam kao Herkul‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/dina-levacic-mentalna-snaga-sveta-helena-titicaca-oceanski-izazovi-15704959",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/30/k_38778367_640.jpg",
+        "title": "Na Maksimir ‘sletjelo‘ 500 tisuća eura, a evo koliko Modri još mogu zaraditi od velike prodaje",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/interov-naslov-bonus-dinamo-petar-sucic-500-tisuca-eura-15705172",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/04/k_36607853_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -228,9 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Pobjeda je za Riječane stigla u savršenom trenutku, a ovaj igrač bio je ključ iako nije zabio",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rijeka-razmontirala-lokomotivu-3-0-gojak-dvije-asistencije-adu-adjei-fruk-povratak-15705166",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/04/k_38848147_640.jpg",
+        "title": "Režirao senzaciju u susjedstvu, želio ga je i Boban, sad je na pragu debakla: ‘Zabrinjavajuće‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/albert-riera-kritike-eintracht-frankfurt-poraz-hsv-buducnost-15705059",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38849521_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
