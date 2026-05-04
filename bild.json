@@ -1,5 +1,41 @@
 [
     {
+        "title": "„Natürlich ist er nicht so spektakulär ...“:Klare Ansage zum Vertrags-Poker bei den Bayern!",
+        "link": "https://sportbild.bild.de/fussball/fc-bayern-muenchen/fc-bayern-klare-ansage-zum-vertrags-poker-natuerlich-ist-er-nicht-so-spektakulaer-69f888dc23e6b3dbf3c98894",
+        "image_url": "https://images.bild.de/69f888dc23e6b3dbf3c98894/1303663db7c9680b154aac73390241e2,9a880f4a?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "„Ein riesiger Schritt“:Dieses Auto revolutioniert den Rennsport",
+        "link": "https://sportbild.bild.de/motorsport/formel-e-gen4-dieses-auto-revolutioniert-den-rennsport-69f8951c6fe2dee7bfb12707",
+        "image_url": "https://images.bild.de/69f8951c6fe2dee7bfb12707/b3c4cfa64d986321f5b8f4e6bbb7afb6,a3b8e449?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Umstrittener Frankfurt-Trainer:Riera bekommt Endspiel gegen BVB",
+        "link": "https://sportbild.bild.de/fussball/eintracht-frankfurt/eintracht-frankfurt-trainer-riera-bekommt-endspiel-gegen-bvb-69f8927b23e6b3dbf3c989e2",
+        "image_url": "https://images.bild.de/69f8927b23e6b3dbf3c989e2/b150b3e89690f9cf76b2cabb7f8cb900,49a515c2?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
         "title": "So soll es im Sommer weitergehen:BVB trifft Kovac-Entscheidung!",
         "link": "https://sportbild.bild.de/fussball/borussia-dortmund/bvb-trifft-kovac-entscheidung-so-soll-es-mit-dem-trainer-im-sommer-weitergehen-69f883e5d3209c4cbd891970",
         "image_url": "https://images.bild.de/69f883e5d3209c4cbd891970/cbae1df4b366fa74c07434a7414a6c0a,8f12af66?w=992",
@@ -12,45 +48,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Hammer-Meldung vor der Tour de France:Wunderkind (19) bricht 89 Jahre alten Rekord!",
-        "link": "https://sportbild.bild.de/sportmix/radsport/tour-de-france-hammer-meldung-wunderkind-19-bricht-89-jahre-alten-rekord-69f8703e123c5d78227c06e2",
-        "image_url": "https://images.bild.de/69f8703e123c5d78227c06e2/5a906b3f257ad1e8202287af8de93da9,8c88b717?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
         "title": "„Da bin ich nicht Patriot ...“:Bayern-Wende gegen PSG? Matthäus legt sich fest",
         "link": "https://sportbild.bild.de/fussball/fc-bayern-muenchen/champions-league-matthaeus-bayern-wende-gegen-psg-da-bin-ich-nicht-patriot-69f836aed3209c4cbd891262",
         "image_url": "https://images.bild.de/69f836aed3209c4cbd891262/0997ad1b5f699e34a5cd8f19a8e8959f,7554c26d?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "„Wenn es richtig gut läuft ...“:So schätzt Merz die deutschen WM-Chancen ein",
-        "link": "https://sportbild.bild.de/fussball/fussball-wm/friedrich-merz-so-schaetzt-der-bundeskanzler-die-deutschen-wm-chancen-ein-69f867ed6fe2dee7bfb12167",
-        "image_url": "https://images.bild.de/69f867ed6fe2dee7bfb12167/992a6e109f849860fe387b2903f3f3c6,f05e7772?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Was steckt dahinter?:Ungewöhnliche Anstoßzeit heute in der Premier League",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/premier-league-ungewoehnliche-anstosszeit-heute-bei-chelsea-was-steckt-dahinter-69f84b63123c5d78227c032b",
-        "image_url": "https://images.bild.de/69f84b63123c5d78227c032b/4d80489968f1131c6dd1fc6b7790aacb,74f4b381?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -108,33 +108,33 @@
         "flag": "🇩🇪"
     },
     {
+        "title": "„Wenn die Organisationen wollen, dass …“:Betrugsvorwürfe um Rad-Dominator Pogacar",
+        "link": "https://sportbild.bild.de/sportmix/radsport/rad-betrugsvorwuerfe-um-pogacar-wenn-die-organisationen-wollen-dass-69f88f61123c5d78227c0a54",
+        "image_url": "https://images.bild.de/69f88f61123c5d78227c0a54/8d3d7ec7b4a65825afb925a1c2cdc78d,e5cc0eaa?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Flitzer-Alarm!:Schiedsrichter verhindert Oben-ohne-Auftritt",
+        "link": "https://sportbild.bild.de/sportmix/schiedsrichter-stoppt-flitzerin-sie-plante-nicht-jugendfreien-auftritt-69f89d466fe2dee7bfb127c4",
+        "image_url": "https://images.bild.de/69f89d466fe2dee7bfb127c4/9ae18b49c13e25310e70dfba7f9fdce0,70cfa680?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
         "title": "„So gut drauf, der muss mit!“:Hamann fordert diesen Bundesliga-Star für die WM",
         "link": "https://sportbild.bild.de/fussball/internationaler-fussball/bundesliga-hamann-fordert-diesen-star-fuer-die-wm-so-gut-drauf-der-muss-mit-69f75c79db1aeefad1dbc95e",
         "image_url": "https://images.bild.de/69f75c79db1aeefad1dbc95e/ee88fe7ad843889cb4e42a2d208517c9,1f5bdce4?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Katastrophen-Saison mit Happy End?:ER bringt Tottenham wieder zum Lachen",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/premier-league-er-bringt-tottenham-wieder-zum-lachen-neue-hoffnung-in-horror-saison-69f8590a23e6b3dbf3c983e3",
-        "image_url": "https://images.bild.de/69f8590a23e6b3dbf3c983e3/0a419e7fa3113db70157aa9751621304,e2da43aa?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "SCM-Talente wie im Rausch:Handball-Spektakel bringt neuen Zuschauerrekord",
-        "link": "https://sportbild.bild.de/sportmix/handball/handball-final-spektakel-scm-und-kiel-sorgen-fuer-neuen-jugend-rekord-69f856fb123c5d78227c03d2",
-        "image_url": "https://images.bild.de/69f856fb123c5d78227c03d2/1234ef1f49647dc54050b789aeb6f748,ce61384d?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -156,11 +156,11 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "El Clásico gegen Barça:Jetzt droht Real die ganz große Demütigung!",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/real-madrid-jetzt-droht-gegen-barcelona-die-ganz-grosse-demuetigung-69f83af4d3209c4cbd89129a",
-        "image_url": "https://images.bild.de/69f83af4d3209c4cbd89129a/47fd6f64a34b450220fd10ad23d09e96,d2d55392?w=992",
+        "title": "CL-Viertelfinal-Rückspiel:Darauf fallen die Füchse nicht noch einmal herein",
+        "link": "https://sportbild.bild.de/sportmix/handball/cl-viertelfinal-rueckspiel-darauf-fallen-die-fuechse-nicht-noch-einmal-herein-69f8950f6fe2dee7bfb12701",
+        "image_url": "https://images.bild.de/69f8950f6fe2dee7bfb12701/7cb2828a5754f343f3c9bb6395e9ecce,96177a2f?w=992",
         "w": 992,
-        "h": 582,
+        "h": 558,
         "focus_y": 0.3,
         "source_title1": "SPORT",
         "source_title2": "BILD",
@@ -168,9 +168,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Sensation zur WM?:Neuer und Nagelsmann: „Man munkelt, dass …“",
-        "link": "https://sportbild.bild.de/fussball/fc-bayern-muenchen/sensation-zur-wm-2026-neuer-und-nagelsmann-man-munkelt-dass-69f755b8db1aeefad1dbc901",
-        "image_url": "https://images.bild.de/69f755b8db1aeefad1dbc901/1451cf36747f80868f90e39e958e5909,513bec55?w=992",
+        "title": "SCM-Talente wie im Rausch:Handball-Spektakel bringt neuen Zuschauerrekord",
+        "link": "https://sportbild.bild.de/sportmix/handball/handball-final-spektakel-scm-und-kiel-sorgen-fuer-neuen-jugend-rekord-69f856fb123c5d78227c03d2",
+        "image_url": "https://images.bild.de/69f856fb123c5d78227c03d2/1234ef1f49647dc54050b789aeb6f748,ce61384d?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -192,9 +192,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "„Wenn du 4:0 gewinnst …“:Suuuper Kompany-Spruch vor dem PSG-Kracher",
-        "link": "https://sportbild.bild.de/fussball/1-bundesliga/wenn-du-4-0-gewinnst-suuuper-kompany-spruch-vor-dem-psg-kracher-69f8849f23e6b3dbf3c98818",
-        "image_url": "https://images.bild.de/69f8849f23e6b3dbf3c98818/cb4515d7e401977e24d4eb427bbf92ef-landscape,6a38a40?w=992",
+        "title": "Offensiv-Spieler des Jahres:Der Mann, der aus der Kälte kam",
+        "link": "https://sportbild.bild.de/sportmix/basketball/bbl-gladiators-trier-jordan-roland-ist-offensiv-spieler-des-jahres-69f89d3a23e6b3dbf3c98aea",
+        "image_url": "https://images.bild.de/69f89d3a23e6b3dbf3c98aea/455162989942cf239a69a00aee517c0a,a580d7c9?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -204,9 +204,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Die Kabine komplett verloren?:Was man sich in Frankfurt über Riera erzählt",
-        "link": "https://sportbild.bild.de/fussball/1-bundesliga/die-kabine-verloren-was-man-sich-in-frankfurt-ueber-riera-erzaehlt-69f883e66fe2dee7bfb124d4",
-        "image_url": "https://images.bild.de/69f883e66fe2dee7bfb124d4/dc68fd8ccdb92c473f13f4bf5c1f3bf2-landscape,5ec766a6?w=992",
+        "title": "Es geht um seinen Vertrag:Das ist Dortmunds Plan mit Kovac",
+        "link": "https://sportbild.bild.de/fussball/borussia-dortmund/bvb-das-ist-dortmunds-plan-mit-kovac-69f85df2123c5d78227c0490",
+        "image_url": "https://images.bild.de/69f85df2123c5d78227c0490/2c5c4b92b4a6323f5969f90425d33b40,a785a337?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -216,9 +216,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "„Die natürliche Konsequenz“:Spannender HSV-Vergleich beim Schalke-Aufstieg",
-        "link": "https://sportbild.bild.de/fussball/1-bundesliga/natuerliche-konsequenz-hsv-vergleich-beim-schalke-aufstieg-69f883d723e6b3dbf3c9880b",
-        "image_url": "https://images.bild.de/69f883d723e6b3dbf3c9880b/56b78cbceb1efc8a90389bb3c3a7c8a8-landscape,c7dd4342?w=992",
+        "title": "„Wenn es richtig gut läuft ...“:So schätzt Merz die deutschen WM-Chancen ein",
+        "link": "https://sportbild.bild.de/fussball/fussball-wm/friedrich-merz-so-schaetzt-der-bundeskanzler-die-deutschen-wm-chancen-ein-69f867ed6fe2dee7bfb12167",
+        "image_url": "https://images.bild.de/69f867ed6fe2dee7bfb12167/992a6e109f849860fe387b2903f3f3c6,f05e7772?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
