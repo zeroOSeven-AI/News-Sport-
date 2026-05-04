@@ -1,8 +1,32 @@
 [
     {
-        "title": "Režirao senzaciju u susjedstvu, želio ga je i Boban, sad je na pragu debakla: ‘Zabrinjavajuće‘ ‘Riera još uvijek obnaša svoju funkciju, no što će se dogoditi u nadolazećim danima?‘, pitaju se Nijemci",
+        "title": "Dinamo diže letvicu! Odbijeno 12 milijuna, otkrivamo koliko Modri traže za kapitalca, ali i za Hoxhu... Pojavila se priča da je Dinamo zainteresiran za vratara Lokomotive Josipa Posavca, ako se ne uspije dogovoriti potpis ugovora s Livakovićem. Provjerili smo i to u Maksimiru...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-dominguez-12-milijuna-hoxha-topic-kuzmic-prodaje-nakon-kvalifikacija-15705113",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/04/k_38024821_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Režirao senzaciju u susjedstvu, želio ga je i Boban, sad je na pragu debakla: ‘Zabrinjavajuće‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/albert-riera-kritike-eintracht-frankfurt-poraz-hsv-buducnost-15705059",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38849521_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Linč kakav se ne pamti: ‘Sramota! Maknite se s terena, potrošili ste mi godinu karijere‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/richie-wellens-kritizira-igrace-leyton-orienta-najavljuje-cistku-15705100",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/04/k_38852545_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -60,6 +84,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Prije godinu dana to je bila bitka za Europu dva hit-trenera, sada je sudar dvije najlošije momčadi godine",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/istra1961/istra-1961-slaven-belupo-kriza-2026-rezicev-debi-drosina-15705081",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38461861_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "‘Hrvat koji je odrastao na farmi‘ slavi titulu prvaka: ‘Bila je to posebna večer!‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/inter-scudetto-parma-sucic-kljucni-trenuci-milano-duomo-15704996",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/04/k_38852268_640.jpg",
@@ -84,7 +120,43 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Hvala, Mario! Hezonja srušio cijenu DAZN-a i svima omogućio jeftinije gledanje košarke",
+        "title": "Doznajemo: Real poslušao Modrića, kreće lov na najskupljeg...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/city-nudi-mega-produzenje-gvardiolu-real-i-dalje-zainteresiran-15704848",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_36357827_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Preokret Hajduka na Poljudu! Pukštas ‘poletio‘, VAR poništio gol Livaji, palo i isključenje",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/video-preokret-hajduka-na-poljudu-pukstas-poletio-var-ponistio-gol-livaji-palo-i-iskljucenje-15704839",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38849712_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Dinamo će podići titulu, a onda dovesti tri izvrsna talenta! Evo tko su novi ‘projekti kluba‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-vraca-b-momcad-leko-vodi-razvoj-u21-u-prvoj-nl-15704698",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/02/k_38518627_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Hvala, Mario! Hezonja srušio cijenu DAZN-a i svima omogućio jeftinije gledanje košarke Zvijezda Reala pogodila s distance i natjerala platformu na drastično pojeftinjenje košarkaškog paketa",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/basket-international/dazn-snizava-cijenu-kosarkaskog-paketa-na-2-99-eura-zbog-hezonje-15705001",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/04/k_38795500_640.jpg",
         "w": 640,
@@ -120,55 +192,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Doznajemo: Real poslušao Modrića, kreće lov na najskupljeg...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/city-nudi-mega-produzenje-gvardiolu-real-i-dalje-zainteresiran-15704848",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_36357827_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Preokret Hajduka na Poljudu! Pukštas ‘poletio‘, VAR poništio gol Livaji, palo i isključenje",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/video-preokret-hajduka-na-poljudu-pukstas-poletio-var-ponistio-gol-livaji-palo-i-iskljucenje-15704839",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38849712_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Dinamo će podići titulu, a onda dovesti tri izvrsna talenta! Evo tko su novi ‘projekti kluba‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-vraca-b-momcad-leko-vodi-razvoj-u21-u-prvoj-nl-15704698",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/02/k_38518627_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Vinicius srušio Katalonce pa sve šokirao proslavom! Pogledajte gnjusan potez Brazilca",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/real-madrid-pobijedio-espanyol-vinicius-dvostruki-strijelac-odgoda-slavlja-barcelone-15704919",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38850612_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hajdukov debitant neodoljivo podsjeća na jednog suigrača, a spreman je i za Dinamo: ‘Ispunjenje sna!‘ Ovo je ispunjenje sna svakog splitskog djeteta. Jako sam sretan, zahvalio bih se svima u klubu za ovaj bitan trenutak za mene - kazao je 18-godišnjak nakon debija",
+        "title": "Hajdukov debitant neodoljivo podsjeća na jednog suigrača, a spreman je i za Dinamo: ‘Ispunjenje sna!‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/roko-gabric-debi-garcia-hrabri-potez-hajduk-varazdin-stoper-15704942",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38044428_640.jpg",
         "w": 640,
@@ -192,30 +216,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Lov na Eduarda se nastavlja: Beljo je triput zabio gol Hajduku, ali još nijednom u Dinamovu dresu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/beljo-bez-gola-u-gorici-trazi-prvi-pogodak-hajduku-i-lovi-rekord-shnl-a-15704974",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38767310_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Detroit slavio u sedmoj utakmici i eliminirao Orlando, Cavsi preokretom izbacili Toronto",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/detroit-cleveland-polufinale-istoka-nakon-sedmih-utakmica-15704951",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/04/k_38851450_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Ivan Leko s Club Bruggeom preuzeo vrh ljestvice: ‘A činilo se da je sve gotovo, da je Union SG prvak‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/club-brugge-preuzeo-vrh-leko-srusio-anderlecht-3-1-belgija-15704946",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/04/k_38849087_640.jpg",
@@ -228,9 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Doznajemo: Real poslušao Modrića, kreće lov na najskupljeg Vatrenog! Ovo je prava istina o novoj ponudi",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/city-nudi-mega-produzenje-gvardiolu-real-i-dalje-zainteresiran-15704848",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_36357827_640.jpg",
+        "title": "VIDEO: Vinicius srušio Katalonce pa sve šokirao proslavom! Pogledajte gnjusan potez Brazilca",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/real-madrid-pobijedio-espanyol-vinicius-dvostruki-strijelac-odgoda-slavlja-barcelone-15704919",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38850612_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
