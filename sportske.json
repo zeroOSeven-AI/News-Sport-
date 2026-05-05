@@ -12,6 +12,30 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Dinamo u ludoj završnici osvojio Kup! Lekin junak u zadnjim trenucima zabio dva pogotka",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-slaven-belupo-kutlesa-herojska-blokada-remi-bez-golova-15705521",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_37300920_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "FOTO: Ibrahimović ostao bez kose, ošišala ga legenda ‘drugog‘ nogometa: ‘Oklada je oklada‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/tom-brady-obrijao-zlatana-ibrahimovica-nakon-izgubljene-oklade-15705507",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38860667_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Modrić u javnosti prvi put nakon operacije! ‘Dodatan korak prema bržem povratku Hrvata...‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/luka-modric-u-milanellu-nakon-operacije-moguc-brzi-povratak-15705506",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38733623_640.jpg",
@@ -24,9 +48,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "FOTO: Ibrahimović ostao bez kose, ošišala ga legenda ‘drugog‘ nogometa: ‘Oklada je oklada‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/tom-brady-obrijao-zlatana-ibrahimovica-nakon-izgubljene-oklade-15705507",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38860667_640.jpg",
+        "title": "Mladi napadač prošle sezone zabio 70 pogodaka, a sad je odveo Dinamove klince do trofeja",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/gabriel-hrmic-dva-gola-dinamo-kadeti-osvojili-kup-15-godisnjak-15705519",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38739026_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -72,18 +96,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dinamovi pioniri osvojili Kup, juniori kasnije love novi naslov za Modre",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-pioniri-osvojili-kup-hrmic-dva-gola-protiv-istre-15705475",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38739025_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Nogometni klub iz Šibenika dobiva novo ime! Ovo su neki od prijedloga, odlučit će - navijači",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sibenik-pred-stecajem-osniva-se-novi-klub-iz-zupanijske-lige-15705495",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38236517_640.jpg",
@@ -99,18 +111,6 @@
         "title": "‘Dinamo traži napadača i jedan mu je pred nosom, u našoj ligi! Odmah bih ga doveo‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/rijeka-razbila-lokomotivu-puljic-kandidat-za-dinamo-najava-derbija-15705434",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38843249_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Talijani se boje najlošijeg scenarija. Ako se ovo dogodi, Luka Modrić mogao bi otići iz Milana!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/milan-bez-lige-prvaka-modric-allegri-odlazak-roma-pritisak-15705442",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38816284_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,7 +180,19 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Sportsko-ljubavna drama dobila novi čin: ‘Ljuta je, posramljena i užasnuta. Sve je otišlo u javnost‘ Trener Mike Vrabel je snimljen sa sportskom novinarkom, što je izazvalo reakciju njegove supruge, čije je stanje komentirao neimenovani izvor za britanske medije",
+        "title": "Talijani se boje najlošijeg scenarija. Ako se ovo dogodi, Luka Modrić mogao bi otići iz Milana! I ranije su kružile informacije da je plasman u elitno natjecanje jedan od maestrovih uvjeta za ostanak na San Siru",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/milan-bez-lige-prvaka-modric-allegri-odlazak-roma-pritisak-15705442",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38816284_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Sportsko-ljubavna drama dobila novi čin: ‘Ljuta je, posramljena i užasnuta. Sve je otišlo u javnost‘",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/mike-vrabel-skandal-dianna-russini-napustio-patriotse-prije-drafta-15705429",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38755115_640.jpg",
         "w": 640,
@@ -219,18 +231,6 @@
         "title": "Sprema li Kovačević odvažan potez? Dragulja su već tražili velikani, a on je htio samo - Dinamo",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-marko-zebic-debi-derbi-hajduk-hnl-stoper-15705378",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/04/k_38518031_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Na pomolu veliki povratak na Maksimir: Srebrni Vatreni iz Rusije pregovara s Dinamom?!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/transferi/tin-jedvaj-dinamo-transfer-povratak-panathinaikos-cijena-stoper-desni-bek-15705307",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_6582862_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
