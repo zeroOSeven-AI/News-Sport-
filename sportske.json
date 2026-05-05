@@ -1,8 +1,8 @@
 [
     {
-        "title": "VIDEO: Arsenal je prvi finalist Lige prvaka! Atletico srušen na Emiratesu, Saka junak Londončana Šokirao je engleski napadač goste na Emiratesu na samom smiraju poluvremena, a Atletico se nije uspio vratiti u život u nastavku igre",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/video-arsenal-je-prvi-finalist-lige-prvaka-atletico-srusen-na-emiratesu-saka-junak-londoncana-15705533",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38861555_640.jpg",
+        "title": "VIDEO: Jesu li suci pomogli Arsenalu? Pogledajte kontroverzu! Simeone divljao pa napao starog prijatelja Calafiori je očigledno nagazio Griezmanna u svom kaznenom prostoru, no Siebert je zaključio da je situaciji prethodio drugi prekršaj i dao loptu Arsenalu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/arsenal-finala-lige-prvaka-saka-odlucio-simeone-bijesan-sporna-odluka-15705566",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38861747_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,9 +24,33 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "VIDEO: Arsenal je prvi finalist Lige prvaka! Atletico srušen na Emiratesu, Saka junak Londončana",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/video-arsenal-je-prvi-finalist-lige-prvaka-atletico-srusen-na-emiratesu-saka-junak-londoncana-15705533",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38861555_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Totalna drama u Njemačkoj, Duvnjak i društvo nakon sedmeraca ‘ugasili‘ hrvatsku senzaciju!",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/kiel-preokretom-izbacio-nexe-i-ide-na-final-four-u-hamburgu-15705556",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38812424_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Junaci Arsenala: ‘Samo sam pokušao ostati na nogama‘; ‘U svlačionici je trenutno kaos‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/arsenal-u-finalu-lige-prvaka-saka-presudio-atleticu-1-0-budimpesta-15705567",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38861554_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -51,18 +75,6 @@
         "title": "Neymar u novom skandalu! Ošamario i vrijeđao sina legende, stigla mu poruka iz zatvora",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/robinho-iz-zatvora-trazi-kaznu-za-neymara-objavu-snimke-incidenta-u-santosu-15705563",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38821570_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Jesu li suci pomogli Arsenalu? Pogledajte kontroverzu! Simeone divljao pa napao starog...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/arsenal-finala-lige-prvaka-saka-odlucio-simeone-bijesan-sporna-odluka-15705566",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38861747_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -99,18 +111,6 @@
         "title": "Vušković pred ugovorom karijere! Otvara se blagajna, dragulj Vatrenih dobiva potpuno novi tretman?",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/tottenham-ugovor-luka-vuskovic-posudba-hamburg-prva-momcad-15705534",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_37200033_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Zatvorio‘ je suigrače u svlačionicu, inicirao roštiljanje, založio se za kažnjenog suigrača i nije htio vrpcu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/prevljak-iz-pepela-istrin-golgeter-i-lider-15705554",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38375056_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,7 +180,19 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Ovo je najlošija generacija Osijeka u povijesti naše lige! Mađari moraju prodati klub... Gospođica koja je došla za predsjednicu... nemojte me zafrkavati, pa gdje toga ima, kakvog to ima smisla?!",
+        "title": "‘Zatvorio‘ je suigrače u svlačionicu, inicirao roštiljanje, založio se za kažnjenog suigrača i nije htio vrpcu Bio je iritiran što neki igrači ne daju maksimum, kao i odlukom Riere da se makne Radoševića iz momčadi, zbog toga što je kazao da se ne igra dobro",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/prevljak-iz-pepela-istrin-golgeter-i-lider-15705554",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38375056_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Ovo je najlošija generacija Osijeka u povijesti naše lige! Mađari moraju prodati klub...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/osijek-poraz-od-vukovara-kriza-ispadanje-upravni-kaos-15705512",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38843661_640.jpg",
         "w": 640,
@@ -219,18 +231,6 @@
         "title": "FOTO: Ibrahimović ostao bez kose, ošišala ga legenda ‘drugog‘ nogometa: ‘Oklada je oklada‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/tom-brady-obrijao-zlatana-ibrahimovica-nakon-izgubljene-oklade-15705507",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38860667_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Mladi napadač prošle sezone zabio 70 pogodaka, a sad je odveo Dinamove klince do trofeja",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/gabriel-hrmic-dva-gola-dinamo-kadeti-osvojili-kup-15-godisnjak-15705519",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38739026_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
