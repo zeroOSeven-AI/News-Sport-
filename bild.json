@@ -1,5 +1,29 @@
 [
     {
+        "title": "„Bitte nicht nachmachen“:Überraschende Kramer-Aussage vor Bayern – PSG",
+        "link": "https://sportbild.bild.de/fussball/champions-league/bayern-psg-ueberraschende-kramer-aussage-vor-cl-kracher-bitte-nicht-nachmachen-69fb011fc6d2944c8df6986d",
+        "image_url": "https://images.bild.de/69fb011fc6d2944c8df6986d/fc38b5362f3a6e8bd64528ebbcd9b538,df977b07?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "„Du weißt, wen wir wollen“:Arsenal-Star deutet Wunschgegner fürs Finale an",
+        "link": "https://sportbild.bild.de/fussball/champions-league/champions-league-arsenal-im-finale-saka-deutet-wunschgegner-an-69fb049bcbc6aa7d81ba153a",
+        "image_url": "https://images.bild.de/69fb049bcbc6aa7d81ba153a/4c97d473e545f240086d2729cd5f6d35,67a879da?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
         "title": "Bayern-Kracher gegen PSG:Hält der Stream heute das gesamte Spiel?",
         "link": "https://sportbild.bild.de/fussball/champions-league/bayern-kracher-gegen-psg-haelt-der-stream-heute-das-gesamte-spiel-69faf5cccbc6aa7d81ba12f2",
         "image_url": "https://images.bild.de/69faf5cccbc6aa7d81ba12f2/5a50a2d7a2acf290deefa3ee953fa678,3d773272?w=992",
@@ -24,33 +48,69 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "„Dort saß er schlafend ...“:Außergewöhnliche Olise-Anekdote ausgeplaudert",
-        "link": "https://sportbild.bild.de/fussball/fc-bayern-muenchen/fc-bayern-aussergewoehnliche-olise-anekdote-ausgeplaudert-dort-sass-er-schlafend-69f9f99ecd4a28c47001c758",
-        "image_url": "https://images.bild.de/69f9f99ecd4a28c47001c758/8729928f7a91074d51431690d4230353,ed1aa249?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Bayern-Kracher heute im Live-Ticker:Kader-Überraschung bei PSG!",
-        "link": "https://sportbild.bild.de/fussball/champions-league/champions-league-heute-fc-bayern-psg-im-live-ticker-wieso-keine-auswaertstor-regel-69f9bb6c6fe2dee7bfb13506",
-        "image_url": "https://images.bild.de/69f9bb6c6fe2dee7bfb13506/7fca71eff59df7edd0441bcb42d0f317,68745670?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
         "title": "„Foul ausgedacht“:Spanier gehen auf deutschen Schiri los",
         "link": "https://sportbild.bild.de/fussball/champions-league/champions-league-spanier-gehen-nach-arsenal-sieg-auf-deutschen-schiri-los-69fab671cd4a28c47001d3c1",
         "image_url": "https://images.bild.de/69fab671cd4a28c47001d3c1/7341038bcf98bcd1dd5096c4b5359a14,d0e90b6d?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Er hat eine spezielle Aufgabe:BVB holt neuen Manager",
+        "link": "https://sportbild.bild.de/fussball/borussia-dortmund/er-hat-eine-spezielle-aufgabe-beim-bvb-borussia-dortmund-holt-neuen-manager-69fb09fe78a5e02b5e7a5b20",
+        "image_url": "https://images.bild.de/69fb09fe78a5e02b5e7a5b20/1cfdb3aa8ecc863a0a39953c468c5a09,972b75eb?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Knall in Bundesliga:Handball-Klub schmeißt Geschäftsführer raus",
+        "link": "https://sportbild.bild.de/sportmix/handball/knall-in-bundesliga-handball-klub-schmeisst-geschaeftsfuehrer-raus-69fadb07cbc6aa7d81ba1016",
+        "image_url": "https://images.bild.de/69fadb07cbc6aa7d81ba1016/9170d2f460062d77d5985fb95ec973bc,c0809051?w=992",
+        "w": 992,
+        "h": 661,
+        "focus_y": 0.35,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Cockpit für Rennfahrerin?:Opel-Boss: „Kein Grund, dass das nicht auch eine Frau kann“",
+        "link": "https://sportbild.bild.de/motorsport/opel-formel-e-cockpit-fuer-rennfahrerin-das-sagt-der-opel-boss-69f858c2123c5d78227c03fc",
+        "image_url": "https://images.bild.de/69f858c2123c5d78227c03fc/0181c860ac2e1a72b7d0ed472a049d49,6c7263a6?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Nach Horror-Verletzung:Macht dieser Ski-Star nun doch weiter?",
+        "link": "https://sportbild.bild.de/sportmix/wintersport/wintersport-macht-dieser-ski-star-nach-horror-verletzung-nun-doch-weiter-69faf1acc764528c1ad21c93",
+        "image_url": "https://images.bild.de/69faf1acc764528c1ad21c93/2c5df2b1e54c5585bdacd42a0d508ebf,c962d558?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Wirbel um Urlaub mit Freundin:Beziehung zu Real zerstört? Jetzt äußert sich Mbappé!",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/beziehung-zu-real-zerstoert-mbappe-aeussert-sich-nach-wirbel-um-urlaub-mit-freundin-69facba2c764528c1ad2188c",
+        "image_url": "https://images.bild.de/69facba2c764528c1ad2188c/7f92224012d42c458785ee4979dce80f,ce816118?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -72,9 +132,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Wirbel um Urlaub mit Freundin:Beziehung zu Real zerstört? Jetzt äußert sich Mbappé!",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/beziehung-zu-real-zerstoert-mbappe-aeussert-sich-nach-wirbel-um-urlaub-mit-freundin-69facba2c764528c1ad2188c",
-        "image_url": "https://images.bild.de/69facba2c764528c1ad2188c/7f92224012d42c458785ee4979dce80f,ce816118?w=992",
+        "title": "Medienbericht:Spanien-Gigant hat Woltemade auf dem Zettel",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/medienbericht-spanien-gigant-hat-woltemade-auf-dem-zettel-69fafb59cd4a28c47001d9c4",
+        "image_url": "https://images.bild.de/69fafb59cd4a28c47001d9c4/3013b386f5c62b2b0d380221e4af36e1,971e7898?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -96,66 +156,6 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Er verzichtet dafür sogar auf Geld:Liverpool-Star will so schnell wie möglich weg!",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/premier-league-liverpool-star-will-so-schnell-wie-moeglich-weg-er-verzichtet-auf-geld-69f9fd4be58bc39ac6b12293",
-        "image_url": "https://images.bild.de/69f9fd4be58bc39ac6b12293/04977f250b1dca553ad99f5614e060b4,77db5a06?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "„Er ist nicht Maradona, kein Kane“:Deutliche Hoeneß-Ansage an Bayern-Star!",
-        "link": "https://sportbild.bild.de/fussball/fc-bayern-muenchen/fc-bayern-deutliche-hoeness-ansage-an-diesen-star-er-ist-nicht-maradona-kein-kane-69fa0737e58bc39ac6b123f8",
-        "image_url": "https://images.bild.de/69fa0737e58bc39ac6b123f8/a51598f56d616b12b5e06884e54e5462,98bc542a?w=992",
-        "w": 992,
-        "h": 661,
-        "focus_y": 0.35,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Ronaldo-Verlobte bei der Met Gala:Versteckte Georgina-Botschaft bricht einem das Herz",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/cristiano-ronaldo-versteckte-georgina-botschaft-bricht-einem-das-herz-69f9edffe58bc39ac6b1210f",
-        "image_url": "https://images.bild.de/69f9edffe58bc39ac6b1210f/66c972674fe442db6485bda401c24e96,2e0bb352?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "82 Tore:Handball-Klub knackt Europarekord",
-        "link": "https://sportbild.bild.de/sportmix/handball/82-tore-handball-klub-knackt-europarekord-69fafe1fc6d2944c8df6980d",
-        "image_url": "https://images.bild.de/69fafe1fc6d2944c8df6980d/7fa0cadfde3ae9c5df87b669d83bf0e4,bf743e46?w=992",
-        "w": 992,
-        "h": 658,
-        "focus_y": 0.35,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Kult-Trainer spürt Sohn im Nacken:„Mit unserem Duell hätte Mama ein Problem“",
-        "link": "https://sportbild.bild.de/sportmix/handball/handball-sohn-jagt-vater-kult-trainer-droht-ploetzlich-ein-familien-problem-69faf7e7cbc6aa7d81ba133d",
-        "image_url": "https://images.bild.de/69faf7e7cbc6aa7d81ba133d/6b4358c0fbb2ac0d092173520d8316b3,a3615826?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
         "title": "Jubiläums-Gewinnspiel:Wir schicken Sie mit McDonald’s zum WM-Finale 2026!",
         "link": "https://www.bild.de/sport/mit-mcdonalds-wird-es-moeglich-wm-final-reise-nach-new-york-gewinnen-69e9fd2daf304ad3eb229ad0",
         "image_url": "https://images.bild.de/69e9fd2daf304ad3eb229ad0/1723e247c09ccd94e4d1d9c5766d2536,b61de50e?w=992",
@@ -168,21 +168,21 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Handball-Transfer:Spielt ER ab Sommer in Wetzlar?",
-        "link": "https://sportbild.bild.de/sportmix/handball/handball-transfer-spielt-er-ab-sommer-bei-der-hsg-wetzlar-69eefd0a1bc92a13d62a5a3c",
-        "image_url": "https://images.bild.de/69eefd0a1bc92a13d62a5a3c/c0de670053b76687441d39ff0a4ae960,402db0dd?w=992",
-        "w": 824,
-        "h": 978,
-        "focus_y": 0.5,
+        "title": "Champions League & Meisterschaft:SC Magdeburg vor Vier-Tage-Herausforderung",
+        "link": "https://sportbild.bild.de/sportmix/handball/handball-champions-league-meisterschaft-irre-challenge-fuer-den-scm-69fb0d5ec6d2944c8df69aca",
+        "image_url": "https://images.bild.de/69fb0d5ec6d2944c8df69aca/6a2b7a1d2b48b5bc066cca08b467e65e,d5dceb61?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
         "source_title1": "SPORT",
         "source_title2": "BILD",
         "source_color": "#fc4e4e",
         "flag": "🇩🇪"
     },
     {
-        "title": "„Würde es niemandem empfehlen“:Darts-Star hat kuriosen Nebenjob",
-        "link": "https://sportbild.bild.de/sportmix/darts-star-ueberrascht-mit-kuriosem-nebenjob-wuerde-es-niemandem-empfehlen-69f9a17b472693c1c1ff2354",
-        "image_url": "https://images.bild.de/69f9a17b472693c1c1ff2354/b870d5020948a9bae9ec763937dc8460,43d9ad?w=992",
+        "title": "Ronaldo-Verlobte bei der Met Gala:Versteckte Georgina-Botschaft bricht einem das Herz",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/cristiano-ronaldo-versteckte-georgina-botschaft-bricht-einem-das-herz-69f9edffe58bc39ac6b1210f",
+        "image_url": "https://images.bild.de/69f9edffe58bc39ac6b1210f/66c972674fe442db6485bda401c24e96,2e0bb352?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -204,6 +204,18 @@
         "flag": "🇩🇪"
     },
     {
+        "title": "Kontakt bestätigt:Besondere Rückhol-Aktion um Slot?",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/liverpool-besondere-rueckhol-aktion-um-slot-kontakt-bestaetigt-69f9b1f223e6b3dbf3c997c0",
+        "image_url": "https://images.bild.de/69f9b1f223e6b3dbf3c997c0/23fa5c26f90efdbc12ef27f6df809e77,9747a19a?w=992",
+        "w": 992,
+        "h": 575,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
         "title": "DEL:Die Geheimnisse der Meister-Eisbären",
         "link": "https://sportbild.bild.de/sportmix/eishockey/die-geheimnisse-der-meister-eisbaeren-69f9bf6196fe1372395e9f68",
         "image_url": "https://images.bild.de/69f9bf6196fe1372395e9f68/4dbe22b2ceb4893311bb00926c8d55e1,9daf3aa8?w=992",
@@ -216,21 +228,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "„Dummkopf!“:Vinicius Jr. liefert sich heftigen Streit mit Gegner",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/dummkopf-vinicius-jr-liefert-sich-heftigen-streit-mit-gegner-69f9c0cf472693c1c1ff2693",
-        "image_url": "https://images.bild.de/69f9c0cf472693c1c1ff2693/a1d4db2de65dcfd8cbd3c08c06af4651,4b20760c?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "„Den würde ich nehmen“:Hoeneß: Dieser PSG-Star passt zu den Bayern",
-        "link": "https://sportbild.bild.de/fussball/fc-bayern-muenchen/den-wuerde-ich-nehmen-hoeness-dieser-psg-star-passt-zu-den-bayern-69fa0f3fcd4a28c47001c98a",
-        "image_url": "https://images.bild.de/69fa0f3fcd4a28c47001c98a/ef7735768e2d2e9a76baadd2bface8c0,f587f810?w=992",
+        "title": "Horror-Rekord:Schröder und Cavs verlieren Serien-Auftakt",
+        "link": "https://sportbild.bild.de/sportmix/us-sport/nbaplayoffs-cavs-verlieren-mit-schroeder-gegen-pistons-bitterer-negativrekord-69faee92cbc6aa7d81ba11dd",
+        "image_url": "https://images.bild.de/69faee92cbc6aa7d81ba11dd/63e0f9691e9e03dab1c329eac36627dc,959a4b2a?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
