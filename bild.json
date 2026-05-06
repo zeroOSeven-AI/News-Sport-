@@ -1,8 +1,32 @@
 [
     {
-        "title": "Ansage vor CL-Knaller:Bayern-Boss: DAS soll PSG zu spüren bekommen",
-        "link": "https://sportbild.bild.de/fussball/fc-bayern-muenchen/champions-league-bayern-ansage-gegen-psg-das-soll-paris-zu-spueren-bekommen-69f9aca623e6b3dbf3c99722",
-        "image_url": "https://images.bild.de/69f9aca623e6b3dbf3c99722/2368293fcfee582d774871b8e4198ec9,494e8bfd?w=992",
+        "title": "0:1 gegen PSG! Champions League im Live-Ticker:Frust und Wut bei Bayern!",
+        "link": "https://sportbild.bild.de/fussball/champions-league/champions-league-fc-bayern-psg-im-live-ticker-wer-kommt-ins-finale-69fb2dbdc6d2944c8df69ea1",
+        "image_url": "https://images.bild.de/69fb2dbdc6d2944c8df69ea1/8b3a70b369bbaf9a7b1409f40785e4d4,e75bcf1?w=992",
+        "w": 992,
+        "h": 585,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Antwort auf Wontorra-Frage:Eberl: „Ist mir ehrlich gesagt scheißegal“",
+        "link": "https://sportbild.bild.de/fussball/champions-league/champions-league-eberl-antwort-auf-wontorra-frage-ist-mir-ehrlich-gesagt-scheissegal-69fb90dd382cb3091a2c3884",
+        "image_url": "https://images.bild.de/69fb90dd382cb3091a2c3884/0e3b1121684d1dcc9b0bb96210a8e953,3358d8dc?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Vor dem Bayern-Knaller:Wontorra mit besonderem Mauerfall-Vergleich",
+        "link": "https://sportbild.bild.de/fussball/champions-league/champions-league-laura-wontorra-mit-ueberraschendem-mauerfall-vergleich-69fb85f9c6d2944c8df6aa2f",
+        "image_url": "https://images.bild.de/69fb85f9c6d2944c8df6aa2f/b956744aefaee5fa90075288126597d9,f10c9290?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -36,30 +60,6 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "„Du weißt, wen wir wollen“:Arsenal-Star deutet Wunschgegner fürs Finale an",
-        "link": "https://sportbild.bild.de/fussball/champions-league/champions-league-arsenal-im-finale-saka-deutet-wunschgegner-an-69fb049bcbc6aa7d81ba153a",
-        "image_url": "https://images.bild.de/69fb049bcbc6aa7d81ba153a/4c97d473e545f240086d2729cd5f6d35,67a879da?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Babbel über mögliche Bayern-Schwäche:„Es ist seit einigen Wochen auffallend, dass ...“",
-        "link": "https://sportbild.bild.de/fussball/champions-league/babbel-vor-bayern-rueckspiel-gegen-psg-seit-einigen-wochen-auffallend-dass-69facb1e0bb721dc6cf00672",
-        "image_url": "https://images.bild.de/69facb1e0bb721dc6cf00672/bfdd47f63db5c709411ea6c4248c61cc,edece4c2?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
         "title": "Halbfinal-Kracher in der Champions League:Wo läuft FC Bayern gegen PSG heute im TV?",
         "link": "https://sportbild.bild.de/fussball/champions-league/fussball-so-sehen-sie-fc-bayern-psg-im-tv-champions-league-halbfinale-heute-live-69fa5a95cd4a28c47001cf30",
         "image_url": "https://images.bild.de/69fa5a95cd4a28c47001cf30/4c6b462628043e96f30b72ee16768f08,f45e27f8?w=992",
@@ -72,9 +72,21 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Champions League im Live-Ticker:Anreise-Chaos vor dem Bayern-Knaller gegen PSG!",
-        "link": "https://sportbild.bild.de/fussball/champions-league/champions-league-fc-bayern-psg-im-live-ticker-wer-kommt-ins-finale-69fb2dbdc6d2944c8df69ea1",
-        "image_url": "https://images.bild.de/69fb2dbdc6d2944c8df69ea1/f57559a6b419420b7981f84885dbad37,5856a454?w=992",
+        "title": "„Du weißt, wen wir wollen“:Arsenal-Star deutet Wunschgegner fürs Finale an",
+        "link": "https://sportbild.bild.de/fussball/champions-league/champions-league-arsenal-im-finale-saka-deutet-wunschgegner-an-69fb049bcbc6aa7d81ba153a",
+        "image_url": "https://images.bild.de/69fb049bcbc6aa7d81ba153a/4c97d473e545f240086d2729cd5f6d35,67a879da?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Für mögliches Comeback:Knallharte Mourinho-Forderungen an Real",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/real-madrid-diese-knallharten-forderungen-stellt-jose-mourinho-fuer-ein-comeback-69fb4f4c68e679ae0ccd4d27",
+        "image_url": "https://images.bild.de/69fb4f4c68e679ae0ccd4d27/24322f303e54b16712d0a119380c14d0,10643d53?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -96,9 +108,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Er hat eine spezielle Aufgabe:BVB holt neuen Manager",
-        "link": "https://sportbild.bild.de/fussball/borussia-dortmund/er-hat-eine-spezielle-aufgabe-beim-bvb-borussia-dortmund-holt-neuen-manager-69fb09fe78a5e02b5e7a5b20",
-        "image_url": "https://images.bild.de/69fb09fe78a5e02b5e7a5b20/1cfdb3aa8ecc863a0a39953c468c5a09,972b75eb?w=992",
+        "title": "Krimi-Sieg im Siebenmeterwerfen:Füchse stehen im Final4 der Champions League",
+        "link": "https://sportbild.bild.de/sportmix/handball/krimi-sieg-im-siebenmeterwerfen-fuechse-stehen-im-final4-der-champions-league-69fb714268e679ae0ccd5157",
+        "image_url": "https://images.bild.de/69fb714268e679ae0ccd5157/0797f884d28cb6120e3d0f74137bcf18,48501d27?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -108,21 +120,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "„Das ist einfach scheiße“:Moritz Wagner: Playoffs gegen den besten Kumpel",
-        "link": "https://sportbild.bild.de/sportmix/us-sport/moritz-wagner-ueber-die-playoffs-gegen-seinen-besten-freund-das-ist-einfach-scheisse-69fb26e278a5e02b5e7a5ea2",
-        "image_url": "https://images.bild.de/69fb26e278a5e02b5e7a5ea2/f0d83547e2d35a212c5b5d5a53728908,5eb09356?w=992",
-        "w": 992,
-        "h": 599,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Meine Meinung:Krüger und der HSV: Das passt!",
-        "link": "https://sportbild.bild.de/fussball/hamburger-sv/meine-meinung-kathleen-krueger-und-der-hamburger-sv-das-passt-69fb4422c6d2944c8df6a27b",
-        "image_url": "https://images.bild.de/69fb4422c6d2944c8df6a27b/7974151d0bb4342f0ee1ffcac6e9ee53,c135e702?w=992",
+        "title": "Wofür er zuständig ist:BVB holt neuen Manager",
+        "link": "https://sportbild.bild.de/fussball/borussia-dortmund/er-hat-eine-spezielle-aufgabe-beim-bvb-borussia-dortmund-holt-neuen-manager-69fb09fe78a5e02b5e7a5b20",
+        "image_url": "https://images.bild.de/69fb09fe78a5e02b5e7a5b20/1cfdb3aa8ecc863a0a39953c468c5a09,972b75eb?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -144,9 +144,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Er hatte den Real-Star beleidigt:Vinicius-Pöbler für WM-Spiele gesperrt!",
-        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-2026-vinicius-poebler-fuer-wm-spiele-gesperrt-er-hatte-den-real-star-beleidigt-69fb355678a5e02b5e7a609f",
-        "image_url": "https://images.bild.de/69fb355678a5e02b5e7a609f/0d6a980eea73184fa456f7042f8ff268,22b23d18?w=992",
+        "title": "16. Titel für BR Volleys:Meisterschaft und Schlammschlacht",
+        "link": "https://sportbild.bild.de/sportmix/volleyball/16-titel-fuer-br-volleys-meisterschaft-und-schlammschlacht-69fb7844c6d2944c8df6a939",
+        "image_url": "https://images.bild.de/69fb7844c6d2944c8df6a939/88a97bf070e68a174f993ad0e92c2b6a,c4e26424?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -156,9 +156,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Abstiegskampf spannend wie nie:Nervenkrieg um den Klassenerhalt",
-        "link": "https://sportbild.bild.de/sportmix/handball/handball-spannend-wie-nie-nervenkrieg-um-den-klassenerhalt-69fb27b5cd4a28c47001df29",
-        "image_url": "https://images.bild.de/69fb27b5cd4a28c47001df29/6d1c629039d495edb377ec9fce1bbc6d,7082bf77?w=992",
+        "title": "Leipzig gegen seinen Ex-Star:1-Euro-Spektakel um diesen Handball-Titel",
+        "link": "https://sportbild.bild.de/sportmix/handball/handball-1-euro-showdown-um-diesen-titel-69fb2e7fcd4a28c47001dfdf",
+        "image_url": "https://images.bild.de/69fb2e7fcd4a28c47001dfdf/5976ae5b02309bb30419ec33ce7c3899,d0cf700d?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -168,9 +168,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Wirbel um Urlaub mit Freundin:Beziehung zu Real zerstört? Jetzt äußert sich Mbappé!",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/beziehung-zu-real-zerstoert-mbappe-aeussert-sich-nach-wirbel-um-urlaub-mit-freundin-69facba2c764528c1ad2188c",
-        "image_url": "https://images.bild.de/69facba2c764528c1ad2188c/7f92224012d42c458785ee4979dce80f,ce816118?w=992",
+        "title": "Meine Meinung:Krüger und der HSV: Das passt!",
+        "link": "https://sportbild.bild.de/fussball/hamburger-sv/meine-meinung-kathleen-krueger-und-der-hamburger-sv-das-passt-69fb4422c6d2944c8df6a27b",
+        "image_url": "https://images.bild.de/69fb4422c6d2944c8df6a27b/7974151d0bb4342f0ee1ffcac6e9ee53,c135e702?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -192,21 +192,21 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Knall in Bundesliga:Handball-Klub schmeißt Geschäftsführer raus",
-        "link": "https://sportbild.bild.de/sportmix/handball/knall-in-bundesliga-handball-klub-schmeisst-geschaeftsfuehrer-raus-69fadb07cbc6aa7d81ba1016",
-        "image_url": "https://images.bild.de/69fadb07cbc6aa7d81ba1016/9170d2f460062d77d5985fb95ec973bc,c0809051?w=992",
+        "title": "„Das ist einfach scheiße“:Moritz Wagner: Playoffs gegen den besten Kumpel",
+        "link": "https://sportbild.bild.de/sportmix/us-sport/moritz-wagner-ueber-die-playoffs-gegen-seinen-besten-freund-das-ist-einfach-scheisse-69fb26e278a5e02b5e7a5ea2",
+        "image_url": "https://images.bild.de/69fb26e278a5e02b5e7a5ea2/f0d83547e2d35a212c5b5d5a53728908,5eb09356?w=992",
         "w": 992,
-        "h": 661,
-        "focus_y": 0.35,
+        "h": 599,
+        "focus_y": 0.3,
         "source_title1": "SPORT",
         "source_title2": "BILD",
         "source_color": "#fc4e4e",
         "flag": "🇩🇪"
     },
     {
-        "title": "„Es ist eine Tragödie“:Para-EM abgesagt",
-        "link": "https://sportbild.bild.de/sportmix/leichtathletik/leichtathletik-para-em-abgesagt-es-ist-eine-tragoedie-69fb1c91c6d2944c8df69d0d",
-        "image_url": "https://images.bild.de/69fb1c91c6d2944c8df69d0d/3ed2a6fc805a72a100c88d95879a7dd2,5b76f7d?w=992",
+        "title": "Er hatte den Real-Star beleidigt:Vinicius-Pöbler für WM-Spiele gesperrt!",
+        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-2026-vinicius-poebler-fuer-wm-spiele-gesperrt-er-hatte-den-real-star-beleidigt-69fb355678a5e02b5e7a609f",
+        "image_url": "https://images.bild.de/69fb355678a5e02b5e7a609f/0d6a980eea73184fa456f7042f8ff268,22b23d18?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -228,11 +228,11 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Vor Halbfinale in München:PSG-Ultras stürmen Marienplatz",
-        "link": "https://sportbild.bild.de/fussball/champions-league/vor-halbfinale-in-muenchen-psg-ultras-stuermen-marienplatz-69fb7035c6d2944c8df6a897",
-        "image_url": "https://images.bild.de/69fb7035c6d2944c8df6a897/3f6d627d559f9dfc51700130f0ae3c05,4f52817a?w=992",
-        "w": 953,
-        "h": 536,
+        "title": "Ansage vor CL-Knaller:Bayern-Boss: DAS soll PSG zu spüren bekommen",
+        "link": "https://sportbild.bild.de/fussball/fc-bayern-muenchen/champions-league-bayern-ansage-gegen-psg-das-soll-paris-zu-spueren-bekommen-69f9aca623e6b3dbf3c99722",
+        "image_url": "https://images.bild.de/69f9aca623e6b3dbf3c99722/2368293fcfee582d774871b8e4198ec9,494e8bfd?w=992",
+        "w": 992,
+        "h": 558,
         "focus_y": 0.3,
         "source_title1": "SPORT",
         "source_title2": "BILD",
