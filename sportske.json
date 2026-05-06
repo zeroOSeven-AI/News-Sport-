@@ -1,6 +1,18 @@
 [
     {
-        "title": "‘I Bobanu sam otvoreno rekao zašto odlazim iz Dinama, nije mu bilo drago, a sad mi je čestitao‘ ‘Na stadionu smo slavili do jutra, sad bih volio da u Maksimir stigne dvostruka kruna, posebice zbog Zvone Bobana‘",
+        "title": "‘Velika greška Hajduka, morao je ostati! Takav igrač traži se godinama, a imao si ga u dvorištu‘ Luka Vučko hvali Roka Gabrića, objašnjava hiperprodukciju braniča i otkriva zašto se Hajduk nije smio odreći svog \"tića\"",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/roko-gabric-debi-hajduk-akademija-proizvodi-branice-nedostaju-veznjaci-15705624",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_28339777_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘I Bobanu sam otvoreno rekao zašto odlazim iz Dinama, nije mu bilo drago, a sad mi je čestitao‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/i-bobanu-sam-otvoreno-rekao-zasto-odlazim-iz-dinama-nije-mu-bilo-drago-a-sad-mi-je-cestitao-15705569",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/04/k_38843442_640.jpg",
         "w": 640,
@@ -12,9 +24,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Sjajan napredak i sreća za cijelu Hrvatsku: Vatreni je jedan od omiljenih tipova u svlačionici prvaka",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/petar-sucic-tihi-lider-intera-trofeji-uspon-mostar-milano-15705576",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38396952_640.jpg",
+        "title": "Srbin brutalno nokautirao slavnog Francuza. Stručnjaci zgroženi: ‘Dugo nisam vidio ovakvo nešto‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/brutalan-udarac-na-valentina-portea-bez-crvenog-montpellier-u-polufinalu-15705601",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/06/k_38862901_640.png",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,21 +36,69 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Jesu li suci pomogli Arsenalu? Pogledajte kontroverzu! Simeone divljao pa napao starog...",
+        "title": "Nakon zatišja, uslijedila je - eksplozija! Hrvat oduševio navijače, stručnjake, trenere i suigrače",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/fabijan-krivak-dva-gola-bohemiansu-eksplozija-forme-u-sigmi-olomouc-15705587",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/04/k_38854152_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Zvijezda Reala prekinula šutnju i progovorila o ‘batinama‘ na treningu: ‘Riješili smo to‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kriza-real-madrid-perez-navijaci-mbappe-vinicius-carreras-rudiger-15705595",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/06/k_38862830_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Od Svjetskog prvenstva, do 60 godina zatvora: Bivši košarkaš osuđen zbog jezivih zločina",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-mix/dagoberto-pena-osudjen-60-godina-zlostavljanje-djece-sad-florida-15705608",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/06/k_38862836_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Znao sam da će se ovo dogoditi. Uefa je trebala reagirati i povući momčadi s terena‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sneijder-prekinuti-arsenal-atletico-i-finalizirati-bayern-psg-15705590",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/06/k_27559235_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "U 70. godini preminuo miljenik navijača Intera i simbol talijanskog nogometa",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/evaristo-beccalossi-preminuo-70-godina-inter-sampdorija-brescia-15705617",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/06/k_38862826_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Jesu li suci pomogli Arsenalu? Pogledajte kontroverzu! Simeone divljao pa napao starog prijatelja",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/arsenal-finala-lige-prvaka-saka-odlucio-simeone-bijesan-sporna-odluka-15705566",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38861747_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Nevjerojatan slučaj u momčadi Hrvata: Nisu izgubili cijelu sezonu, ali neće podići titulu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/porto-prvak-benfica-neporazena-bez-naslova-liga-prvaka-15705580",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_37285524_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -51,66 +111,6 @@
         "title": "Hrvatski rukometaši teško oštećeni! Neke odluke Radojka i Andreija bile su jednostavno neobjašnjive",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/nexe-sporne-odluke-sudaca-izbacivanje-europska-liga-kiel-15705565",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38861685_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Dončić bespomoćno gledao, LeBron predvodio Lakerse, ali prvaci lako do pobjede i vodstva",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/doncic-bespomocno-gledao-lebron-predvodio-lakerse-ali-prvaci-lako-do-pobjede-i-vodstva-15705577",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/06/k_38862176_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Evo gdje gledati Bayern - PSG! Čak i stručnjaci se slažu - ovo bi moglo biti na rubu kaosa",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bayern-psg-uzvrat-polufinala-lige-prvaka-munchen-putnik-za-budimpestu-15705572",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38820484_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Neymar u novom skandalu! Ošamario i vrijeđao sina legende, stigla mu poruka iz zatvora",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/robinho-iz-zatvora-trazi-kaznu-za-neymara-objavu-snimke-incidenta-u-santosu-15705563",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38821570_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Arsenal je prvi finalist Lige prvaka! Atletico srušen na Emiratesu, Saka junak Londončana",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/video-arsenal-je-prvi-finalist-lige-prvaka-atletico-srusen-na-emiratesu-saka-junak-londoncana-15705533",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38861555_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Totalna drama u Njemačkoj, Duvnjak i društvo nakon sedmeraca ‘ugasili‘ hrvatsku senzaciju!",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/kiel-preokretom-izbacio-nexe-i-ide-na-final-four-u-hamburgu-15705556",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38812424_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -156,9 +156,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Preminula košarkaška ikona: ‘Malo je nadimaka postalo toliko rašireno diljem svijeta‘",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-mix/preminuo-jose-piculin-ortiz-portorikanska-kosarkaska-legenda-fiba-hall-of-fame-15705522",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38861054_640.jpg",
+        "title": "Simeone: ‘Imam li snage za novi pokušaj? Sigurno ne‘ \"Za naše navijače, za igrače, odigrali smo vrlo dobru Ligu prvaka. Stigli smo mnogo dalje od onoga što se inače očekivalo\", kaže Argentinac",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/arsenal-u-finalu-saka-srusio-atletico-simeone-priznaje-iscrpljenost-15705586",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/06/k_38854455_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -168,9 +168,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Doznajemo: Klub iz Premier lige želi Belju, u redu stoje još četiri velikana! Postoji i posebna ‘veza‘ Celtic je ozbiljno ‘zagrizao‘ za McKennu, Jedvaj se neće vratiti na Maksimir, a oko priče s Livakovićem čekaju se izbori u Feneru",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/celtic-mckenna-brighton-belja-crystal-palace-livakovic-dinamo-transferi-15705542",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38226453_640.jpg",
+        "title": "Sjajan napredak i sreća za cijelu Hrvatsku: Vatreni je jedan od omiljenih tipova u svlačionici prvaka",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/petar-sucic-tihi-lider-intera-trofeji-uspon-mostar-milano-15705576",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38396952_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Junaci Arsenala: ‘Samo sam pokušao ostati na nogama‘; ‘U svlačionici je trenutno kaos‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/arsenal-u-finalu-lige-prvaka-saka-presudio-atleticu-1-0-budimpesta-15705567",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38861554_640.jpg",
+        "title": "Nevjerojatan slučaj u momčadi Hrvata: Nisu izgubili cijelu sezonu, ali neće podići titulu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/porto-prvak-benfica-neporazena-bez-naslova-liga-prvaka-15705580",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_37285524_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,9 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Zna se tko zarađuje najviše, evo tko u Dinamu i Hajduku nije opravdao plaću, a tko je teški podbačaj!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/fina-place-nogometasa-2025-pjaca-livaja-na-vrhu-mmaee-cordoba-promasaji-dinama-15705550",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_37430409_640.jpg",
+        "title": "Rooney prozvao igrače Arsenala, stigao mu odgovor, javio se i Wenger: ‘Ne dajte da vas uhvati!‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/arsenal-finale-lige-prvaka-rooney-kritizira-wenger-trazi-fokus-wright-brani-slavlje-15705583",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/06/k_38861801_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -204,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dinamo dominira ligom, ali drži negativni rekord protiv Hajduka!? Ovo se ni jednoj generaciji nije dogodilo",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-rusi-rekorde-niz-bez-poraza-i-derbi-s-hajdukom-u-maksimiru-15705558",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/03/k_38842154_640.jpg",
+        "title": "Dončić bespomoćno gledao, LeBron predvodio Lakerse, ali prvaci lako do pobjede i vodstva",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/doncic-bespomocno-gledao-lebron-predvodio-lakerse-ali-prvaci-lako-do-pobjede-i-vodstva-15705577",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/06/k_38862176_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -216,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Vušković pred ugovorom karijere! Otvara se blagajna, dragulj Vatrenih dobiva potpuno novi tretman?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/tottenham-ugovor-luka-vuskovic-posudba-hamburg-prva-momcad-15705534",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_37200033_640.jpg",
+        "title": "Neymar u novom skandalu! Ošamario i vrijeđao sina legende, stigla mu poruka iz zatvora",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/robinho-iz-zatvora-trazi-kaznu-za-neymara-objavu-snimke-incidenta-u-santosu-15705563",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38821570_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -228,9 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Zatvorio‘ je suigrače u svlačionicu, inicirao roštiljanje, založio se za kažnjenog suigrača i nije htio vrpcu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/prevljak-iz-pepela-istrin-golgeter-i-lider-15705554",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38375056_640.jpg",
+        "title": "Totalna drama u Njemačkoj, Duvnjak i društvo nakon sedmeraca ‘ugasili‘ hrvatsku senzaciju!",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/kiel-preokretom-izbacio-nexe-i-ide-na-final-four-u-hamburgu-15705556",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_38812424_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
