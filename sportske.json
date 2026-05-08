@@ -120,19 +120,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘I Bobanu sam otvoreno rekao zašto odlazim iz Dinama, nije mu bilo...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/i-bobanu-sam-otvoreno-rekao-zasto-odlazim-iz-dinama-nije-mu-bilo-drago-a-sad-mi-je-cestitao-15705569",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/04/k_38843442_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Dinamo ga više ne može platiti, neće otići za manje od 10 milijuna eura! Brazil nas je već kontaktirao‘",
+        "title": "‘Dinamo ga više ne može platiti, neće otići za manje od 10 milijuna eura...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/belinho-hat-trick-kustosija-eksplozija-cijena-10-milijuna-brazil-u-18-15705900",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/06/k_37432864_640.jpg",
         "w": 640,
@@ -144,9 +132,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Čista ruka, ali sudac je u pravu! Evo zašto Bayern nije dobio penal: Ovo pravilo znaju samo rijetki",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bayern-psg-pinheiro-bez-penala-ifab-iznimka-neves-ruka-15705871",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/06/k_38866448_640.jpg",
+        "title": "Klub se oglasio nakon kaosa, Valverde izgubio pamćenje! ‘Više nikad neće zaigrati za Real‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/valverde-u-bolnici-nakon-sukoba-s-tchouamenijem-kriza-u-real-madridu-15706152",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/07/k_38871814_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -156,21 +144,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Velika greška Hajduka, morao je ostati! Takav igrač traži se godinama, a imao si ga u dvorištu‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/roko-gabric-debi-hajduk-akademija-proizvodi-branice-nedostaju-veznjaci-15705624",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/05/k_28339777_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Dinamov novi remont uzbudio je nogometnu tržnicu: Više od 10 igrača odlazi s Maksimira!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-remont-transferi-lov-na-27-milijuna-eura-odlasci-i-dolasci-15705771",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/06/k_37363424_640.jpg",
+        "title": "Nova tučnjava u svlačionici Reala, Francuz strpao suigrača u invalidska kolica! Traje hitan sastanak",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sukob-valverde-tchouameni-real-bolnica-kazne-el-clasico-15706069",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/07/k_38870077_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -231,6 +207,30 @@
         "title": "Sinneru je dosta, neće više trpjeti: ‘Dugo smo šutjeli!‘",
         "link": "https://sportske.jutarnji.hr/sportske/tenis/tenis-mix/sinner-premalo-dobivamo-igraci-traze-vece-nagrade-i-postovanje-15706150",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/07/k_38869965_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Tko je čovjek o kojemu danas priča cijeli svijet? Kad saznate čime se bavi, sve će vam biti jasnije",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/zasto-penal-nije-dosuden-bayernu-ifab-pravilo-objasnilo-odluku-15706114",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/07/k_38866440_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Zna se kako je njegov otac prošao kad je boksao protiv Zadra! Taj je dečko zalutao u...",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/regija/zna-se-kako-je-njegov-otac-prosao-kad-je-boksao-protiv-zadra-taj-je-decko-zalutao-u-ovaj-sport-15706185",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/08/k_38864500_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
