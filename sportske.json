@@ -1,8 +1,92 @@
 [
     {
-        "title": "‘Air Dalić‘ krstari Europom, je li posljednja stanica - Maksimir? Derbi će biti prepun ‘intriga‘ Istina je sljedeća: derbi može potvrditi Belju i Stojkovića, no popis za SP je praktički zaključan prije subotnjeg sudara",
+        "title": "‘Ćiro me prevario i zato sam otišao u Zvezdu, svi smo doma plakali kad sam odlazio u Beograd‘ Iako je bio veliki dinamovac, pristao je otići u Hajduk. Ćiru respektira bez obzira na sve. Maradoni je obranio dva penala",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/tomislav-ivkovic-dinamo-zvezda-sporting-obrane-maradoni-karijera-15701596",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/04/23/k_38875819_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Tuga, bol, na rubu suza... Bivšeg trenera Dinama teško je gledati: ‘Ispričajte me, ne mogu‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nantes-ispada-ligue-1-halilhodzic-emotivna-reakcija-poraz-lens-15706586",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/09/k_38553971_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Dino Prižmić u karijeri je već zaradio bogatstvo: Evo koliko mu je ‘kapnulo‘ nakon trijumfa nad Đokovićem",
+        "link": "https://sportske.jutarnji.hr/sportske/tenis/atp-wta-turniri/prizmic-srusio-djokovica-u-rimu-preokret-povijesna-pobjeda-15706575",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/09/k_38877424_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Air Dalić‘ krstari Europom, je li posljednja stanica - Maksimir? Derbi će biti prepun ‘intriga‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/dalic-obilazi-europu-derbi-potvrduje-popis-za-mundijal-15706562",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/07/k_37890340_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Zapanjujući podatak: Hajduku se ne piše dobro u derbiju, ni sad ni u budućnosti",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/boban-derbi-neporazen-protiv-hajduka-dominantan-kao-predsjednik-dinama-15706578",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/07/k_37995195_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Gdje gledati derbi Dinamo - Hajduk i što kažu kladionice?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-hajduk-derbi-maksimir-kvote-prijenos-maxsport-1-15706555",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/07/k_37994798_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Jakirović zaustavio najboljeg gosta Championshipa, a lavlju jazbinu s Tigrovima je već osvojio",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hull-millwall-odluka-the-den-wembley-doigravanje-championship-15706589",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/08/k_38777608_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Đoković se naklonio Prižmiću, ali žali se i na ozljede: ‘Ja sam pola koraka iza...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/tenis/atp-wta-turniri/prizmic-sokirao-djokovica-u-rimu-preokret-2-6-6-2-6-4-15706583",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/09/k_38877463_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,90 +120,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Valverdeu ovo nije prvi incident, a pojavilo se i novo ime ‘krtice‘. Evo što Real mora napraviti",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/valverde-tchouameni-sukob-real-madrid-suspenzije-el-clasico-15706549",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/08/k_38870887_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Vukovar pred ispadanjem, Rijeka se uvjerljivom pobjedom vratila na treće mjesto",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/vukovar-pred-ispadanjem-rijeka-se-uvjerljivom-pobjedom-vratila-na-trece-mjesto-15706504",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/08/k_38877926_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Gdje gledati derbi Dinamo - Hajduk i što kažu kladionice?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-hajduk-derbi-maksimir-kvote-prijenos-maxsport-1-15706555",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/07/k_37994798_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Srbi u ‘stanju šoka‘, neki sramotno skrivaju da je Đoković izgubio od Hrvata: ‘Novaku pao mrak na oči‘",
-        "link": "https://sportske.jutarnji.hr/sportske/tenis/atp-wta-turniri/dino-prizmic-pobijedio-novaka-djokovica-u-rimu-nakon-preokreta-15706523",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/08/k_38877273_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Jakirović i Hull remizirali u prvoj utakmici doigravanja za Premiership",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hull-millwall-0-0-prvo-polufinale-doigravanja-odluka-u-londonu-15706552",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/08/k_38531391_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Bivši hajdukovac uoči derbija: ‘Kovačeviću, svaka vam čast! Još pamtim scenu s Mandžom‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/bivsi-hajdukovac-uoci-derbija-kovacevicu-svaka-vam-cast-jos-pamtim-scenu-s-mandzom-15706542",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/07/k_31904147_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO Budimir zabio 17. gol sezone, ali doživio bolan poraz. Kovač srušio Rierin Eintracht",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/levante-preokrenuo-osasunu-3-2-ayong-odlucio-budimir-17-gol-herrera-crveni-15706529",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/08/k_38878849_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Tchouameni i Valverde nakon nezapamćene tučnjave dobili...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/real-madrid-kaznio-valverdea-i-tchouamenija-500000-eura-nakon-sukoba-15706476",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/08/k_38870887_640.jpg",
@@ -144,6 +144,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "‘Dijagnosticirali su mi tumor, dva najteža mjeseca mog života... Vjerujem da ću se vratiti u HNL‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/marko-zuljevic-povratak-nakon-tumora-ozljeda-treci-strijelac-1-nl-karlovac-1919-15706257",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/06/k_37891471_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Iznenađujuća izjava probudila sumnje, kapetan sigurno odlazi, a i još niz igrača...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/careviceva-neizvjesnost-prsirov-odlazak-ponude-za-trontelja-poza-i-kavelja-u-gorici-15706207",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/07/k_38795654_640.jpg",
@@ -156,9 +168,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Objavljena skijaška ‘bomba‘! Neočekivano ime u akciji iduće sezone",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/skijanje/lindsey-vonn-nominirana-za-reprezentaciju-sad-a-nakon-pada-u-cortini-15706463",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/08/k_38341241_640.jpg",
+        "title": "Vukovar pred ispadanjem, Rijeka se uvjerljivom pobjedom vratila na treće mjesto",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/vukovar-pred-ispadanjem-rijeka-se-uvjerljivom-pobjedom-vratila-na-trece-mjesto-15706504",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/08/k_38877926_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -168,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Tchouameni i Valverde nakon nezapamćene tučnjave dobili najveće kazne u povijesti Reala! \"Igrači su izrazili potpuno kajanje zbog onoga što se dogodilo i ispričali se jedan drugome\", piše Kraljevski klub",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/real-madrid-kaznio-valverdea-i-tchouamenija-500000-eura-nakon-sukoba-15706476",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/08/k_38870887_640.jpg",
+        "title": "‘On je najbolji trener svijeta, napravio je nogometnu revoluciju! Dogovarali smo se 15 godina‘ Pored svih igrača, Nasser Al-Khelaifi smatra da je najveći dobitak PSG-a trener Luis Enrique, te najavljuje još mnoge Zlatne lopte u svojoj momčadi",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/al-khelaifi-hvali-luisa-enriquea-psg-prema-obrani-naslova-15706568",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/07/k_38866874_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Špijunska afera‘ trese Otok: Snimali protivnika uoči doigravanja, EFL pokrenuo istragu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/efl-istrazuje-southampton-zbog-snimanja-treninga-middlesbrougha-prije-doigravanja-15706533",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/08/k_38695461_640.jpg",
+        "title": "Wemby među velikanima, Brunson ‘svoju‘ Philadelphiju pretvorio u domaći teren za Knickse",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/wemby-medu-velikanima-brunson-svoju-philadelphiju-pretvorio-u-domaci-teren-za-knickse-15706564",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/09/k_38879889_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -204,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Bivši hrvatski skijaš preuzeo reprezentaciju Andore",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/skijanje/natko-zrncic-dim-trener-andore-joan-verdu-svjetski-kup-15706530",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/08/k_9735165_640.jpg",
+        "title": "Bivši hajdukovac uoči derbija: ‘Kovačeviću, svaka vam čast! Još pamtim scenu s Mandžom‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/bivsi-hajdukovac-uoci-derbija-kovacevicu-svaka-vam-cast-jos-pamtim-scenu-s-mandzom-15706542",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/07/k_31904147_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -216,21 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Homoseksualni par na čelu kluba optužen za silovanje, seksualni napad i moderno ropstvo",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uhiceni-vlasnici-maldon-tiptree-optuzbe-silovanje-moderno-ropstvo-essex-15706514",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/08/k_38877316_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Navijači pjesmom Messiju provocirali Ronalda, on im odgovorio gnjusnim potezom",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/ronaldo-reakcija-na-skandiranje-messi-gesta-podigla-buru-al-nassr-al-shabab-15706531",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/08/k_38873983_640.jpg",
+        "title": "Valverdeu ovo nije prvi incident, a pojavilo se i novo ime ‘krtice‘. Evo što Real mora napraviti",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/valverde-tchouameni-sukob-real-madrid-suspenzije-el-clasico-15706549",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/08/k_38870887_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
