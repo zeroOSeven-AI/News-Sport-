@@ -1,5 +1,17 @@
 [
     {
+        "title": "Katy Perry to headline U.S. World Cup opening ceremony",
+        "link": "https://www.espn.com/soccer/story/_/id/48716793/katy-perry-headline-us-world-cup-opening-ceremony",
+        "image_url": "https://a.espncdn.com/photo/2026/0509/r1655611_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
         "title": "FIFA waives Otamendi, Caicedo one-game bans for World Cup openers",
         "link": "https://www.espn.com/soccer/story/_/id/48716037/fifa-waives-otamendi-caicedo-one-game-bans-world-cup-openers",
         "image_url": "https://a.espncdn.com/photo/2026/0509/r1655583_1296x729_16-9.jpg",
@@ -159,18 +171,6 @@
         "title": "Man United captain Bruno Fernandes wins FWA Footballer of the Year award",
         "link": "https://www.espn.com/soccer/story/_/id/48711508/manchester-united-captain-bruno-fernandes-wins-fwa-football-year-award",
         "image_url": "https://a.espncdn.com/photo/2026/0508/r1655295_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "FIFA OKs switch from France to Ivory Coast for Inter Milan's Bonny",
-        "link": "https://www.espn.com/soccer/story/_/id/48713201/fifa-oks-switch-france-ivory-coast-inter-milan-bonny",
-        "image_url": "https://a.espncdn.com/photo/2025/1004/r1555503_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
