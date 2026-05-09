@@ -1,8 +1,8 @@
 [
     {
-        "title": "„Das kann ich sagen …“:Brandt spricht über seine Zukunft",
-        "link": "https://sportbild.bild.de/fussball/1-bundesliga/borussia-dortmund-julian-brandt-spricht-ueber-seine-zukunft-das-kann-ich-sagen-69fe520830e98e4ac324f0e7",
-        "image_url": "https://images.bild.de/69fe520830e98e4ac324f0e7/06a58b399ebb387a4087568a57a979fa,de1ad4c4?w=992",
+        "title": "Nanu, wo war er denn?:Bochum-Profi verpasst seine Verabschiedung",
+        "link": "https://sportbild.bild.de/fussball/2-bundesliga/nanu-wo-war-er-denn-bochum-profi-verpasst-seine-verabschiedung-69ff19abcd4a28c470021cc1",
+        "image_url": "https://images.bild.de/69ff19abcd4a28c470021cc1/9c903cf2f5a8f9af1fc2a44a5688e6b5,81adcbaf?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -12,11 +12,11 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "„Musste es für mich behalten ...“:Was Kovac über Süles Karriereende denkt",
-        "link": "https://sportbild.bild.de/fussball/1-bundesliga/bvb-was-niko-kovac-ueber-sueles-karriereende-denkt-musste-es-fuer-mich-behalten-69fe21297e3ff373d429eb4a",
-        "image_url": "https://images.bild.de/69fe21297e3ff373d429eb4a/f7fbac11227cb24c8e067e102adb0fcc,47446890?w=992",
+        "title": "„Das kann ich sagen …“:Brandt spricht über seine Zukunft",
+        "link": "https://sportbild.bild.de/fussball/1-bundesliga/borussia-dortmund-julian-brandt-spricht-ueber-seine-zukunft-das-kann-ich-sagen-69fe520830e98e4ac324f0e7",
+        "image_url": "https://images.bild.de/69fe520830e98e4ac324f0e7/06a58b399ebb387a4087568a57a979fa,de1ad4c4?w=992",
         "w": 992,
-        "h": 612,
+        "h": 558,
         "focus_y": 0.3,
         "source_title1": "SPORT",
         "source_title2": "BILD",
@@ -60,9 +60,45 @@
         "flag": "🇩🇪"
     },
     {
+        "title": "Nach CL-Aus:Kahn: Dieser Spielertyp fehlt den Bayern",
+        "link": "https://sportbild.bild.de/fussball/fc-bayern-muenchen/fc-bayern-laut-oliver-kahn-dieser-spielertyp-fehlt-den-muenchnern-im-kader-69fd97f67e3ff373d429ddce",
+        "image_url": "https://images.bild.de/69fd97f67e3ff373d429ddce/79691552c1faea184cac803648358bf5,6cf19751?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
         "title": "„In besserer Form“ als Argentinien!:Messi nennt seine WM-Favoriten",
         "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-2026-messi-nennt-seine-wm-favoriten-in-besserer-form-als-argentinien-69fef9f8453b15e119072ee1",
         "image_url": "https://images.bild.de/69fef9f8453b15e119072ee1/f4722dd470a128c11f28ecaa55b63094,db52b5b3?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Sohn von Handball-Legende Kretzschmar:Mini-Kretzsche ist Deutscher Meister",
+        "link": "https://sportbild.bild.de/sportmix/handball/mit-magdeburg-sohn-von-stefan-kretzschmar-ist-handball-meister-69ff0f5b43c522d4537a1068",
+        "image_url": "https://images.bild.de/69ff0f5b43c522d4537a1068/1c1cf3bb3929adc169219d18f6aa9388,78f9544c?w=992",
+        "w": 992,
+        "h": 661,
+        "focus_y": 0.35,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Sperre nach Doping-Vergehen:Olympia-Star startet Model-Karriere",
+        "link": "https://sportbild.bild.de/sportmix/leichtathletik/sperre-nach-doping-vergehen-olympia-star-startet-model-karriere-69fed86730e98e4ac324f380",
+        "image_url": "https://images.bild.de/69fed86730e98e4ac324f380/0c8cf064ad72506761e4e12ca713e216,ea7c3450?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -84,42 +120,6 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "„Obwohl der Trainer es nicht geschafft hat ...“:Hoeneß legt gegen Nagelsmann nach",
-        "link": "https://sportbild.bild.de/fussball/fussball-wm/obwohl-der-trainer-es-nicht-geschafft-hat-hoeness-legt-gegen-nagelsmann-nach-69fef4dd43c522d4537a0ec4",
-        "image_url": "https://images.bild.de/69fef4dd43c522d4537a0ec4/216431cfd1d3f09a40db123f0dfdef6b,1668fa33?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Sperre nach Doping-Vergehen:Olympia-Star startet Model-Karriere",
-        "link": "https://sportbild.bild.de/sportmix/leichtathletik/sperre-nach-doping-vergehen-olympia-star-startet-model-karriere-69fed86730e98e4ac324f380",
-        "image_url": "https://images.bild.de/69fed86730e98e4ac324f380/0c8cf064ad72506761e4e12ca713e216,ea7c3450?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "„Unfassbar!“:Absolutes Unverständnis wegen Tuchel-Entscheidung",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/thomas-tuchel-absolutes-unverstaendnis-wegen-dieser-entscheidung-unfassbar-69fde769cd4a28c470021143",
-        "image_url": "https://images.bild.de/69fde769cd4a28c470021143/72c284a65dcade61cf734d29c10bfde5,b6cdbaee?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
         "title": "Suche Díaz, biete Ronaldo:WM 2026: Diese Bundesliga-Stars gehen bei Panini durch die Decke",
         "link": "https://sportbild.bild.de/partner/brandstory/anzeige-wm-2026-diese-bundesliga-stars-gehen-bei-panini-durch-die-decke-69df50d740aab24936cd1d65",
         "image_url": "https://images.bild.de/69df50d740aab24936cd1d65/0ea8233791bbe11ac4599cdfaff5e02a,d538fe94?w=992",
@@ -132,9 +132,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Schiedsrichterinnen bei der WM:„Ständig mit Sexismus konfrontiert“",
-        "link": "https://sportbild.bild.de/fussball/fussball-wm/schiedsrichterinnen-bei-der-wm-staendig-mit-sexismus-konfrontiert-69fdafcf7e3ff373d429e088",
-        "image_url": "https://images.bild.de/69fdafcf7e3ff373d429e088/8bf9ee498185d5a56b166e225e7b98ab,2ccb851e?w=992",
+        "title": "Nach fast 20 Jahren:WWE verkündet spektakuläre Rückkehr!",
+        "link": "https://sportbild.bild.de/sportmix/us-sport/spektakulaere-ankuendigung-das-gab-es-in-der-wwe-seit-fast-20-jahren-nicht-69fee77a30e98e4ac324f41d",
+        "image_url": "https://images.bild.de/69fee77a30e98e4ac324f41d/4fb16ec2fd1f327cc33f2223a375435b,f7bd0037?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -216,9 +216,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Ex-Bundesliga-Star zum Tod seiner Frau:„Die Liebe war größer, als es Worte ausdrücken können“",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/loewen-zum-tod-seiner-frau-liebe-war-groesser-als-es-worte-ausdruecken-koennen-69ff0673453b15e119072fa8",
-        "image_url": "https://images.bild.de/69ff0673453b15e119072fa8/8f4c5571ea3b480659fb0d805078544f,c3defe0d?w=992",
+        "title": "Schiedsrichterinnen bei der WM:„Ständig mit Sexismus konfrontiert“",
+        "link": "https://sportbild.bild.de/fussball/fussball-wm/schiedsrichterinnen-bei-der-wm-staendig-mit-sexismus-konfrontiert-69fdafcf7e3ff373d429e088",
+        "image_url": "https://images.bild.de/69fdafcf7e3ff373d429e088/8bf9ee498185d5a56b166e225e7b98ab,2ccb851e?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -228,9 +228,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Nach fast 20 Jahren:WWE verkündet spektakuläre Rückkehr!",
-        "link": "https://sportbild.bild.de/sportmix/us-sport/spektakulaere-ankuendigung-das-gab-es-in-der-wwe-seit-fast-20-jahren-nicht-69fee77a30e98e4ac324f41d",
-        "image_url": "https://images.bild.de/69fee77a30e98e4ac324f41d/4fb16ec2fd1f327cc33f2223a375435b,f7bd0037?w=992",
+        "title": "Ex-Bundesliga-Star zum Tod seiner Frau:„Die Liebe war größer, als es Worte ausdrücken können“",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/loewen-zum-tod-seiner-frau-liebe-war-groesser-als-es-worte-ausdruecken-koennen-69ff0673453b15e119072fa8",
+        "image_url": "https://images.bild.de/69ff0673453b15e119072fa8/8f4c5571ea3b480659fb0d805078544f,c3defe0d?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
