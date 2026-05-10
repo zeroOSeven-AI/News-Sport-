@@ -1,8 +1,8 @@
 [
     {
-        "title": "UŽIVO/VIDEO Barcelona - Real: Barca gazi i ima naslov prvaka, Madriđani u potpunom šoku Barca već od 18. minute ima 2:0, golčinu je zabio Rashord, a Olmo ubrzo upisao aistenciju",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-barcelona-real-goool-majstorija-rashforda-iz-slobodnjaka-barca-plovi-prema-tituli-15706991",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_38891394_640.jpg",
+        "title": "UŽIVO/VIDEO Barcelona - Real: Frcaju iskre u derbiju. Barca uvjerljivo drži povijesni naslov prvaka, Real bezidejan Izvjesno je kako će titula La Lige nakon 79 godina biti odlučena direktno u El Clasicu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-video-barcelona-real-barca-gazi-i-ima-naslov-prvaka-madridani-u-potpunom-soku-15706991",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_38891842_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,9 +24,57 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Nijemci bruje o ‘krošeu‘ Vatrenog: ‘Nikom nije promaklo, moglo je doći do sukoba!‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/matanovic-udarac-korner-zastavica-hsv-freiburg-bild-rivalstvo-st-pauli-15707014",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_38890493_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Bivši hajdukovac ‘pocrvenio‘ pa žestoko psovao suca nakon šokantnog poraza",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/porto-porazen-aves-prpic-iskljucen-poraz-prvaka-portugalska-liga-15707020",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_38891844_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "‘Hajduk je žrtva svog nogometa! A Garcijina izjava ne dolikuje veličini hrvatskog derbija‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-rutinski-slomio-hajduk-strucnjaci-razotkrili-pogreske-i-poruku-15707011",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_38883042_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Završetak jedne ere! Dana White otkrio što mu je Čimajev dao na znanje u prvoj interakciji nakon...",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/zavrsetak-jedne-ere-dana-white-otkrio-sto-mu-je-cimajev-dao-na-znanje-u-prvoj-interakciji-nakon-poraza-15707007",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_38891179_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Da bi Hajduk mogao pratiti Dinamove ritmove, mora napraviti jednu stvar. Inače se ništa neće promijeniti",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/da-bi-hajduk-mogao-pratiti-dinamove-ritmove-mora-napraviti-jednu-stvar-inace-se-nista-nece-promijeniti-15707016",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/08/k_38882952_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,69 +96,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Scene za povijest! Pogledajte ovacije za Vuškovića na oproštaju, Luka odgovorio na veliko...",
+        "title": "‘U interventnom vozilu pomagao mi je policajac, a sada želim novi doček na trgu‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/luka-lovre-klarica-operacija-leda-oporavak-prekretnica-euro-2024-dominacija-15706912",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_38864333_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Scene za povijest! Pogledajte ovacije za Vuškovića na oproštaju, Luka odgovorio na veliko pitanje",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/video-scene-za-povijest-pogledajte-ovacije-za-vuskovica-na-oprostaju-luka-odgovorio-na-veliko-pitanje-15706974",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_38890224_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Objašnjen ‘najveći VAR trenutak u povijesti Engleske‘: ‘Jedan od najomiljenijih ljudi u...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/arsenal-west-ham-trossard-var-ponisten-wilson-prekrsaj-raya-pobjeda-15707000",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_38891061_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Predstavnik milijardera koji žele ući u Hajduk objavio fotku s Igorom Štimcem! ‘Uživamo...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/piric-stimac-vinarija-hajduk-pismo-namjere-pregovori-ulaganje-15706984",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_37370283_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Je li Perezu sada jasno kakvu je grešku učinio s Modrićem? O ovome uopće nije razmišljao...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/real-bez-modrica-svlacionica-kaos-klanovi-mourinho-perez-15706996",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/09/k_36857650_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Vušković pobjednik rijetko viđenog okršaja Vatrenih, pogledajte kakvu je golčinu zabio za oproštaj!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/matanovic-volej-izjednacenje-hsv-freiburg-bundesliga-15706941",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_38889824_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Neshvatljivo! Odigrali smo groznu utakmicu koja nam je značila jako puno‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/istra-1961-pobijedila-osijek-0-1-odgodjena-potvrda-ostanka-shnl-15706978",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_38889351_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Zlatko Dalić danas može uživati! Stožerni Vatreni dva puta ‘zatresao‘ mrežu Perišić se ubacio ispred svog čuvara, skočio prema naprijed te glavom majstorski pogodio u kut iz kojega je lopta dolazila",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/perisic-zabio-za-psv-sucic-matanovic-i-vuskovic-blistaju-15706964",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_36951737_640.jpg",
+        "title": "Objašnjen ‘najveći VAR trenutak u povijesti Engleske‘: ‘Jedan od najomiljenijih ljudi u sjevernom Londonu!‘ ‘Sama igra, tehnički gledano, nije bila sjajna, ali postoje utakmice koje jednostavno moraš nekako izgurati do kraja‘, javio se i legendarni Roy Keane",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/arsenal-west-ham-trossard-var-ponisten-wilson-prekrsaj-raya-pobjeda-15707000",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_38891061_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,9 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Vida i društvo postali prvaci Grčke u ludoj završnici, Aarhus prvak Danske nakon 40 godina",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/aek-osigurao-14-naslov-pobjeda-nad-panathinaikosom-gol-93-minute-15707005",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_37732285_640.jpg",
+        "title": "Predstavnik milijardera koji žele ući u Hajduk objavio fotku s Igorom Štimcem! ‘Uživamo...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/piric-stimac-vinarija-hajduk-pismo-namjere-pregovori-ulaganje-15706984",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_37370283_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -204,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘U interventnom vozilu pomagao mi je policajac, a sada želim novi doček na trgu‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/luka-lovre-klarica-operacija-leda-oporavak-prekretnica-euro-2024-dominacija-15706912",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_38864333_640.jpg",
+        "title": "Je li Perezu sada jasno kakvu je grešku učinio s Modrićem? O ovome uopće nije razmišljao...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/real-bez-modrica-svlacionica-kaos-klanovi-mourinho-perez-15706996",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/09/k_36857650_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -216,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Prižmić je položio ispit zrelosti! Čeka ga skok, a ne treba zanemariti ni financijski aspekt...",
-        "link": "https://sportske.jutarnji.hr/sportske/tenis/atp-wta-turniri/prizmic-je-polozio-ispit-zrelosti-ceka-ga-skok-a-ne-treba-zanemariti-ni-financijski-aspekt-15706944",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_38889206_640.jpg",
+        "title": "VIDEO: Vušković pobjednik rijetko viđenog okršaja Vatrenih, pogledajte kakvu je golčinu zabio za oproštaj!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/matanovic-volej-izjednacenje-hsv-freiburg-bundesliga-15706941",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_38889824_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -228,9 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Srednjoškolac odveo hrvatskog prvaka do europskog finala: ‘Povijesni uspjeh! I razred mi je čestitao...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vaterpolo/nardo-skejic-17-odveo-jadran-u-finale-eurokupa-poslije-drame-u-budimpesti-15706950",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_38656323_640.jpg",
+        "title": "‘Neshvatljivo, odigrali smo grozno! A kad trener želi više nego igrači, to nije dobro‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/istra-1961-pobijedila-osijek-0-1-odgodjena-potvrda-ostanka-shnl-15706978",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_38889351_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
