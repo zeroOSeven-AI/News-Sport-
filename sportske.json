@@ -1,6 +1,18 @@
 [
     {
-        "title": "Prižmić je položio ispit zrelosti! Čeka ga skok, a ne treba zanemariti ni financijski aspekt... Dino Prižmić izborio je osminu finala rimskog Masters 1000 turnira pobjedom 6:1, 7:5 protiv Uga Humberta, osvajača sedam turnira i 33. tenisača svijeta",
+        "title": "VIDEO: Vušković pobjednik rijetko viđenog okršaja Vatrenih, pogledajte kakvu je golčinu zabio za oproštaj! Dva hrvatska reprezentativca bili su strijelci u okršaju 33. kola Bundeslige između HSV-a i Freiburga",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/matanovic-volej-izjednacenje-hsv-freiburg-bundesliga-15706941",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_38889824_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Prižmić je položio ispit zrelosti! Čeka ga skok, a ne treba zanemariti ni financijski aspekt...",
         "link": "https://sportske.jutarnji.hr/sportske/tenis/atp-wta-turniri/prizmic-je-polozio-ispit-zrelosti-ceka-ga-skok-a-ne-treba-zanemariti-ni-financijski-aspekt-15706944",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_38889206_640.jpg",
         "w": 640,
@@ -12,9 +24,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Vatreni golom pokvario Vuškovićevu oproštajku! Pogledajte krasan volej za izjednačenje",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/matanovic-volej-izjednacenje-hsv-freiburg-bundesliga-15706941",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_38872772_640.jpg",
+        "title": "Srednjoškolac odveo hrvatskog prvaka do europskog finala: ‘Povijesni uspjeh! I razred mi je čestitao...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vaterpolo/nardo-skejic-17-odveo-jadran-u-finale-eurokupa-poslije-drame-u-budimpesti-15706950",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_38656323_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -60,9 +72,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO Osijek - Istra: Domaćin traži pobjedu i potvrdu ostanka u ligi",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/uzivo-osijek-istra-domacin-trazi-pobjedu-i-potvrdu-ostanka-u-ligi-15706927",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_38889401_640.jpg",
+        "title": "UŽIVO Osijek - Istra: Puljani poveli iz prve prave šanse, domaćin sve bolji u nastavku",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/uzivo-osijek-istra-puljani-poveli-iz-prve-prave-sanse-domacin-sve-bolji-u-nastavku-15706927",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_38003244_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,21 +108,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Legendarni Baggio: ‘Urlao sam od boli. Rekao sam majci - Ako me voliš, ubij me‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/legendarni-baggio-urlao-sam-od-boli-rekao-sam-majci-ako-me-volis-ubij-me-15706921",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_38888557_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Real bez Mbappéa u El Clásicu, Barcelona pogođena tužnom viješću. Preminuo otac Hansija Flicka",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/preminuo-otac-hansija-flicka-suocut-nogometnog-svijeta-15706911",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_38752515_640.jpg",
+        "title": "‘U interventnom vozilu pomagao mi je policajac, a sada želim novi doček na trgu‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/luka-lovre-klarica-operacija-leda-oporavak-prekretnica-euro-2024-dominacija-15706912",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_38864333_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,7 +180,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Je li ovaj igrač odigrao svoju zadnju utakmicu za Hajduk? S Bijelima je, barem za sada, završio Tržišna vrijednost iznosi mu četiri milijuna eura, ali Bijeli će pucati i na više. Dobri nastupi na Mundijalu pritom bi samo pomogli",
+        "title": "Legendarni Baggio: ‘Urlao sam od boli. Rekao sam majci - Ako me voliš, ubij me‘ U finalu Svjetskog prvenstva protiv Brazila 1994. je Baggio u raspucavanju posljednji i ključni jedanaesterac koji je Brazilu donio četvrti naslov svjetskog prvaka",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/legendarni-baggio-urlao-sam-od-boli-rekao-sam-majci-ako-me-volis-ubij-me-15706921",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_38888557_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Real bez Mbappéa u El Clásicu, Barcelona pogođena tužnom viješću. Preminuo otac Hansija Flicka",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/preminuo-otac-hansija-flicka-suocut-nogometnog-svijeta-15706911",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_38752515_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Je li ovaj igrač odigrao svoju zadnju utakmicu za Hajduk? S Bijelima je, barem za sada, završio",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/niko-sigur-zavrsio-sezonu-u-hajduku-ide-na-svjetsko-prvenstvo-s-kanadom-15706884",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_38777458_640.jpg",
         "w": 640,
@@ -195,30 +219,6 @@
         "title": "Ovo je tajno oružje najbolje momčadi na svijetu: Enriqueov izum prvo zbunjuje, a onda - ‘ubija‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/safonov-enrique-psg-sahovski-presing-namjerni-autovi-takticka-inovacija-15706902",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/08/k_38874934_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘U interventnom vozilu pomagao mi je policajac, a sada želim novi doček na trgu‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/luka-lovre-klarica-operacija-leda-oporavak-prekretnica-euro-2024-dominacija-15706912",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_38864333_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Vušković se oprašta u velikom stilu, s tribina će ga pratiti i ‘posebni gosti‘: ‘Veselimo se tome‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/luka-vuskovic-oprostaj-hsv-freiburg-volksparkstadion-povratak-u-tottenham-15706887",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/10/k_38409865_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
