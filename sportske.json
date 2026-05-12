@@ -1,8 +1,32 @@
 [
     {
-        "title": "Frukov je učinak protiv Dinama šokantan! Ne vjerujem da će se ponoviti slučaj Bjelice i Nevistića... Radeljić je profesionalac i vjerujem da nećemo na terenu vidjeti da igrač Dinama igra finale Kupa u Rijekinom dresu. Jakirović može ostvariti što nije nitko 16 godina",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/jakirovic-izbacio-millwall-i-usao-u-finale-doigravanja-za-premiership-15707578",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_37785827_640.jpg",
+        "title": "UŽIVO: Florentino Perez na izvanrednoj presici nakon kaosa u Madridu Predsjednik Reala najavio je obraćanje javnosti nakon sastanka Upravnog odbora u 18 sati, a potencijalnih tema je mnoštvo",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/perez-izvanredna-konferencija-nakon-kaosa-u-real-madridu-15707650",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_38045734_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Što su hajdukovci pokazali novom sportskom direktoru? Jedino da ih može sve potjerati s Poljuda",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/robert-graf-duboki-rez-u-hajduku-nitko-nije-nezamjenjiv-15707667",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/11/k_38882693_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Mikić: ‘Livaja kod njega ne bi izdržao ni tri treninga! A za Hajduk ne vidim da ima svog Bobana‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/mikic-livaja-hajduk-juric-dinamo-beljo-hnl-osijek-maribor-intervju-15707638",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_38609010_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,9 +48,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dalić još nije objavio popis Hrvatske, ali Darijo Srna jest! Pogledajte koga sve ne bi vodio na SP",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dario-srna-26-sp-iznenadenja-izostanci-transfermarkt-15707570",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_32364207_640.jpg",
+        "title": "Kapetan Dinama doznao kaznu za nevjerojatan i sramotan potez!",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/hrvatska-liga/garafolic-suspendiran-pet-utakmica-kazna-2500-eura-dinamo-ostanak-kastela-15707636",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_30937955_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,9 +60,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Uspjeh karijere za zvijezdu Varaždina: Stigao mu poziv u reprezentaciju",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/aleksaa-latkovic-poziv-a-reprezentacija-crna-gora-varazdin-hnl-15707614",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_37834451_640.jpg",
+        "title": "Budimir objavio popis za Europsko prvenstvo, među odabranima i novo otkriće HNS-a",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/budimir-objavio-konacni-popis-u-17-hrvatske-za-euro-u-estoniji-15707663",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_36445963_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,9 +72,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Kraj bajke za Dina Prižmića! Rus nadjačao senzacionalnog Hrvata i izborio četvrtfinale",
-        "link": "https://sportske.jutarnji.hr/sportske/tenis/atp-wta-turniri/kraj-bajke-za-dina-prizmica-rus-nadjacao-senzacionalnog-hrvata-i-izborio-cetvrtfinale-15707502",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_38899313_640.jpg",
+        "title": "FOTO: Lindsey Vonn ima novog dečka? Jedan komentar rasplamsao priču o velikoj sportskoj romansi",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/zimski-sportovi/lindsey-vonn-mathieu-bailet-romansa-new-york-people-15707679",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_38901299_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -60,9 +84,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Kovačević najavio iznenađenje za Kup, a Beljo komentirao priče o Vatrenima: ‘Stojim iza svega‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-rijeka-finale-kupa-osijek-opus-arena-kovacevic-belho-mckenna-dominguez-15707567",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_38882779_640.jpg",
+        "title": "Opus Arena bit će puna, HNS objavio važne informacije za navijače Dinama i Rijeke",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/kup-hnl/opus-arena-upute-fan-zone-ulaz-parkiranje-dinamo-rijeka-osijek-15707675",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_29841603_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,33 +108,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Pogledajte zašto je Hajduk oštećen u derbiju s Dinamom: VAR se nije mogao uključiti...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/layec-gol-priznat-iako-slobodnjak-nije-pravilno-izveden-var-bez-ovlasti-15707544",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_38882887_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Evo kakva nagrada čeka Riječane ako pobijede Dinamo! ‘Zašto ne bismo imali pravo na optimizam?‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/kup-hnl/rijeka-spremna-sokirati-dinamo-finale-kupa-opus-arena-15707481",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/11/k_36878256_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Ovo nije poraz, to je poniženje. Barcelona danas djeluje kao obitelj, Real kao razularena banda...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/barcelona-real-2-0-el-clasico-flick-dominacija-29-naslov-la-liga-15707522",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/11/k_38892575_640.jpg",
+        "title": "Ne znam kako će Hajduk do pojačanja, a Garcia ima razlog zašto jednom talentu ne daje šansu",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/hajduk-graf-livaja-rebic-durdov-garcia-financije-sportsko-jutro-15707623",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_38777261_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -168,9 +168,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Boksačka karijera Jakea Paula je gotova? ‘Vilica mi je smrvljena, a još uvijek nemam tog zuba‘ Epski nokaut Anthonyja Joshue je očito ostavio velike posljedice, a liječnici Amerikancu preporučuju prestanak boksačke karijere",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/boksacka-karijera-jakea-paula-je-gotova-vilica-mi-je-smrvljena-a-jos-uvijek-nemam-tog-zuba-15707503",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_38067456_640.jpg",
+        "title": "Frukov je učinak protiv Dinama šokantan! Ne vjerujem da će se ponoviti slučaj Bjelice i Nevistića... Radeljić je profesionalac i vjerujem da nećemo na terenu vidjeti da igrač Dinama igra finale Kupa u Rijekinom dresu. Jakirović može ostvariti što nije nitko 16 godina",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/jakirovic-izbacio-millwall-i-usao-u-finale-doigravanja-za-premiership-15707578",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_37785827_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dalić nahvalio Bosnu i Hercegovinu pa velikom željom oduševio susjede: ‘Daj Bože da se dogodi...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dalic-vidi-prolaz-bih-barbarez-donio-energiju-simposar-2026-15707485",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_38800424_640.jpg",
+        "title": "Dalić još nije objavio popis Hrvatske, ali Darijo Srna jest! Pogledajte koga sve ne bi vodio na SP",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dario-srna-26-sp-iznenadenja-izostanci-transfermarkt-15707570",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_32364207_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,9 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Jakirović je svom kolegi očitao lekciju od koje će se dugo oporavljati, šokirao ga je i prije starta utakmice",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/jakirovic-hull-city-finala-play-offa-premiership-london-wembley-15707432",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_38531391_640.jpg",
+        "title": "Uspjeh karijere za zvijezdu Varaždina: Stigao mu poziv u reprezentaciju",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/aleksaa-latkovic-poziv-a-reprezentacija-crna-gora-varazdin-hnl-15707614",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_37834451_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -204,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Najteža odluka Luke Dončića, morao birati između Slovenije i svojih kćeri: ‘Razočaran sam...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/luka-doncic-odustaje-od-slovenije-zbog-kceri-i-skrbnistva-15707449",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_38898117_640.jpg",
+        "title": "Kraj Prižmićeve bajke! Rus nadjačao senzacionalnog Hrvata i izborio četvrtfinale",
+        "link": "https://sportske.jutarnji.hr/sportske/tenis/atp-wta-turniri/kraj-prizmiceve-bajke-rus-nadjacao-senzacionalnog-hrvata-i-izborio-cetvrtfinale-15707502",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_38899313_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -216,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Nevjerojatna priča hrvatske senzacije: Igrao je s Vatrenim, a onda mu je odluka roditelja promijenila život",
-        "link": "https://sportske.jutarnji.hr/sportske/tenis/dino-prizmic-ru-si-favorite-u-rimu-sljedi-khachanov-15707440",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/11/k_38880172_640.jpg",
+        "title": "Kovačević najavio iznenađenje za Kup, a Beljo komentirao priče o Vatrenima: ‘Stojim iza svega‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-rijeka-finale-kupa-osijek-opus-arena-kovacevic-belho-mckenna-dominguez-15707567",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_38882779_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -228,9 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Sanchez uoči finala s Dinamom: ‘Suci moraju imati dobar dan, pamtim dvije sporne situacije...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rijeka-bez-straha-ide-po-rabuzinovo-sunce-u-opus-areni-15707501",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_38767464_640.jpg",
+        "title": "VIDEO Pogledajte zašto je Hajduk oštećen u derbiju s Dinamom: VAR se nije mogao uključiti...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/layec-gol-priznat-iako-slobodnjak-nije-pravilno-izveden-var-bez-ovlasti-15707544",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_38882887_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
