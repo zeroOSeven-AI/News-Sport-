@@ -1,8 +1,44 @@
 [
     {
-        "title": "Osvajanje hrvatskog Kupa pa - odlazak iz kluba?! Bio bi to dostojan oproštaj Nije tajna, naprotiv, da predsjednik od početka nije kliknuo s trenerom. Ne zato što nije htio, nego zbog trenerovih metoda upravljanja kadrom",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/kup-hnl/sanchez-protiv-dinama-sjajan-protiv-slabijih-pada-finale-kupa-15707761",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_37785480_640.jpg",
+        "title": "Kovačević nije mirno spavao, Dinamo je predvidljiv, a Boban od početka ima otklon prema Miškoviću Rijeka igra drugačije od svih u ligi, čak ni Hajduk nema fizičku i trkačku moć",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/finale-kupa-opus-arena-dinamo-rijeka-analiza-puljic-sola-15707847",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/13/k_38767468_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Potvrđeni strahovi, igrač Osijeka zbog stravične ozljede izvan ‘stroja‘ do sljedeće godine!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/osijek-david-mejia-ozljeda-krizni-ligamenti-operacija-duga-pauza-15707850",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/13/k_38788988_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Dinamovci putovali u Osijek - punih devet sati! Boban i Mišković na zajedničkom ručku?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/kup-hnl/dinamo-prevrnuti-kamion-a3-devet-sati-put-do-osijeka-15707812",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/13/k_25209453_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Otkriveno kako je Hrvatska pokušala ‘preoteti‘ slavnog Srbina: ‘Molio sam ga da uzme našu...",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vaterpolo/tucak-otkrio-pokusao-dovesti-filipa-filipovica-u-hrvatsku-15707820",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/13/k_38905256_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,6 +60,42 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Osvajanje hrvatskog Kupa pa - odlazak iz kluba?! Bio bi to dostojan oproštaj",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/kup-hnl/sanchez-protiv-dinama-sjajan-protiv-slabijih-pada-finale-kupa-15707761",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_37785480_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Boban i Mišković posebno žele baš ovaj Kup! Njihov je odnos hladan kao sibirske noći, evo gdje je puklo",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/kup-hnl/dinamo-rijeka-finale-kupa-osijek-sanchez-kovacevic-boban-miskovic-opus-arena-15707790",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/11/k_36948568_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Tko je ‘čovjek iz sjene‘ koji želi srušiti Florentina Pereza? ‘Neka se kandidira taj gospodin‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/perez-najavio-izbore-u-realu-u-fokusu-enrique-riquelme-iz-cox-energy-15707808",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/13/k_38905059_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Kovačevićevo iznenađenje za Rijeku: Zajc ili Stojković sele se na klupu, kao i srce obrane iz derbija?!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/kup-hnl/dinamo-iznenadenja-finale-kupa-bennacer-livakovic-rijeka-opus-arena-15707751",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_37785792_640.jpg",
@@ -36,81 +108,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Jakirović i Hull nakon 120 minuta drame doznali suparnika u ‘najskupljoj utakmici na svijetu‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/jakirovic-i-hull-nakon-120-minuta-drame-doznali-suparnika-u-najskupljoj-utakmici-na-svijetu-15707738",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_38903773_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Doznajemo: Vatreni na prekretnici, traži ga pet klubova, ali Dalić bi mu mogao srušiti snove!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/lovro-majer-pred-transferom-pet-klubova-zeli-veznjaka-wolfsburga-15707708",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_37669662_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Lino Červar ponovno na klupi, preuzeo je moćni klub iz regije",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/lino-cervar-preuzima-eurofarm-pelister-povratak-u-bitolu-15707758",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/13/k_31717835_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "MLS objavio plaće svih igrača: Evo koliko zarađuje Messi, ali i hrvatski nogometaši",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/messi-najplaceniji-mls-musa-vodi-hrvati-place-15707769",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/13/k_38846672_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Gdje gledati Dinamo - Rijeka? Fruk neće moći sam, a pobjeda nosi puno više od pehara",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rijeka-finale-kupa-u-osijeku-lov-na-osmi-trofej-i-europu-15707776",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_38878203_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Brozovića i Ronalda sekunde dijelile od prve titule s Al-Nassrom. Reakcija Portugalca obilazi svijet",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/autogol-98-minuta-al-hilal-izjednacio-al-nassr-slavlje-odgodeno-15707755",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/13/k_38902897_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Prema ovim izjavama, jasno je da Bijeli u finalu Kupa navijaju za - Dinamo! Razlog je logičan",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/kup-hnl/hajduk-navija-za-dinamo-finale-kupa-odreduje-europski-put-15707757",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_38882306_640.jpg",
+        "title": "Glavobolja za Radotića uoči utakmice odluke: Jedan igrač sam sebe otpisao, ostale muči ozljeda",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/osijek/osijek-problemi-veznog-reda-i-desnog-beka-ozljede-mejia-sopov-guedes-odlazak-gorica-15707833",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_38889275_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -156,6 +156,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Doznajemo: Vatreni na prekretnici, traži ga pet klubova, ali Dalić bi mu mogao srušiti snove!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/lovro-majer-pred-transferom-pet-klubova-zeli-veznjaka-wolfsburga-15707708",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_37669662_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Najteža odluka Luke Dončića, morao birati između Slovenije i svojih kćeri: ‘Razočaran sam...‘",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/luka-doncic-odustaje-od-slovenije-zbog-kceri-i-skrbnistva-15707449",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_38898117_640.jpg",
@@ -168,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Preminuo Jason Collins (47), prvi javno deklarirani gay košarkaš u NBA-u Dubok trag ostavio je Jason Collins u NBA ligi, gdje je u 13 sezona nastupao za šest različitih momčadi",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/jason-collins-preminuo-nba-pionir-borac-s-glioblastomom-47-godina-15707763",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/13/k_37472272_640.jpg",
+        "title": "Jakirović i Hull nakon 120 minuta drame doznali suparnika u ‘najskupljoj utakmici na svijetu‘ Tigrovi će za ulazak u elitno društvo engleskog nogometa morati na Wembleyu svladati Southampton, koji je golom u 116. minuti izbacio Middlesbrough",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/jakirovic-i-hull-nakon-120-minuta-drame-doznali-suparnika-u-najskupljoj-utakmici-na-svijetu-15707738",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_38903773_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Nijemci cmizdre zbog nove hrvatske ‘otmice‘: ‘Opet ostajemo bez dragulja, ponajvećeg talenta Bayerna‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/filip-pavic-bayern-odabrao-hrvatsku-u17-euro-budimir-15707690",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_38901250_640.jpg",
+        "title": "Bjelica o prvoj ženi na klupi kluba iz lige Petice: ‘Čestitke na hrabrosti. Da su bili predzadnji...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bjelica-eta-union-berlin-hrvatska-bih-svjetsko-prvenstvo-ambicije-15707799",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/13/k_38738495_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Drama dinamovaca uoči finala Kupa: Autobus s igračima zapeo u gužvi na A3, stoje već četiri sata!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/kup-hnl/dinamo-zapeo-na-a3-prevrnuti-kamion-kolona-sest-kilometara-uoci-finala-kupa-15707696",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_25209453_640.jpg",
+        "title": "Spursi razbili Wolvese i stigli na prag finala Zapada, Wembanyama se iskupio i predvodio momčad",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/spursi-razbili-minnesotu-126-97-wembanyama-vodi-na-3-2-pred-finale-zapada-15707781",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/13/k_38904841_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -204,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Iznenada preminuo NBA košarkaš (29)",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/preminuo-brandon-clarke-iznenadna-smrt-tuga-memphis-nba-grizzlies-15707702",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_38902441_640.jpg",
+        "title": "Lino Červar ponovno na klupi, preuzeo je moćni klub iz regije",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/lino-cervar-preuzima-eurofarm-pelister-povratak-u-bitolu-15707758",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/13/k_31717835_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -216,21 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Vatreni i društvo udaljili se od Europe, a mogu i ispasti u drugu ligu!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/atletico-pobijedio-osasunu-2-1-u-pamploni-sorloth-zabio-llorente-iskljucen-15707736",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/12/k_38903254_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Oni grabe prema SHNL-u s posebnim planom: Žele suradnju s Dinamom, Hajdukom, Rijekom, ali i strancima!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rudesh-pred-shnl-om-proracun-posudbe-reflektori-15707711",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/11/k_38877257_640.jpg",
+        "title": "MLS objavio plaće svih igrača: Evo koliko zarađuje Messi, ali i hrvatski nogometaši",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/messi-najplaceniji-mls-musa-vodi-hrvati-place-15707769",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/13/k_38846672_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
