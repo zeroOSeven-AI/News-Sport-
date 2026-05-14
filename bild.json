@@ -1,5 +1,17 @@
 [
     {
+        "title": "Erstmals Halbzeitshow bei Finale:Diese Superstars treten bei der WM auf",
+        "link": "https://sportbild.bild.de/fussball/fussball-wm/halbzeitshow-bei-finale-diese-superstars-treten-bei-der-wm-auf-6a059d002024a1440cb9a5b9",
+        "image_url": "https://images.bild.de/6a059d002024a1440cb9a5b9/f97b0ae909c1cd739313ffa5fa18fa99,8ad71121?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
         "title": "Boykott droht:Lazio-Trainer will Spielverlegung nicht akzeptieren",
         "link": "https://sportbild.bild.de/fussball/internationaler-fussball/serie-a-in-italien-droht-ein-spielboykott-lazio-trainer-sarri-sauer-6a05e27bd1570d73067a02e7",
         "image_url": "https://images.bild.de/6a05e27bd1570d73067a02e7/4b270efc1ad4f2afc9063be494137bda,1a73d706?w=992",
@@ -12,12 +24,12 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Tragischer Popp-Abschied:Double perfekt: Bayern ballern sich zum DFB-Pokal-Sieg",
-        "link": "https://sportbild.bild.de/fussball/dfb-pokal-der-frauen-fc-bayern-schlaegt-wolfsburg-im-finale-klar-6a05efc837f06e5c80b2fe05",
-        "image_url": "https://images.bild.de/6a05efc837f06e5c80b2fe05/961f99e4cf67500bf7509226001e3db9,d63bab50?w=992",
+        "title": "Überraschung:Neuer steht im vorläufigen WM-Kader",
+        "link": "https://sportbild.bild.de/fussball/nationalmannschaft/wm-2026-neuer-wohl-auf-vorlaeufiger-wm-liste-6a0630c12024a1440cb9ae46",
+        "image_url": "https://images.bild.de/6a0630c12024a1440cb9ae46/3b705c67a06826b0089fc01670cbb2f9,3337abbc?w=992",
         "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
+        "h": 1178,
+        "focus_y": 0.5,
         "source_title1": "SPORT",
         "source_title2": "BILD",
         "source_color": "#fc4e4e",
@@ -27,18 +39,6 @@
         "title": "Ticket-Ärger vor Champions-League-Finale:Arsenal-Mitarbeiter sauer auf eigenen Klub",
         "link": "https://sportbild.bild.de/fussball/champions-league/champions-league-finale-arsenal-mitarbeiter-wegen-tickets-sauer-auf-eigenen-klub-6a05b0e037f06e5c80b2fa80",
         "image_url": "https://images.bild.de/6a05b0e037f06e5c80b2fa80/43c0a9cd8a3871b1995c1d661a1bc4ab,d6ff18d3?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Pressekonferenz abgebrochen:Eklat um deutschen Trainer in England!",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/southampton-will-in-die-premier-league-deutscher-trainer-mit-eklat-6a05b768d1570d73067a00fb",
-        "image_url": "https://images.bild.de/6a05b768d1570d73067a00fb/6e946d7e3096bf8a60c0cab7956674be,8ae4f594?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -132,6 +132,30 @@
         "flag": "🇩🇪"
     },
     {
+        "title": "Tragischer Popp-Abschied:Double perfekt: Bayern ballern sich zum DFB-Pokal-Sieg",
+        "link": "https://sportbild.bild.de/fussball/dfb-pokal-der-frauen-fc-bayern-schlaegt-wolfsburg-im-finale-klar-6a05efc837f06e5c80b2fe05",
+        "image_url": "https://images.bild.de/6a05efc837f06e5c80b2fe05/961f99e4cf67500bf7509226001e3db9,d63bab50?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Er träumt noch von der WM!:DFB-Star mit Comeback nach sechs Monaten Pause",
+        "link": "https://sportbild.bild.de/fussball/nationalmannschaft/hoffnung-auf-wm-2026-dfb-star-mit-comeback-nach-sechs-monaten-pause-6a058da2d1570d730679fe70",
+        "image_url": "https://images.bild.de/6a058da2d1570d730679fe70/92f4097024313f329e72b65c880a7f52,d6936ee2?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
         "title": "ADAC RAVENOL 24h Nürburgring:Hier die Qualifyings LIVE gucken!",
         "link": "https://sportbild.bild.de/motorsport/adac-ravenol-24h-nuerburgring-hier-die-qualifyings-live-gucken-6a057a332024a1440cb9a279",
         "image_url": "https://images.bild.de/6a057a332024a1440cb9a279/030e3d25ec00bd1737177c3023747097-landscape,9dce598d?w=992",
@@ -207,30 +231,6 @@
         "title": "Klausel enthüllt:Eintracht winkt Millionen-Nachschlag für Marmoush",
         "link": "https://sportbild.bild.de/fussball/1-bundesliga/klausel-enthuellt-eintracht-winkt-millionen-nachschlag-fuer-marmoush-6a0620cfcfaf0998f04946c6",
         "image_url": "https://images.bild.de/6a0620cfcfaf0998f04946c6/1f110d04e45f0379e68452f405ba969d-landscape,87face7b?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "NBA unter Schock:Grizzlies-Star Brandon Clarke (†29) ist tot!",
-        "link": "https://sportbild.bild.de/sportmix/us-sport/nba-memphis-unter-schock-grizzlies-star-brandon-clarke-29-ist-tot-6a0372c39e875c402d54ed6a",
-        "image_url": "https://images.bild.de/6a0372c39e875c402d54ed6a/da28c84f58bc9fecea4731dcc83804e0,783f2e06?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Sieg gegen Sensations-Aufsteiger:Vechta gegen Alba in den Play-offs!",
-        "link": "https://sportbild.bild.de/sportmix/basketball/sieg-gegen-sensations-aufsteiger-trier-vechta-gegen-alba-in-den-play-offs-6a0376aa30412f64f426a525",
-        "image_url": "https://images.bild.de/6a0376aa30412f64f426a525/55ec4f4e92e9fbd88739f88022995946,31f5a0a7?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
