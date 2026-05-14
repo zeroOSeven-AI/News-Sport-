@@ -1,8 +1,32 @@
 [
     {
-        "title": "Trenutak u kojem se sve promijenilo: ‘Gvardiolovu izjavu treba uvrstiti u stručnu sportsku literaturu‘ Hrvatskoj je bitan kao izvrstan nogometaš, ali barem jednako toliko i kao rođeni pobjednik",
+        "title": "Dinamo odbrojava do najvećeg ‘pojačanja‘, ali najveća pobjeda se skriva u - svlačionici! To je i prvi preduvjet za više domete, nove rekorde i iduće povijesne stranice. Za rađanje nove generacije s glavom i repom...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/dinamo-euforija-opus-arena-rabuzinovo-sunce-najava-dominacije-kranjca-15708427",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/14/k_38909843_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Trenutak u kojem se sve promijenilo: ‘Gvardiolovu izjavu treba uvrstiti u stručnu sportsku literaturu‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/gvardiol-vraca-silu-hrvatskoj-dalicev-najjaci-ljetni-adut-15708414",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/14/k_38683725_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Velika trojka‘ Dinama završava sezonu? Nekima rani godišnji, nekima pripreme za SP...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-odmara-asove-mladi-preuzimaju-zadnja-dva-kola-15708429",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/14/k_38909830_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,30 +120,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Sky objavio: Ivan Rakitić napušta Hajduk, sprema povratak u svoj bivši klub?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rakitic-sprema-trenerski-zaokret-otvoren-za-povratak-u-bundesligu-15708370",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/14/k_37576135_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Vatreni dobio posebnu molbu iz Mostara: ‘Dragi Igore. Moramo porazgovarati o vašoj ‘domaćoj zadaći‘...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/zrinjski-poruka-freiburgu-matanovic-europska-liga-preskakanje-u-play-off-konferencijske-15708376",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/14/k_38418515_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Oduševljeni Englezi u nevjerici: ‘Je li Gvardiol normalan...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/gvardiol-brzi-povratak-odusevio-manchester-city-protiv-crystal-palacea-15708088",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/13/k_38849158_640.jpg",
@@ -180,7 +180,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Finale ‘visi‘ u zraku, Jakirovićeva utakmica karijere pred odgodom? ‘Nije bio izoliran incident‘ Hull City je objavio da ne može reći navijačima kada će ulaznice biti puštene u prodaju, pa čak ni datum i vrijeme utakmice",
+        "title": "Sky objavio: Ivan Rakitić napušta Hajduk, sprema povratak u svoj bivši klub? Navode kako bi mogao završiti program trenerske obuke ranije nego planirano jer se osjeća spremnim za početak rada u nekom klubu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rakitic-sprema-trenerski-zaokret-otvoren-za-povratak-u-bundesligu-15708370",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/14/k_37576135_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Vatreni dobio posebnu molbu iz Mostara: ‘Dragi Igore. Moramo porazgovarati o vašoj ‘domaćoj zadaći‘...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/zrinjski-poruka-freiburgu-matanovic-europska-liga-preskakanje-u-play-off-konferencijske-15708376",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/14/k_38418515_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Finale ‘visi‘ u zraku, Jakirovićeva utakmica karijere pred odgodom? ‘Nije bio izoliran incident‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/spygate-southampton-middlesbrough-efl-odgoda-finala-doigravanje-15708383",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/14/k_38842457_640.jpg",
         "w": 640,
@@ -204,33 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "FOTO: Mnogi su ostali zgroženi, pogledajte kako izgleda Opus Arena nakon finala Kupa",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-osvojio-hrvatski-kup-stojkovic-dva-gola-prekidi-steta-opus-arena-15708343",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/14/k_38916245_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Revolucija Pedra Martíneza ili kako je Valencia postala sve što trebate znati o modernoj košarci",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/basket-euroliga/valencia-izbacila-panathinaikos-i-ide-na-final-four-u-ateni-15708394",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/14/k_38911018_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Na pomolu nova afera u sportu? Euri, plaćanja, frakcijske borbe, lažni profili...: ‘Postoji hajka‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/borilacki-sportovi/karate/hrvatski-karatisti-frankfurt-ep-savez-troskovi-afera-15708301",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/14/k_37964405_640.jpg",
+        "title": "Bomba s Rujevice: Sanchez je bivši, čovjek koji je ispisao povijest s Rijekom vraća se na klupu!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kek-se-vraca-rijeka-sanchez-odlazi-miskovic-nova-era-rujevica-15708196",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/14/k_38908494_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
