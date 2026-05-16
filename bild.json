@@ -1,8 +1,8 @@
 [
     {
-        "title": "Das Saisonfinale im Überblick:Wolfsburg rettet sich in die Relegation",
-        "link": "https://sportbild.bild.de/fussball/1-bundesliga/das-saisonfinale-im-ueberblick-wolfsburg-rettet-sich-in-die-relegation-6a088ce99c68f73e5afcc5e6",
-        "image_url": "https://images.bild.de/6a088ce99c68f73e5afcc5e6/5d26fb1fc26194e46c0784848493fbec,44989791?w=992",
+        "title": "Wirbel ums deutsche Tor:Baumann äußert sich nach Neuer-Gerüchten",
+        "link": "https://sportbild.bild.de/fussball/nationalmannschaft/comeback-von-manuel-neuer-oliver-baumann-glaubt-dass-er-noch-die-nummer-1-beim-dfb-ist-6a08b1181bde982bd10fe225",
+        "image_url": "https://images.bild.de/6a08b1181bde982bd10fe225/22967a6c970e37fb3b5c801513117b1c,1364c392?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -12,9 +12,21 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Medienbericht:WM-Entscheidung um Bayern-Keeper Neuer gefallen",
-        "link": "https://sportbild.bild.de/fussball/nationalmannschaft/manuel-neuer-wm-entscheidung-um-bayern-keeper-offenbar-gefallen-6a089c509c68f73e5afcc732",
-        "image_url": "https://images.bild.de/6a089c509c68f73e5afcc732/d71bf49061d938886bbb7b7b9d3d34d6,da297f73?w=992",
+        "title": "Es ist nicht Liverpool:Alonso unterschreibt bei englischem Top-Klub",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/xabi-alonso-uebernimmt-den-fc-chelsea-6a08adaa1bde982bd10fe1ee",
+        "image_url": "https://images.bild.de/6a08adaa1bde982bd10fe1ee/372cdc5de7142a87cb15e2165ffb3aec,9aaef0bf?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Das Saisonfinale im Überblick:Wolfsburg rettet sich in die Relegation",
+        "link": "https://sportbild.bild.de/fussball/1-bundesliga/das-saisonfinale-im-ueberblick-wolfsburg-rettet-sich-in-die-relegation-6a088ce99c68f73e5afcc5e6",
+        "image_url": "https://images.bild.de/6a088ce99c68f73e5afcc5e6/5d26fb1fc26194e46c0784848493fbec,44989791?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -36,7 +48,7 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Eintracht-Coach vor dem Aus:Die Top 3 der der Riera-Nachfolge",
+        "title": "Eintracht-Coach vor dem Aus:Die Top 3 der Riera-Nachfolge",
         "link": "https://sportbild.bild.de/fussball/eintracht-frankfurt/eintracht-coach-vor-dem-aus-die-top-3-der-der-riera-nachfolge-6a08a1b51bde982bd10fe152",
         "image_url": "https://images.bild.de/6a08a1b51bde982bd10fe152/cafd3b33e6b4719b19bd07c2b636cb54,587e1509?w=992",
         "w": 992,
@@ -48,7 +60,7 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Banner vor BVB-Spiel:Werder-Fans schießen gegen Klub-Bosse",
+        "title": "Banner bei BVB-Spiel:Werder-Fans schießen gegen Klub-Bosse",
         "link": "https://sportbild.bild.de/fussball/werder-bremen/banner-vor-bvb-spiel-werder-fans-schiessen-gegen-klub-bosse-6a087f3cd1570d73067a1e6e",
         "image_url": "https://images.bild.de/6a087f3cd1570d73067a1e6e/353e1a36d6ad2be07b150cf7e2a8bcc8,dcdf2e7a?w=992",
         "w": 992,
@@ -108,18 +120,6 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "24h-Rennen am Nürburgring:Verstappen entgeht nur knapp Horror-Crash",
-        "link": "https://sportbild.bild.de/motorsport/24h-rennen-am-nuerburgring-verstappen-entgeht-nur-knapp-horror-crash-6a088d419c68f73e5afcc5ef",
-        "image_url": "https://images.bild.de/6a088d419c68f73e5afcc5ef/ce80a530516d3b88d23b52779fcb8699,7c165924?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
         "title": "„Als erfahrene Option?“:England-Legende will Lewandowski bei diesem Klub",
         "link": "https://sportbild.bild.de/fussball/internationaler-fussball/england-legende-will-lewandowski-bei-diesem-klub-erfahrene-option-6a0886e99c68f73e5afcc57b",
         "image_url": "https://images.bild.de/6a0886e99c68f73e5afcc57b/d3322d688c1250cb9dbd1602bcbb0b01,88524e3d?w=992",
@@ -156,21 +156,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Deutscher enttäuscht bei Playoff-Pleite:Schröder & Co. müssen ins Entscheidungsspiel",
-        "link": "https://sportbild.bild.de/sportmix/us-sport/deutscher-enttaeuscht-bei-playoff-pleite-schroeder-co-muessen-ins-entscheidungsspiel-6a0868a7639442857fa2135e",
-        "image_url": "https://images.bild.de/6a0868a7639442857fa2135e/3d3b053a94732ac8be2af4e0770e60c4,aa65e710?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Porsche-Debakel in Monaco:Deutscher Weltmeister crasht mit Teamkollege!",
-        "link": "https://sportbild.bild.de/motorsport/formel-e-monaco-porsche-drama-nach-teamkollision-de-vries-siegt-evans-fuehrt-6a0872459c68f73e5afcc43e",
-        "image_url": "https://images.bild.de/6a0872459c68f73e5afcc43e/a9b76c5589e1de72da145620e3a7599d,f594dd77?w=992",
+        "title": "Slip-Show & Freiwurf-Wirrwarr:Bamberg dreht völlig verrücktes Viertelfinale",
+        "link": "https://sportbild.bild.de/sportmix/basketball/slip-show-freiwurf-wirrwarr-bamberg-dreht-voellig-verruecktes-basketball-viertelfinale-6a0897e91bde982bd10fe0a2",
+        "image_url": "https://images.bild.de/6a0897e91bde982bd10fe0a2/1d399b2e61e00aeabeb137f500046e91,23779a7e?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -192,6 +180,18 @@
         "flag": "🇩🇪"
     },
     {
+        "title": "Deutscher enttäuscht bei Playoff-Pleite:Schröder & Co. müssen ins Entscheidungsspiel",
+        "link": "https://sportbild.bild.de/sportmix/us-sport/deutscher-enttaeuscht-bei-playoff-pleite-schroeder-co-muessen-ins-entscheidungsspiel-6a0868a7639442857fa2135e",
+        "image_url": "https://images.bild.de/6a0868a7639442857fa2135e/3d3b053a94732ac8be2af4e0770e60c4,aa65e710?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
         "title": "Nichts mehr verpassen!:Der 24-Stunden-Stream von SPORT BILD",
         "link": "https://sportbild.bild.de/sportmix/nichts-mehr-verpassen-der-24-stunden-stream-von-sport-bild-67e3f21af933f731d4312a95",
         "image_url": "https://images.bild.de/67e3f21af933f731d4312a95/ba25ea86c257543f201c3f37f05b52d4-landscape,1cd6388a?w=992",
@@ -204,21 +204,21 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Große Sorge um Karoline Knotten:Biathlon-Star meldet sich nach Not-OP",
-        "link": "https://sportbild.bild.de/sportmix/wintersport/biathlon-knotten-meldet-sich-nach-not-op-grosse-sorge-um-biathlon-star-6a08361bd1570d73067a1a0f",
-        "image_url": "https://images.bild.de/6a08361bd1570d73067a1a0f/7d254aa3832b9a8d23d5f241a386927e,9c23b70a?w=992",
-        "w": 992,
-        "h": 948,
-        "focus_y": 0.22,
+        "title": "Jubiläums-Gewinnspiel:Wir schicken Sie mit McDonald’s zum WM-Finale 2026!",
+        "link": "https://www.bild.de/sport/mit-mcdonalds-wird-es-moeglich-wm-final-reise-nach-new-york-gewinnen-69e9fd2daf304ad3eb229ad0",
+        "image_url": "https://images.bild.de/69e9fd2daf304ad3eb229ad0/1723e247c09ccd94e4d1d9c5766d2536,b61de50e?w=992",
+        "w": 600,
+        "h": 338,
+        "focus_y": 0.3,
         "source_title1": "SPORT",
         "source_title2": "BILD",
         "source_color": "#fc4e4e",
         "flag": "🇩🇪"
     },
     {
-        "title": "Powerplay-Patzer gegen Finnland:Deutsche Eishockey-Stars starten mit WM-Niederlage",
-        "link": "https://sportbild.bild.de/sportmix/eishockey/powerplay-patzer-gegen-finnland-deutsche-eishockey-stars-starten-mit-wm-niederlage-6a074368d1570d73067a1317",
-        "image_url": "https://images.bild.de/6a074368d1570d73067a1317/065b169128e0f65c638f5e25c5c71573,60794ed9?w=992",
+        "title": "Medienbericht:WM-Entscheidung um Bayern-Keeper Neuer gefallen",
+        "link": "https://sportbild.bild.de/fussball/nationalmannschaft/manuel-neuer-wm-entscheidung-um-bayern-keeper-offenbar-gefallen-6a089c509c68f73e5afcc732",
+        "image_url": "https://images.bild.de/6a089c509c68f73e5afcc732/d71bf49061d938886bbb7b7b9d3d34d6,da297f73?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -228,11 +228,11 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "„Mangelnde Transparenz“:Norweger wollen Ski-Boss absägen",
-        "link": "https://sportbild.bild.de/sportmix/wintersport/norweger-wollen-ski-boss-absaegen-mangelnde-transparenz-6a06e0f24166b8e84c362277",
-        "image_url": "https://images.bild.de/6a06e0f24166b8e84c362277/81b4d7bb92d5616b4c10e3ffd61523b2,851ec74c?w=992",
+        "title": "Platzsturm in Schottland:Celtic-Fans gehen auf Hearts-Kapitän Shankland los",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/meisterschaft-in-schottland-celtic-fans-gehen-auf-hearts-kapitaen-los-6a0896269c68f73e5afcc69e",
+        "image_url": "https://images.bild.de/6a0896269c68f73e5afcc69e/b96139d6bf285768c71ea03459885983,2dc0791c?w=992",
         "w": 992,
-        "h": 607,
+        "h": 558,
         "focus_y": 0.3,
         "source_title1": "SPORT",
         "source_title2": "BILD",
