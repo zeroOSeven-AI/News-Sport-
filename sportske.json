@@ -24,9 +24,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Mogu otići i Mateša i Krajač, to ništa ne znači! Evo što treba hitno promijeniti u hrvatskom sportu",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/hrvatski-olimpijci/sjednica-hoo-rezovi-reforma-financiranje-odgovornost-hrvatski-sport-15708868",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/16/k_29971635_640.jpg",
+        "title": "Englezi o dresu novom Vatrenih: ‘Podsjeća na američku zalogajnicu uz autocestu‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/daily-mail-hvali-hrvatske-dresove-hrvatska-otvara-sp-protiv-engleske-15708886",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/16/k_38916894_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,9 +36,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Englezi o dresu novom Vatrenih: ‘Podsjeća na američku zalogajnicu uz autocestu‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/daily-mail-hvali-hrvatske-dresove-hrvatska-otvara-sp-protiv-engleske-15708886",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/16/k_38916894_640.jpg",
+        "title": "Hajduk i Dinamo kroje mlade prvake, a evo kako su juniori Bijelih pomogli - Modrima!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajdukovi-pioniri-pred-naslovom-kadeti-se-nadaju-kiksu-dinama-u-osijeku-15708896",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/15/k_33360847_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Toni Kroos se oglasio o podvali koju je pregledalo nekoliko milijuna ljudi: ‘Laž!‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/toni-kroos-demantira-kritike-na-racun-kyliana-mbappea-u-realu-15708901",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/16/k_36954034_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -72,6 +84,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Mogu otići i Mateša i Krajač, to ništa ne znači! Evo što treba hitno promijeniti u hrvatskom sportu",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/hrvatski-olimpijci/sjednica-hoo-rezovi-reforma-financiranje-odgovornost-hrvatski-sport-15708868",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/16/k_29971635_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "‘U Hrvatskoj je moja druga kuća, a Vatreni su me odmah zvali! Da, bilo je razgovora s Hajdukom‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/edin-dzeko-kapetan-bih-vratio-schalke-ide-na-mundijal-americki-epilog-15708800",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/15/k_38224773_640.jpg",
@@ -87,30 +111,6 @@
         "title": "Gdje gledati Hrgovića? Evo kada i kako možete pratiti ‘El Animala‘ u lovu na treću uzastopnu pobjedu",
         "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/gdje-gledati-hrgovica-evo-kada-i-kako-mozete-pratiti-el-animala-u-lovu-na-trecu-uzastopnu-pobjedu-15708812",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/15/k_38921418_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "S njim je počeo kaos u Madridu, a sada ga svjetski prvaci hitno žele dovesti kao spasitelja",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/xabi-alonso-preuzima-chelsea-potvrda-nakon-fa-kupa-nova-era-15708860",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/16/k_38120952_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Oproštaj Luke Vuškovića sa suzama‘, u društvu obitelji: ‘Ovo nam je drugi dom, bolje nisam mogao zamisliti‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/oprostaj-luke-vuskovica-sa-suzama-u-drustvu-obitelji-ovo-nam-je-drugi-dom-bolje-nisam-mogao-zamisliti-15708843",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/16/k_38282330_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Kruno Jurčić kao u najboljim danima! Pogledajte hit-snimku trofejnog hrvatskog trenera Hrvatski trener bio je suspendiran pa je utakmicu morao pratiti izvan klupe, ali ga to nije spriječilo u bodrenju momčadi",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/jurcic-tribine-pyramids-kup-egipta-viralna-snimka-ceramica-boba-15708827",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/16/k_36921517_640.jpg",
+        "title": "S njim je počeo kaos u Madridu, a sada ga svjetski prvaci hitno žele dovesti kao spasitelja Londonski klub žuri s finalizacijom dogovora, a prema Romanovim navodima potvrda bi mogla uslijediti prije početka Svjetskog prvenstva",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/xabi-alonso-preuzima-chelsea-potvrda-nakon-fa-kupa-nova-era-15708860",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/16/k_38120952_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,9 +192,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Carević traži iskupljenje: ‘Bio sam ljutit, neki igrači bili su izvan svega! To se ne smije ponoviti‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/gorica-protiv-osijeka-carevic-trazi-maksimum-sansa-za-moustaphu-i-josica-15708804",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/15/k_38841603_640.jpg",
+        "title": "‘Oproštaj Luke Vuškovića sa suzama‘, u društvu obitelji: ‘Ovo nam je drugi dom, bolje nisam mogao zamisliti‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/oprostaj-luke-vuskovica-sa-suzama-u-drustvu-obitelji-ovo-nam-je-drugi-dom-bolje-nisam-mogao-zamisliti-15708843",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/16/k_38282330_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Kruno Jurčić kao u najboljim danima! Pogledajte hit-snimku trofejnog hrvatskog trenera",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/jurcic-tribine-pyramids-kup-egipta-viralna-snimka-ceramica-boba-15708827",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/16/k_36921517_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -216,21 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Kako su oslabile Rakitićeve akcije u Hajduku: Dočekan je kao Niko Kranjčar, sve se promijenilo jednim odlaskom",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/rakiticeva-buducnost-u-hajduku-neizvjesna-promjene-poljud-robert-graf-15708781",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/15/k_38517517_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Modrić želi igrati sudbonosnu utakmicu...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/modric-povratak-lijecnici-odgoda-pregled-liga-prvaka-milan-15708891",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/15/k_38808956_640.jpg",
+        "title": "Lewandowski napušta Barcelonu na kraju...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/robert-lewandowski-odlazi-iz-barcelone-oprostaj-camp-nou-betis-15708909",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/16/k_38910548_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
