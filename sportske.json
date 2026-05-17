@@ -1,8 +1,20 @@
 [
     {
-        "title": "UŽIVO Slaven - Dinamo: Počela je utakmica! Trener Kovačević protiv bivšeg kluba promiješao karte, pa zaradio ovacije publike Utakmicu između Slaven Belupa i Dinama pratimo i komentiramo iz minute u minutu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/uzivo-slaven-dinamo-pocela-je-utakmica-trener-kovacevic-protiv-bivseg-kluba-promijesao-karte-pa-zaradio-ovacije-publike-15709215",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/17/k_38559251_640.jpg",
+        "title": "UŽIVO Slaven - Dinamo: GOOOL! Modri u osam minuta preokrenuli Farmaceute, Kovačević uveo povratnika Fran Topić je iskoristio kiks Hadžikića kojemu je lopta ispala iz ruku, a Vidović je silovito pogodio za potpuni preokret",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/uzivo-slaven-dinamo-modri-gube-na-poluvremenu-prvi-put-nakon-dva-mjeseca-15709215",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/17/k_38939079_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Hrvatski stručnjak bio je ključ za osvajanje prvog naslova prvaka nakon 61 godine!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/lask-prvak-austrije-hrvatski-strucnjak-dino-buric-bio-je-kljuc-15709263",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/17/k_38939076_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,6 +36,54 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "VIDEO: Vatreni briljira uoči SP-a, dvjema asistencijama kao kapetan predvodio PSV do slavlja",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/perisic-dvije-asistencije-psv-pobijedio-twente-5-1-eredivisie-15709252",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/17/k_38427376_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Novi Lac eksplodirao: ‘Nisam igrao za mlađe reprezentacije, išlo je sve zaobilaznim putem‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/leon-ljevar-probija-se-iz-slovana-u-vardar-nakon-44-gola-i-rusenja-svedske-15709255",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/17/k_38931751_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Bayernov trener zaboravio jedinu stvar koju nije smio! Žena ga spasila u zadnji čas",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kompany-zaboravio-pehar-supruga-donijela-trofej-na-proslavu-bayerna-15709258",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/17/k_38938961_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "U Koprivnicu stigao Zvonimir Boban, ali i skauti poljskih i austrijskih velikana",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/prva-hnl/koprivnica-bbb-skauti-vip-rodendan-kovacevica-oprostaj-keckisa-apas-15709259",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/17/k_38938997_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Hajduku se može dogoditi katastrofalan scenarij na koji nitko na Poljudu ne želi ni pomisliti",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-almena-rebic-livaja-ugovori-ovisnost-europa-15709206",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/17/k_38882345_640.jpg",
@@ -36,7 +96,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Ubijeni mladić iz Drniša bio je košarkaš, oproštajna poruka kluba potresna je: ‘Nije mogao ubiti...",
+        "title": "Ubijeni mladić iz Drniša bio je košarkaš, oproštajna poruka kluba potresna je: ‘Nije mogao ubiti nevinijeg momka‘",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-mix/drnis-ubijen-mladic-dostavljac-policija-traga-za-kristijanom-aleksicem-15709212",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/17/k_38937660_640.jpg",
         "w": 640,
@@ -51,66 +111,6 @@
         "title": "FOTO: Pogledajte veliku proslavu Stanišića i društva na glavnom gradskom trgu, stigle tisuće navijača",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/bayern-slavi-35-naslov-petarda-5-1-koln-i-parada-na-marienplatzu-15709236",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/17/k_38938437_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Stravičan incident u Španjolskoj! Motor i vozač lansirani u zrak, Ducati se razletio u milijun...",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/automoto/motogp-barcelona-kaos-kvar-ktm-katapultirao-alexa-marqueza-utrka-nastavljena-15709230",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/17/k_38938477_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO Pogledajte Hrgovićevu dominaciju: ‘Filip je bio predobar za mene! Nisam mu mogao ništa‘",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/video-pogledajte-hrgovicevu-dominaciju-filip-je-bio-predobar-za-mene-nisam-mu-mogao-nista-15709166",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/17/k_38937364_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Ovo pokazuje sav Dinamov luksuz: Kovačević odmara igrače, ali pogledajte vrijednost prvih 11",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/dinamo-koprivnica-postava-2465-mil-eura-bennacer-starta-beljo-lovi-40-15709231",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/17/k_37785529_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Zvijezda Dinama na rubu Vatrenih dobila slobodno, pa otišla na turnir u biljaru i podigla ‘kantu‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/luka-stojkovic-osvaja-biljarski-turnir-u-zaboku-nakon-dinamove-sezone-15709208",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/17/k_38246189_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Inter sprema nezaboravnu proslavu! Sučića čeka ‘dan bez kraja‘, evo kako će izgledati fešta",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/inter-dupla-kruna-parada-do-duoma-povratak-u-arenu-civicu-15709214",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/16/k_38911072_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -168,9 +168,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Stižu loše vijesti, ne izgleda dobro za Hajduk! Početak puta u Europi mogao bi biti teži od očekivanog",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-tezi-put-europska-liga-gyor-qarabag-koeficijent-nosioci-15709030",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/16/k_38882693_640.jpg",
+        "title": "Je li Livaja jednom rečenicom nakon sudara u Maksimiru nagovijestio svoju budućnost na Poljudu?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/lokomotiva-hajduk-spektakl-33-udarca-promaseni-penali-livajina-poruka-15709101",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/16/k_38932526_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Istrin igrač debitirao protiv Barcinih zvijezda, spasio sezonu i oduševio čitavu Španjolsku Slaba pretprodaja, bez online ulaznica i bez naboja; Koskijev iskorak otvara pitanje strategije Baskijaca",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/istra-rijeka-derbi-slaba-pretprodaja-koski-alaves-promjena-strategije-15709219",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/15/k_38911070_640.jpg",
+        "title": "VIDEO: Stravičan incident u Španjolskoj! Motor i vozač lansirani u zrak, Ducati se razletio u milijun komadića Odmah po izlasku na pravac Acostin KTM je počeo gubiti brzinu. Budući da je Marquez bio odmah iza njega i spremao napad, nije imao vremena reagirati",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/automoto/motogp-barcelona-kaos-kvar-ktm-katapultirao-alexa-marqueza-utrka-nastavljena-15709230",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/17/k_38938477_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,9 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Kreće ‘vatreno ludilo‘: Cijene karata za dvije utakmice hrvatske reprezentacije od 20 do 55 eura",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/krece-vatreno-ludilo-cijene-karata-za-dvije-utakmice-hrvatske-reprezentacije-od-20-do-55-eura-15709226",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/15/k_37863831_640.jpg",
+        "title": "Thunderov vođa piše povijest: Shai Gilgeous-Alexander ponovno MVP NBA lige",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/shai-gilgeous-alexander-ponovno-mvp-prema-espn-u-15709271",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/17/k_38897938_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -204,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Juventusu ‘visi‘ Liga prvaka, Roma slavila u derbiju, Milan bez Modrića slavio u gostima",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/serie-a-37-kolo-napoli-roma-milan-fiorentina-como-pobjede-derbi-juventus-parma-pisa-15709224",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/17/k_38938396_640.jpg",
+        "title": "VIDEO Pogledajte Hrgovićevu dominaciju: ‘Filip je bio predobar za mene! Nisam mu mogao ništa‘",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/video-pogledajte-hrgovicevu-dominaciju-filip-je-bio-predobar-za-mene-nisam-mu-mogao-nista-15709166",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/17/k_38937364_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -216,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Joško Gvardiol ponuđen Real Madridu? ‘Ovo je potez koji je izazvao potpunu pomutnju, nisu ovo očekivali‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/gvardiol-ponuden-realu-city-u-strepnji-pep-guardiola-transfer-15709162",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/17/k_37885761_640.jpg",
+        "title": "VIDEO: United potvrdio treće mjesto, Fernandes izjednačio povijesni rekord, ovacije za Casemira",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/manchester-united-pobijedio-3-2-potvrdio-trece-mjesto-ovacije-casemiru-15709248",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/17/k_38938741_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -228,9 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hrvat ljutit i razočaran: ‘To je velika sramota za našu zemlju, ali, sve se vraća sve se plaća‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/tin-srbic-financijske-afere-pad-u-parizu-otkriva-detalje-ep-zagreb-15709155",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/16/k_34764619_640.jpg",
+        "title": "Ovo pokazuje sav Dinamov luksuz: Kovačević odmara igrače, ali pogledajte vrijednost prvih 11",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/dinamo-koprivnica-postava-2465-mil-eura-bennacer-starta-beljo-lovi-40-15709231",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/17/k_37785529_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
