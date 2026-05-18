@@ -1,8 +1,68 @@
 [
     {
-        "title": "Zlatko Dalić objavio popis igrača za Svjetsko prvenstvo: ‘Svatko se ima pravo ljutiti...‘ ‘Modrića, Kovačića i Gvardiola i imamo i nemamo. Malo me strah zbog toga, trebamo biti oprezni‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dalic-objavljuje-siri-popis-hrvatske-za-svjetsko-prvenstvo-15709471",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_38946073_640.jpg",
+        "title": "‘Izabrao bih isto kao Dalić, a evo tko me najviše brine! Igrači Dinama? Bit ću posve iskren...‘ Bivši stoper hvali roster, a pritom upozorava na problem povratka glavnih igrača nakon težih ozljeda",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/mario-tokic-podrzava-dalica-popis-reprezentacije-kontinuitet-obrana-livakovic-15709665",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_37840407_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Bomba iz Njemačke, legenda otkriva: ‘Bayern kreće po najtraženijeg Vatrenog‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/gvardiol-city-nudi-novi-ugovor-bayern-real-barcelona-prate-nakon-povratka-15709654",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_37432587_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Ostao je dojam da Dalić žali za jednim igračem! Evo tko je najveći dobitnik, a tko su gubitnici popisa",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dalicev-zaokret-perisic-spreman-mladi-trio-i-trojica-stopera-15709613",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_38938658_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Popis podijelio navijače: ‘Stojković je za ovu dvojicu izmislio nogomet‘; ‘Beljo nije Ronaldo...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dalicev-popis-sp-2026-beljo-i-stojkovic-na-pretpozivu-reakcije-navijaca-15709657",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_38946072_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Proslavljeni hrvatski olimpijac nije htio ni spomenuti Pavleka: ‘Sustav nas je razočarao...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vodeni-sportovi/veslanje/valent-sinkovic-trazi-strozu-kontrolu-i-kraj-negativne-klime-u-hrvatskom-sportu-15709640",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_38946865_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Četiri puta je proglašen mrtvim. Bio je zakleti ateist, a vratio se kao čovjek koji se boji Boga‘",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/cetiri-puta-je-proglasen-mrtvim-bio-je-zakleti-ateist-a-vratio-se-kao-covjek-koji-se-boji-boga-15709658",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_38947266_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,9 +96,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Specijalna emisija Sportskih novosti: Analizirali smo Dalićev popis i sve njegove odluke",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dalic-objavljuje-prosireni-popis-za-sp-2026-uzivo-14-sati-15709378",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/17/k_37864176_640.jpg",
+        "title": "S njima dvojicom je Hajdukova obrana trebala mirno spavati, ali proljeće je ogolilo veliki problem",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/raci-maresic-hajduk-visoka-linija-problem-brzina-obrana-15709659",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_38932017_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,69 +108,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dalić objasnio zašto Beljo nije s Vatrenima, a Stojković na čekanju: ‘Moja najveća dilema‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dalic-popis-sp-beljo-pretpoziv-stojkovic-blizu-engleska-dallas-15709559",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_38946071_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "ANKETA SN Što kažu navijači Vatrenih? Slažete li se s popisom i izborom Zlatka Dalića*",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dalic-popis-hrvatska-sp-2026-bez-belje-stojkovica-i-majera-15709562",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_38622112_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Ovo je kompletan raspored Vatrenih: Kad se okupljaju, gdje putuju, s kime igraju...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hrvatska-raspored-sp-pripreme-rijeka-belgija-rujevica-baza-virginija-engleska-dallas-15709568",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_37670491_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Napušta Real Madrid nakon više od 20 godina: ‘Jedna od najvećih legendi kluba, simbol Kraljeva‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dani-carvajal-napusta-real-madrid-nakon-27-trofeja-i-450-utakmica-15709575",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_37120121_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Težak udarac za Dinamo: Odgađa se selidba prvaka s Maksimira? ‘Evo kada ćemo biti pametniji...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/kranjceviceva-pomaknuti-rok-2027-odgoda-dinamove-selidbe-15709502",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_38707886_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Bivša zvijezda Dinama utučena kao nikad: ‘Ne mogu ni govoriti, žao mi je, naši su navijači najbolji na Balkanu‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/soudani-suze-maribor-poraz-derbi-prekid-oprostaj-bez-publike-15709513",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_38945421_640.jpg",
+        "title": "Zlatko Dalić objavio popis igrača za Svjetsko prvenstvo: ‘Svatko se ima pravo ljutiti...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dalic-objavljuje-siri-popis-hrvatske-za-svjetsko-prvenstvo-15709471",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_38946073_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -144,18 +144,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Zlatko Dalić objavio popis igrača za Svjetsko prvenstvo: ‘Svatko se ima pravo ljutiti...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dalic-objavljuje-siri-popis-hrvatske-za-svjetsko-prvenstvo-15709471",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_38946073_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Dani Olmo odlazi iz Barcelone?! Stiže mu luda ponuda, bit će najveća transfer priča ljeta",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/manchester-city-dani-olmo-zamjena-bernarda-silve-barcelona-transfer-60-milijuna-15709290",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/17/k_37951732_640.jpg",
@@ -180,9 +168,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Armada je protestom odlučila poslati posebnu poruku: Ponovno su izvukli ‘deblji kraj‘ kod policije Prema neslužbenim, no pouzdanim informacijama s Drosine, Armada je prosvjedovala zbog odluke policije da dio riječkih navijača ne pusti na stadion",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/armada-prosvjed-rijeka-istra-1961-drosina-napustanje-tribine-policija-15709537",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_38940752_640.jpg",
+        "title": "ANKETA SN Što kažu navijači Vatrenih? Slažete li se s popisom i izborom Zlatka Dalića? Beljo, Stojković i Majer ostali su izvan konačnog izbora zbog žestoke konkurencije i skromne minutaže",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dalic-popis-hrvatska-sp-2026-bez-belje-stojkovica-i-majera-15709562",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_38622112_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Čitatelji SN presudili: Dalić ovog igrača mora voditi na SP, pobijedio je s velikom prednošću",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/anketa-stojkovic-favorit-dalic-popis-vatrenih-svjetsko-prvenstvo-15709454",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_37890309_640.jpg",
+        "title": "Otac velike zvijezde s Poljuda: ‘Hajduk mu je privremena stanica, iz HNL-a ne može u reprezentaciju‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/otac-rokasa-pukstasa-u-hrvatskoj-nece-uci-u-reprezentaciju-sad-a-15709644",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_38574857_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -204,9 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Proslavljeni Hrvat brutalan: ‘Kako im nije žao!? Ne želim takav život, ubio bih se da moram bježati po Kazahstanu‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/hrvatski-olimpijci/tin-srbic-afere-mizerne-nagrade-pad-u-finalu-pariz-intervju-15709390",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/17/k_34764911_640.jpg",
+        "title": "Specijalna emisija Sportskih novosti: Analizirali smo Dalićev popis i sve njegove odluke",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dalic-objavljuje-prosireni-popis-za-sp-2026-uzivo-14-sati-15709378",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/17/k_37864176_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -216,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Graf je kao prvi dogovor sklopio onaj ‘najlakši‘, u Hajduku ostaje igrač koji je ključan za svlačionicu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/melnjak-ostaje-na-poljudu-grafov-prvi-potez-produzenje-do-2028-15709555",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_38609041_640.jpg",
+        "title": "Dalić objasnio zašto Beljo nije s Vatrenima, a Stojković na čekanju: ‘Moja najveća dilema‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dalic-popis-sp-beljo-pretpoziv-stojkovic-blizu-engleska-dallas-15709559",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_38946071_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -228,9 +216,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Najbolji na svijetu pomeo konkurenciju, nitko mu nije ni blizu! Za čitavu priču ‘kriva‘ je jedna legenda",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/najbolji-na-svijetu-pomeo-konkurenciju-nitko-mu-nije-ni-blizu-za-citavu-pricu-kriva-je-jedna-legenda-15709485",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_38944901_640.jpg",
+        "title": "Zvona za uzbunu u Španjolskoj, zvijezda Barce otpala za SP?! ‘Ubrzo je postalo loše...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/fermin-lopez-otpada-za-sp-yamal-i-williams-neizvjesni-15709624",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_38946876_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Mateša o najdužoj sjednici ikad: ‘Ako se utvrde nepravilnosti, svi dajemo otkaz! Počevši od mene‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/rekordna-sjednica-hoo-a-bez-smjena-i-sumnje-u-povjerenje-15709618",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_38600041_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
