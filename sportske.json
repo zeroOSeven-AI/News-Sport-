@@ -1,6 +1,18 @@
 [
     {
-        "title": "Na Dalićevu adresu stigla senzacionalna ponuda?! Ime mogućeg nasljednika nikog neće ostaviti ravnodušnim Izborniku se nudi pet milijuna eura godišnje, ali on čeka rasplet SP-a i važne signale svojih \"generala\"...",
+        "title": "Najveći skandal u povijesti sporta gura se pod tepih! Padale teške optužbe, dvojac bio posebno žestok Marijan Kustić nije htio biti zatrpan blatom, inzistiranjen na izvanrednoj skupštini želi nove ljude na čelu HOO-a",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/kustic-trazi-smjenu-matese-i-vrha-hoo-a-nakon-skandala-15709987",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/19/k_38088786_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Na Dalićevu adresu stigla senzacionalna ponuda?! Ime mogućeg nasljednika nikog neće ostaviti...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/dalic-ponuda-uae-5-milijuna-eura-buducnost-nakon-svjetskog-prvenstva-15709884",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/19/k_37881833_640.jpg",
         "w": 640,
@@ -12,9 +24,33 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dinamo je oštećen, bačen u stranu, to je presedan! Ali Dalić ima čvrst argument...",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/dalicev-popis-bez-iznenadenja-dinamo-preskocen-stojkovic-na-cekanju-15709853",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/19/k_38938658_640.jpg",
+        "title": "VIDEO: Vijest koja je Neymara natjerala na suze! Ovo je trenutak koji je potupno slomio Brazilca",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/neymar-ide-na-mundijal-ancelotti-potvrdio-povratak-brazil-15709992",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/19/k_38952313_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "U prvoj sezoni uzeo dvije krune, ostvario se i ‘nacionalni san‘, a priča može postati još bolja",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/perkovic-noah-dva-trofeja-napad-na-naslov-armenska-liga-15709964",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/19/k_38950190_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Ono što se dogodilo nakon sjednice opasno je za HOO! Možda dođe oluja i otpuše cijelo Vijeće",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/kustic-napustio-vijece-hoo-a-afere-i-nadzor-novca-15709928",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/19/k_36842847_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,6 +72,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Dinamo je oštećen, bačen u stranu, to je presedan! Ali Dalić ima čvrst argument...",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/dalicev-popis-bez-iznenadenja-dinamo-preskocen-stojkovic-na-cekanju-15709853",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/19/k_38938658_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Ćiro je francusku broncu iskovao s desetoricom igrača iz hrvatske lige, Dalić vodi ‘jednoga i pol‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ciro-je-francusku-broncu-iskovao-s-desetoricom-igraca-iz-hrvatske-lige-dalic-vodi-jednoga-i-pol-15709883",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/19/k_35482543_640.jpg",
@@ -48,9 +96,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Turbulentno na Rujevici: Fruk će donijeti milijune, evo tko bi sve mogao napustiti Rijeku!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rijeka-velika-rekonstrukcija-oprostaj-rujevica-fruk-dantas-zlomislic-gorica-15709819",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_38908835_640.jpg",
+        "title": "Najmlađi igrač sezone HNL-a probudio interes na tržištu, jedan igrač već otišao s Opus Arene",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/osijek-odbija-malmo-nema-rasprodaje-ponude-za-omerovica-i-jurisica-dedic-u-usponu-15709942",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/19/k_38334089_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -60,57 +108,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Legenda ‘razvalila‘ kapetana: ‘Kako ti, kao nogometašu, uopće može biti takav mentalni sklop...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/keane-i-neville-kritiziraju-brunu-fernandesa-zbog-lova-na-rekord-asistencija-15709861",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/19/k_38938755_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Zaboravljeni dinamovac ‘zakuhao‘ Netflixov scenarij: Drama nudi preokret, na potezu su Kovačević i Boban",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/juan-cordoba-gol-nakon-14-mjeseci-otvorio-pitanje-ostanka-u-dinamu-15709760",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_36940442_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Ovo je VAR snimka o kojoj priča cijela Engleska, suci ‘pogurali‘ Arsenal prema tituli?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/arsenal-pred-naslovom-havertz-zuti-umjesto-crvenog-var-reakcije-15709775",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/19/k_38948374_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Zbog popisa za SP okupila se cijela obitelj, kuća je bila premala, a onda se dogodila najtužnija scena",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/ancelotti-popis-brazil-neymar-euforija-weverton-joao-pedro-izostavljen-15709780",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/19/k_38949824_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Sjajni napadač u HNL-u je zabio 15 golova, ali i odigrao posljednju utakmicu za klub? Upiti već dolaze",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sjajni-napadac-u-hnl-u-je-zabio-15-golova-ali-i-odigrao-posljednju-utakmicu-za-klub-upiti-vec-dolaze-15709792",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_38709534_640.jpg",
+        "title": "Uzbudljivi igrači, suluda organizacija i milijarde: Xabi Alonso će biti pukovnik ili pokojnik",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/xabi-alonso-preuzima-chelsea-ovlasti-transferi-plan-rekonstrukcija-15709955",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/17/k_36685826_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -144,21 +144,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Ostao je dojam da Dalić žali za jednim igračem! Evo tko je najveći dobitnik, a tko su gubitnici popisa",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dalicev-zaokret-perisic-spreman-mladi-trio-i-trojica-stopera-15709613",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_38938658_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO Bivši trener Dinama potpuno slomljen i na rubu suza: ‘Nisam ovo doživio u 40 godina karijere‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/video-bivsi-trener-dinama-potpuno-slomljen-i-na-rubu-suza-nisam-ovo-dozivio-u-40-godina-karijere-15709370",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_38944234_640.jpg",
+        "title": "Na Dalićevu adresu stigla senzacionalna ponuda?! Ime mogućeg nasljednika nikog neće ostaviti ravnodušnim",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dalic-ponuda-uae-5-milijuna-eura-buducnost-nakon-svjetskog-prvenstva-15709884",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/19/k_37881833_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +168,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Matjaž Kek otvoreno o povratku na Rujevicu: Ako se vratim u Rijeku, ja ću biti najsretniji... ‘O ponudi Rijeke ne bih razmišljao kao o ponudi bilo kojeg drugog kluba. Ovdje novac nije pitanje. To je posljednja stvar‘, kazao je slovenski stručnjak",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kek-razmatra-povratak-u-rijeku-odlazak-victora-sancheza-izvjestan-15709795",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/19/k_28375447_640.jpg",
+        "title": "Ostao je dojam da Dalić žali za jednim igračem! Evo tko je najveći dobitnik, a tko su gubitnici popisa",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dalicev-zaokret-perisic-spreman-mladi-trio-i-trojica-stopera-15709613",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_38938658_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Vatrenima se sprema nešto što se ne pamti od Nike Kovača. Evo i kakvo je stanje s Olićem",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dalic-pripreme-s-malim-brojem-igraca-vatreni-rijeka-29-svibnja-15709736",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_37863869_640.jpg",
+        "title": "Manchester Cityju zbog novog trenera stiže - tužba? Pep još nije ni otišao, klub već ima probleme Talijan potpisuje na tri godine, a Bluesi traže odštetu zbog navodnog nedopuštenog utjecaja na njegov odlazak",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/maresca-preuzima-manchester-city-chelsea-najavljuje-tuzbu-i-odstetu-15709914",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/19/k_38109094_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -204,9 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Mogu li Gnjidić i Wright kreirati jednu od najvećih senzacija u povijesti hrvatske klupske košarke?",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/hrvatska-liga/mogu-li-gnjidic-i-wright-kreirati-jednu-od-najvecih-senzacija-u-povijesti-hrvatske-klupske-kosarke-15709856",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_38910068_640.jpg",
+        "title": "Gorica dovela prvo pojačanje: Bivši igrač Lokosa, Osijeka i Šibenika vraća se u HNL",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/gorica-dovela-ivana-cvijanovica-prvo-pojacanje-2026-15709933",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/19/k_36331724_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -216,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Kovačević ušao u VIP klub, ali najkomfornija pozicija u Dinamu do sada nije garantirala puno",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-dvostruka-kruna-ne-spasava-trenere-15709752",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/14/k_38909613_640.jpg",
+        "title": "Dinamo ima reprezentativca: McKenna pozvan u nacionalnu momčad Škotske",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-ima-reprezentativca-mckenna-pozvan-u-nacionalnu-momcad-skotske-15709924",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/19/k_38327840_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -228,9 +216,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Mislio sam da mi kosa nikada neće opasti... To što moji igrači rade je nevjerojatno‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/arsenal-burnley-1-0-havertz-gol-rice-arteta-prednost-manchester-city-premier-liga-15709759",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/19/k_38948553_640.jpg",
+        "title": "Turbulentno na Rujevici: Fruk će donijeti milijune, evo tko bi sve mogao napustiti Rijeku!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rijeka-velika-rekonstrukcija-oprostaj-rujevica-fruk-dantas-zlomislic-gorica-15709819",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_38908835_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Legenda ‘razvalila‘ kapetana: ‘Kako ti, kao nogometašu, uopće može biti takav mentalni sklop...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/keane-i-neville-kritiziraju-brunu-fernandesa-zbog-lova-na-rekord-asistencija-15709861",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/19/k_38938755_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
