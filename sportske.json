@@ -1,6 +1,54 @@
 [
     {
-        "title": "Matanović je ostavio trag u finalu unatoč potopu, ali teško su podbacili oni od kojih se očekivalo najviše Freiburg je pao protiv Aston Ville, ali Vatreni je presingom i duelima izborio dobru ocjenu i opravdao poziv za SP",
+        "title": "Rađa li se u HNL-u novi Busquets? Ugledni stručnjak ga odmah snimio, Dinamo ga prepustio - Rijeci Pavić je vođa, gdje god je igrao, bio je kapetan, kazao je njegov bivši trener Darko Šantek",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/branko-pavic-voda-rijeke-potencijalni-kapetan-hrvatske-15710464",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/20/k_38908694_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Eduardo za SN o Vatrenima, Brazilu, Dinamu, Arsenalu i sinu: ‘Ostvario je san svakog Brazilca‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/eduardo-sin-debitirao-hrvatska-u-15-beljo-lovi-rekord-dinamo-brazil-15710432",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/20/k_22951619_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Vatreni kritičan nakon debakla u finalu: Ovo nam se više ne smije događati!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/freiburg-poraz-u-finalu-aston-villa-schuster-najavljuje-konferencijsku-ligu-15710466",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/21/k_38765083_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Ne osjećam se kao kralj Europske lige! Sljedeće godine igramo Ligu prvaka s najboljima na svijetu‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/emery-aston-villa-osvojila-europsku-ligu-najava-lige-prvaka-15710460",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/21/k_38961723_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Matanović je ostavio trag u finalu unatoč potopu, ali teško su podbacili oni od kojih se očekivalo najviše",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/matanovic-blista-u-finalu-europske-lige-unatoc-porazu-i-ide-na-sp-15710424",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/20/k_38961666_640.jpg",
         "w": 640,
@@ -12,9 +60,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Osvojio Europa ligu i upisao se u povijest: ‘Rođeni pobjednik, trebao bi biti uz bok najvećima‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/osvojio-europa-ligu-i-upisao-se-u-povijest-rodeni-pobjednik-trebao-bi-biti-uz-bok-najvecima-15710425",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/20/k_38961428_640.jpg",
+        "title": "Potvrda zle krvi u svlačionici Reala: Legendarni kapetan na oproštajnu večeru nije pozvao trenera",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/carvajal-odlazi-iz-reala-oprostaj-bez-arbeloe-otkrio-raskol-15710442",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/20/k_38946270_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,21 +72,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Ključni ljudi već imaju plan stvaranja velikog Hajduka! Evo kakva bi se priča mogla dogoditi na...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/piric-nosov-milijuni-hajduk-poljud-veliki-zaokret-15710393",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/20/k_37262730_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Nevjerojatno, odigrati ovako bilo je nestvarno!; ‘Način na koji smo sve preokrenuli...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/aston-villa-freiburg-3-0-europska-liga-istanbul-emery-rekord-tielemans-rogers-15710421",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/20/k_38961476_640.jpg",
+        "title": "‘Special One‘ il ‘Special Once‘? Mourinho je iza sebe ostavio spaljenu zemlju i ponižene legende",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/mourinho-povratak-real-madrid-perez-izbori-bernabeu-trofeji-15710456",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/20/k_38933708_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -60,9 +96,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Aston Villa eurogolovima osvojila Europa ligu, težak poraz Matanovića i društva!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/video-aston-villa-eurogolovima-osvojila-europa-ligu-tezak-poraz-matanovica-i-drustva-15710367",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/20/k_38961072_640.jpg",
+        "title": "Osvojio Europa ligu i upisao se u povijest: ‘Rođeni pobjednik, trebao bi biti uz bok najvećima‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/osvojio-europa-ligu-i-upisao-se-u-povijest-rodeni-pobjednik-trebao-bi-biti-uz-bok-najvecima-15710425",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/20/k_38961428_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -72,9 +108,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Misle da će ‘ja nisam znao‘ biti dovoljno? Problem je sustav koji dozvoljava Mamiće i Pavleke",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/afera-hoo-matesa-krajac-prebacivanje-krivnje-sustav-sporta-u-krizi-15710397",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/19/k_38947061_640.jpg",
+        "title": "Veliki dobitak za hrvatski rukomet, ljudi probijaju plafon: Amateri koji ruše poredak i love finale Kupa",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/hrk-gorica-naleta-polufinale-kupa-nexe-borba-za-europu-15710447",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/19/k_38951773_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,7 +120,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Otišao sam jer mi jedan čovjek ne da raditi u Hrvatskoj! Ima podršku države, razočaran sam...‘",
+        "title": "‘Otišao sam jer mi jedan čovjek ne da raditi u Hrvatskoj! Ima podršku...",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/lino-cervar-preuzima-pelister-vraca-se-u-sjevernu-makedoniju-15710359",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/20/k_36164430_640.jpg",
         "w": 640,
@@ -96,31 +132,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Arteta poput Wengera? Prije poput Alexa Fergusona koji je godinama čekao, a onda stvorio dinastiju",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/arteta-poput-wengera-prije-poput-alexa-fergusona-koji-je-godinama-cekao-a-onda-stvorio-dinastiju-15710420",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/20/k_38955340_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Dragulj iz Dubaija ukrao naslovnice: ‘Uh, Roko na klupi Splita, a Vujo me doveo u Kvarner...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/hrvatska-liga/tomislav-vuckovic-tricom-donio-kvarneru-pobedu-nad-splitom-na-gripama-15710414",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/19/k_38172933_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Propala senzacionalna ideja, Jakirović ipak ne ide direktno u...",
+        "title": "Propala senzacionalna ideja, Jakirović ipak ne ide direktno u Premier ligu",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hull-city-trazi-izravnu-promociju-u-premier-ligu-nakon-spijunskog-skandala-15710323",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/20/k_38847634_640.jpg",
         "w": 640,
@@ -168,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Nekoć najveći talent hrvatskog nogometa seli u Španjolsku? ‘Ovo je njegov san‘ ‘El Molinón je mjesto gdje je najsjajnije zablistao u ligi zvijezda‘, pišu Španjolci o Haliloviću, koji se navodno želi vratiti u svoj bivši klub",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/halilovic-napusta-fortunu-cilja-povratak-u-sporting-gijon-15710375",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/20/k_38156927_640.jpg",
+        "title": "VIDEO: Prvaci uzvratili udarac, Shai briljirao, epska serija u nastajanju sad seli u San Antonio Oklahoma City je izjednačio omjer u finalu Zapada protiv San Antonija, Shai Gilgeous-Alexander je pronašao put kako dovesti svoju momčad do pobjede na domaćem terenu",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/video-prvaci-uzvratili-udarac-shai-briljirao-epska-serija-u-nastajanju-sad-seli-u-san-antonio-15710451",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/21/k_38962777_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Propala senzacionalna ideja, Jakirović ipak ne ide direktno u Premier ligu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hull-city-trazi-izravnu-promociju-u-premier-ligu-nakon-spijunskog-skandala-15710323",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/20/k_38847634_640.jpg",
+        "title": "Ključni ljudi već imaju plan stvaranja velikog Hajduka! Evo kakva bi se priča mogla dogoditi na Poljudu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/piric-nosov-milijuni-hajduk-poljud-veliki-zaokret-15710393",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/20/k_37262730_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Nogometna zvijezda skrivila nesreću, šteta je 200.000 eura, iz auta izašao neozlijeđen: ‘Istina je...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/musiala-bez-vozacke-sudar-a8-194-kmh-bayern-munchen-15710383",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/20/k_38960308_640.jpg",
+        "title": "‘Nevjerojatno, odigrati ovako bilo je nestvarno!; ‘Način na koji smo sve preokrenuli...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/aston-villa-freiburg-3-0-europska-liga-istanbul-emery-rekord-tielemans-rogers-15710421",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/20/k_38961476_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -204,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Uz Matešu i suprugu na meti i cijelo vodstvo? ‘Tko je kriv, morat će otići! Oni ovo nisu zaslužili‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/izvidi-hoo-dorh-putni-nalozi-kartice-sinisa-krajac-zlatko-matesa-15710362",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/20/k_29971635_640.jpg",
+        "title": "Misle da će ‘ja nisam znao‘ biti dovoljno? Problem je sustav koji dozvoljava Mamiće i Pavleke",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/afera-hoo-matesa-krajac-prebacivanje-krivnje-sustav-sporta-u-krizi-15710397",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/19/k_38947061_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -216,21 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Matanovića želi svaki trener, Vušković je vrh, a ovaj mladić dobitak za cijelu Hrvatsku!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/banovic-freiburg-otkriva-recept-za-uspjeh-finale-istanbul-aston-villa-15710299",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/18/k_35871191_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Španjolci oduševljeni Hrvatom: ‘Na scenu je stigla nova generacija, a ‘Kaiser‘ je postao jedna od senzacija‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/luka-vuskovic-as-novi-kaiser-hsv-bundesliga-60-milijuna-15710266",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/20/k_38511941_640.jpg",
+        "title": "‘Otišao sam jer mi jedan čovjek ne da raditi u Hrvatskoj! Ima podršku države, razočaran sam...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/lino-cervar-preuzima-pelister-vraca-se-u-sjevernu-makedoniju-15710359",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/20/k_36164430_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
