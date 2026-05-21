@@ -1,29 +1,5 @@
 [
     {
-        "title": "Wolfsburg gegen Paderborn:So sehen Sie die Bundesliga-Relegation heute im TV",
-        "link": "https://sportbild.bild.de/fussball/1-bundesliga/bundesliga-relegation-so-sehen-sie-vfl-wolfsburg-sc-paderborn-live-im-tv-6a0eb5cf69c19e49a1a59e3b",
-        "image_url": "https://images.bild.de/6a0eb5cf69c19e49a1a59e3b/f2ddf7c95b7c851b2e30b49a5f7c987d,a777b9c5?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Relegation gegen Paderborn:Heckings Geheimplan für die Rettung",
-        "link": "https://sportbild.bild.de/fussball/1-bundesliga/vfl-wolfsburg-hecking-setzt-auf-drei-punkte-rettungsplan-bei-relegations-showdown-6a0f3883f0f7eb608db79be7",
-        "image_url": "https://images.bild.de/6a0f3883f0f7eb608db79be7/3fbda7a5925925f85696ceaa0f905561,c5c39aff?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
         "title": "Wolfsburg – Paderborn heute:Bundesliga-Relegation hier im Live-Ticker",
         "link": "https://sportbild.bild.de/fussball/1-bundesliga/bundesliga-relegation-hier-im-live-ticker-wolfsburg-paderborn-heute-6a0ecc87f0f7eb608db7906f",
         "image_url": "https://images.bild.de/6a0ecc87f0f7eb608db7906f/7c32300e9c6d1f1c605bcd0e9c46a9b6,d26af34e?w=992",
@@ -36,9 +12,21 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Nichts mehr verpassen!:Der 24-Stunden-Stream von SPORT BILD",
-        "link": "https://sportbild.bild.de/sportmix/nichts-mehr-verpassen-der-24-stunden-stream-von-sport-bild-67e3f21af933f731d4312a95",
-        "image_url": "https://images.bild.de/67e3f21af933f731d4312a95/ba25ea86c257543f201c3f37f05b52d4-landscape,1cd6388a?w=992",
+        "title": "Relegations-Showdown:Hecking setzt auf Drei-Punkte-Rettungsplan",
+        "link": "https://sportbild.bild.de/fussball/1-bundesliga/vfl-wolfsburg-hecking-setzt-auf-drei-punkte-rettungsplan-bei-relegations-showdown-6a0f3883f0f7eb608db79be7",
+        "image_url": "https://images.bild.de/6a0f3883f0f7eb608db79be7/3fbda7a5925925f85696ceaa0f905561,c5c39aff?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Er stieg mit Paderborn auf:Baumgart: So gewinnt der SCP die Relegation",
+        "link": "https://sportbild.bild.de/fussball/sc-paderborn/baumgart-so-gewinnt-der-sc-paderborn-die-relegation-6a0eae7069c19e49a1a59dbc",
+        "image_url": "https://images.bild.de/6a0eae7069c19e49a1a59dbc/23975de57274048f0c0c1946d1bb8f1b,ce3af4a1?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -60,9 +48,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "„Für mich wird ein Traum wahr“:WM-Job für Heidis Tom",
-        "link": "https://sportbild.bild.de/fussball/fussball-wm/weltmeisterschaft-2026-wm-job-fuer-heidis-tom-fuer-mich-wird-ein-traum-wahr-6a0dc2dd3b7096456ac7d758",
-        "image_url": "https://images.bild.de/6a0dc2dd3b7096456ac7d758/62dd8cbb3ff14f2563f67c4c35266e3b,4719922a?w=992",
+        "title": "Ex-Weltmeister Littbarski über Nagelsmann:„Unruhigster Nationaltrainer, den wir kennengelernt haben“",
+        "link": "https://sportbild.bild.de/fussball/nationalmannschaft/ex-weltmeister-littbarski-ueber-nagelsmann-der-unruhigste-nationaltrainer-6a0ec82c69c19e49a1a5a014",
+        "image_url": "https://images.bild.de/6a0ec82c69c19e49a1a5a014/420e9e948ce186a89ac3287223a88036,b4c3c86c?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -87,6 +75,18 @@
         "title": "Jetzt packt sie aus:Polnische Leichtathletin nach TV-Auftritt rausgeworfen",
         "link": "https://sportbild.bild.de/sportmix/leichtathletik/polnische-leichtathletin-nach-tv-auftritt-rausgeworfen-jetzt-packt-sie-aus-6a0ea68b3b7096456ac7def3",
         "image_url": "https://images.bild.de/6a0ea68b3b7096456ac7def3/6c1475f483e1a95470f29f9e3761779b,dbc9d17a?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Andere Angebote abgelehnt:Real-Ikone kurz vor Wechsel zu Messi-Verein",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/real-ikone-casemiro-kurz-vor-wechsel-zu-messi-verein-inter-miami-6a0f498d3b7096456ac7ee34",
+        "image_url": "https://images.bild.de/6a0f498d3b7096456ac7ee34/7eb34dcd06e81c43c682fe46d4f5e5f8,834a004b?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -216,21 +216,21 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Shearer fordert neuen Newcastle-Stürmer:Von Woltemade ist schon keine Rede mehr",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/von-nick-woltemade-keine-rede-mehr-shearer-will-neuen-newcastle-stuermer-6a0aef7237d84a6d6ae9bcd8",
-        "image_url": "https://images.bild.de/6a0aef7237d84a6d6ae9bcd8/53073cddb1fe02ba66819edccd44de61,98dee933?w=992",
+        "title": "Was für ein Handball-Krimi!:Titel-Drama: Magdeburg krönt sich zum Meister",
+        "link": "https://sportbild.bild.de/sportmix/handball/was-fuer-ein-handball-krimi-titel-drama-zwischen-magdeburg-und-flensburg-6a0f42dd69c19e49a1a5abbd",
+        "image_url": "https://images.bild.de/6a0f42dd69c19e49a1a5abbd/4bf88ef334b5050f1ac5c07f23ef9065,7f8bb7ee?w=992",
         "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
+        "h": 661,
+        "focus_y": 0.35,
         "source_title1": "SPORT",
         "source_title2": "BILD",
         "source_color": "#fc4e4e",
         "flag": "🇩🇪"
     },
     {
-        "title": "„Dankbar, dass ich nicht gelähmt war“:Biathlon-Star mit Horror-Unfall im Urlaub",
-        "link": "https://sportbild.bild.de/sportmix/wintersport/biathlon-star-mit-horror-unfall-im-urlaub-dankbar-dass-ich-nicht-gelaehmt-war-6a0ec160a896ebf1b49e849a",
-        "image_url": "https://images.bild.de/6a0ec160a896ebf1b49e849a/2cfc2805b836597b3872e0a68a3990a8,f1a6838b?w=992",
+        "title": "Eklat in Hamburg:Deutscher Tennis-Star kickt Schläger in die Ränge",
+        "link": "https://sportbild.bild.de/sportmix/tennis/deutscher-tennis-star-kickt-schlaeger-in-die-raenge-eklat-in-hamburg-6a0f5d2ef0f7eb608db79d55",
+        "image_url": "https://images.bild.de/6a0f5d2ef0f7eb608db79d55/3d487b50f1b99a576cf951788eee33e6,2bcd7183?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
