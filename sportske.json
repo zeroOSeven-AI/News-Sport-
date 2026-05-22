@@ -1,8 +1,56 @@
 [
     {
-        "title": "Doznajemo: Dinamo želi ponajboljeg igrača Hajduka?! Iz Maksimira neslužbenim komentarom nisu demantirali zainteresiranost",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/dinamo-demantira-interes-za-ikera-almenu-trazi-krilna-pojacanja-15711026",
+        "title": "UŽIVO Hajduk - Vukovar: Velika iznenađenja u sastavu! Livaja i društvo na klupi, veliki talent debitira u prvih 11 Utakmicu između Hajduka i Vukovara pratimo i komentiramo iz minute u minutu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/uzivo-hajduk-vukovar-velika-iznenadenja-u-sastavu-bijelih-livaja-i-drustvo-na-klupi-veliki-talent-debitira-u-prvih-11-15711105",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38608670_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Doznajemo: Dinamo želi ponajboljeg igrača Hajduka?!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/transferi/dinamo-demantira-interes-za-ikera-almenu-trazi-krilna-pojacanja-15711026",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38034559_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Ludi dan na Opus Areni! Prvi golovi nakon tri mjeseca pali pred najmanje gledatelja u povijesti",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/osijek-slaven-belupo-2-0-prekinut-post-83-dana-omerovic-jovicic-15711046",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38973971_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Čeka nas vruće ljeto izbora u HOO-u! Evo tko bi bio najidealniji izbor za predsjednika",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/hoo-ljeto-izbora-ostavka-matese-potraga-za-novim-predsjednikom-15711100",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_37589113_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Jakirović majstorskim potezom oduševio navijače Hull Cityja: ‘Stavi ovo na Instagram!‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/jakirovic-potez-na-treningu-hull-city-pred-wembley-finalom-protiv-middlesbrougha-15711119",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38897426_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,7 +72,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Kovačević otkrio koje pozicije će pojačati, a o Dalićevom popisu kaže: ‘Možda je nespretno...",
+        "title": "Kovačević otkrio koje pozicije će pojačati, a o Dalićevom popisu kaže: ‘Možda je nespretno izneseno‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/dinamo-festa-prvaka-maksimir-beljo-rekord-peric-theophile-oprostaj-15711066",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38909613_640.jpg",
         "w": 640,
@@ -36,81 +84,33 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Sanchez uoči posljednje utakmice Rijeke: ‘Vrijeme je za oproštaj od velikih igrača. Kek? Želim mu svu...",
+        "title": "VIDEO Sjajna Marčinko prvi put u karijeri izborila finale WTA turnira i postala prvi hrvatski reket",
+        "link": "https://sportske.jutarnji.hr/sportske/tenis/atp-wta-turniri/petra-marcinko-finale-wta-rabat-pobjeda-teichmann-protiv-kalinine-15711113",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38629548_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "U Londonu su već spremili milijune! Xabi Alonso od uprave Chelseaja traži dvije Realove zvijezde",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/transferi/u-londonu-su-vec-spremili-milijune-xabi-alonso-od-uprave-chelseaja-trazi-dvije-realove-zvijezde-15711088",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38759026_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Sanchez: ‘Vrijeme je za oproštaj od velikih igrača Rijeke. Kek? Želim mu svu sreću, možda baš u Rijeci...‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/rijeka-gorica-rujevica-trece-mjesto-oprostaj-ozljede-sanchez-15711067",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38878197_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "UŽIVO: Osijek - Slaven Belupo: Gosti na Opus Areni love peto mjesto ljestvice",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-osijek-slaven-belupo-gosti-na-opus-areni-love-peto-mjesto-ljestvice-15711046",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38616021_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Bivša zvijezda Real Madrida progovorila o Hrvatu: ‘Svatko ima svoje miljenike, ja nisam bio njegov‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/james-rodriguez-kritizira-kovaca-metode-treninga-bayern-netflix-15711043",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38643352_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Neočekivani rasplet na pomolu: Nesuđeni trener Dinama dobio otkaz i sada preuzima posrnulog velikana?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/neocekivani-rasplet-na-pomolu-nesudeni-trener-dinama-dobio-otkaz-i-sada-preuzima-posrnulog-velikana-15711032",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38849520_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Izbornik Engleske objavio jedan od najkontroverznijih popisa za SP, otpala i zvijezda Reala!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/izbornik-engleske-objavio-jedan-od-najkontroverznijih-popisa-za-sp-otpala-i-zvijezda-reala-15710920",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_37848040_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Utakmice francuske nogometne reprezentacije prenosit će se u kinima?! ‘Nogomet mora ostati popularan‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/utakmice-francuske-nogometne-reprezentacije-prenosit-ce-se-u-kinima-nogomet-mora-ostati-popularan-15711051",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38959528_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Soudani se vraća u Zagreb: Mr. Derby odabrao klub za kraj karijere, u priči još jedna ikona HNL-a?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/soudani-napusta-maribor-potpisuje-za-kustosiju-povratak-u-zagreb-15710965",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_26586769_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Bio je Garcijina prva želja, zaslužio je puno povjerenje, a sada može dugoročno kormilariti igrom Bijelih Pajazitija ovog ljeta treba okružiti igračima koji će njegove kvalitete isturiti, a mane skriti",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/pajaziti-37-utakmica-kljucni-vezni-hajduka-25-26-15710992",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/20/k_38932942_640.jpg",
+        "title": "Bivša Realova zvijezda progovorila o Hrvatu: ‘Svatko ima svoje miljenike, ja nisam bio njegov‘ ‘Htio je da igrači poslije treninga u teretani pola sata voze bicikl. Uvijek bih ga pitao: Idem li ja na Tour de France? Pa ja sam nogometaš‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/james-rodriguez-kritizira-kovaca-metode-treninga-bayern-netflix-15711043",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38643352_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,9 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Modrić nakon karijere ulazi u stožer slavnog trenera? Talijani donose senzaciju: Evo o čemu sve ovisi",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/modric-produzuje-u-milanu-potom-ulazi-u-allegrijev-stozer-15710936",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38094737_640.jpg",
+        "title": "Neočekivani rasplet na pomolu: Nesuđeni trener Dinama dobio otkaz i sada preuzima posrnulog velikana?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/neocekivani-rasplet-na-pomolu-nesudeni-trener-dinama-dobio-otkaz-i-sada-preuzima-posrnulog-velikana-15711032",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38849520_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -204,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dinamov insajder: ‘Ne damo ga za manje od 15 milijuna eura! Nova Kranjča? Ovo neka svi zaborave‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-remont-pojacanja-dominguez-cijena-15-milijuna-maksimir-stadion-15710850",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/21/k_38882967_640.jpg",
+        "title": "Izbornik Engleske objavio jedan od najkontroverznijih popisa za SP, otpala i zvijezda Reala!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/izbornik-engleske-objavio-jedan-od-najkontroverznijih-popisa-za-sp-otpala-i-zvijezda-reala-15710920",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_37848040_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -216,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Jelavić: ‘Pokušat ćemo iznenaditi Dinamo, želimo završiti na petom mjestu‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/lokomotiva-trazi-iznenadenje-dinama-povratak-vesovica-i-kolingera-peto-mjesto-15711017",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38609449_640.jpg",
+        "title": "Soudani se vraća u Zagreb: Mr. Derby odabrao klub za kraj karijere, u priči još jedna ikona HNL-a?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/soudani-napusta-maribor-potpisuje-za-kustosiju-povratak-u-zagreb-15710965",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_26586769_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -228,9 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Ovo je konačan kraj, City se već oprostio od Pepa Guardiole: ‘Bilo je je***o zabavno‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/pep-guardiola-odlazi-iz-manchester-cityja-postaje-globalni-ambasador-15710981",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38972076_640.jpg",
+        "title": "Kreće atensko ludilo, Mario Hezonja i Real se nadaju da će zauzdati zahuktalu Valenciju",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/basket-euroliga/krece-atensko-ludilo-mario-hezonja-i-real-se-nadaju-da-ce-zauzdati-zahuktalu-valenciju-15711109",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/21/k_38880707_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
