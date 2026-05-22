@@ -1,8 +1,68 @@
 [
     {
-        "title": "Dinamov insajder: ‘Ne damo ga za manje od 15 milijuna eura! Nova Kranjča? Ovo neka svi zaborave‘ ‘Novi Maksimir će nama donijeti godišnje između 10 i 15 milijuna eura, onda nećemo trebati prodavati‘",
+        "title": "Izbornik Engleske objavio jedan od najkontroverznijih popisa za SP, otpala i zvijezda Reala! Izvan popisa ostale su brojne zvijezde, poput Fodena, Palmera, Maguirea, čak i Alexandera-Arnolda",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/izbornik-engleske-objavio-jedan-od-najkontroverznijih-popisa-za-sp-otpala-i-zvijezda-reala-15710920",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_37848040_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Nekoć omiljeni dinamovac vraća se u Zagreb! Odabrao klub za kraj karijere, u priči još jedna ikona?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/soudani-napusta-maribor-potpisuje-za-kustosiju-povratak-u-zagreb-15710965",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_26586769_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Modrić nakon karijere ulazi u stožer slavnog trenera? Talijani donose senzaciju: Evo o čemu sve ovisi",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/modric-produzuje-u-milanu-potom-ulazi-u-allegrijev-stozer-15710936",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38094737_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Dinamov insajder: ‘Ne damo ga za manje od 15 milijuna eura! Nova Kranjča? Ovo neka svi zaborave‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-remont-pojacanja-dominguez-cijena-15-milijuna-maksimir-stadion-15710850",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/21/k_38882967_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Kranjčar i Ukić govorili o usponima, padovima, najvećim ego-triperima: ‘Čovjek me fascinirao...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kranjcar-i-ukic-govorili-o-usponima-padovima-najvecim-ego-triperima-covjek-me-fascinirao-15710959",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38968673_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Garcia će ispuniti obećanje, Hajduk u nikad viđenom sastavu! Ovo je prvih 11 za kraj sezone",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/garcia-rotira-hajduk-nova-lica-protiv-vukovara-na-poljudu-15710887",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38713785_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,6 +84,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Nema bolje zagrijavanja za sportski vikend od kviza Sportskih novosti",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/kviz/nema-bolje-zagrijavanja-za-sportski-vikend-od-kviza-sportskih-novosti-15710884",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/19/k_38806688_640.gif",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "VIDEO Hrvat nam šalje uznemirujuće snimke iz Kijeva: ‘Ogroman napad, oko 20 poginulih...‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/jakov-basic-kijev-nogomet-sirene-napadi-zorja-luhansk-15710831",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/21/k_38968868_640.png",
@@ -36,81 +108,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Yamal u javnosti s novom djevojkom, otkrila kako mu je ukrala srce: ‘Nisam znala da je...",
+        "title": "VIDEO Yamal u javnosti s novom djevojkom, otkrila kako mu je ukrala srce: ‘Nisam znala da je nogometaš‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/ines-garcia-otkriva-romansu-s-lamineom-yamalom-od-kase-do-barcelone-15710865",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38970743_640.png",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Imperij‘ zadaje novi udarac, može li itko zaustaviti ‘klinca‘? ‘Zid šampiona‘ traži nove žrtve",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/automoto/formula1/mercedes-nadogradnje-vn-kanade-montreal-antonelli-russell-dominacija-15710847",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/21/k_38849811_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Milan slaže ‘monstruozni‘ vezni red, Modriću stiže zvijezda Bayerna! ‘Ovo žele i trener i navijači‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/goretzka-milan-allegri-modric-rabiot-transfer-liga-prvaka-cagliari-15710837",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38369848_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Izbornik Engleske učinio nezamislivo, sijevaju žestoke kritike: ‘Najgora odluka ikada!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/tuchel-izostavio-palmera-fodena-i-maguirea-forma-ispred-reputacije-15710824",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38931230_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hrvatski reprezentativac u poslu od četiri milijuna eura, odlazi na mjesto gdje se i Shaq spremao za NBA",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-reprezentacija/hrvatski-reprezentativac-u-poslu-od-cetiri-milijuna-eura-odlazi-na-mjesto-gdje-se-i-shaq-spremao-za-nba-15710857",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/21/k_37947642_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Jedan od ključnih Vatrenih u utrci s vremenom, doktor reprezentacije otkriva: ‘Imamo dobre vijesti‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dalic-kovacicev-povratak-ritam-vatreni-perisic-euro-ozljede-15710821",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/21/k_36454914_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Čišćenje od parazita i prevaranata nije dovoljno, jasno je što hitno treba hrvatskom sportu",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/zlatko-matesa-24-godine-hoo-trofeji-bez-reforme-klubovi-u-padu-15710773",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/21/k_36235062_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Uvijek će biti žrtava poput Mišića: Mnoge zvijezde ostale bez poziva, sve je nadmašio potez Cice Kranjčara ‘Rođen sam u pogrešnoj nogometnoj eri‘ objašnjavao je Nenad Pralija, nekoć važan Hajdukov igrač, zašto s ‘vatrenima‘ nije dobacio do SP-a",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/misic-bez-svjetskog-prvenstva-dinamo-konkurencija-odluke-izbornika-15710816",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/21/k_38882030_640.jpg",
+        "title": "‘Imperij‘ zadaje novi udarac, može li itko zaustaviti ‘klinca‘? ‘Zid šampiona‘ traži nove žrtve Jedno od glavnih pitanja koje si svi postavljaju jest može li Russell ikako odgovoriti na trenutačnu formu svog momčadskog kolege Antonellija",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/automoto/formula1/mercedes-nadogradnje-vn-kanade-montreal-antonelli-russell-dominacija-15710847",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/21/k_38849811_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,9 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Georgina u euforiji, Ronaldove suze obilaze svijet! Pogledajte reakciju CR-a nakon velikog trijumfa",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/ronaldo-dva-gola-al-nassr-naslov-suze-saudijska-arabija-15710796",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/21/k_38969099_640.jpg",
+        "title": "Plakali su i veliki i bogati, a onda po istom receptu stigli na vrh: Ovo je moguće samo u Engleskoj",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/arteta-ferguson-klopp-strpljenje-plan-prekid-suse-naslova-15710946",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38965795_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -204,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Knicksi udvostručili vodstvo protiv Cavaliersa i stigli na pola puta do velikog finala",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/knicksi-udvostrucili-vodstvo-protiv-cavaliersa-i-stigli-na-pola-puta-do-velikog-finala-15710828",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38970135_640.jpg",
+        "title": "Hrvat u središtu povijesne večeri: ‘Ovo je najboljih nekoliko mjeseci moje karijere, nevjerojatno...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/ivan-leko-doveo-club-brugge-do-20-naslova-dramatican-rasplet-belgije-15710876",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38969162_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -216,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Ako Dalić ode, to će biti zbog jednog od ova dva razloga: ‘Vidio sam kako pati, grči se, plače...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/dalic-razmislja-o-odlasku-mir-ispred-milijuna-i-pritiska-15710736",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/21/k_37669302_640.jpg",
+        "title": "Milan slaže ‘monstruozni‘ vezni red, Modriću stiže zvijezda Bayerna! ‘Ovo žele i trener i navijači‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/goretzka-milan-allegri-modric-rabiot-transfer-liga-prvaka-cagliari-15710837",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38369848_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -228,9 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Je li moguće: Zlatan Ibrahimović ulazi u ring, i to protiv jednog od najvećih boksača?",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/boks/ibrahimovic-tyson-fury-dublin-1-kolovoza-najava-bez-potvrde-15710794",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/21/k_38969032_640.jpg",
+        "title": "Izbornik Engleske učinio nezamislivo, sijevaju žestoke kritike: ‘Najgora odluka ikada!‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/tuchel-izostavio-palmera-fodena-i-maguirea-forma-ispred-reputacije-15710824",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38931230_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
