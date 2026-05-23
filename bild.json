@@ -1,11 +1,11 @@
 [
     {
-        "title": "Erst Tor, dann Unterbrechung:FC Bayern – VfB Stuttgart HIER im Live-Ticker",
-        "link": "https://sportbild.bild.de/fussball/dfb-pokal/dfb-pokalfinale-heute-fc-bayern-vfb-stuttgart-im-live-ticker-6a0d7a89f0f7eb608db77d59",
-        "image_url": "https://images.bild.de/6a0d7a89f0f7eb608db77d59/48801d52bc4a13bdeb25af56d09d200f,56066ce8?w=992",
+        "title": "Kane! Kane! Kane!:Final-Flaute beendet! Bayern ist Double-Sieger",
+        "link": "https://sportbild.bild.de/fussball/dfb-pokal/dfb-pokal-bayern-ist-pokalsieger-3-tore-von-harry-kane-gegen-stuttgart-6a12082d3b7096456ac80e52",
+        "image_url": "https://images.bild.de/6a12082d3b7096456ac80e52/6e163c37ef7f064f8ebb7706869f010a,9b3ae539?w=992",
         "w": 992,
-        "h": 647,
-        "focus_y": 0.35,
+        "h": 558,
+        "focus_y": 0.3,
         "source_title1": "SPORT",
         "source_title2": "BILD",
         "source_color": "#fc4e4e",
@@ -36,9 +36,21 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Eishockey-WM:Österreich gegen Deutschland HIER im Live-Ticker",
+        "title": "Spannung bei der Eishockey-WM:Österreich gegen Deutschland HIER im Live-Ticker",
         "link": "https://sportbild.bild.de/sportmix/eishockey/eishockey-wm-oesterreich-gegen-deutschland-hier-im-live-ticker-6a11c620f0f7eb608db7ba70",
         "image_url": "https://images.bild.de/6a11c620f0f7eb608db7ba70/ab88b8d2985d01092fcd2e94c1dbc16a,f80423eb?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Formel 1 in Kanada:Das Qualifying jetzt im Live-Ticker!",
+        "link": "https://sportbild.bild.de/motorsport/formel-1/formel-1-in-kanada-das-qualifying-jetzt-im-live-ticker-6a101b2ef0f7eb608db7a490",
+        "image_url": "https://images.bild.de/6a101b2ef0f7eb608db7a490/98dbca961087be2d8a0a23ed70ba4eb9,d52491de?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -84,6 +96,18 @@
         "flag": "🇩🇪"
     },
     {
+        "title": "Was dahintersteckt:Nationalmannschaft zieht WM-Quartier aus den USA ab",
+        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-2026-nationalmannschaft-zieht-wm-quartier-aus-den-usa-ab-6a11ff1dbbfd2c37a0d1a4eb",
+        "image_url": "https://images.bild.de/6a11ff1dbbfd2c37a0d1a4eb/7e8a3733c4908441cf87696e1569489a,6cd7cc7f?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
         "title": "„Auf keinen Fall da verbrennen“:Hoeneß-Kritik an Kimmich-Rolle unter Nagelsmann",
         "link": "https://sportbild.bild.de/fussball/nationalmannschaft/hoeness-mit-scharfer-nagelsmann-kritik-nicht-in-ordnung-nicht-fair-6a11c6723b7096456ac80b7c",
         "image_url": "https://images.bild.de/6a11c6723b7096456ac80b7c/07177a098960cc6785cece22dccf6baa,48e28349?w=992",
@@ -99,18 +123,6 @@
         "title": "„Ich habe mich entschieden …“:WM-Zoff um diesen Barça-Star",
         "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-zoff-um-barca-star-ich-habe-mich-entschieden-6a116c1a9c51a75bc4752fb2",
         "image_url": "https://images.bild.de/6a116c1a9c51a75bc4752fb2/51cfda09ad4c5c1245938cca571e646a,f03008ba?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "„Aus meiner Sicht“:Das sagt Müller über unseren WM-Kader",
-        "link": "https://sportbild.bild.de/fussball/nationalmannschaft/wm-das-sagt-thomas-mueller-ueber-unseren-kader-aus-meiner-sicht-6a10006bf0f7eb608db7a1ce",
-        "image_url": "https://images.bild.de/6a10006bf0f7eb608db7a1ce/f9775ffd55ad8c50bd2f378f307cb8bf,b07bec74?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -219,18 +231,6 @@
         "title": "Nichts mehr verpassen!:Der 24-Stunden-Stream von SPORT BILD",
         "link": "https://sportbild.bild.de/sportmix/nichts-mehr-verpassen-der-24-stunden-stream-von-sport-bild-67e3f21af933f731d4312a95",
         "image_url": "https://images.bild.de/67e3f21af933f731d4312a95/ba25ea86c257543f201c3f37f05b52d4-landscape,1cd6388a?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Gegen den HSV:Robben wütet an der Seitenlinie",
-        "link": "https://sportbild.bild.de/fussball/gegen-den-hsv-robben-wuetet-an-der-seitenlinie-6a11e827f0f7eb608db7bc0a",
-        "image_url": "https://images.bild.de/6a11e827f0f7eb608db7bc0a/ceb85460b5cdd04cbd7989bdfd81d4c6,59734a37?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
