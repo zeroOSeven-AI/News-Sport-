@@ -1,5 +1,17 @@
 [
     {
+        "title": "Wie geht es mit Bayerns Sportvorstand weiter?:Hoeneß zu Eberl-Zukunft: „Da sind noch Zweifel“",
+        "link": "https://sportbild.bild.de/fussball/fc-bayern-muenchen/uli-hoeness-ueber-max-eberls-zukunft-beim-fc-bayern-da-sind-noch-zweifel-6a1198179c51a75bc475325b",
+        "image_url": "https://images.bild.de/6a1198179c51a75bc475325b/f6f07269e1577c9c3ac91c464777f191,dede2150?w=992",
+        "w": 992,
+        "h": 630,
+        "focus_y": 0.35,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
         "title": "Wer erfüllt sich den Traum vom DFB-Pokal?:Finaltag der Amateure hier im Liveticker",
         "link": "https://sportbild.bild.de/fussball/finaltag-der-amateure-hier-im-liveticker-wer-erfuellt-sich-den-traum-vom-dfb-pokal-6a116e983b7096456ac8067c",
         "image_url": "https://images.bild.de/6a116e983b7096456ac8067c/37968f955989bbba3d878294141a856b,f46b47f0?w=992",
@@ -12,24 +24,12 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Nach heftigem Zoff mit Trainer:Trauriger Abschied für Real-Star",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/nach-heftigem-zoff-mit-trainer-trauriger-abschied-fuer-real-star-6a117853be29d4b4607a4712",
-        "image_url": "https://images.bild.de/6a117853be29d4b4607a4712/266429c5407bd2ba7ac16c0b95006e04,9c0f7d2c?w=992",
+        "title": "„Ich konnte fühlen, dass …“:Wirtz: So wirkte sich Jotas Tod auf die Kabine aus",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/florian-wirtz-spricht-offen-ueber-schwierigen-start-bei-liverpool-nach-jotas-tod-6a117862be29d4b4607a4716",
+        "image_url": "https://images.bild.de/6a117862be29d4b4607a4716/4c96a9bed6182ef94eda5cb892e7dcd8,686b040c?w=992",
         "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "„Ganz verrückte Dinge“:Verstappen trifft Zukunfts-Entscheidung!",
-        "link": "https://sportbild.bild.de/motorsport/formel-1/formel-1-verstappen-trifft-zukunfts-entscheidung-verrueckte-dinge-6a118bbef0f7eb608db7b729",
-        "image_url": "https://images.bild.de/6a118bbef0f7eb608db7b729/096d805d035659a722b0e0765fdbd1a1,47a49032?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
+        "h": 661,
+        "focus_y": 0.35,
         "source_title1": "SPORT",
         "source_title2": "BILD",
         "source_color": "#fc4e4e",
@@ -48,9 +48,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "„Hätte ihn nicht zurückgeholt“:Hamann zweifelt an Neuer als WM-Torhüter",
-        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-2026-hamann-zweifelt-an-neuer-haette-ihn-nicht-zurueckgeholt-6a1071b63b7096456ac7feef",
-        "image_url": "https://images.bild.de/6a1071b63b7096456ac7feef/a2fef3c3b156fa23bc80f6fba8f6f3bd,b5c5faa2?w=992",
+        "title": "„Aus meiner Sicht“:Das sagt Müller über unseren WM-Kader",
+        "link": "https://sportbild.bild.de/fussball/nationalmannschaft/wm-das-sagt-thomas-mueller-ueber-unseren-kader-aus-meiner-sicht-6a10006bf0f7eb608db7a1ce",
+        "image_url": "https://images.bild.de/6a10006bf0f7eb608db7a1ce/f9775ffd55ad8c50bd2f378f307cb8bf,b07bec74?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -72,9 +72,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Woran er sich erinnern wird:Slot spricht über brisante Salah-Aussagen",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/fc-liverpool-arne-slot-spricht-ueber-brisante-aussagen-von-mo-salah-6a116661f0f7eb608db7b4e1",
-        "image_url": "https://images.bild.de/6a116661f0f7eb608db7b4e1/286e2c718872246390fc386526f41cfe,56695930?w=992",
+        "title": "Bayern-Torwart setzt aus:Nagelsmann an Neuers Pokalaus beteiligt!",
+        "link": "https://sportbild.bild.de/fussball/dfb-pokal-nagelsmann-war-an-neuers-pokalverzicht-beteiligt-6a11a6112dec7e526e66de03",
+        "image_url": "https://images.bild.de/6a11a6112dec7e526e66de03/5aa7a537140d81a33077ff13bb444415,1ae543bb?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -84,9 +84,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Wie es verhindert werden soll:Hitze-Chaos bei den French Open droht!",
-        "link": "https://sportbild.bild.de/sportmix/tennis/french-open-sinner-djokovic-zverev-und-co-droht-rekord-hitze-6a1188333b7096456ac8081b",
-        "image_url": "https://images.bild.de/6a1188333b7096456ac8081b/dc3802b1ee8f8fb8d7ddbe70f4ef1619,c1515151?w=992",
+        "title": "Als erste Mannschaft!:Bayern ballert sich ins Playoff-Halbfinale",
+        "link": "https://sportbild.bild.de/sportmix/basketball/basketball-bayern-ballert-trier-weg-meister-zieht-ins-playoff-halbfinale-ein-6a119ca79c51a75bc47532bf",
+        "image_url": "https://images.bild.de/6a119ca79c51a75bc47532bf/f9a1bae7af2c68e1b2cefe6eb82e3657,f0350a87?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -96,9 +96,21 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Trennung besiegelt:Trainer-Knall bei Zweitligist!",
-        "link": "https://sportbild.bild.de/fussball/2-bundesliga/2-liga-trainer-knall-bei-arminia-bielefeld-6a11633af0f7eb608db7b4b8",
-        "image_url": "https://images.bild.de/6a11633af0f7eb608db7b4b8/3d2572d9d27943f3e74ad94ca33b48da,dadca765?w=992",
+        "title": "Nach heftigem Zoff mit Trainer:Trauriger Abschied für Real-Star",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/nach-heftigem-zoff-mit-trainer-trauriger-abschied-fuer-real-star-6a117853be29d4b4607a4712",
+        "image_url": "https://images.bild.de/6a117853be29d4b4607a4712/266429c5407bd2ba7ac16c0b95006e04,9c0f7d2c?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Nichts mehr verpassen!:Der 24-Stunden-Stream von SPORT BILD",
+        "link": "https://sportbild.bild.de/sportmix/nichts-mehr-verpassen-der-24-stunden-stream-von-sport-bild-67e3f21af933f731d4312a95",
+        "image_url": "https://images.bild.de/67e3f21af933f731d4312a95/ba25ea86c257543f201c3f37f05b52d4-landscape,1cd6388a?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -132,21 +144,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Entscheidung steht:Füchse-Star wechselt zu diesem Handball-Klub",
-        "link": "https://sportbild.bild.de/sportmix/handball/entscheidung-steht-fuechse-star-wechselt-zu-diesem-handball-klub-6a11824c9c51a75bc475310e",
-        "image_url": "https://images.bild.de/6a11824c9c51a75bc475310e/0eab2f8bf8d89935ef56aec3079fb095,89e859e4?w=992",
-        "w": 992,
-        "h": 607,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "„Aus meiner Sicht“:Das sagt Müller über unseren WM-Kader",
-        "link": "https://sportbild.bild.de/fussball/nationalmannschaft/wm-das-sagt-thomas-mueller-ueber-unseren-kader-aus-meiner-sicht-6a10006bf0f7eb608db7a1ce",
-        "image_url": "https://images.bild.de/6a10006bf0f7eb608db7a1ce/f9775ffd55ad8c50bd2f378f307cb8bf,b07bec74?w=992",
+        "title": "Team vor Saisonfinale im Stich gelassen?:Trainer-Klartext zum abgereisten Tottenham-Kapitän",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/premier-league-tottenham-kapitaen-abgereist-trainer-spricht-klartext-6a11a4509c51a75bc4753320",
+        "image_url": "https://images.bild.de/6a11a4509c51a75bc4753320/c39adc7b624b568fd2d0f062e1a6f89c,d6edb15d?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -156,21 +156,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Überraschende Statistik:Das ist der beste Handball-Bundestrainer seit 1992",
-        "link": "https://sportbild.bild.de/sportmix/handball/ueberraschende-statistik-das-ist-der-beste-handball-bundestrainer-seit-1992-6a1170fc9c51a75bc4753012",
-        "image_url": "https://images.bild.de/6a1170fc9c51a75bc4753012/6fa61a23405960e3aa1ccf483cdcd511,6af94e03?w=992",
-        "w": 992,
-        "h": 672,
-        "focus_y": 0.35,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "„Haben zusammen überlegt ...“:Nagelsmann äußert sich zur Neuer-Verletzung",
-        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-2026-julian-nagelsmann-aeussert-sich-zur-verletzung-von-manuel-neuer-6a1158e73b7096456ac80548",
-        "image_url": "https://images.bild.de/6a1158e73b7096456ac80548/a3273ace1430f36c1b926092d6765dd9,614a2d6e?w=992",
+        "title": "Box-Kracher Fury gegen Joshua:Gute Nachrichten für 300 Mio. Netflix-Kunden!",
+        "link": "https://sportbild.bild.de/sportmix/boxen/boxkampf-fury-joshua-gute-nachrichten-fuer-300-mio-netflix-kunden-6a1190a2f0f7eb608db7b774",
+        "image_url": "https://images.bild.de/6a1190a2f0f7eb608db7b774/db69f5848eae4172f47ee7ac3bd83698,b8d8355d?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -180,9 +168,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Nichts mehr verpassen!:Der 24-Stunden-Stream von SPORT BILD",
-        "link": "https://sportbild.bild.de/sportmix/nichts-mehr-verpassen-der-24-stunden-stream-von-sport-bild-67e3f21af933f731d4312a95",
-        "image_url": "https://images.bild.de/67e3f21af933f731d4312a95/ba25ea86c257543f201c3f37f05b52d4-landscape,1cd6388a?w=992",
+        "title": "„Ganz verrückte Dinge“:Verstappen trifft Zukunfts-Entscheidung!",
+        "link": "https://sportbild.bild.de/motorsport/formel-1/formel-1-verstappen-trifft-zukunfts-entscheidung-verrueckte-dinge-6a118bbef0f7eb608db7b729",
+        "image_url": "https://images.bild.de/6a118bbef0f7eb608db7b729/096d805d035659a722b0e0765fdbd1a1,47a49032?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -192,9 +180,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Ungewöhnliche Kritik am eigenen Team:Verstappen: „Meine Füße sind von Pedalen gerutscht“",
-        "link": "https://sportbild.bild.de/motorsport/formel-1/max-verstappen-meine-fuesse-sind-von-pedalen-gerutscht-6a1181e39c51a75bc4753106",
-        "image_url": "https://images.bild.de/6a1181e39c51a75bc4753106/f53a562da0ac11c1601d69617f00fec7,2ca3d0a2?w=992",
+        "title": "Trennung besiegelt:Trainer-Knall bei Zweitligist!",
+        "link": "https://sportbild.bild.de/fussball/2-bundesliga/2-liga-trainer-knall-bei-arminia-bielefeld-6a11633af0f7eb608db7b4b8",
+        "image_url": "https://images.bild.de/6a11633af0f7eb608db7b4b8/3d2572d9d27943f3e74ad94ca33b48da,dadca765?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -216,11 +204,11 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Auf Wolke 10:Argentinien reist mit Messi-Flieger zur WM",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/auf-wolke-10-argentinien-reist-mit-messi-flieger-zur-wm-6a118b9c9c51a75bc47531a1",
-        "image_url": "https://images.bild.de/6a118b9c9c51a75bc47531a1/8a178c39b70a4d071ef3a53775fe42e0,b49443e3?w=992",
-        "w": 658,
-        "h": 370,
+        "title": "„Haben zusammen überlegt ...“:Nagelsmann äußert sich zur Neuer-Verletzung",
+        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-2026-julian-nagelsmann-aeussert-sich-zur-verletzung-von-manuel-neuer-6a1158e73b7096456ac80548",
+        "image_url": "https://images.bild.de/6a1158e73b7096456ac80548/a3273ace1430f36c1b926092d6765dd9,614a2d6e?w=992",
+        "w": 992,
+        "h": 558,
         "focus_y": 0.3,
         "source_title1": "SPORT",
         "source_title2": "BILD",
@@ -228,9 +216,21 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Sieg im dritten Viertelfinale:Vechta mit Matchball gegen Alba",
-        "link": "https://sportbild.bild.de/sportmix/basketball/sieg-im-dritten-viertelfinale-vechta-mit-matchball-gegen-alba-6a1086713b7096456ac8001f",
-        "image_url": "https://images.bild.de/6a1086713b7096456ac8001f/10c71f92cdbe9ce01c708e2851688c85,baf83892?w=992",
+        "title": "Auf der Bühne:Yamal tanzt mit Musik-Megastar",
+        "link": "https://sportbild.bild.de/sportmix/auf-der-buehne-yamal-tanzt-mit-musik-megastar-6a11ba5a3b7096456ac80ae6",
+        "image_url": "https://images.bild.de/6a11ba5a3b7096456ac80ae6/78538db55537a9dd7b04843d2ef4a505,daea1ffe?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Fans flippen aus:Müller im Deutschland-Trikot aufgetaucht!",
+        "link": "https://sportbild.bild.de/fussball/fans-flippen-aus-mueller-im-deutschland-trikot-aufgetaucht-6a119fa09c51a75bc47532de",
+        "image_url": "https://images.bild.de/6a119fa09c51a75bc47532de/81e8efbd9e4a395ecc8974b0e6c32da5,b37868f1?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
