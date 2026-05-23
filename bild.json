@@ -12,7 +12,7 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Wer erfüllt sich den Traum vom DFB-Pokal?:Finaltag der Amateure hier im Liveticker",
+        "title": "Wer erfüllt sich den Traum vom DFB-Pokal?:Finaltag der Amateure hier im Live-Ticker",
         "link": "https://sportbild.bild.de/fussball/finaltag-der-amateure-hier-im-liveticker-wer-erfuellt-sich-den-traum-vom-dfb-pokal-6a116e983b7096456ac8067c",
         "image_url": "https://images.bild.de/6a116e983b7096456ac8067c/37968f955989bbba3d878294141a856b,f46b47f0?w=992",
         "w": 992,
@@ -24,12 +24,36 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "„Ich konnte fühlen, dass …“:Wirtz: So wirkte sich Jotas Tod auf die Kabine aus",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/florian-wirtz-spricht-offen-ueber-schwierigen-start-bei-liverpool-nach-jotas-tod-6a117862be29d4b4607a4716",
-        "image_url": "https://images.bild.de/6a117862be29d4b4607a4716/4c96a9bed6182ef94eda5cb892e7dcd8,686b040c?w=992",
+        "title": "„Mein Bruder, es ist …“:Real-Star wird bei Alaba-Abschied ganz emotional!",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/real-star-wird-bei-alaba-abschied-ganz-emotional-mein-bruder-6a11b7212dec7e526e66dede",
+        "image_url": "https://images.bild.de/6a11b7212dec7e526e66dede/6f1763e7a6562794d340a33308c3acca,74db1d0f?w=992",
         "w": 992,
-        "h": 661,
-        "focus_y": 0.35,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "„Kannst du nicht ausschalten“:Elber-Prognose vor dem Pokal-Kracher Bayern - VfB",
+        "link": "https://sportbild.bild.de/fussball/dfb-pokal/dfb-pokalfinale-bayern-vfb-giovane-elber-legt-sich-fest-6a1172e3be29d4b4607a46af",
+        "image_url": "https://images.bild.de/6a1172e3be29d4b4607a46af/230c85ad13eb09c53ee9aca2b49c8854,f68d63d0?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "„Nicht in Ordnung, nicht fair“:Hoeneß erneut mit scharfer Nagelsmann-Kritik!",
+        "link": "https://sportbild.bild.de/fussball/nationalmannschaft/hoeness-mit-scharfer-nagelsmann-kritik-nicht-in-ordnung-nicht-fair-6a11c6723b7096456ac80b7c",
+        "image_url": "https://images.bild.de/6a11c6723b7096456ac80b7c/07177a098960cc6785cece22dccf6baa,48e28349?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
         "source_title1": "SPORT",
         "source_title2": "BILD",
         "source_color": "#fc4e4e",
@@ -60,19 +84,7 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Drastische USA-Maßnahme:WM-Teilnehmer soll sich für drei Wochen isolieren",
-        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-2026-usa-entscheidet-teilnehmer-land-soll-sich-fuer-drei-wochen-isolieren-6a1156dcbe29d4b4607a44ee",
-        "image_url": "https://images.bild.de/6a1156dcbe29d4b4607a44ee/cd5d8f1e0426a2649bb98ce76067ef1a,e6df3035?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Bayern-Torwart setzt aus:Nagelsmann an Neuers Pokalaus beteiligt!",
+        "title": "Bayern-Torwart setzt aus:Nagelsmann an Neuers Pokal-Aus beteiligt!",
         "link": "https://sportbild.bild.de/fussball/dfb-pokal-nagelsmann-war-an-neuers-pokalverzicht-beteiligt-6a11a6112dec7e526e66de03",
         "image_url": "https://images.bild.de/6a11a6112dec7e526e66de03/5aa7a537140d81a33077ff13bb444415,1ae543bb?w=992",
         "w": 992,
@@ -96,9 +108,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Nach heftigem Zoff mit Trainer:Trauriger Abschied für Real-Star",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/nach-heftigem-zoff-mit-trainer-trauriger-abschied-fuer-real-star-6a117853be29d4b4607a4712",
-        "image_url": "https://images.bild.de/6a117853be29d4b4607a4712/266429c5407bd2ba7ac16c0b95006e04,9c0f7d2c?w=992",
+        "title": "3:0 gegen SV Pastow:Hansa holt DFB-Pokal-Ticket und gedenkt totem Fan",
+        "link": "https://sportbild.bild.de/fussball/dfb-pokal/hansa-rostock-loest-dfb-pokal-ticket-mit-landespokalsieg-6a11ba84bc841fb70599e943",
+        "image_url": "https://images.bild.de/6a11ba84bc841fb70599e943/846a61157bcb8b74b90c3bfee963b12f,25819504?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -156,12 +168,12 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Box-Kracher Fury gegen Joshua:Gute Nachrichten für 300 Mio. Netflix-Kunden!",
-        "link": "https://sportbild.bild.de/sportmix/boxen/boxkampf-fury-joshua-gute-nachrichten-fuer-300-mio-netflix-kunden-6a1190a2f0f7eb608db7b774",
-        "image_url": "https://images.bild.de/6a1190a2f0f7eb608db7b774/db69f5848eae4172f47ee7ac3bd83698,b8d8355d?w=992",
+        "title": "„Konnte fühlen, dass …“:Wirtz: So wirkte sich Jotas Tod auf die Kabine aus",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/florian-wirtz-spricht-offen-ueber-schwierigen-start-bei-liverpool-nach-jotas-tod-6a117862be29d4b4607a4716",
+        "image_url": "https://images.bild.de/6a117862be29d4b4607a4716/4c96a9bed6182ef94eda5cb892e7dcd8,686b040c?w=992",
         "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
+        "h": 661,
+        "focus_y": 0.35,
         "source_title1": "SPORT",
         "source_title2": "BILD",
         "source_color": "#fc4e4e",
@@ -204,9 +216,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "„Haben zusammen überlegt ...“:Nagelsmann äußert sich zur Neuer-Verletzung",
-        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-2026-julian-nagelsmann-aeussert-sich-zur-verletzung-von-manuel-neuer-6a1158e73b7096456ac80548",
-        "image_url": "https://images.bild.de/6a1158e73b7096456ac80548/a3273ace1430f36c1b926092d6765dd9,614a2d6e?w=992",
+        "title": "Nach heftigem Zoff mit Trainer:Trauriger Abschied für Real-Star",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/nach-heftigem-zoff-mit-trainer-trauriger-abschied-fuer-real-star-6a117853be29d4b4607a4712",
+        "image_url": "https://images.bild.de/6a117853be29d4b4607a4712/266429c5407bd2ba7ac16c0b95006e04,9c0f7d2c?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -216,21 +228,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Auf der Bühne:Yamal tanzt mit Musik-Megastar",
-        "link": "https://sportbild.bild.de/sportmix/auf-der-buehne-yamal-tanzt-mit-musik-megastar-6a11ba5a3b7096456ac80ae6",
-        "image_url": "https://images.bild.de/6a11ba5a3b7096456ac80ae6/78538db55537a9dd7b04843d2ef4a505,daea1ffe?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Fans flippen aus:Müller im Deutschland-Trikot aufgetaucht!",
-        "link": "https://sportbild.bild.de/fussball/fans-flippen-aus-mueller-im-deutschland-trikot-aufgetaucht-6a119fa09c51a75bc47532de",
-        "image_url": "https://images.bild.de/6a119fa09c51a75bc47532de/81e8efbd9e4a395ecc8974b0e6c32da5,b37868f1?w=992",
+        "title": "Direkt vorm Pokalfinale:Bayern zweifelt an Eberl-Zukunft",
+        "link": "https://sportbild.bild.de/fussball/1-bundesliga/direkt-vorm-pokalfinale-bayern-zweifelt-an-eberl-zukunft-6a11c351f0f7eb608db7ba5e",
+        "image_url": "https://images.bild.de/6a11c351f0f7eb608db7ba5e/d306ca2d667e0750b43717530ad07883,f3c8b243?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
