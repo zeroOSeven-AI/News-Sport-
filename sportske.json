@@ -24,6 +24,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Bivši reprezentativac zgrožen potezom izbornika rivala Vatrenih: ‘Nevjerojatno da ga nije zvao‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/tuchel-izostavio-trenta-alexandera-arnolda-walker-reakcija-engleska-sp-15711351",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/23/k_38529547_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Arsenal je uspio, evo koji velikani najdulje čekaju titulu! Hajduk je u samom svjetskom vrhu...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-20-godina-bez-naslova-najveci-europski-luzer-15711323",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/20/k_38932525_640.jpg",
@@ -60,6 +72,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Drama u posljednjem kolu La Lige: Pet klubova još drhti za ostanak, među njima i Budimirova Osasuna",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/la-liga-drama-ostanka-zadnje-kolo-mallorca-girona-elche-levante-osasuna-15711345",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38843953_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Igrači SHNL-a za najboljeg igrača sezone izabrali dinamovca koji je do nedavno samo ‘obećavao‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/igraci-shnl-a-za-najboljeg-igraca-sezone-izabrali-dinamovca-koji-je-do-nedavno-samo-obecavao-15711334",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/21/k_38767312_640.jpg",
@@ -87,30 +111,6 @@
         "title": "Pogodio tri osvajača Mundijala, a sada predviđa nešto drugačije: ‘Bio sam malo iznenađen‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/klementov-model-nizozemska-favorit-svjetsko-prvenstvo-2026-15711293",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/23/k_38629089_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Javnost ga je dočekala s velikim nepovjerenjem, a onda je svima pokazao kakva je klasa",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/javnost-ga-je-docekala-s-velikim-nepovjerenjem-a-onda-je-svima-pokazao-kakva-je-klasa-15711307",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38909614_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Salah je povijest, Liverpool već pronašao nasljednika, ali on će ih koštati više od 100 milijuna eura",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/liverpool-diomande-nasljednik-salaha-rb-leipzig-transfer-anfield-15711274",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/23/k_38629943_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,7 +180,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Režić rotira u zadnjem sudaru sezone: Istra kod Varaždina bez nekoliko važnih igrača Na prethodnom gostovanju u baroknom gradu Zeleno Žuti su odigrali sjajnu utakmicu i slavili pobjedu",
+        "title": "Javnost ga je dočekala s velikim nepovjerenjem, a onda je svima pokazao kakva je klasa Hrvatska udruga Nogometni sindikat po 14. je put u najprestižnijem izboru u kojem sudjeluju svi igrači lige izabrala najbolje među najboljima",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/javnost-ga-je-docekala-s-velikim-nepovjerenjem-a-onda-je-svima-pokazao-kakva-je-klasa-15711307",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38909614_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Salah je povijest, Liverpool već pronašao nasljednika, ali on će ih koštati više od 100 milijuna eura",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/liverpool-diomande-nasljednik-salaha-rb-leipzig-transfer-anfield-15711274",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/23/k_38629943_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Režić rotira u zadnjem sudaru sezone: Istra kod Varaždina bez nekoliko važnih igrača",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/istra-1961-varazdin-rezic-prevljak-rotacije-hnl-plasman-15711321",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38602899_640.jpg",
         "w": 640,
@@ -207,30 +231,6 @@
         "title": "Meč koji će ući u povijest! Može li Rico Verhoeven ugroziti najvećeg ‘boksačkog faraona‘ današnjice?",
         "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/mec-koji-ce-uci-u-povijest-moze-li-rico-verhoeven-ugroziti-najveceg-boksackog-faraona-danasnjice-15711289",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/23/k_38756748_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Još jedna emotivna večer na Bernabeu! Dvije zvijezde posljednji će put odjenuti dres Real Madrida",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/carvajal-alaba-napustaju-real-madrid-oprostaj-athletic-bilbao-15711283",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/23/k_27252159_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Najlošiji Hajduk u zadnjih pet godina! Neki bi se trebali zapitati ‘Gdje smo to doveli klub 2026. godine?‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/hajduk-drugo-mjesto-garcia-bez-samokritike-poljud-financijski-alarm-15711192",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38975150_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
