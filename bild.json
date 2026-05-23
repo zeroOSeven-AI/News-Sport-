@@ -1,11 +1,11 @@
 [
     {
-        "title": "Pokalfinale in Berlin:Stuttgart mit Kapitäns-Knaller gegen Bayern",
-        "link": "https://sportbild.bild.de/fussball/dfb-pokal/pokalfinale-in-berlin-aufstellungen-stuttgart-mit-kapitaens-knaller-gegen-bayern-6a11de75f0f7eb608db7bbbb",
-        "image_url": "https://images.bild.de/6a11de75f0f7eb608db7bbbb/f026726f9d99ae1282e0eb8af0a317df,5922e165?w=992",
+        "title": "Erst Tor, dann Unterbrechung:FC Bayern – VfB Stuttgart HIER im Live-Ticker",
+        "link": "https://sportbild.bild.de/fussball/dfb-pokal/dfb-pokalfinale-heute-fc-bayern-vfb-stuttgart-im-live-ticker-6a0d7a89f0f7eb608db77d59",
+        "image_url": "https://images.bild.de/6a0d7a89f0f7eb608db77d59/48801d52bc4a13bdeb25af56d09d200f,56066ce8?w=992",
         "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
+        "h": 647,
+        "focus_y": 0.35,
         "source_title1": "SPORT",
         "source_title2": "BILD",
         "source_color": "#fc4e4e",
@@ -24,9 +24,57 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "DFB-Pokalfinale:Wer zeigt Bayern – Stuttgart heute live im TV?",
-        "link": "https://sportbild.bild.de/fussball/dfb-pokal/dfb-pokalfinale-am-samstag-wer-uebertraegt-bayern-stuttgart-gratis-im-tv-6a0af36237d84a6d6ae9bd28",
-        "image_url": "https://images.bild.de/6a117432f0f7eb608db7b5ce/17afd83e2eb44e5ca4f57066eca04844,37933f1d?w=992",
+        "title": "Bayern-Torwart setzt aus:Nagelsmann an Neuers Pokal-Aus beteiligt!",
+        "link": "https://sportbild.bild.de/fussball/dfb-pokal-nagelsmann-war-an-neuers-pokalverzicht-beteiligt-6a11a6112dec7e526e66de03",
+        "image_url": "https://images.bild.de/6a11a6112dec7e526e66de03/5aa7a537140d81a33077ff13bb444415,1ae543bb?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Eishockey-WM:Österreich gegen Deutschland HIER im Live-Ticker",
+        "link": "https://sportbild.bild.de/sportmix/eishockey/eishockey-wm-oesterreich-gegen-deutschland-hier-im-live-ticker-6a11c620f0f7eb608db7ba70",
+        "image_url": "https://images.bild.de/6a11c620f0f7eb608db7ba70/ab88b8d2985d01092fcd2e94c1dbc16a,f80423eb?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "„Ziemliches Desaster!“:Biathlon-Star kündigt Rache-Comeback an",
+        "link": "https://sportbild.bild.de/sportmix/wintersport/ziemliches-desaster-biathlon-star-kuendigt-rache-comeback-an-6a11be5af0f7eb608db7ba14",
+        "image_url": "https://images.bild.de/6a11be5af0f7eb608db7ba14/588b9668e86049590a801faca68f2e2d,689882e7?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Dank Ex-Bundesliga-Stürmerin:Barça-Frauen verteidigen Champions-League-Titel",
+        "link": "https://sportbild.bild.de/fussball/champions-league/barca-frauen-verteidigen-champions-league-titel-dank-ex-bundesliga-stuermerin-6a11ef0ef0f7eb608db7bc52",
+        "image_url": "https://images.bild.de/6a11ef0ef0f7eb608db7bc52/db196b25cb18148838382455cd7d2563,169f82e6?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Letzter Premier-League-Aufsteiger steht fest:Hull City gewinnt 230-Mio-Spiel",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/hull-city-gewinnt-230-mio-spiel-letzter-premier-league-aufsteiger-steht-fest-6a11e002f0f7eb608db7bbcb",
+        "image_url": "https://images.bild.de/6a11e002f0f7eb608db7bbcb/7b28ae494e467aeb90d0bc4b6503dbd2,18bf288?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -72,42 +120,6 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Letzter Premier-League-Aufsteiger steht fest:Hull City gewinnt 230-Mio-Spiel",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/hull-city-gewinnt-230-mio-spiel-letzter-premier-league-aufsteiger-steht-fest-6a11e002f0f7eb608db7bbcb",
-        "image_url": "https://images.bild.de/6a11e002f0f7eb608db7bbcb/7b28ae494e467aeb90d0bc4b6503dbd2,18bf288?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "„Mein Bruder, es ist …“:Real-Star wird bei Alaba-Abschied ganz emotional!",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/real-star-wird-bei-alaba-abschied-ganz-emotional-mein-bruder-6a11b7212dec7e526e66dede",
-        "image_url": "https://images.bild.de/6a11b7212dec7e526e66dede/6f1763e7a6562794d340a33308c3acca,74db1d0f?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Als erste Mannschaft!:Bayern ballert sich ins Playoff-Halbfinale",
-        "link": "https://sportbild.bild.de/sportmix/basketball/basketball-bayern-ballert-trier-weg-meister-zieht-ins-playoff-halbfinale-ein-6a119ca79c51a75bc47532bf",
-        "image_url": "https://images.bild.de/6a119ca79c51a75bc47532bf/f9a1bae7af2c68e1b2cefe6eb82e3657,f0350a87?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
         "title": "Finaltag der Amateure:Neue Regel sorgt für dramatisches 1860-Aus",
         "link": "https://sportbild.bild.de/fussball/finaltag-der-amateure-hier-im-liveticker-wer-erfuellt-sich-den-traum-vom-dfb-pokal-6a116e983b7096456ac8067c",
         "image_url": "https://images.bild.de/6a116e983b7096456ac8067c/8e8e42f850e78b923078c31ca2f2e683,268e0fa?w=992",
@@ -132,6 +144,18 @@
         "flag": "🇩🇪"
     },
     {
+        "title": "„Mein Bruder, es ist …“:Real-Star wird bei Alaba-Abschied ganz emotional!",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/real-star-wird-bei-alaba-abschied-ganz-emotional-mein-bruder-6a11b7212dec7e526e66dede",
+        "image_url": "https://images.bild.de/6a11b7212dec7e526e66dede/6f1763e7a6562794d340a33308c3acca,74db1d0f?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
         "title": "Ungewöhnliche Kritik am eigenen Team:Verstappen: „Meine Füße sind von Pedalen gerutscht“",
         "link": "https://sportbild.bild.de/motorsport/formel-1/max-verstappen-meine-fuesse-sind-von-pedalen-gerutscht-6a1181e39c51a75bc4753106",
         "image_url": "https://images.bild.de/6a1181e39c51a75bc4753106/f53a562da0ac11c1601d69617f00fec7,2ca3d0a2?w=992",
@@ -147,18 +171,6 @@
         "title": "Team vor Saisonfinale im Stich gelassen?:Trainer-Klartext zum abgereisten Tottenham-Kapitän",
         "link": "https://sportbild.bild.de/fussball/internationaler-fussball/premier-league-tottenham-kapitaen-abgereist-trainer-spricht-klartext-6a11a4509c51a75bc4753320",
         "image_url": "https://images.bild.de/6a11a4509c51a75bc4753320/c39adc7b624b568fd2d0f062e1a6f89c,d6edb15d?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "„Haben zusammen überlegt ...“:Nagelsmann äußert sich zur Neuer-Verletzung",
-        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-2026-julian-nagelsmann-aeussert-sich-zur-verletzung-von-manuel-neuer-6a1158e73b7096456ac80548",
-        "image_url": "https://images.bild.de/6a1158e73b7096456ac80548/a3273ace1430f36c1b926092d6765dd9,614a2d6e?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -216,21 +228,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Bayern-Torwart setzt aus:Nagelsmann an Neuers Pokal-Aus beteiligt!",
-        "link": "https://sportbild.bild.de/fussball/dfb-pokal-nagelsmann-war-an-neuers-pokalverzicht-beteiligt-6a11a6112dec7e526e66de03",
-        "image_url": "https://images.bild.de/6a11a6112dec7e526e66de03/5aa7a537140d81a33077ff13bb444415,1ae543bb?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "„Kannst du nicht ausschalten“:Elber-Prognose vor dem Pokal-Kracher Bayern - VfB",
-        "link": "https://sportbild.bild.de/fussball/dfb-pokal/dfb-pokalfinale-bayern-vfb-giovane-elber-legt-sich-fest-6a1172e3be29d4b4607a46af",
-        "image_url": "https://images.bild.de/6a1172e3be29d4b4607a46af/230c85ad13eb09c53ee9aca2b49c8854,f68d63d0?w=992",
+        "title": "Gegen den HSV:Robben wütet an der Seitenlinie",
+        "link": "https://sportbild.bild.de/fussball/gegen-den-hsv-robben-wuetet-an-der-seitenlinie-6a11e827f0f7eb608db7bc0a",
+        "image_url": "https://images.bild.de/6a11e827f0f7eb608db7bc0a/ceb85460b5cdd04cbd7989bdfd81d4c6,59734a37?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
