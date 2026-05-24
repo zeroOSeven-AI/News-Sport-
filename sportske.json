@@ -1,8 +1,32 @@
 [
     {
-        "title": "Verhoeven ostao na pragu najveće senzacije u povijesti boksa, Usik slavio kontroverznim prekidom! Najbolji boksač današnjice izgledao je lošije nego ikad prije, ali ponovno je pronašao način za doći do pobjede.",
+        "title": "Kome je velika maksimirska fešta ujedno bila i posljednja s Dinamom? Dinamo ovog ljetnog prijelaznog roka mora prodavati kako bi klub normalno mogao nastaviti sa životom. Ima tu zanimljive \"robe\"",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-rekonstrukcija-momcadi-napad-na-ligu-prvaka-transferi-ljeto-15711524",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/23/k_38985060_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Verhoeven ostao na pragu najveće senzacije u povijesti boksa, Usik slavio kontroverznim prekidom!",
         "link": "https://sportske.jutarnji.hr/sportske/fightsite/ostalo/verhoeven-ostao-na-pragu-najvece-senzacije-u-povijesti-boksa-usik-slavio-kontroverznim-prekidom-15711447",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/23/k_38985280_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Jakirovićev uspjeh veći je nego Bilićev, ovo je priča iz bajke, svi su ih davno otpisali...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/jakirovic-hull-city-premier-liga-wembley-pobjeda-middlesbrough-230-milijuna-15711525",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/23/k_38984534_640.png",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,18 +48,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Jakirovićev šef će ispuniti obećanje, evo kamo šalje čitavu momčad: ‘Nisam najbogatiji, ali sam najluđi‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hull-city-premier-liga-wembley-mcburnie-ilicali-las-vegas-15711478",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/23/k_38981924_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Dinamo usred proslave prodao uvrijeđenu ‘frajlu‘ za milijun i pol eura. Toliko je novca i izgubio",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/elche-aktivirao-otkup-gonzala-villara-dinamo-dobiva-15-milijuna-eura-15711508",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/23/k_38984461_640.jpg",
@@ -48,9 +60,33 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Pogledajte Jakirovićevu reakciju nakon nezaboravne pobjede na mitskom Wembleyju",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hull-city-jakirovic-mcburnie-gol-u-95-minuti-premier-liga-wembley-15711433",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/23/k_38981743_640.jpg",
+        "title": "VIDEO Jedan od najgorih prekida u povijesti boksa!? Pogledajte kako je Usik došao do pobjede",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ostalo/video-jedan-od-najgorih-prekida-u-povijesti-boksa-pogledajte-kako-je-usik-dosao-do-pobjede-15711518",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/24/k_38985729_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Jakirovićev šef će ispuniti obećanje, evo kamo šalje čitavu momčad: ‘Nisam najbogatiji, ali sam najluđi‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hull-city-premier-liga-wembley-mcburnie-ilicali-las-vegas-15711478",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/23/k_38981924_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Čak i da nije bilo prekida, Verhoeven ne bi pobijedio: Pogledajte kako su suci bodovali meč",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ostalo/cak-i-da-nije-bilo-prekida-verhoeven-ne-bi-pobijedio-pogledajte-kako-su-suci-bodovali-mec-15711519",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/24/k_38985831_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -72,7 +108,55 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dinamo ostao bez pobjede u zadnjoj HNL utakmici sezone, priređena spektakularna fešta na Maksimiru!",
+        "title": "VIDEO: Pogledajte Jakirovićevu reakciju nakon nezaboravne pobjede na mitskom Wembleyju",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hull-city-jakirovic-mcburnie-gol-u-95-minuti-premier-liga-wembley-15711433",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/23/k_38981743_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Nestvaran uspjeh Sergeja Jakirovića! Hull golom u 95. minuti...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nestvaran-uspjeh-sergeja-jakirovica-hull-golom-u-95-minuti-pred-85-000-navijaca-izborio-premiership-15711376",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/23/k_38981507_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Doznajemo: Hrvatski reprezentativac nakon SP-a radi transfer karijere i seli u ligu ‘petice‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sutalo-napusta-ajax-transfer-bundesliga-serie-a-liga-petice-15711392",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/23/k_37456713_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Igrao sam za 1000 kuna, prodavao na štandu, spavao u sudačkoj svlačionici, susjedi su mi donosili hranu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/lucas-fernandes-od-dinama-predavca-do-ugovora-u-slaven-belupu-15711261",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38973027_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Dinamo ostao bez pobjede u zadnjoj HNL utakmici sezone, priređena spektakularna fešta na Maksimiru! Posljednju utakmicu sezone na Maksimiru pratilo je 24.735 gledatelja, što je rekord sezone",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/dinamo-ostao-bez-pobjede-u-zadnjoj-hnl-utakmici-sezone-priredena-spektakularna-festa-na-maksimiru-15711407",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/23/k_38983311_640.jpg",
         "w": 640,
@@ -120,43 +204,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Nestvaran uspjeh Sergeja Jakirovića! Hull golom u 95. minuti...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nestvaran-uspjeh-sergeja-jakirovica-hull-golom-u-95-minuti-pred-85-000-navijaca-izborio-premiership-15711376",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/23/k_38981507_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Doznajemo: Hrvatski reprezentativac nakon SP-a radi transfer karijere i seli u ligu ‘petice‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sutalo-napusta-ajax-transfer-bundesliga-serie-a-liga-petice-15711392",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/23/k_37456713_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Igrao sam za 1000 kuna, prodavao na štandu, spavao u sudačkoj svlačionici, susjedi su mi donosili hranu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/lucas-fernandes-od-dinama-predavca-do-ugovora-u-slaven-belupu-15711261",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/22/k_38973027_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hat-trick čudesnog Harryja Kanea za kraj sezone, Bayern sa Stanišićem stigao do dvostruke krune Najbolju šansu krajem prvog dijela imao je defanzivac Bayerna i hrvatski reprezentativac Josip Stanišić",
+        "title": "Hat-trick čudesnog Harryja Kanea za kraj sezone, Bayern sa Stanišićem stigao do dvostruke krune",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/bayern-stuttgart-3-0-dfb-pokal-finale-harry-kane-hat-trick-dvostruka-kruna-15711495",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/23/k_38984037_640.jpg",
         "w": 640,
@@ -180,57 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Jakirović: ‘Nevjerojatan osjećaj! Opijanje igrača tijekom proslave? Pa nisam ja policajac‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hull-city-premier-liga-jakirovic-mcburnie-gol-95-minuta-230-milijuna-15711442",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/23/k_38981855_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Sanchez se oprostio od Rijeke i najavio nasljednika: ‘Ako je on novi trener, klub ne može biti u boljim rukama‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/victor-sanchez-naznacio-odlazak-rujevica-rijeka-matjaz-kek-15711435",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/23/k_38981413_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO ‘Topnik‘ s Juga II zapucao i u Njemačkoj! Luka Pratljačić nokautirao Mađara u prvoj rundi",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/video-topnik-s-juga-ii-zapucao-i-u-njemackoj-luka-pratljacic-nokautirao-madara-u-prvoj-rundi-15711460",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/23/k_36864272_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Hajdukovo dijete od tragičara do junaka u samo dvije minute: ‘Monumentalan promašaj!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/pesic-promasaj-prazna-vrata-potom-gol-za-3-2-chindia-farul-baraz-3-3-15711457",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/23/k_38982093_640.png",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Čak i da nije bilo prekida, Verhoeven ne bi...",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ostalo/cak-i-da-nije-bilo-prekida-verhoeven-ne-bi-pobijedio-pogledajte-kako-su-suci-bodovali-mec-15711519",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/24/k_38985831_640.jpg",
+        "title": "VIDEO Verhoeven najavio žalbu: ‘Pogledao sam snimku, zvono za kraj runde čulo se prije...",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/video-verhoeven-najavio-zalbu-pogledao-sam-snimku-zvono-za-kraj-runde-culo-se-prije-prekida-15711526",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/24/k_38986593_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
