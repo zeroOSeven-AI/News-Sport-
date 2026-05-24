@@ -12,18 +12,6 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Nichts mehr verpassen!:Der 24-Stunden-Stream von SPORT BILD",
-        "link": "https://sportbild.bild.de/sportmix/nichts-mehr-verpassen-der-24-stunden-stream-von-sport-bild-67e3f21af933f731d4312a95",
-        "image_url": "https://images.bild.de/67e3f21af933f731d4312a95/ba25ea86c257543f201c3f37f05b52d4-landscape,1cd6388a?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
         "title": "„Hielt bereits nach Stränden Ausschau“:Spanische Presse geht auf Vinicius los",
         "link": "https://sportbild.bild.de/fussball/internationaler-fussball/real-madrid-spanische-presse-geht-auf-vinicius-junior-los-6a12a364f0f7eb608db7c10a",
         "image_url": "https://images.bild.de/6a12a364f0f7eb608db7c10a/9736040e6b335a78c2891eb2ebeb5d89,a78c1b68?w=992",
@@ -36,9 +24,21 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Sohn bei Polizeieinsatz festgenommen:Familienstreit bei Box-Legende eskaliert!",
-        "link": "https://sportbild.bild.de/sportmix/boxen/sugar-ray-leonard-streit-bei-box-legende-eskaliert-sohn-festgenommen-6a12ed413b7096456ac8159c",
-        "image_url": "https://images.bild.de/6a12ed413b7096456ac8159c/f6c94a7a3a24fb87def1a7516578aafc,4cb5fbba?w=992",
+        "title": "Der Meister marschiert:Pure Klasse! Magdeburg mit nächster Handball-Gala",
+        "link": "https://sportbild.bild.de/sportmix/handball/naechste-handball-gala-meister-magdeburg-schlaegt-rhein-neckar-loewen-6a12f821e3065a47c4bdb4aa",
+        "image_url": "https://images.bild.de/6a12f821e3065a47c4bdb4aa/116809cf8cba5e03a5c7bb4d260bafca,8882a6c9?w=992",
+        "w": 992,
+        "h": 661,
+        "focus_y": 0.35,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Fast-Crash vor Kanada-Rennen:Mercedes-Stars äußern sich zum Sprint-Schreck",
+        "link": "https://sportbild.bild.de/motorsport/formel-1/formel-1-mercedes-stars-zum-sprint-schreck-vor-kanada-rennen-6a1307eef69db3699d710445",
+        "image_url": "https://images.bild.de/6a1307eef69db3699d710445/0f79fa8103fe863421ba714022bc7250,2b3fb702?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -48,9 +48,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Dringende Bitte bei French Open:Durchfall-Geständnis von Tennis-Talent!",
-        "link": "https://sportbild.bild.de/sportmix/tennis/french-open-tennis-talent-arthur-gea-macht-durchfall-gestaendnis-6a12e2dee3065a47c4bdb374",
-        "image_url": "https://images.bild.de/6a12e2dee3065a47c4bdb374/09ed47faf9b391107580daf2e6246238,2a4877e3?w=992",
+        "title": "Nichts mehr verpassen!:Der 24-Stunden-Stream von SPORT BILD",
+        "link": "https://sportbild.bild.de/sportmix/nichts-mehr-verpassen-der-24-stunden-stream-von-sport-bild-67e3f21af933f731d4312a95",
+        "image_url": "https://images.bild.de/67e3f21af933f731d4312a95/ba25ea86c257543f201c3f37f05b52d4-landscape,1cd6388a?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -60,9 +60,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "French Open hier im Liveticker:Zverev holt sich auch Satz zwei gegen Bonzi",
-        "link": "https://sportbild.bild.de/sportmix/tennis/alexander-zverev-gegen-benjamin-bonzi-bei-den-french-open-im-liveticker-6a12b6fbf1c38fda88c00680",
-        "image_url": "https://images.bild.de/6a12b6fbf1c38fda88c00680/772658858cb6796341d4b2e6d0e45705,32101d64?w=992",
+        "title": "Gelungener Auftakt bei French Open:Zverev trotzt Ü30-Grad-Hitze und siegt souverän",
+        "link": "https://sportbild.bild.de/sportmix/tennis/french-open-zverev-trotzt-ue30-grad-hitze-und-siegt-souveraen-6a130ad8f0f7eb608db7c6bb",
+        "image_url": "https://images.bild.de/6a130ad8f0f7eb608db7c6bb/3976a24d84bcb42e77ac78e908ad337e,bc8b6fc8?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -72,7 +72,7 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "„Kann ihn mir nicht woanders vorstellen“:Matthäus: Diesen Star muss Bayern unbedingt halten",
+        "title": "„Kann ihn mir nicht woanders vorstellen“:Matthäus: IHN muss Bayern unbedingt halten",
         "link": "https://sportbild.bild.de/fussball/fc-bayern-muenchen/matthaeus-diesen-star-muss-bayern-halten-sehr-wichtiger-spieler-6a11c0b3bc841fb70599e990",
         "image_url": "https://images.bild.de/6a11c0b3bc841fb70599e990/30b1891c2dfca59c3f8a5fe09ba4fb01,b8e41e80?w=992",
         "w": 992,
@@ -120,18 +120,6 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Ulm am Boden:Kann nur Bamberg die Bayern stoppen?",
-        "link": "https://sportbild.bild.de/sportmix/basketball/bamberg-fordert-bayern-heraus-gavel-fuehrt-baskets-zum-ueberraschenden-hoehenflug-6a12ce40f69db3699d710041",
-        "image_url": "https://images.bild.de/6a12ce40f69db3699d710041/c67551d680a90fdeb5e03850c7f022c9,2e5c5a65?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
         "title": "Trotz scharfer Kader-Kritik auf der Insel:Warum Tuchel England guttut",
         "link": "https://sportbild.bild.de/fussball/internationaler-fussball/wm-kader-thomas-tuchel-ignoriert-ganz-england-und-macht-damit-alles-richtig-6a1048b23b7096456ac7fb77",
         "image_url": "https://images.bild.de/6a1048b23b7096456ac7fb77/6d0d8797cc904ea1901efe2ce6166426,9150fb21?w=992",
@@ -168,6 +156,18 @@
         "flag": "🇩🇪"
     },
     {
+        "title": "Ulm am Boden:Kann nur Bamberg die Bayern stoppen?",
+        "link": "https://sportbild.bild.de/sportmix/basketball/bamberg-fordert-bayern-heraus-gavel-fuehrt-baskets-zum-ueberraschenden-hoehenflug-6a12ce40f69db3699d710041",
+        "image_url": "https://images.bild.de/6a12ce40f69db3699d710041/c67551d680a90fdeb5e03850c7f022c9,2e5c5a65?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
         "title": "Pikanter Moment nach Pokalfinale:Um 22.51 Uhr spricht Eberl über Hoeneß-Zweifel an ihm",
         "link": "https://sportbild.bild.de/fussball/fc-bayern-muenchen/dfb-pokal-um-22-51-uhr-spricht-eberl-ueber-hoeness-zweifel-an-ihm-6a12d7d5e3065a47c4bdb2fa",
         "image_url": "https://images.bild.de/6a12d7d5e3065a47c4bdb2fa/bde532a9e427ea6cb142fbcda210acd0,863540f0?w=992",
@@ -180,9 +180,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Brisante Szene nach Pokal-Finale:Frostige Stimmung zwischen Neuer und Nübel",
-        "link": "https://sportbild.bild.de/fussball/dfb-pokal/pokal-finale-frostige-stimmung-zwischen-bayerns-neuer-und-vfbs-nuebel-6a12ca00f69db3699d70fff1",
-        "image_url": "https://images.bild.de/6a12ca00f69db3699d70fff1/c0d48e5218b6c577b2d978dca3bb5906,ce340fe1?w=992",
+        "title": "French Open: Live-Ticker zum Nachlesen:Zverev kämpft sich durch Glut-Hitze in Runde zwei",
+        "link": "https://sportbild.bild.de/sportmix/tennis/alexander-zverev-gegen-benjamin-bonzi-bei-den-french-open-im-liveticker-6a12b6fbf1c38fda88c00680",
+        "image_url": "https://images.bild.de/6a12b6fbf1c38fda88c00680/772658858cb6796341d4b2e6d0e45705,32101d64?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -206,21 +206,9 @@
     {
         "title": "Mitten im Spiel:Handballer verteidigt plötzlich halbnackt",
         "link": "https://sportbild.bild.de/sportmix/handball/mitten-im-spiel-handballer-verteidigt-ploetzlich-halbnackt-6a12f2db3b7096456ac81609",
-        "image_url": "https://images.bild.de/693acb327275b2452c3ec2e9/e89ea75624e57df3e3b80e18152c4c56,7b9c7636",
-        "w": 1920,
-        "h": 1080,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Es geht um seine Zukunft:HIER reagiert Eberl auf die Hoeneß-Aussage",
-        "link": "https://sportbild.bild.de/fussball/1-bundesliga/es-geht-um-seine-zukunft-hier-reagiert-eberl-auf-die-hoeness-aussage-6a12d326f0f7eb608db7c431",
-        "image_url": "https://images.bild.de/6a12d326f0f7eb608db7c431/00934d31c138186c00f9dda004a362e4-landscape,d5b5f2b4?w=992",
-        "w": 992,
-        "h": 558,
+        "image_url": "https://images.bild.de/698f0ea256df0f71cc0416d8/ea76267ffe5169c8fa186c9620008ea2,538d537",
+        "w": 3000,
+        "h": 1687,
         "focus_y": 0.3,
         "source_title1": "SPORT",
         "source_title2": "BILD",
@@ -231,6 +219,18 @@
         "title": "Als erste Mannschaft!:Bayern ballert sich ins Playoff-Halbfinale",
         "link": "https://sportbild.bild.de/sportmix/basketball/basketball-bayern-ballert-trier-weg-meister-zieht-ins-playoff-halbfinale-ein-6a119ca79c51a75bc47532bf",
         "image_url": "https://images.bild.de/6a119ca79c51a75bc47532bf/f9a1bae7af2c68e1b2cefe6eb82e3657,f0350a87?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Sieg im dritten Viertelfinale:Vechta mit Matchball gegen Alba",
+        "link": "https://sportbild.bild.de/sportmix/basketball/sieg-im-dritten-viertelfinale-vechta-mit-matchball-gegen-alba-6a1086713b7096456ac8001f",
+        "image_url": "https://images.bild.de/6a1086713b7096456ac8001f/10c71f92cdbe9ce01c708e2851688c85,baf83892?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
