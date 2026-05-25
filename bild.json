@@ -1,11 +1,59 @@
 [
     {
+        "title": "DAS gab es noch nie:WM-Knall bei Spanien!",
+        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-2026-kader-knall-bei-spanien-das-gab-es-noch-nie-6a1432500c38ecf8d88c0d35",
+        "image_url": "https://images.bild.de/6a1432500c38ecf8d88c0d35/1842e3ec8d5285f1db692cf300645e2b,a472dd94?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
         "title": "Alle Sport-Bosse weg, Trainer droht das Aus:Nach Desaster-Pleite! Kahlschlag bei Füllkrug-Klub",
         "link": "https://sportbild.bild.de/fussball/internationaler-fussball/ac-mailand-nach-desaster-pleite-kahlschlag-bei-fuellkrug-klub-6a13ef58d0ef55f5fb710b1c",
         "image_url": "https://images.bild.de/6a13ef58d0ef55f5fb710b1c/543c801c80cd91aeb5c4082f622337aa,db926ba?w=992",
         "w": 992,
         "h": 661,
         "focus_y": 0.35,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "PSG will ihn nicht mehr:Überraschungs-Klub für Kolo Muani?",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/psg-will-ihn-nicht-mehr-ueberraschungs-klub-fuer-kolo-muani-6a13f2a9d0ef55f5fb710b41",
+        "image_url": "https://images.bild.de/6a13f2a9d0ef55f5fb710b41/33f02ee18c6a6587634006199c2360b5,40d58e2c?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "„Ich bin bereit für jeden“:Deutliche Flick-Worte zu Mourinho!",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/fc-barcelona-deutliche-flick-worte-zu-jose-mourinho-6a12e5d53b7096456ac81549",
+        "image_url": "https://images.bild.de/6a12e5d53b7096456ac81549/59763eec2ef5b1eaf40910c287d950cd,444ba3fd?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Konkretes Angebot?:VfB Stuttgart heiß auf diesen Schweden-Star",
+        "link": "https://sportbild.bild.de/fussball/vfb-stuttgart/konkretes-angebot-vfb-stuttgart-heiss-auf-diesen-schweden-star-6a143ddf350a34b38da835c3",
+        "image_url": "https://images.bild.de/6a143ddf350a34b38da835c3/95c64403e882f58b8a62d29d2f73802c,44bfa704?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
         "source_title1": "SPORT",
         "source_title2": "BILD",
         "source_color": "#fc4e4e",
@@ -25,20 +73,8 @@
     },
     {
         "title": "Schreck bei Miami-Spiel:Messi verletzt – Argentinien zittert um WM-Teilnahme",
-        "link": "https://sportbild.bild.de/fussball/klub-wm/wm-2026-messi-bei-miami-spiel-verletzt-argentinien-zittert-um-wm-teilnahme-6a13e49d3b7096456ac81bea",
+        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-2026-messi-bei-miami-spiel-verletzt-argentinien-zittert-um-wm-teilnahme-6a13e49d3b7096456ac81bea",
         "image_url": "https://images.bild.de/6a13e49d3b7096456ac81bea/73c069bbda5ef5ceabe4f0612e406c01,a1ff313e?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Auch Alaba mit kuriosem Abgang:Real-Star weint beim Abschied hemmungslos",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/auch-alaba-mit-kuriosem-abgang-real-star-weint-bei-abschied-hemmungslos-6a12aa00f1c38fda88c005c6",
-        "image_url": "https://images.bild.de/6a12aa00f1c38fda88c005c6/80f38b60e3a30f9defe49e4e585d2abd,e9ac51c4?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -60,45 +96,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "„Sehr schwieriger Morgen für mich“:Ukraine-Star Kostyuk bricht auf dem Platz in Tränen aus",
-        "link": "https://sportbild.bild.de/sportmix/tennis/french-open-ukraine-star-marta-kostyuk-bricht-trotz-sieg-auf-dem-platz-in-traenen-aus-6a13f5eb350a34b38da83146",
-        "image_url": "https://images.bild.de/6a13f5eb350a34b38da83146/5f8c2931adbb7313a386045246222e61,418833b1?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "„Mich würde es wundern, wenn …“:Hamann schockt Schmiso mit dieser Aussage",
-        "link": "https://sportbild.bild.de/fussball/champions-league/sunderland-stuermt-in-die-europa-league-hamann-mit-hammer-aussage-6a135c85f0f7eb608db7c98b",
-        "image_url": "https://images.bild.de/6a135c85f0f7eb608db7c98b/ee88fe7ad843889cb4e42a2d208517c9,1f5bdce4?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Er gewann sogar die Champions League:Ex-Real-Trainer vom 4. Team in 5 Jahren gefeuert",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/ex-liverpool-trainer-rafa-benitez-vom-4-team-in-5-jahren-gefeuert-6a12b888f0f7eb608db7c294",
-        "image_url": "https://images.bild.de/6a12b888f0f7eb608db7c294/93a753de10f08cf2c34219fa08b70ae2,bb3e1239?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Schock nach Klassenerhalt:Bundesliga-Star fällt auf unbestimmte Zeit aus",
-        "link": "https://sportbild.bild.de/sportmix/handball/handball-ein-schock-bundesliga-star-faellt-auf-unbestimmte-zeit-aus-6a14073df1c0dd3f2e7d44b4",
-        "image_url": "https://images.bild.de/6a14073df1c0dd3f2e7d44b4/014e971736233298f9cb149ae2f34f57,51a95a98?w=992",
+        "title": "„Letzte Kurve – der F1-Check“ von Konstantin Rek:Eskaliert der Mercedes-Zoff bald komplett?",
+        "link": "https://sportbild.bild.de/motorsport/formel-1/formel-1-eskaliert-dieser-zoff-bald-komplett-die-mercedes-show-in-letzte-kurve-der-f1-check-6a141cf3f1c0dd3f2e7d45bb",
+        "image_url": "https://images.bild.de/6a141cf3f1c0dd3f2e7d45bb/c6eb9ee64adc381fd31af2ae40a53653,c5164da2?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -120,9 +120,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Doppelter Sponsoren-Schock:Karriere-Ende? Skisprung-Star trifft Entscheidung",
-        "link": "https://sportbild.bild.de/sportmix/wintersport/nach-sponsoren-schock-skisprung-weltmeister-trifft-karriere-entscheidung-6a136dbc3b7096456ac81a82",
-        "image_url": "https://images.bild.de/6a136dbc3b7096456ac81a82/c0f65c0ac15c0c0b3994fcb6bca457a1,9742266e?w=992",
+        "title": "„Mich würde es wundern, wenn …“:Hamann schockt Schmiso mit dieser Aussage",
+        "link": "https://sportbild.bild.de/fussball/champions-league/sunderland-stuermt-in-die-europa-league-hamann-mit-hammer-aussage-6a135c85f0f7eb608db7c98b",
+        "image_url": "https://images.bild.de/6a135c85f0f7eb608db7c98b/ee88fe7ad843889cb4e42a2d208517c9,1f5bdce4?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -132,9 +132,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "„Hielt bereits nach Stränden Ausschau“:Spanische Presse geht auf Vinicius los",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/real-madrid-spanische-presse-geht-auf-vinicius-junior-los-6a12a364f0f7eb608db7c10a",
-        "image_url": "https://images.bild.de/6a12a364f0f7eb608db7c10a/9736040e6b335a78c2891eb2ebeb5d89,a78c1b68?w=992",
+        "title": "Das kommt überraschend:Bundesliga-Star unterschreibt plötzlich in Spanien",
+        "link": "https://sportbild.bild.de/sportmix/basketball/basketballa-star-kevin-yebo-von-den-niners-chemnitz-unterschreibt-bei-teneriffa-6a142668f1c0dd3f2e7d4660",
+        "image_url": "https://images.bild.de/6a142668f1c0dd3f2e7d4660/57001b02ad6c02a682018ac89c5d775e,ab0b1dc5?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -144,9 +144,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Wenige Tage nach der Meisterschaft:Ex-Bayern-Star wirft bei Barcelona hin!",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/ex-bayern-star-wirft-bei-barcelona-hin-er-hat-schon-einen-neuen-job-6a117daebe29d4b4607a475e",
-        "image_url": "https://images.bild.de/6a117daebe29d4b4607a475e/4d820c14f0e71ff66b429230ab916354,89055c6b?w=992",
+        "title": "Schock nach Klassenerhalt:Bundesliga-Star fällt auf unbestimmte Zeit aus",
+        "link": "https://sportbild.bild.de/sportmix/handball/handball-ein-schock-bundesliga-star-faellt-auf-unbestimmte-zeit-aus-6a14073df1c0dd3f2e7d44b4",
+        "image_url": "https://images.bild.de/6a14073df1c0dd3f2e7d44b4/014e971736233298f9cb149ae2f34f57,51a95a98?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -156,9 +156,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Gegen Pokal-Schreck:Wolff-Gala sichert Kiel-Sieg",
-        "link": "https://sportbild.bild.de/sportmix/handball/thw-kiel-schlaegt-bhc-gala-von-andreas-wolff-sichert-sieg-6a131a2cf69db3699d710569",
-        "image_url": "https://images.bild.de/6a131a2cf69db3699d710569/63816dad6c9f50d328d98e6f43a5a5a3,6abea01?w=992",
+        "title": "Vertrag läuft aus:Das sagt Alba zur Hermannsson-Zukunft",
+        "link": "https://sportbild.bild.de/sportmix/basketball/vertrag-laeuft-aus-das-sagt-alba-zur-hermannsson-zukunft-6a1409c00c38ecf8d88c0a2a",
+        "image_url": "https://images.bild.de/6a1409c00c38ecf8d88c0a2a/61b16c98a1a030d5670307338a148586,db2d9c8d?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -168,9 +168,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "„Wir wissen die Ursache nicht“:Russell-Drama bei Antonelli-Sieg",
-        "link": "https://sportbild.bild.de/motorsport/formel-1/formel-1-russell-drama-in-kanada-motor-ploetzlich-aus-6a1368273b7096456ac81a6e",
-        "image_url": "https://images.bild.de/6a1368273b7096456ac81a6e/1df5df162b85a941d7b9d34fd0b641ab,96730d38?w=992",
+        "title": "Bundesliga-Relegation:So sehen Sie Paderborn – Wolfsburg heute im Free-TV!",
+        "link": "https://sportbild.bild.de/fussball/1-bundesliga/fussball-heute-so-sehen-sie-die-bundesliga-relegation-paderborn-wolfsburg-im-free-tv-6a104f1d3b7096456ac7fc1d",
+        "image_url": "https://images.bild.de/6a104f1d3b7096456ac7fc1d/d94fdc4322cefa96f35105df766636dd,118eb2bc?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -192,21 +192,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "„Er war nie nur ein Trainer“:Emotionaler Gündogan-Abschied von Pep",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/emotionaler-guendogan-abschied-von-pep-guardiola-was-ihn-so-besonders-machte-6a12194df0f7eb608db7bdd0",
-        "image_url": "https://images.bild.de/6a12194df0f7eb608db7bdd0/a302a4896628f30d49cf79197d3f77e3,d6895e40?w=992",
-        "w": 984,
-        "h": 702,
-        "focus_y": 0.35,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "GP von Kanada:Reifen-Debakel von McLaren beim Start!",
-        "link": "https://sportbild.bild.de/motorsport/formel-1/formel-1-reifen-debakel-von-mclaren-beim-start-in-kanada-6a135c953b7096456ac81a29",
-        "image_url": "https://images.bild.de/6a135c953b7096456ac81a29/6a53fa9032eff1d0d04f37b6ad06438e,b6e29734?w=992",
+        "title": "Handball-Krimi bei den Frauen:WM-Silberheldin schockt BVB in letzter Sekunde",
+        "link": "https://sportbild.bild.de/sportmix/handball/handball-krimi-wm-silberheldin-hauf-schockt-bvb-in-letzter-sekunde-6a14205a3b7096456ac81f45",
+        "image_url": "https://images.bild.de/6a14205a3b7096456ac81f45/bf3a25819f4f95d289a84150ae6e6c75,dab03619?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -216,9 +204,21 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "„Wenn sie das Geld aufwenden wollen …“:Schumacher mit Zukunfts-Prognose bei Verstappen",
-        "link": "https://sportbild.bild.de/motorsport/formel-1/formel-1-spannende-verstappen-prognose-von-ralf-schumacher-gefahr-viel-zu-gross-6a13487bf0f7eb608db7c8fa",
-        "image_url": "https://images.bild.de/6a13487bf0f7eb608db7c8fa/0b26e9287c212ee0f6fa27e813734fa3,f8c81381?w=992",
+        "title": "Lebensgefahr, Festnahmen!:Juve-Fans fordern Derby-Absage nach Gewaltorgie",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/serie-a-fans-von-juventus-turin-fordern-spielabsage-nach-gewaltorgie-vor-derby-6a1428273b7096456ac8200d",
+        "image_url": "https://images.bild.de/6a1428273b7096456ac8200d/019fdc9aa7cf5705d2b5d83a86847473-landscape,f7d03c4a?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "„Sehr schwieriger Morgen für mich“:Ukraine-Star Kostyuk bricht auf dem Platz in Tränen aus",
+        "link": "https://sportbild.bild.de/sportmix/tennis/french-open-ukraine-star-marta-kostyuk-bricht-trotz-sieg-auf-dem-platz-in-traenen-aus-6a13f5eb350a34b38da83146",
+        "image_url": "https://images.bild.de/6a13f5eb350a34b38da83146/5f8c2931adbb7313a386045246222e61,418833b1?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
