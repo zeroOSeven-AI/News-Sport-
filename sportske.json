@@ -1,6 +1,42 @@
 [
     {
-        "title": "Ekskluzivno: Boban vuče potez koji će oduševiti navijače, Dinamo vraća Mislava Oršića! Jasno je tko će zbog njegova dolaska napustiti svlačionicu, a na koju adresu još nije poznato. Ponuda ima...",
+        "title": "Vatreni ženi kćer čuvenog gitarista! Dobio je Dalićevu dozvolu, ali iz reprezentacije ne stiže nitko Vjenčanje u Crvenoj luci dogovoreno je s izbornikom, a zbog obveza nacionalne vrste neće biti nikoga iz reprezentacije",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/martin-erlic-vjencanje-biograd-crvena-luka-brzi-povratak-vatreni-sp-15712417",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_38999854_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Dalić otkrio karte pa iznenadio odgovorom na pitanje o ozljedi napadača: ‘Ja nemam pojma...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dalic-u-rijeci-bez-panike-kompaktna-hrvatska-ide-po-prolaz-15712429",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_37455674_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Masovni egzodus iz Manchester Cityja nakon odlaska Pepa Guardiole",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/guardiola-odlazi-city-bez-stozera-enzzo-maresca-preuzima-15712451",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_38990368_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Ekskluzivno: Boban vuče potez koji će oduševiti navijače, Dinamo vraća Mislava Oršića!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/mislav-orsic-vraca-se-u-dinamo-potpis-iduci-tjedan-15712400",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_24667459_640.jpg",
         "w": 640,
@@ -12,9 +48,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dinamo se oprostio od igrača koji je više od 13 godina proveo na Maksimiru",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-oprostaj-dine-perica-kraj-karijere-ozljede-12-godina-15712412",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_30258977_640.jpg",
+        "title": "Engleska u šoku, umro mladi nogometaš (21)",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/preminuo-victor-udoh-21-bivsi-junior-southamptona-poruke-sucuti-15712449",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_39001468_640.png",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,93 +60,57 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Zdravko Marić za SN otkriva: ‘Neću se kandidirati za predsjednika HOO-a; izvanredna Skupština...",
+        "title": "Ogorčenje u BiH uoči Svjetskog prvenstva, evo kakvo je stanje s Vatrenima",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bih-rekord-putovanja-sp-vatreni-kraca-ruta-usa-kanada-meksiko-15712442",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_38677273_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Riječka žega kao adaptacija za Dallas, devet Vatrenih odradilo trening po velikoj vrućini",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/vatreni-trening-rijeka-vrucina-dean-sculac-momcad-kompletiranje-do-petka-15712444",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_38997033_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Novače, što kažeš na ovo?‘ Najbolja tenisačica svijeta ovako plesom mami Đokovića",
+        "link": "https://sportske.jutarnji.hr/sportske/tenis/grand-slam/novace-sto-kazes-na-ovo-najbolja-tenisacica-svijeta-ovako-plesom-mami-dokovica-15712425",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_39001028_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Novi hrvatski drugoligaš prodao igrača za dva milijuna eura",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/carlos-mejia-iz-kustosije-u-antwerp-transfer-mladi-ekvadorac-15712446",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_39001232_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Zdravko Marić za SN otkriva: ‘Neću se kandidirati za predsjednika HOO-a; izvanredna Skupština sazvana za 29. srpnja",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/hoo/zdravko-maric-za-sn-otkriva-necu-se-kandidirati-za-predsjednika-hoo-a-izvanredna-skupstina-sazvana-za-29-srpnja-15712360",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_38438812_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Treba li Dinamo krenuti po Vatrenog iza kojeg je sezona kalvarije?",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/modric-kraj-sutalo-odlazak-ajax-dinamo-pojacanja-livakovic-majer-15712385",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_37650081_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Alarm: Ponajveći Dalićev adut ide na SP, ali tri mjeseca uopće ne trenira i igra pod tabletama!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kramaric-stisce-zube-ide-na-mundijal-unatoc-boli-u-aduktoru-15712265",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_38997035_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Modrićev odlazak u mirovinu može biti sjajna stvar za Vatrene!",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/modric-nakon-sp-zavrsava-karijeru-sportsko-jutro-analiza-15712312",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_38990499_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Eskalirao sukob dva kapetana Uniteda: ‘Previše pažnje natjera magarca da pomisli da je lav‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/roy-keane-bruno-fernandes-instagram-objava-magarac-lav-sukob-15712380",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_38047331_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Klub Vatrenog ispao nakon niza katastrofalnih odluka: ‘Zaslužena kazna i velika prilika...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/wolfsburg-ispada-iz-bundeslige-nakon-29-godina-poraz-od-paderborna-15712390",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_38997512_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Svi vi koji mislite da sam debelo kopile... J***te se svi, vi ste jedna obična hrpa klošara!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/svi-vi-koji-mislite-da-sam-debelo-kopile-j-te-se-svi-vi-ste-jedna-obicna-hrpa-klosara-15712403",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_39000747_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO Đokovića ugodno iznenadili navijači iz Zagreba: ‘Hvala vam na podršci!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/tenis/atp-wta-turniri/djokovic-pozdravio-navijace-iz-zagreba-nakon-preokreta-u-parizu-i-najavio-royera-15712393",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_35330563_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -168,9 +168,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hajduk vraća drugu momčad, igrat će u četvrtoj hrvatskoj ligi, evo tko će joj biti trener Druga momčad Bijelih uglavnom će se sastojati od vrlo mladih igrača, pretežno kadeta i mlađih juniora u dobi od 16 do 18 godina",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-vraca-b-momcad-3-nl-jug-hari-vukas-mladi-igraci-15712335",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_38373680_640.jpg",
+        "title": "Vatreni ženi kćer čuvenog gitarista! Dobio je Dalićevu dozvolu, ali iz reprezentacije ne stiže nitko",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/martin-erlic-vjencanje-biograd-crvena-luka-brzi-povratak-vatreni-sp-15712417",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_38999854_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Bivši igrač Rijeke i Dinama o Garciji: ‘Da je to rekao neki domaći trener, odavno bi bio smijenjen‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/milinovic-kritizira-garciju-poljud-razmatra-promjene-nakon-18-za-dinamom-15712304",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_36804934_640.jpg",
+        "title": "Dinamo se oprostio od igrača koji je više od 13 godina proveo na Maksimiru Stoper je s Modrima je osvojio osam naslova prvaka Hrvatske, četiri Hrvatska nogometna kupa i tri Superkupa",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-oprostaj-dine-perica-kraj-karijere-ozljede-12-godina-15712412",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_30258977_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,9 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Marin Čilić ekspresno završio svoj nastup u Parizu, izbacio ga 17- godišnjak, 381. tenisač svijeta",
-        "link": "https://sportske.jutarnji.hr/sportske/tenis/grand-slam/cilic-izgubio-roland-garros-17-godisnji-moise-kouame-sok-u-prvom-kolu-15712342",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_38999764_640.jpg",
+        "title": "‘Prvi od mnogih‘ sudara budućih zvijezda: Prižmić lovi uspjeh karijere i novi meč s apsolutnom legendom",
+        "link": "https://sportske.jutarnji.hr/sportske/tenis/grand-slam/prizmic-fonseca-roland-garros-obracun-mladih-put-prema-dokovicu-15712421",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_38889206_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -204,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Filmska priča na pomolu! Nekad je vodio bitku s Modrićem na terenu, a sada bi mu mogao biti trener",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/milan-cilja-xavija-nakon-allegrijeva-odlaska-iraola-alternativa-modric-15712287",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_28012877_640.jpg",
+        "title": "Treba li Dinamo krenuti po Vatrenog iza kojeg je sezona kalvarije?",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/modric-kraj-sutalo-odlazak-ajax-dinamo-pojacanja-livakovic-majer-15712385",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_37650081_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -216,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Bila‘ obitelj oprostila se od šjor Ive: ‘Posvađao bi se i s Bogom da je u interesu Hajduka‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/ivo-bego-oprostaj-poljud-hajduk-legenda-15712269",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_38999526_640.jpg",
+        "title": "Alarm: Ponajveći Dalićev adut ide na SP, ali tri mjeseca uopće ne trenira i igra pod tabletama!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kramaric-stisce-zube-ide-na-mundijal-unatoc-boli-u-aduktoru-15712265",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_38997035_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -228,9 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Šokantan popis: Ovako nešto dugo nije viđeno, novi izbornik zamijenio gotovo cijelu reprezentaciju",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/baldini-rekordno-mlad-popis-italije-radikalni-rez-15712259",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_38732374_640.jpg",
+        "title": "Antonia Ružić ostvarila prvu pobjedu na Grand Slam turnirima i ušla u drugo kolo Roland Garrosa",
+        "link": "https://sportske.jutarnji.hr/sportske/tenis/grand-slam/antonia-ruzic-preokretom-svlada-krueger-i-ide-u-drugo-kolo-roland-garrosa-15712428",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_39001162_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
