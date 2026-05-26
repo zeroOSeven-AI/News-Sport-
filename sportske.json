@@ -12,6 +12,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Insajder: Dinamo poslao ponudu za igrača Hajduka! Nude četiri milijuna eura",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-ponuda-iker-almena-posudba-opcija-otkupa-15712500",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_38242783_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Nijemci otpisali bivšu Dinamovu ‘desetku‘, hoće li Boban zagristi udicu?",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/lovro-majer-izvan-planova-wolfsburga-prodaja-10-milijuna-eura-15712481",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_23876333_640.jpg",
@@ -108,18 +120,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Ekskluzivno: Boban vuče potez koji će oduševiti navijače, Dinamo vraća Mislava Oršića!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/mislav-orsic-vraca-se-u-dinamo-potpis-iduci-tjedan-15712400",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_24667459_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Vatreni ženi kćer čuvenog gitarista! Dobio je Dalićevu dozvolu, ali iz...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/martin-erlic-vjencanje-biograd-crvena-luka-brzi-povratak-vatreni-sp-15712417",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_38999854_640.jpg",
@@ -144,18 +144,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Znači li ovo Modrićev kraj u Milanu? Ako su Talijani u pravu, maestrova priča na San Siru je - gotova!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/milan-bez-lige-prvaka-poraz-od-cagliarija-neizvjesna-buducnost-luke-modrica-15711785",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/25/k_38991611_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Usred skandalozne ‘afere Pavlek‘, Hrvatski skijaški savez ponovno je šokirao čitavu Hrvatsku",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/hss-nenad-eror-rovnij-dodjela-usred-afere-pavlek-15712474",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_39002086_640.jpg",
@@ -168,7 +156,43 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Štimac progovorio o budućnosti u Zrinjskom: ‘Postoji želja, ali neke stvari moramo raščistiti‘ Štimac je sa Zrinjskim potpisao dvogodišnji ugovor, ali uz dogovor da se nakon prve sezone napravi analiza napravljenog",
+        "title": "Znači li ovo Modrićev kraj u Milanu? Ako su Talijani u pravu, maestrova priča na San Siru je - gotova!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/milan-bez-lige-prvaka-poraz-od-cagliarija-neizvjesna-buducnost-luke-modrica-15711785",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/25/k_38991611_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Ekskluzivno: Boban vuče potez koji će oduševiti navijače, Dinamo vraća Mislava Oršića!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/mislav-orsic-vraca-se-u-dinamo-potpis-iduci-tjedan-15712400",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_24667459_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Ekskluzivno: Boban vuče potez koji će oduševiti navijače, Dinamo vraća Mislava Oršića! Jasno je tko će zbog njegova dolaska napustiti svlačionicu, a na koju adresu još nije poznato. Ponuda ima...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/mislav-orsic-vraca-se-u-dinamo-potpis-iduci-tjedan-15712400",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_24667459_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Štimac progovorio o budućnosti u Zrinjskom: ‘Postoji želja, ali neke stvari moramo raščistiti‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/stimac-razgovori-ostanak-zrinjski-mostar-plan-projekt-15712497",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_37638444_640.jpg",
         "w": 640,
@@ -207,30 +231,6 @@
         "title": "‘On osvaja nagrade, a pravi pobjednici trofeje. To je razlika između velikog i legendarnog igrača‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/bruno-fernandes-dvije-nagrade-rice-rasprava-premier-liga-15712466",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_39000440_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Engleska u šoku, umro mladi nogometaš (21)",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/preminuo-victor-udoh-21-bivsi-junior-southamptona-poruke-sucuti-15712449",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_39001468_640.png",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO Riječka žega kao adaptacija za Dallas, jedanaestorica Vatrenih odradila trening po velikoj vrućini",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/vatreni-trening-rijeka-vrucina-dean-sculac-momcad-kompletiranje-do-petka-15712444",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_38997033_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
