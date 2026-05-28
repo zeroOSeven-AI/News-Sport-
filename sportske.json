@@ -1,8 +1,8 @@
 [
     {
-        "title": "Dinamo odustao od pojačanja iz Barcelone! U ključnom trenutku dogodio se peh, priča je propala Planirana posudba Danija Rodrigueza raspala se zbog pucanja tetive, a Modri okreću fokus prema Ikeru Almeni",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-odustao-od-danija-rodrigueza-zbog-ozljede-fokus-iker-almena-15713127",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/28/k_38303010_640.jpg",
+        "title": "Dinamo ne traži golmana, sve se vrti oko jednog imena: Da ima kontinuitet, bio bi među najboljima u HNL-u Može se već sad zaključiti da je Filipović trenutačno čvrsta i idealna “dvojka”, koja bi odlaskom Livakovića još jednom mogla avanzirati",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-vratarska-enigma-livakovic-ili-filipovic-boban-i-bara-u-igri-15713163",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/26/k_38405811_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -12,9 +12,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Procurila senzacionala priča! Mafija planirala otmicu legendarnog nogometaša: ‘Pratili su ga mjesecima...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/mafija-planirala-otmicu-van-bastena-stopirano-zbog-odanosti-milanu-15713141",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/28/k_37774446_640.jpg",
+        "title": "Bivša reprezentativka Hrvatske oplela po Ruskinji, spominje Gestapo i Auschwitz: ‘Zašto svi šute?‘",
+        "link": "https://sportske.jutarnji.hr/sportske/tenis/grand-slam/olijnikova-prozvala-shnaider-zbog-gazproma-uoci-roland-garrosa-15713186",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/28/k_38215945_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,9 +24,57 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Novi težak udarac za Real: Argentina otpisala zvijezdu za SP! A nosio je Messijevu ‘desetku‘...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/spanjolska-bez-igraca-reala-na-sp-mastantuono-izostavljen-kriza-u-madridu-15713143",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/28/k_38164176_640.jpg",
+        "title": "Krovinović nije opravdao ozbiljan novac, drugog će Poljud pamtiti po borbenosti, a trećeg - zaboraviti",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-otpisao-krovinovica-sarliju-i-guillamona-15713175",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/28/k_38617160_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘New deal‘ Zlatka Dalića: Evo kako Hrvatska može obnoviti jednu od najvećih senzacija ikada!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dalic-hrvatska-cvrsta-obrana-prekidi-sp-amerika-15713153",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/27/k_5929115_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Zna se tko će ukrasti sve poglede na prvoj utakmici Vatrenih? ‘Ova žena može zaraditi milijune‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/tolami-benson-zarucnica-bukaya-sake-uz-sp-pretvara-slavu-u-zaradu-15713159",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/28/k_39013293_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Preokret u Srbiji nakon kaosa u kojem je mogao stradati i Hrvat, Partizanu poništena titula",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/skandal-finale-arkus-lige-partizan-trofej-ponovljena-utakmica-bez-publike-15713176",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/28/k_25974571_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Drama u Draženovom domu, Cibona u zadnjoj minuti srušila Split za plasman u finale",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/hrvatska-liga/drama-u-drazenovom-domu-cibona-u-zadnjoj-minuti-srusila-split-za-plasman-u-finale-15713169",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/28/k_39013351_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,9 +96,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Pletikosa otkrio kako je stvorena nova nada Hrvatske: ‘Već sam mislio da smo ga izgubili‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kustic-vecera-pletikosa-smjernice-uefa-tomasko-vatreni-viseca-lopta-15713136",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/28/k_37839006_640.jpg",
+        "title": "Otkrivaju se detalji opasnog skidanja kilograma: ‘Povraćao je zelenu žuč, bio je na rubu smrti‘",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/otkrivaju-se-detalji-opasnog-skidanja-kilograma-povracao-je-zelenu-zuc-bio-je-na-rubu-smrti-15713161",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/28/k_39013386_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -60,57 +108,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘I što bih ja sad trebao? Platiti ti 270.000 dolara samo da vidim pripadaš li uopće ovdje?‘",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/i-sto-bih-ja-sad-trebao-platiti-ti-270-000-dolara-samo-da-vidim-pripadas-li-uopce-ovdje-15713140",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/28/k_39012830_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Dalić već ima 22 igrača, trenira se žustro, a u subotu sve Vatrene čeka jedna iznimka",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/vatreni-treniraju-s-22-igraca-u-rijeci-stizu-modric-kovacic-gvardiol-stanisic-15713138",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/28/k_39007009_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Livaković govorio o budućnosti, napadač Vatrenih otkrio: ‘Otac je imao infarkt, srećom je preživio‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kramaric-livakovic-pasalic-pokazi-srce-hns-prva-pomoc-fokus-na-sp-15713121",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/28/k_36455075_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Platio je glavom zbog debakla u Milanu, a sad je već pronašao ‘bolji posao‘ na jugu Italije",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/allegri-preuzima-napoli-nakon-odlaska-contea-i-otkaza-u-milanu-15713132",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/28/k_38990481_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Velika šteta za hrvatski nogomet! Mora da se netko vratio s tuluma pod gasom i donio takvu odluku",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/povratak-b-momcadi-hajduk-s-vukasom-dinamova-druga-u-drugom-rangu-15712980",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/28/k_36772107_640.jpg",
+        "title": "Dinamo odustao od pojačanja iz Barcelone! U ključnom trenutku dogodio se peh, priča je propala",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-odustao-od-danija-rodrigueza-zbog-ozljede-fokus-iker-almena-15713127",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/28/k_38303010_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Sinner objasnio razloge kolapsa: ‘Mučio sam se, vrtilo mi se u glavi. Sve je krenulo još ujutro‘ Nije vrućina uzrok, samo ja. Ali događa se..., rekao je prvi reket svijeta nakon poraza u 2. kolu Roland Garrosa",
-        "link": "https://sportske.jutarnji.hr/sportske/tenis/grand-slam/sinner-ispustio-2-0-i-5-1-sok-na-roland-garrosu-poraz-od-cerundole-15713123",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/28/k_39011837_640.jpg",
+        "title": "Prva pobjeda mini Vatrenih na EP-u! U nedjelju pada odluka, evo što nam treba protiv Španjolaca Hrvatska ima dva scenarija u kojima može proći dalje, a oba uključuju pobjedu nad Španjolskom u trećem kolu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hrvatska-u-17-pobijedila-estoniju-3-1-skafar-zuzic-dva-gola-benkotic-penal-spanjolska-odlucuje-15713150",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/28/k_36445963_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,9 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Pogledajte agoniju Jannika Sinnera: Talijan prolazio pakao, nije mogao stajati na nogama",
-        "link": "https://sportske.jutarnji.hr/sportske/tenis/atp-wta-turniri/cerundolo-sokirao-sinnera-preokret-roland-garros-kraj-niza-30-pobjeda-15713106",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/28/k_39011234_640.jpg",
+        "title": "Procurila senzacionalna priča! Mafija planirala otmicu legendarnog nogometaša: ‘Pratili su ga mjesecima...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/mafija-planirala-otmicu-van-bastena-stopirano-zbog-odanosti-milanu-15713141",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/28/k_37774446_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -204,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Od ‘sprovoda‘ do povijesti: Bili su blizu likvidacije, a sad nižu trofeje i izvoze igrače za SP",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/crystal-palace-od-prezivljavanja-do-tri-trofeja-i-europske-lige-15713129",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/28/k_39008222_640.jpg",
+        "title": "Novi težak udarac za Real: Argentina otpisala zvijezdu za SP! A nosio je Messijevu ‘desetku‘...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/spanjolska-bez-igraca-reala-na-sp-mastantuono-izostavljen-kriza-u-madridu-15713143",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/28/k_37618976_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -216,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Šok u Parizu: Sinner bio na korak do pobjede pa ispao s Roland Garrosa!",
-        "link": "https://sportske.jutarnji.hr/sportske/tenis/grand-slam/cerundolo-preokret-srusio-sinnera-roland-garros-ispadanje-15713091",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/28/k_39011232_640.jpg",
+        "title": "Milan u njemu vidi spasitelja, ali njegov dolazak mogao bi označiti kraj Modrićeve priče",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/milan-rangnick-ibrahimovic-cardinale-tehnicki-sektor-pregovori-15713168",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/28/k_39010775_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -228,9 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Osijek u petak predstavlja novog sportskog direktora: Radio u Chelseaju, zadnji ga klub otpustio",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/osijek-kenneth-zandvliet-novi-sportski-direktor-novi-identitet-opus-arena-15713114",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/28/k_38466250_640.jpg",
+        "title": "Pletikosa otkrio kako je stvorena nova nada Hrvatske: ‘Već sam mislio da smo ga izgubili‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kustic-vecera-pletikosa-smjernice-uefa-tomasko-vatreni-viseca-lopta-15713136",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/28/k_37839006_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
