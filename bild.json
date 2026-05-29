@@ -1,8 +1,32 @@
 [
     {
-        "title": "Nichts mehr verpassen!:Der 24-Stunden-Stream von SPORT BILD",
-        "link": "https://sportbild.bild.de/sportmix/nichts-mehr-verpassen-der-24-stunden-stream-von-sport-bild-67e3f21af933f731d4312a95",
-        "image_url": "https://images.bild.de/67e3f21af933f731d4312a95/ba25ea86c257543f201c3f37f05b52d4-landscape,1cd6388a?w=992",
+        "title": "Als Gordon-Alternative:Bayern heiß auf 90-Mio.-Stürmer?",
+        "link": "https://sportbild.bild.de/fussball/fc-bayern-muenchen/als-gordon-alternative-fc-bayern-heiss-auf-90-mio-stuermer-6a195c02672896fe8f1657d9",
+        "image_url": "https://images.bild.de/6a195c02672896fe8f1657d9/85d6b6d8f469d9578bcc9592225e718e,a47121d2?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "„Ich war enttäuscht“:Raum vermisst diesen Führungsspieler im WM-Kader",
+        "link": "https://sportbild.bild.de/fussball/nationalmannschaft/dfb-wm-kader-ich-war-enttaeuscht-david-raum-vermisst-diesen-teamkollegen-6a1948f9411d40cd4c74b5da",
+        "image_url": "https://images.bild.de/6a1948f9411d40cd4c74b5da/8100c39d97e0521c414002911539432d,3b3e41e0?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "WM-Klartext vom Kapitän:Kimmich: „Dachten, wir wären besser als wir waren“",
+        "link": "https://sportbild.bild.de/fussball/nationalmannschaft/wm-kimmich-wir-dachten-wir-waeren-besser-als-wir-waren-6a198749672896fe8f165d63",
+        "image_url": "https://images.bild.de/6a198749672896fe8f165d63/b23307a2ae6dbb26d348a57229937f0e,7b35930d?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -24,36 +48,12 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "2014 hat es schon funktioniert:Schweinsteiger: Auf diese Achse muss Nagelsmann setzen",
-        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-2026-schweinsteiger-rat-auf-diese-achse-muss-nagelsmann-setzen-6a19286c672896fe8f16528d",
-        "image_url": "https://images.bild.de/6a19286c672896fe8f16528d/0e11936834f8b718fba9b970414c986c,b37629c?w=992",
+        "title": "Stimmen Sie ab!:Welcher Spieler fehlt Ihnen im WM-Kader?",
+        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-kader-fuer-deutschland-welcher-spieler-fehlt-ihnen-stimmen-sie-ab-6a19950c672896fe8f165eeb",
+        "image_url": "https://images.bild.de/6a19950c672896fe8f165eeb/936b8ca184ff86ce75e056803615064b,ac02626d?w=992",
         "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Verpasst er verletzt die WM?:„Zur Blamage geworden“ – Harte Abrechnung mit Neymar",
-        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-aus-zur-blamage-geworden-harte-abrechnung-mit-neymar-6a192c59bf5b78f90d0078ba",
-        "image_url": "https://images.bild.de/6a192c59bf5b78f90d0078ba/79b4fcb3a8d286dc442562c95a29b665,aab3f13?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Stimmen Sie hier ab!:Wer wird die größte WM-Überraschung?",
-        "link": "https://sportbild.bild.de/fussball/fussball-wm/fussball-wm-stimmen-sie-ab-wer-wird-die-groesste-ueberraschung-der-weltmeisterschaft-6a193041672896fe8f1652e5",
-        "image_url": "https://images.bild.de/6a193041672896fe8f1652e5/a31d68a2a50a31cadf67d9a989f0d6ee,cb8433ce?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
+        "h": 661,
+        "focus_y": 0.35,
         "source_title1": "SPORT",
         "source_title2": "BILD",
         "source_color": "#fc4e4e",
@@ -63,6 +63,18 @@
         "title": "Ab heute im Handel:Das WM-Sonderheft ist da",
         "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-2026-das-sonderheft-von-sport-bild-ist-da-ab-freitag-im-handel-6a15731bf1c0dd3f2e7d543a",
         "image_url": "https://images.bild.de/6a15731bf1c0dd3f2e7d543a/6f55085a99228b1946772c3e0b49b6b8,31a5bee4?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Transfer-Guru Romano berichtet:Tedesco übernimmt diesen Italien-Klub!",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/serie-a-transfer-guru-romano-berichtet-tedesco-uebernimmt-diesen-italien-klub-6a19984ebf5b78f90d008377",
+        "image_url": "https://images.bild.de/6a19984ebf5b78f90d008377/bca5713cc51e228feb63cead0b862f45,46ea9df2?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -84,6 +96,18 @@
         "flag": "🇩🇪"
     },
     {
+        "title": "„Spiel muss von einem Mann geleitet werden“:Sexismus-Eklat bei den French Open!",
+        "link": "https://sportbild.bild.de/sportmix/tennis/tennis-star-sorgt-fuer-sexismus-eklat-bei-den-french-open-6a19856b914c87cfaf077a34",
+        "image_url": "https://images.bild.de/6a19856b914c87cfaf077a34/856b3a3a3dee69af8b66af935dd40791,218f273?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
         "title": "Nach Gordon soll ER kommen!:Barça plant nächsten Millionen-Coup",
         "link": "https://sportbild.bild.de/fussball/internationaler-fussball/fc-barcelona-plant-naechsten-naechsten-millionen-coup-6a1820aff7254a7f1942957c",
         "image_url": "https://images.bild.de/6a1820aff7254a7f1942957c/79b8425ac1945cdc9a71939e2265a86d,45b0c1e7?w=992",
@@ -96,9 +120,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "„Here we go“:Liverpool-Ikone vor Wechsel zu Liga-Konkurrent",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/premier-league-liverpool-ikone-vor-wechsel-zu-ligakonkurrent-6a18109bd5527180836c1284",
-        "image_url": "https://images.bild.de/6a18109bd5527180836c1284/ac1caf36284001318436926efdc468dd,a133c742?w=992",
+        "title": "Er verlässt seinen langjährigen Klub:Spanien-Star: Ich hätte gerne für Bayern gespielt!",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/fc-bayern-spanien-star-ich-haette-gerne-fuer-bayern-gespielt-6a16b6d6f1c0dd3f2e7d63aa",
+        "image_url": "https://images.bild.de/6a16b6d6f1c0dd3f2e7d63aa/36c8bff0515a7eee5cf44c0c75542bc7,ab94160d?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -108,11 +132,11 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Schlägt dieser Topklub zu?:England-Legende fordert Lewandowski-Transfer!",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/england-legende-fordert-lewandowski-transfer-schlaegt-dieser-topklub-zu-6a168e243b7096456ac83ab9",
-        "image_url": "https://images.bild.de/6a168e243b7096456ac83ab9/334f8384311870d9825289253f01e62e,393f42a2?w=992",
+        "title": "Nach Salah und Robertson:Nächster Liverpool-Star vor Abschied!",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/nach-salah-und-robertson-naechster-liverpool-star-vor-abschied-6a194b52672896fe8f165604",
+        "image_url": "https://images.bild.de/6a194b52672896fe8f165604/360ed7f18de6b7f53645a010ea637abf,e1f6447d?w=992",
         "w": 992,
-        "h": 604,
+        "h": 558,
         "focus_y": 0.3,
         "source_title1": "SPORT",
         "source_title2": "BILD",
@@ -132,45 +156,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Argentiniens Kader da:Nächster Real-Star verpasst WM",
+        "title": "Argentiniens WM-Kader da:Nächster Real-Star verpasst WM",
         "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-argentiniens-kader-da-naechster-real-star-nicht-dabei-und-messi-6a192272672896fe8f165246",
         "image_url": "https://images.bild.de/6a192272672896fe8f165246/856475dd60837bf071ab456de92e430c,9a34f983?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Krimi um Drittliga-Aufstieg:Bittere Hinspiel-Pleite für Lok Leipzig gegen Würzburg",
-        "link": "https://sportbild.bild.de/fussball/lok-leipzig-wuerzburger-kickers-hier-im-live-ticker-aufstiegsspiel-zur-3-liga-6a180260fc909a07c214444a",
-        "image_url": "https://images.bild.de/6a180260fc909a07c214444a/458771854f06b416a6786f18bb5877a8,a2add7ef?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Brasilien-Arzt gibt Diagnose bekannt:Bitterer WM-Rückschlag für Neymar!",
-        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-2026-bitterer-rueckschlag-fuer-neymar-so-lange-faellt-er-verletzt-aus-6a188a93cefa984edf3c225e",
-        "image_url": "https://images.bild.de/6a188a93cefa984edf3c225e/8626f1cc8c656f40670f549ac31cd07f,e3e8d754?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Fünfstellige Summe Bestechungsgeld:Wettskandal erschüttert die NBA!",
-        "link": "https://sportbild.bild.de/sportmix/us-sport/hohes-bestechungsgeld-wettskandal-erschuettert-die-nba-6a19216f411d40cd4c74b36f",
-        "image_url": "https://images.bild.de/6a19216f411d40cd4c74b36f/df23bf9a97f2e8433fb8f8979d9fc409,113f4c95?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -204,9 +192,21 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Foto aus dem Krankenhaus:DFB-Kapitänin Gwinn operiert!",
-        "link": "https://sportbild.bild.de/fussball/dfb-star-giulia-gwinn-operiert-was-der-grund-fuer-den-eingriff-ist-6a186862f7254a7f19429d35",
-        "image_url": "https://images.bild.de/6a186862f7254a7f19429d35/c0f37d4534b03e00714eefcee92e2c75,336bb6f2?w=992",
+        "title": "Wer trifft auf die Knicks?:DAS müssen Sie zu den NBA-Finals 2026 wissen!",
+        "link": "https://sportbild.bild.de/sportmix/us-sport/nba-finals-2026-das-muessen-sie-wissen-termine-teams-tv-6a1953e6411d40cd4c74b6f1",
+        "image_url": "https://images.bild.de/6a1953e6411d40cd4c74b6f1/3f06fc485b5229773994b519f135d158,e03c8c6d?w=992",
+        "w": 992,
+        "h": 631,
+        "focus_y": 0.35,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Krimi um Drittliga-Aufstieg:Bittere Hinspiel-Pleite für Lok Leipzig gegen Würzburg",
+        "link": "https://sportbild.bild.de/fussball/lok-leipzig-wuerzburger-kickers-hier-im-live-ticker-aufstiegsspiel-zur-3-liga-6a180260fc909a07c214444a",
+        "image_url": "https://images.bild.de/6a180260fc909a07c214444a/458771854f06b416a6786f18bb5877a8,a2add7ef?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -216,9 +216,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Nach dem Triumph bricht er in Tränen aus:Littler ist Premier-League-König",
-        "link": "https://sportbild.bild.de/sportmix/darts-luke-littler-ist-premier-league-koenig-dramatischer-sieg-gegen-humphries-6a18ad95672896fe8f164fbc",
-        "image_url": "https://images.bild.de/6a18ad95672896fe8f164fbc/ea36a12d713769cf921cc472a6de4fa9,1a7119a9?w=992",
+        "title": "Nichts mehr verpassen!:Der 24-Stunden-Stream von SPORT BILD",
+        "link": "https://sportbild.bild.de/sportmix/nichts-mehr-verpassen-der-24-stunden-stream-von-sport-bild-67e3f21af933f731d4312a95",
+        "image_url": "https://images.bild.de/67e3f21af933f731d4312a95/ba25ea86c257543f201c3f37f05b52d4-landscape,1cd6388a?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -228,9 +228,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Hockey-Endspiel der Damen:Finale um die Meisterschaft live bei SPORT BILD",
-        "link": "https://sportbild.bild.de/sportmix/hockey-endspiel-der-damen-finale-um-die-meisterschaft-live-bei-sport-bild-6a18288c77d857fdb4526cf6",
-        "image_url": "https://images.bild.de/6a18288c77d857fdb4526cf6/4905183047d8ab3f821ca27c5cd648f2,ff0424a7?w=992",
+        "title": "Plötzlich 1,5 Mio. Follower:WM-Spieler wird über Nacht berühmt",
+        "link": "https://sportbild.bild.de/fussball/nationalmannschaft/wm-ploetzlich-1-5-mio-follower-wm-spieler-wird-ueber-nacht-beruehmt-6a19889ebf5b78f90d00819b",
+        "image_url": "https://images.bild.de/6a19889ebf5b78f90d00819b/0b63ef1f94d41c32adf236e8970869b2,6401be40?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
