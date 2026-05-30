@@ -1,8 +1,32 @@
 [
     {
-        "title": "Arapi su tražili, a onda poslušali čovjeka koji je promijenio PSG: ‘Ako želite na vrh, ovo je ključno‘ Drugu godinu zaredom osvojio je Europu, stvorivši kolektiv koji nadjačava zvijezde i mijenja narativ zvijezda kao ključnih igrača",
+        "title": "Đani Barbir je gazda Beograda! Hrvat je presudio Iliću u prvoj rundi i utišao krcatu Štark Arenu! U meču prepunom tranzicija i preokreta hrvatski je borac demonstrirao klasu i zasluženo obranio naslov prvaka",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/regija/dani-barbir-je-gazda-beograda-hrvat-je-presudio-ilicu-u-prvoj-rundi-i-utisao-krcatu-stark-arenu-15713757",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/30/k_39023909_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Arapi su tražili, a onda poslušali čovjeka koji je promijenio PSG: ‘Ako želite na vrh, ovo je ključno‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/luis-enrique-pretvorio-psg-u-europsku-dinastiju-i-obranio-naslov-15713741",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/30/k_39024938_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Totalna ludnica u Beogradu! Stošić se vratio iz ponora pa stravično nokautirao američkog gorostasa",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/regija/totalna-ludnica-u-beogradu-stosic-se-vratio-iz-ponora-pa-stravicno-nokautirao-americkog-gorostasa-15713756",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/30/k_39026329_640.png",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,30 +120,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Ne, Dalić nije u pravu! Nije važna putovnica nego rezultati",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/mit-o-potcijenjenim-hrvatskim-trenerima-analiza-rezultati-i-reference-15713736",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/27/k_38791949_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Kontroverzna sučeva odluka u finalu Lige prvaka začudila svijet! Evo što kažu nogometna pravila",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/zasto-mosquera-nije-dobio-drugi-zuti-nakon-penala-ifab-objasnjenje-15713714",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/30/k_39024190_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "PSG obranio naslov, bivši dinamovac Arsenalov tragičar u finalu Lige...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/liga-prvaka/psg-obranio-naslov-bivsi-dinamovac-arsenalov-tragicar-u-finalu-lige-prvaka-15713663",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/30/k_39025356_640.jpg",
@@ -180,7 +180,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Hrvati, fascinantni ste, ali stići ćemo vas. Nema problema ako nas izbacite u polufinalu SP-a‘ ‘Napravili su odličan sustav. Oni mijenjaju generaciju u hodu i to se kod njih nikako ne osjeća, a to je kad imaš plan‘, kaže Emir Spahić",
+        "title": "Ne, Dalić nije u pravu! Nije važna putovnica nego rezultati U zadnjih 25 godina u HNL-u jedan je strani trener godišnje. A oni su dobivali otkaze u klubovima jednako kao domaći",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/mit-o-potcijenjenim-hrvatskim-trenerima-analiza-rezultati-i-reference-15713736",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/27/k_38791949_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Kontroverzna sučeva odluka u finalu Lige prvaka začudila svijet! Evo što kažu nogometna pravila",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/zasto-mosquera-nije-dobio-drugi-zuti-nakon-penala-ifab-objasnjenje-15713714",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/30/k_39024190_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Hrvati, fascinantni ste, ali stići ćemo vas. Nema problema ako nas izbacite u polufinalu SP-a‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/emir-spahic-hvali-hrvatski-nogometni-sustav-i-kontinuitet-15713754",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/30/k_33117339_640.jpg",
         "w": 640,
@@ -207,30 +231,6 @@
         "title": "PSG obranio naslov, bivši dinamovac Arsenalov tragičar u finalu Lige prvaka!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/liga-prvaka/psg-obranio-naslov-bivsi-dinamovac-arsenalov-tragicar-u-finalu-lige-prvaka-15713663",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/30/k_39025356_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Veličanstveni Luka Modrić 14. put zaredom osvojio Trofej Nogometaš",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/modric-14-trofej-nogometas-uvjerljiva-pobjeda-glasova-shnl-15713752",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/29/k_38569143_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Šok na otvaranju FNC 31 priredbe! Štark Arena je utihnula, favorizirani domaćin izgubio u prvoj rundi",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/regija/sok-na-otvaranju-fnc-31-priredbe-stark-arena-je-utihnula-favorizirani-domacin-izgubio-u-prvoj-rundi-15713708",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/30/k_39024616_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
