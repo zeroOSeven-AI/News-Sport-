@@ -48,18 +48,6 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "PSG beat Arsenal on penalties to retain Champions League title",
-        "link": "https://www.espn.com/soccer/story/_/id/48920506/psg-arsenal-champions-league-final-penalty-shootout",
-        "image_url": "https://a.espncdn.com/photo/2026/0530/r1665864_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
         "title": "PSG beat Arsenal on penalties to defend Champions League title",
         "link": "http://www.espn.com/soccer/report/_/gameId/401862897",
         "image_url": "https://a.espncdn.com/photo/2026/0530/r1665875_1296x729_16-9.jpg",
@@ -75,6 +63,18 @@
         "title": "UEFA Champions League final live updates: Paris Saint-Germain vs. Arsenal",
         "link": "https://www.espn.com/soccer/story/_/id/48903823/uefa-champions-league-final-live-updates-paris-saint-germain-vs-arsenal",
         "image_url": "https://a.espncdn.com/photo/2026/0530/r1665851_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "PSG beat Arsenal on penalties to retain Champions League title",
+        "link": "https://www.espn.com/soccer/story/_/id/48920506/psg-arsenal-champions-league-final-penalty-shootout",
+        "image_url": "https://a.espncdn.com/photo/2026/0530/r1665864_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
