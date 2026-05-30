@@ -2,7 +2,19 @@
     {
         "title": "UEFA Champions League final live updates: Paris Saint-Germain vs. Arsenal",
         "link": "https://www.espn.com/soccer/story/_/id/48903823/uefa-champions-league-final-live-updates-paris-saint-germain-vs-arsenal",
-        "image_url": "https://a.espncdn.com/photo/2026/0530/r1665757_1296x729_16-9.jpg",
+        "image_url": "https://a.espncdn.com/photo/2026/0530/r1665803_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Slot leaves Liverpool after tough season, but with legacy safe",
+        "link": "https://www.espn.com/soccer/story/_/id/48919598/liverpool-arne-slot-dismissed-manager-jurgen-klopp-andoni-iraola-analysis-beth-lindop",
+        "image_url": "https://a.espncdn.com/photo/2026/0530/r1665767_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -84,7 +96,7 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Andoni Iraola the frontrunner to succeed Slot as Liverpool boss",
+        "title": "Andoni Iraola the frontrunner to succeed Slot as Liverpool boss - sources",
         "link": "https://www.espn.com/soccer/story/_/id/48918737/andoni-iraola-frontrunner-succeed-slot-liverpool-boss",
         "image_url": "https://a.espncdn.com/photo/2026/0414/r1643329_1296x729_16-9.jpg",
         "w": 1296,
@@ -159,18 +171,6 @@
         "title": "England at the 2026 World Cup: Schedule, results, how to watch, news, analysis, injuries, more",
         "link": "https://www.espn.com/soccer/story/_/id/48701061/england-world-cup-2026-schedule-fixtures-results-scores-group-l-how-watch-uk-news-analysis-injuries",
         "image_url": "https://a.espncdn.com/photo/2025/1115/r1575950_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Meet Scotland's 2026 World Cup squad: All 26 players picked by Steve Clarke and why",
-        "link": "https://www.espn.com/soccer/story/_/id/48769157/all-26-players-picked-steve-clarke-why",
-        "image_url": "https://a.espncdn.com/photo/2026/0519/r1660341_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
