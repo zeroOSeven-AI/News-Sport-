@@ -1,8 +1,8 @@
 [
     {
-        "title": "UŽIVO/VIDEO PSG - Arsenal: Šok u Budimpešti, Topnici poveli već u 6. minuti Nakon prvih 45 minuta Arsenal ima rezultat, a PSG inicijativu; sve je i dalje otvoreno u Budimpešti",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/liga-prvaka/uzivo-video-psg-arsenal-sok-u-budimpesti-topnici-poveli-vec-u-6-minuti-15713663",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/30/k_39023732_640.jpg",
+        "title": "UŽIVO/VIDEO PSG - Arsenal: Parižani blizu preokreta, Kvarachelia pogodio stativu! PSG je nakon izjednačenja preuzeo potpunu kontrolu, dok Arsenal sve teže pronalazi izlaz iz vlastite polovice",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/liga-prvaka/uzivo-video-psg-arsenal-parizani-blizu-preokreta-kvarachelia-pogodio-stativu-15713663",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/30/k_39024361_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,9 +36,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Priče o Realu i Barceloni samo su popuna, evo zašto Joško Gvardiol ostaje u Manchesteru!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/gvardiol-ostaje-stup-cityja-oporavak-sp-novi-ugovor-glasine-15713672",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/29/k_38849158_640.jpg",
+        "title": "Vukas stvara nove zvijezde Bijelih: Hajduk je već dobio najboljeg strijelca, ali i reprezentativce",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-vraca-b-momcad-3-nl-jug-hari-vukas-poljud-15713704",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/27/k_38609188_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -72,6 +72,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Priče o Realu i Barceloni samo su popuna, evo zašto Joško Gvardiol ostaje u Manchesteru!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/gvardiol-ostaje-stup-cityja-oporavak-sp-novi-ugovor-glasine-15713672",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/29/k_38849158_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Zmijavčani slave, Jarun u dramatičnoj završnici ispao u treću ligu!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/croatia-spasila-status-jarun-ispao-brajkovic-zabio-bsk-bijelo-brdo-cibalia-15713689",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/30/k_37742898_640.jpg",
@@ -84,33 +96,21 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Sara i Marino najavili lijepo ljeto hrvatske atletike na putu prema Birminghamu",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/atletika/sara-i-marino-najavili-lijepo-ljeto-hrvatske-atletike-na-putu-prema-birminghamu-15713698",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/30/k_38616032_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Mladi Vatreni remizirali s Grčkom, Ivica Olić najavio: ‘Svi će dobiti priliku nametnuti se‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hrvatska-u-21-grcka-remi-1-1-koprivnica-kardum-pnevmonidis-15713695",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/30/k_39023831_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Sina peterostrukog NBA prvaka s Bullsima i Lakersima u košarku je uvela majka Filipinka",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/sina-peterostrukog-nba-prvaka-s-bullsima-i-lakersima-u-kosarku-je-uvela-majka-filipinka-15713680",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/29/k_39015047_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Talentirani mladić iz Dinama prelazi u Hajduk?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/andelo-sutalo-iz-dinama-u-hajduk-po-isteku-ugovora-15713626",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/30/k_38672020_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,7 +180,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Preokret u Engleskoj: Liverpool smijenio trenera! Poznato i tko je apsolutni favorit za klupu Redsa Odluka je uslijedila nakon revizije minule sezone, koju je Liverpool završio na tek petom mjestu, sa svega 60 osvojenih bodova u 38 kola Premier lige",
+        "title": "Sina peterostrukog NBA prvaka s Bullsima i Lakersima u košarku je uvela majka Filipinka Drugi pick prošlogodišnjeg drafta, Dylan Harper u ovogodišnjem NBA doigravanju predstavlja se kao zvijezda budućnosti najuzbudljivije mlade momčadi u ligi, San Antonio Spursa",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/sina-peterostrukog-nba-prvaka-s-bullsima-i-lakersima-u-kosarku-je-uvela-majka-filipinka-15713680",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/29/k_39015047_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Talentirani mladić iz Dinama prelazi u Hajduk?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/andelo-sutalo-iz-dinama-u-hajduk-po-isteku-ugovora-15713626",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/30/k_38672020_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Preokret u Engleskoj: Liverpool smijenio trenera! Poznato i tko je apsolutni favorit za klupu Redsa",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/liverpool-raskida-sa-slotom-iraola-glavni-favorit-za-klupu-15713621",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/30/k_38927079_640.jpg",
         "w": 640,
@@ -207,30 +231,6 @@
         "title": "Alarm odjekivao Rujevicom usred treninga Vatrenih. Zaštitar odmah potrčao, evo što se zapalilo",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/rujevica-alarm-kek-povratak-miskovic-financiranje-sporta-travnjak-15713625",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/30/k_39022014_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Treneru Osijeka još uvijek nije ponuđen novi ugovor",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/osijek-strategija-vegh-zandvliet-radotic-stabilan-proracun-kontinuitet-15713655",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/30/k_38974421_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Doznajemo: Ovo je prava istina o transferu Vuškovića! Dragulj Vatrenih poslao jasnu poruku Tottenhamu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/luka-vuskovic-pauzira-pregovore-fokus-na-hrvatskoj-do-svjetskog-prvenstva-15713610",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/29/k_38151450_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
