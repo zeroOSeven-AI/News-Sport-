@@ -1,5 +1,29 @@
 [
     {
+        "title": "Brasil - Panamá live",
+        "link": "https://www.marca.com/en/soccer/national-team-friendlies/brasil-panama/2026/05/31/01_0112_20260531_614_1869-live.html",
+        "image_url": "https://e00-xlk-ue-marca-en.uecdn.es/uploads/2026/05/31/17802590923600.jpeg",
+        "w": 1200,
+        "h": 683,
+        "focus_y": 0.3,
+        "source_title1": "MARCA",
+        "source_title2": "SPORT",
+        "source_color": "#ff4b00",
+        "flag": "🇪🇸"
+    },
+    {
+        "title": "Estados Unidos - Senegal live",
+        "link": "https://www.marca.com/en/soccer/national-team-friendlies/estados-unidos-senegal/2026/05/31/01_0112_20260531_596_1226-live.html",
+        "image_url": "https://e00-xlk-ue-marca-en.uecdn.es/uploads/2026/05/31/17802541536458.jpeg",
+        "w": 1200,
+        "h": 683,
+        "focus_y": 0.3,
+        "source_title1": "MARCA",
+        "source_title2": "SPORT",
+        "source_color": "#ff4b00",
+        "flag": "🇪🇸"
+    },
+    {
         "title": "Carlo Ancelotti shares adorable moment with Neymar's daughters at Brazil training",
         "link": "https://www.marca.com/en/football/2026/05/31/carlo-ancelotti-shares-adorable-moment-with-neymar-s-daughters-at-brazil-training-video.html",
         "image_url": "https://e00-xlk-ue-marca-en.uecdn.es/uploads/2026/05/31/bFj9a1g6sFoJLJbWv.jpeg",
@@ -209,30 +233,6 @@
         "image_url": "https://e00-xlk-ue-marca-en.uecdn.es/uploads/2026/05/27/6a164a4fd983e.jpeg",
         "w": 1980,
         "h": 1320,
-        "focus_y": 0.35,
-        "source_title1": "MARCA",
-        "source_title2": "SPORT",
-        "source_color": "#ff4b00",
-        "flag": "🇪🇸"
-    },
-    {
-        "title": "Pochettino defends the “diabolical” email used to announce the World Cup roster",
-        "link": "https://www.marca.com/en/football/2026/05/27/pochettino-defends-the-diabolical-email-used-to-announce-the-world-cup-roster.html",
-        "image_url": "https://e00-xlk-ue-marca-en.uecdn.es/uploads/2026/05/27/6a163d4f38569.jpeg",
-        "w": 1980,
-        "h": 1320,
-        "focus_y": 0.35,
-        "source_title1": "MARCA",
-        "source_title2": "SPORT",
-        "source_color": "#ff4b00",
-        "flag": "🇪🇸"
-    },
-    {
-        "title": "PIQUÉ SHOWED UP AT “LA CASITA”",
-        "link": "https://www.marca.com/en/football/2026/05/27/pique-showed-up-at-casita-video.html",
-        "image_url": "https://e00-xlk-ue-marca-en.uecdn.es/uploads/2026/05/27/bB8Eu1g5Yt8QpHjEL.jpeg",
-        "w": 1619,
-        "h": 1080,
         "focus_y": 0.35,
         "source_title1": "MARCA",
         "source_title2": "SPORT",
