@@ -1,8 +1,8 @@
 [
     {
-        "title": "Cibona šokirala prvake usred Zadra i povela u finalu! Vukovi u dramatičnoj završnici do slavlja Druga finalna utakmica igra se u utorak, također u Zadru, a onda serija seli u Zagreb, gdje se u petak nastavlja boj za prvaka",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/hrvatska-liga/cibona-sokirala-zadar-u-kresinoj-dvorani-i-ukrala-prednost-15713980",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_39031025_640.jpg",
+        "title": "Ovoga u Maksimiru nije bilo 23 godine: Dinamovi ‘klinci‘ naslijedili ekipu Modrića i Ćorluke Osvajači dvostruke krune će od iduće godine u drugoj momčadi podignuti kaljenje na novu razinu i zagaziti u drugačiju dimenziju",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-juniori-dupla-kruna-nakon-23-godine-maksimir-hajduk-15713973",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_39022459_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -12,9 +12,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Ovoga u Maksimiru nije bilo 23 godine: Dinamovi ‘klinci‘ naslijedili ekipu Modrića i Ćorluke",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-juniori-dupla-kruna-nakon-23-godine-maksimir-hajduk-15713973",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_39022459_640.jpg",
+        "title": "Na turniru na kojem igraju Mandžukić, Kranjčar, Badelj… Hrvatski borac nokautirao igrača!?",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/nokaut-na-klinceku-marko-martinjak-srusio-suparnika-goat-league-zagreb-15713987",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_38619147_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Cibona šokirala prvake usred Zadra i povela u finalu! Vukovi u dramatičnoj završnici do slavlja",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/hrvatska-liga/cibona-sokirala-zadar-u-kresinoj-dvorani-i-ukrala-prednost-15713980",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_39031025_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,6 +60,30 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Jedna od najvećih zvijezda šokirala: ‘Sretan sam što je trener otišao, trebao je i ranije‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/de-bruyne-kritizira-conteov-stil-i-razmatra-odlazak-iz-napolija-15713991",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_37721953_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Nevjerojatne scene iz Španjolske: Kultni klub se vratio u elitu, navijači priredili invaziju",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/deportivo-la-coruna-povratak-u-la-ligu-77-bodova-slavlje-riazor-15713976",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_39031040_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Hrvatski rukometaš junak u finalu Europske lige! Zabio pobjednički pogodak za prvi trofej kluba",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/mandic-gol-za-trofej-melsungen-srusio-kiel-u-finalu-europske-lige-15713960",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_39030422_640.jpg",
@@ -72,45 +108,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Nevjerojatne scene iz Španjolske: Kultni klub se vratio u elitu, navijači priredili invaziju",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/deportivo-la-coruna-povratak-u-la-ligu-77-bodova-slavlje-riazor-15713976",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_39031040_640.png",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Zasjenio i Dembelea i stigao do ogromnog priznanja! Može li suigraču ‘ukrasti‘ Zlatnu loptu?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/kvaratskhelia-mvp-lige-prvaka-2025-26-utrka-za-zlatnu-loptu-15713974",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_39025494_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Wemby dolazi ugastiti euforiju u Meki košarke, koja ‘sveti gral‘ čeka preko pola stoljeća",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/wemby-dolazi-ugastiti-euforiju-u-meki-kosarke-koja-sveti-gral-ceka-preko-pola-stoljeca-15713981",
+        "title": "Wemby dolazi ugasiti euforiju u Meki košarke, koja ‘sveti gral‘ čeka preko pola stoljeća",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/wemby-dolazi-ugasiti-euforiju-u-meki-kosarke-koja-sveti-gral-ceka-preko-pola-stoljeca-15713981",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_39028450_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Gvardiol: ‘Modriću je puno lakše, ja sam bio poput konja! Nudili su mi psihologe, ali sam odbio‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/gvardiol-spreman-za-belgiju-pep-odlazi-jakic-najavljuje-borbu-na-rujevici-15713932",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_39018464_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,7 +180,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hajduk podijelio javnost, ali to je nova stvarnost na Poljudu? Nema velikih imena, ni kapitalaca Robert Graf krenuo je sirovo i konkretno te je po tome već sada drugačiji od mnogih svojih prethodnika",
+        "title": "Zasjenio i Dembelea i stigao do ogromnog priznanja! Može li suigraču ‘ukrasti‘ Zlatnu loptu? Pobjedničku kampanju završio je s 10 pogodaka (bio je najbolji strijelac Parižana u LP-u) i šest asistencija",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/kvaratskhelia-mvp-lige-prvaka-2025-26-utrka-za-zlatnu-loptu-15713974",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_39025494_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Gvardiol: ‘Modriću je puno lakše, ja sam bio poput konja! Nudili su mi psihologe, ali sam odbio‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/gvardiol-spreman-za-belgiju-pep-odlazi-jakic-najavljuje-borbu-na-rujevici-15713932",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_39018464_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Hajduk podijelio javnost, ali to je nova stvarnost na Poljudu? Nema velikih imena, ni kapitalaca",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/robert-graf-hajduk-javno-reze-ugovore-i-cisti-svlacionicu-15713920",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/28/k_38848849_640.jpg",
         "w": 640,
@@ -207,30 +231,6 @@
         "title": "Bila je ‘tiha patnja‘ navijača, optuživali su je za krađu, a sada otkriva: ‘Sve će biti totalno drugačije‘",
         "link": "https://sportske.jutarnji.hr/sportske/tenis/tenis-mix/camila-giorgi-povratak-nakon-poroda-trenira-na-mallorci-15713923",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/29/k_37438427_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO Maksimirski ‘klinci‘ pregazili velikana i utrpali mu sedam komada! ‘Dinamovski od prve sekunde‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-u-12-razbio-borussiju-7-1-do-finala-turnira-u-engleskoj-15713912",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_39029131_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Sramotna i zastrašujuća računica: Skoro 800 uhićenih, gomila ozlijeđenih policajaca i opći kaos",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/neredi-u-parizu-nakon-psg-ove-pobjede-780-uhicenih-219-ozlijedenih-15713934",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_39029692_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
