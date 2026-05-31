@@ -1,8 +1,8 @@
 [
     {
-        "title": "Ovo se u Ligi prvaka ne pamti! PSG pokazao zašto je najbolja momčad na planetu Iako je semafor u Budimpešti nakon 120 minuta pokazivao 1:1, neki statistički segmenti ukazuju na dominaciju Parižana",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/luis-enrique-pretvorio-psg-u-europsku-dinastiju-bez-messija-neymara-i-mbappea-15713849",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_39025595_640.jpg",
+        "title": "Tragičar Arsenala je živio na Bukovcu, pamti se govor u Maksimiru, ali Dinamu je bio - nedostižan Od premijere za Dinamo na stadionu u Novigradu do najveće klupske pozornice i promašaja koji će ga boljeti do kraja karijere",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/gabriel-magalhaes-od-dinama-do-arsenala-uspon-i-promasaj-u-finalu-15713889",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_39028592_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -12,9 +12,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hrvatska šokirala Španjolce već u trećoj minuti! Evo što mladim Vatrenima treba za prolaz grupe",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hrvatska-sokirala-spanjolce-vec-u-trecoj-minuti-evo-sto-mladim-vatrenima-treba-za-prolaz-grupe-15713871",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_38655027_640.jpg",
+        "title": "Hat-trick Dedića dao tračak nade Hrvatskoj, ali mini Vatreni su za jedan gol ispali u grupi",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hat-trick-dedica-dao-tracak-nade-hrvatskoj-ali-mini-vatreni-su-za-jedan-gol-ispali-u-grupi-15713871",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_37810898_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,9 +24,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Supruzi PSG-ove zvijezde zabranili rusku zastavu, pogledajte kako je ‘prevarila sustav‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/safonov-psg-arsenal-penali-liga-prvaka-naslov-15713862",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_39023578_640.jpg",
+        "title": "Poruka dirigenta PSG-a će odjeknuti svijetom: ‘Messi, sjećaš li se što si rekao? Nadam se da...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/vitinha-psg-dvije-lige-prvaka-poruka-messiju-arsenal-finale-15713893",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_39025700_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,69 +48,69 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "VIDEO Supruzi PSG-ove zvijezde zabranili rusku zastavu, pogledajte kako je ‘prevarila sustav‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/safonov-psg-arsenal-penali-liga-prvaka-naslov-15713862",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_39023578_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Kultni hrvatski klub ugasio se nakon 94 godine postojanja. Jedan čovjek ostao je do samog kraja",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/gasenje-hnk-sibenika-subicevac-osnivanje-gnk-odluka-hns-15713880",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_39024880_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Utjecaj sudaca je jako velik i nekad se može izmanipulirati tko će biti pobjednik‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/ivan-kvesic-bronca-u-frankfurtu-povratak-nakon-operacije-sportcast-15713900",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_39016657_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Bata tap tap! Ne možete ni zamisliti što mu je je**na starleta radila zadnjih godina. Dobio je odgovor‘",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/regija/bata-tap-tap-ne-mozete-ni-zamisliti-sto-mu-je-je-na-starleta-radila-zadnjih-godina-dobio-je-odgovor-15713895",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_39028927_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Damir Martin: ‘Dečki su probudili u meni luđaka koji izvlači iz sebe svaki atom snage koji ima‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vodeni-sportovi/veslanje/damir-martin-decki-su-probudili-u-meni-ludaka-koji-izvlaci-iz-sebe-svaki-atom-snage-koji-ima-15713901",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_39028974_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Milijuni Francuza uopće nisu gledali PSG u finalu. Krivac je 17-godišnjak koji nema veze s nogometom",
         "link": "https://sportske.jutarnji.hr/sportske/tenis/grand-slam/kouame-oteo-gledanost-psg-arsenal-roland-garros-francuska-15713839",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_39025807_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Dragan Primorac donio veliku odluku: Ulazi u utrku za ‘vruću‘ predsjedničku fotelju HOO-a",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/dragan-primorac-kandidat-za-predsjednika-hoo-a-15713851",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_36973979_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hrvat u debiju umirovio legendu regije? Vaso nakon teških batina priznao: ‘Ne mogu više...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/regija/hrvat-u-debiju-umirovio-legendu-regije-vaso-nakon-teskih-batina-priznao-ne-mogu-vise-15713820",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_36246435_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Tragedija u sjeni povijesnog uspjeha PSG-a: Poginuo mladi navijač, 17-godišnjak u kritičnom stanju",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/neredi-pariz-psg-slavlje-liga-prvaka-smrt-uhicenja-budimpesta-15713870",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_39026115_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Barbareza zabrinula ozljeda HNL-ovca koji je trebao debitirati za BiH, jedan igrač Rijeke spasio drugog",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/barbareza-zabrinula-ozljeda-hnl-ovca-koji-je-trebao-debitirati-za-bih-jedan-igrac-rijeke-spasio-drugog-15713872",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_39019664_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Evo što sam rekao ženi uoči odlaska u Ameriku! Transfer u Real? Nije mi žao ni zbog čega...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/ante-budimir-najavio-dugo-ljeto-i-prvi-gol-za-hrvatsku-15713792",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/30/k_38629608_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Bivši sudac prelomio oko kontroverzi u LP: Evo zašto Arsenal nije dobio penal, ali ni isključenje ‘Vidim više dva igrača koji se hrvaju, a mislim da je napadač Arsenala iznudio svoj pad‘, rekao je o potencijalnom penalu za Arsenal u produžetcima",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/psg-obrana-naslova-na-penale-arsenal-propust-gabriela-ennjimi-analiza-siebert-odluke-15713799",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_39024190_640.jpg",
+        "title": "Dragan Primorac donio veliku odluku: Ulazi u utrku za ‘vruću‘ predsjedničku fotelju HOO-a Profesor, liječnik i taekwondo čelnik kreće po vrh hrvatskog sporta nasuprot Josipu Varvodiću iz plivanja",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/dragan-primorac-kandidat-za-predsjednika-hoo-a-15713851",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_36973979_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,9 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Hajduk se oprostio od dugogodišnjeg ‘ratnika‘, napisali samo dvije rečenice",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-oprostaj-anthony-kalik-emotivni-video-poljud-15713817",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_36524227_640.jpg",
+        "title": "Ovo se u Ligi prvaka ne pamti! PSG pokazao zašto je najbolja momčad na planetu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/luis-enrique-pretvorio-psg-u-europsku-dinastiju-bez-messija-neymara-i-mbappea-15713849",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_39025595_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -204,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Sprema se spektakularni okršaj za Hrvoja Sepa u Zagrebu, Forgač: ‘Ako se slaže, imamo meč!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/regija/sprema-se-spektakularni-okrsaj-za-hrvoja-sepa-u-zagrebu-forgac-ako-se-slaze-imamo-mec-15713846",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_39028393_640.png",
+        "title": "Hrvat u debiju umirovio legendu regije? Vaso nakon teških batina priznao: ‘Ne mogu više...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/regija/hrvat-u-debiju-umirovio-legendu-regije-vaso-nakon-teskih-batina-priznao-ne-mogu-vise-15713820",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_36246435_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -216,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Totalni raspad Modrićevog Milana: ‘Pola momčadi‘ odlazi sa San Sira, među njima i glavne zvijezde?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/milan-rasprodaja-leao-odlazi-rabiot-pulisic-maignan-transferi-15713812",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_38816284_640.jpg",
+        "title": "Luksuzno vjenčanje: Brat Michaela Schumachera rekao ‘da‘ svom dečku, sve su pratile kamere",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/automoto/ralf-schumacher-vjencanje-saint-tropez-etienne-bousquet-cassagne-sky-dokumentarac-15713885",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_39028474_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -228,9 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Katalonci oduševljeni, sjajna vijest za Olma: ‘Pristao je na nižu plaću, a sada mu stiže nagrada‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/barcelona-povecava-placu-daniju-olmu-i-produzuje-ugovor-15713833",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_37951732_640.jpg",
+        "title": "Tragedija u sjeni povijesnog uspjeha PSG-a: Poginuo mladi navijač, 17-godišnjak u kritičnom stanju",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/neredi-pariz-psg-slavlje-liga-prvaka-smrt-uhicenja-budimpesta-15713870",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/05/31/k_39026115_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
