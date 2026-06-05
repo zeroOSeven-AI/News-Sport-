@@ -1,6 +1,30 @@
 [
     {
-        "title": "Ovo je njegova prilika života! Opasno kuca na prvih 11 Vatrenih: ‘Ispunio sam san, nema više od ovoga‘ Napadač Dallasa progovorio o formi, ciljevima i povratku u europski nogomet",
+        "title": "Vatreni imaju novog talenta iz dijaspore: ‘Mandžukić je bio moj idol, na debi mi je došla sva rodbina‘ Stasiti branič odigrao je prvu seniorsku sezonu u Zürichu, a u listopadu će napuniti 20 godina i tek je otvorio svoju profesionalnu karijeru",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/david-vujevic-debitirao-za-hrvatsku-u-21-izabrao-kockice-15715198",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/04/k_39050130_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Srbija doživjela novu blamažu! Pet golova im uvalio jedan od domaćina SP-a",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/meksiko-razbio-srbiju-5-1-autogolovi-preokret-prijateljska-utakmica-15715203",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_39055154_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Ovo je njegova prilika života! Opasno kuca na prvih 11 Vatrenih: ‘Ispunio sam san, nema više od ovoga‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/petar-musa-prvi-napadac-hrvatske-mls-forma-belgija-slovenija-sp-15715189",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/04/k_39040713_640.jpg",
         "w": 640,
@@ -15,6 +39,18 @@
         "title": "Francuska šokirana uoči SP-a! Potopio ih brat njihovog reprezentativca",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/francuska-obala-bjelokosti-2-1-preokret-doue-diallo-priprema-za-sp-15715193",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/04/k_39053804_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Čak 289 nogometaša nije rođeno u državi za koju će igrati na SP-u! Ali nitko nije ‘slučajni‘ Vatreni",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/junak-sp2026/hrvatska-odskace-289-rodjenih-izvan-domovine-ali-vatreni-bez-naturalizacija-15715204",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/04/k_34055395_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,7 +120,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Liverpool predstavio novog trenera, Mourinho košta 15 milijuna, Garcia odlazi iz Hajduka?",
+        "title": "Liverpool predstavio novog trenera, Mourinho košta 15 milijuna, Garcia odlazi iz Hajduka? Donosimo najaktualnija i najzanimljivija događanja na nogometnoj tržnici",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/liverpool-predstavio-novog-trenera-mourinho-kosta-15-milijuna-garcia-odlazi-iz-hajduka-15714986",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/04/k_39052961_640.jpg",
         "w": 640,
@@ -120,7 +156,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Bivši Cro Copov protivnik: ‘Hrgović je prošao puno ratova. On će ‘isprašiti‘ Itauminu gu*icu!‘ Bivši protivnik Mirka ‘Cro Copa‘ Filipovića i istaknuti američki teškaš smatra kako će ‘El Animal‘ nadjačati najvećeg engleskog talenta",
+        "title": "Bivši Cro Copov protivnik: ‘Hrgović je prošao puno ratova. On će ‘isprašiti‘ Itauminu gu*icu!‘",
         "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/bivsi-cro-copov-protivnik-hrgovic-je-prosao-puno-ratova-on-ce-isprasiti-itauminu-gu-icu-15715185",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/04/k_38933282_640.jpg",
         "w": 640,
@@ -168,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Benfica otkrila koliko će Real morati platiti Josea Mourinha",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/benfica-otkrila-koliko-ce-real-morati-platiti-josea-mourinha-15715179",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/04/k_38870886_640.jpg",
+        "title": "Čak 289 nogometaša nije rođeno u državi za koju će igrati na SP-u! Ali nitko nije ‘slučajni‘...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/junak-sp2026/hrvatska-odskace-289-rodjenih-izvan-domovine-ali-vatreni-bez-naturalizacija-15715204",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/04/k_34055395_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Zabranili su mi dolazak u Bijelu kuću jer sam rekao da je Trumpov gazda Benjamin Netanyahu‘",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/zabranili-su-mi-dolazak-u-bijelu-kucu-jer-sam-rekao-da-je-trumpov-gazda-benjamin-netanyahu-15715175",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/04/k_35123295_640.jpg",
+        "title": "Srbija doživjela novu blamažu! Pet golova im...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/meksiko-razbio-srbiju-5-1-autogolovi-preokret-prijateljska-utakmica-15715203",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_39055154_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,45 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Reprezentativac Srbije stiže u Rijeku?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rijeka-veljko-ilic-transfer-widzew-vratar-hnl-rujevica-15715149",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/04/k_39051294_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Treća runda Cibone i Zadra seli u Draženov dom! Još se ništa ne odlučuje, ali će se odrediti...",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/hrvatska-liga/cibona-zadar-treca-utakmica-finala-u-drazenovu-domu-15715195",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/04/k_39041871_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘U vlastitoj državi ne smijemo kritizirati Izrael...",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/u-vlastitoj-drzavi-ne-smijemo-kritizirati-izrael-nesto-se-pod-hitno-mora-promijeniti-15715194",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/04/k_36145594_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Francuska šokirana uoči SP-a! Potopio ih brat...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/francuska-obala-bjelokosti-2-1-preokret-doue-diallo-priprema-za-sp-15715193",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/04/k_39053804_640.jpg",
+        "title": "Vatreni imaju novog talenta iz dijaspore: ‘Mandžukić je bio moj idol, na debi mi je došla...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/david-vujevic-debitirao-za-hrvatsku-u-21-izabrao-kockice-15715198",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/04/k_39050130_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
