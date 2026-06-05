@@ -1,6 +1,18 @@
 [
     {
-        "title": "FOTO: Ovo u Zagrebu nije viđeno godinama, svi su željeli biti dio spektakla! Redovi su se protezali do Savske I prije nego što su posjetitelji dobili priliku zakoračiti dvoranu, kadrovi dugačkih redova dali su naslutiti kako će tribine biti pune kao “čep”",
+        "title": "Luda utakmica u Draženovu domu! Zadar u dramatičnoj završnici slomio Cibonu i stigao na korak do naslova Najbolji u dresu Zadra bio je Vladimir Mihailović s 25 poena, a Crnogorac je imao i veliku pomoć Lovre Mazalina",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/hrvatska-liga/zadar-svladao-cibonu-treca-utakmica-finala-ss-premijer-lige-15715508",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_39059628_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "FOTO: Ovo u Zagrebu nije viđeno godinama, svi su željeli biti dio spektakla! Redovi su se protezali do...",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/hrvatska-liga/cibona-zadar-treca-utakmica-finala-rasprodana-dvorana-zagreb-15715490",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_39059096_640.png",
         "w": 640,
@@ -12,9 +24,33 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Niko Kranjčar progovorio o transferu koji je šokirao Hrvatsku: ‘Preko noći mi je sve bilo oduzeto...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/niko-kranjcar-otkriva-pritisak-transfer-u-hajduk-i-fenomen-modrica-15715473",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_38968675_640.jpg",
+        "title": "Na Poljudu ima posla preko glave! Hajduk dovodi veliki broj igrača, evo gdje najviše ‘gori‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-rekonstrukcija-momcadi-transferi-graf-garcia-poljud-15715511",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/01/k_38975781_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Jusup nakon velikog trijumfa: Imali smo rupu, no izvukli smo se!; Rudež: Igrači Zadra stalno ‘flopaju‘",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/hrvatska-liga/zadar-slomio-cibonu-u-zagrebu-21-i-korak-do-naslova-15715515",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_39059608_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "FOTO: Procurio novi gostujući dres Vatrenih! Priča je posebno inspirirana prepoznatljivim simbolom",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/adidas-plavi-gostujuci-dres-hrvatske-cipkasti-uzorak-trefoil-15715502",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_39041382_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,9 +72,33 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Od najmlađih dana predodređen je za superzvijezdu. U dvije godine od Izabranog postao je - Otpisani!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/od-najmladih-dana-predodreden-je-za-superzvijezdu-u-dvije-godine-od-izabranog-postao-je-otpisani-15715505",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_35498990_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "‘Zamračio‘ je 87 milijuna, legende se pobunile, ali veliki gazda, čini se, ostaje na vlasti...",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/skijanje/odermatt-i-shiffrin-protiv-eliascha-fis-financije-izbori-beograd-15715494",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_28093447_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Niko Kranjčar progovorio o transferu koji je šokirao Hrvatsku: ‘Preko noći mi je sve bilo oduzeto...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/niko-kranjcar-otkriva-pritisak-transfer-u-hajduk-i-fenomen-modrica-15715473",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_38968675_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -60,7 +120,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hrvatska nije nikad tako osakaćena otišla na Svjetsko prvenstvo. Ovo bi mogao biti ogroman...",
+        "title": "Hrvatska nije nikad tako osakaćena otišla na Svjetsko prvenstvo. Ovo bi mogao biti ogroman problem Stručni glasovi upozoravaju: Hrvatska mijenja gard, ali tko će pokriti bočne linije u novom sustavu?",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/dalicev-3-4-2-1-bez-klasicnih-bekova-brine-strucnjake-15715378",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_39018496_640.jpg",
         "w": 640,
@@ -84,9 +144,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Inter vratio sina legende kluba iz Lekinih ruku, Perez najavio najveći transfer u povijesti Reala",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-inter-vratio-sina-legende-kluba-iz-lekinih-ruku-perez-najavio-najveci-transfer-u-povijesti-reala-15715225",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_38040324_640.jpg",
+        "title": "Stožerni igrač Liverpoola potpisao za Tottenham, Barcelona želi Osimhena? Perez najavio mega-transfer",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-stozerni-igrac-liverpoola-potpisao-za-tottenham-barcelona-zeli-osimhena-perez-najavio-mega-transfer-15715225",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_37920917_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -120,7 +180,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dva engleska kluba nude 50 milijuna eura za Vatrenog, Talijani žele - 80! I Bayern se uključio u lov Klub ga je spreman pustiti ga samo ako dođe neka abnormalno velika ponuda",
+        "title": "Dva engleska kluba nude 50 milijuna eura za Vatrenog, Talijani žele - 80! I Bayern se uključio u lov",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/martin-baturina-meta-premier-lige-i-bayerna-como-trazi-80-milijuna-eura-15715426",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_36436846_640.jpg",
         "w": 640,
@@ -144,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "San je i dalje živ! Zverev srušio Čeha u četiri seta i izborio veliko finale Roland Garrosa",
-        "link": "https://sportske.jutarnji.hr/sportske/tenis/grand-slam/zverev-u-finalu-roland-garrosa-nakon-pobjede-nad-mensikom-15715458",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_39057896_640.jpg",
+        "title": "Jusup nakon velikog trijumfa: Imali smo rupu, no izvukli smo se!; Rudež: Igrači Zadra stalno...",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/hrvatska-liga/zadar-slomio-cibonu-u-zagrebu-21-i-korak-do-naslova-15715515",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_39059608_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -156,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Totalni cirkus uoči Mundijala! Navijači BiH po hotelu love igrače, direktor dobio slom živaca",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/navijaci-bih-opsjedaju-hotel-st-louis-spahic-napolje-panama-kanada-15715444",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_39057578_640.png",
+        "title": "Porazi za start, pa eksplozija pod...",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/hrvatska-ragbi-7-preokret-svedska-makarska-trophy-divizija-15715514",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_39060029_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -168,69 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Nogometaš kojeg je udario Martinjak: ‘Vidim grozote i prijetnje, ljudi su krivo shvatili. Ovo je prava istina‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/nogometas-kojeg-je-udario-martinjak-vidim-grozote-i-prijetnje-ljudi-su-krivo-shvatili-ovo-je-prava-istina-15715381",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_24780119_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Zvjezdani hrvatski spektakl u Beču s braćom Kovač, Vučevićem, Barišićem, Ljubičićem...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/niko-kovac-hrvatske-legende-odusevili-bec-20-rodendan-cro-vienna-15715466",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/04/k_39051410_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Srbija ima novog izbornika: Igrao je za Hrvatsku dok je njegova obitelj naoružana držala položaje u Krajini",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vaterpolo/vladimir-vujasinovic-novi-izbornik-srbije-usred-krize-u-vaterpolu-15715310",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_39055899_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Hrvatice srušile Kosovo u gostima! Janja Čanjevac kreirala čaroliju i to direktno iz...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kosovo-hrvatska-1-0-canjevac-gol-iz-kornera-vrh-skupine-odluka-bugarska-15715498",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_35591047_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hrvatski Srbi protiv Slovenaca iz Italije i...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/prvi-turnir-slavenskih-manjina-ivan-budincevic-pula-15715497",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/04/k_39052928_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Je*ite se! Vrijeme je da UFC-ovi borci...",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/je-ite-se-vrijeme-je-da-ufc-ovi-borci-prestanu-biti-budale-i-shvate-da-ih-oni-iskoristavaju-15715474",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_39058461_640.jpg",
+        "title": "‘Morate odvesti protivnika u mračnu šumu gdje je 2+2=5, a izlaz dovoljno širok samo za...",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/regija/morate-odvesti-protivnika-u-mracnu-sumu-gdje-je-2-2-5-a-izlaz-dovoljno-sirok-samo-za-jednoga-15715513",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_35713837_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
