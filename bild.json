@@ -1,5 +1,29 @@
 [
     {
+        "title": "French Open:Zverev-Halbfinale jetzt im Live-Ticker",
+        "link": "https://sportbild.bild.de/sportmix/tennis/french-open-alexander-zverev-jakub-mensik-jetzt-im-live-ticker-6a20382b1f46a650bff5e3fe",
+        "image_url": "https://images.bild.de/6a20382b1f46a650bff5e3fe/231dd70f5f61c41dec2d8f3e0542f902,5c5fb349?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Im Mittelpunkt: die Präsidenten-Tochter:Ex-Bayern-Star löst vor WM Riesen-Shitstorm aus",
+        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-2026-ex-bayern-star-loest-riesen-shitstorm-aus-es-geht-um-die-praesidenten-tochter-6a22ab21b20db0d89b65646a",
+        "image_url": "https://images.bild.de/6a22ab21b20db0d89b65646a/8fc0f013683cee3d1052ccd60bbb48f1,120ed665?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
         "title": "„Es ist wunderbar“:Besondere Liebeserklärung an Bayerns WM-Star",
         "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-2026-besondere-liebeserklaerung-an-bayern-star-es-ist-wunderbar-6a22970e8d84dbd8a4ed5995",
         "image_url": "https://images.bild.de/6a22970e8d84dbd8a4ed5995/69fc65956ae3978996079a8ccca326e8,b7d51db9?w=992",
@@ -12,33 +36,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Ex-Bundesliga-Spieler dabei:Ist DAS jetzt schon die Comeback-Story der WM?",
-        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-2026-ist-das-jetzt-schon-die-comeback-story-der-weltmeisterschaft-6a2154be1f46a650bff5f253",
-        "image_url": "https://images.bild.de/6a2154be1f46a650bff5f253/160f2b84400c2391cf54b3d91fcad9a5,5ecaec49?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Engländer spekulieren:Überraschende WM-Rolle für Kane geplant!",
-        "link": "https://sportbild.bild.de/fussball/fussball-wm/weltmeisterschaft-england-trainer-tuchel-plant-wohl-mit-ueberraschender-rolle-fuer-kane-6a217fdfa54320792aaa66d6",
-        "image_url": "https://images.bild.de/6a217fdfa54320792aaa66d6/57c902fedd2ed096063a257f8b25ef61,e86b9559?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "DFB-Star spricht in England-Zeitung:Rüdiger: „Sollen wir etwa weiter weinen?“",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/wm-2026-dfb-star-antonio-ruediger-sollen-wir-etwa-weiter-weinen-6a22724eb20db0d89b655def",
-        "image_url": "https://images.bild.de/6a22724eb20db0d89b655def/cb8a0c7caf4075a40bbb933afe9b503c,7416d20f?w=992",
+        "title": "Total kurios:Deutschlands WM-Gegner verblüfft mit Statistik",
+        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-2026-deutschlands-gegner-verbluefft-mit-statistik-total-kurios-6a213d93a9f3fb7ee247e069",
+        "image_url": "https://images.bild.de/6a213d93a9f3fb7ee247e069/ca166d1bd9ab64807336ba3411fbdaf1,357405c7?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -60,9 +60,57 @@
         "flag": "🇩🇪"
     },
     {
+        "title": "DFB-Star spricht in England-Zeitung:Rüdiger: „Sollen wir etwa weiter weinen?“",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/wm-2026-dfb-star-antonio-ruediger-sollen-wir-etwa-weiter-weinen-6a22724eb20db0d89b655def",
+        "image_url": "https://images.bild.de/6a22724eb20db0d89b655def/cb8a0c7caf4075a40bbb933afe9b503c,7416d20f?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
         "title": "Große Studie:Warum uns der VAR manchmal komplett verändert",
         "link": "https://sportbild.bild.de/partner/brandstory/anzeige-grosse-studie-warum-uns-der-var-manchmal-komplett-veraendert-69fb3e44cbc6aa7d81ba1d8c",
         "image_url": "https://images.bild.de/69fb3e44cbc6aa7d81ba1d8c/db3d8c0db91a2281ee2ae4d7b340a2f4,92ca8953?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Bei der WM!:Drohen stundenlange Spiel-Unterbrechungen?",
+        "link": "https://sportbild.bild.de/fussball/fussball-wm/bei-der-wm-drohen-stundenlange-spiel-unterbrechungen-6a22a9b1b20db0d89b65644a",
+        "image_url": "https://images.bild.de/6a22a9b1b20db0d89b65644a/cd9c1c1f75e470673e87ececebd27040-landscape,cdfd6667?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "„Da wette ich“:Warnung vor unserem WM-Gegner Curacao",
+        "link": "https://sportbild.bild.de/fussball/fussball-wm/da-wette-ich-warnung-vor-unserem-wm-gegner-curacao-6a22a9cb8d84dbd8a4ed5be9",
+        "image_url": "https://images.bild.de/6a22a9cb8d84dbd8a4ed5be9/e14f17836cb810a2d10b1670edff02b3-landscape,ff2917b3?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "War DAS der größte Fehler?:BILD-Moderatorin stellt entscheidende 1860-Frage",
+        "link": "https://sportbild.bild.de/fussball/fussball-wm/war-das-der-groesste-fehler-bild-moderatorin-stellt-entscheidende-1860-frage-6a22a9e58d84dbd8a4ed5bf0",
+        "image_url": "https://images.bild.de/6a22a9e58d84dbd8a4ed5bf0/ce3feaa71b7453ef4ceec1285783c0da-landscape,893e2e35?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -132,42 +180,6 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Vor großem Showdown heute:Zu nervös? Deutliche Warnung an Zverev",
-        "link": "https://sportbild.bild.de/sportmix/tennis/french-open-zu-vernoes-deutliche-warnung-an-alexander-zverev-6a228866b20db0d89b655fde",
-        "image_url": "https://images.bild.de/6a228866b20db0d89b655fde/764a1df46281df6d186194186e05d631,b15e7d72?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "French-Open-Halbfinale:Zerstört dieser Shootingstar den Zverev-Traum?",
-        "link": "https://sportbild.bild.de/sportmix/tennis/french-open-halbfinale-zerstoert-dieser-shootingstar-den-zverev-traum-6a217550b20db0d89b655332",
-        "image_url": "https://images.bild.de/6a217550b20db0d89b655332/f2fa523f4598707a2884eac89d276c98,34ea335a?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Noch ein Sieg bis zum Finale:So sehen Sie das Zverev-Halbfinale heute im TV",
-        "link": "https://sportbild.bild.de/sportmix/tennis/french-open-alexander-zverev-jakub-mensik-heute-live-im-tv-sehen-wo-laeuft-das-halbfinale-6a225be6b20db0d89b655cf2",
-        "image_url": "https://images.bild.de/6a225be6b20db0d89b655cf2/38478304a560fb7c85047c5884b90707,74f68f93?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
         "title": "Nach Horror-WM:Eishockey-Knall bei unserer Nationalmannschaft!",
         "link": "https://sportbild.bild.de/sportmix/eishockey/nach-horror-wm-eishockey-knall-bei-unserer-nationalmannschaft-6a229ddea85ce647df47221c",
         "image_url": "https://images.bild.de/6a229ddea85ce647df47221c/d94bceacae9680099829261d6496f030,477c443f?w=992",
@@ -180,9 +192,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Sein Verein plant ohne ihn:Ex-Bayern-Profi steht vor nächstem Wechsel",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/fc-bayern-ex-star-steht-vor-naechstem-wechsel-sein-verein-plant-ohne-ihn-6a226d229e32e33bafd52ebd",
-        "image_url": "https://images.bild.de/6a226d229e32e33bafd52ebd/7c4ca84fa8a3dcac12e39331ff267f41,7f546269?w=992",
+        "title": "Quoten veröffentlicht!:Die Top-Transferziele für WM-Star Leao",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/wm-2026-rafael-leao-vor-wechsel-top-transferziele-laut-buchmachern-6a2284c0a85ce647df471f93",
+        "image_url": "https://images.bild.de/6a2284c0a85ce647df471f93/db7ab62d44924f339252e1b8579e9391,94b68ee4?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -216,21 +228,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Woran der Deal scheiterte:Wechsel von El Mala geplatzt",
-        "link": "https://sportbild.bild.de/fussball/1-fc-koeln/1-fc-koeln-wechsel-von-el-mala-geplatzt-woran-der-deal-scheiterte-6a21a549b20db0d89b65572a",
-        "image_url": "https://images.bild.de/6a21a549b20db0d89b65572a/8d3401c7688926e2bec0a7a48aaeeddf,c3f4b8f3?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Bericht aus England:Arsenal heiß auf Bundesliga-Juwel",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/bayer-leverkusen-arsenal-heiss-auf-bundesliga-juwel-kerim-alajbegovic-6a1e7d16f2919cfc74893b0d",
-        "image_url": "https://images.bild.de/6a1e7d16f2919cfc74893b0d/d01e437b0b7e8989a44cd6be74b325ab,a24b66a0?w=992",
+        "title": "Sein Verein plant ohne ihn:Ex-Bayern-Profi steht vor nächstem Wechsel",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/fc-bayern-ex-star-steht-vor-naechstem-wechsel-sein-verein-plant-ohne-ihn-6a226d229e32e33bafd52ebd",
+        "image_url": "https://images.bild.de/6a226d229e32e33bafd52ebd/7c4ca84fa8a3dcac12e39331ff267f41,7f546269?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
