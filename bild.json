@@ -1,8 +1,32 @@
 [
     {
+        "title": "Deutschland – USA:Hier der letzte Test der DFB-Elf vor der WM im Live-Ticker",
+        "link": "https://sportbild.bild.de/fussball/nationalmannschaft/deutschland-usa-im-live-ticker-dfb-generalprobe-vor-der-wm-6a1ed71bf2919cfc7489448a",
+        "image_url": "https://images.bild.de/6a1ed71bf2919cfc7489448a/f1174b30f2d23ad14109a4b45c208b9f,d04dc40e?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
         "title": "Nach dem WM-Aus von Karl:Matthäus: IHN hätte ich nachnominiert",
         "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-2026-lothar-matthaeus-ihn-haette-ich-nachnominiert-nach-dem-aus-von-lennart-karl-6a24461f11c87f332dbcac25",
         "image_url": "https://images.bild.de/6a24461f11c87f332dbcac25/f42c3404a725ed9fb323e3604cdab690,91978528?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Beim letzten WM-Test:Wer Karl im DFB-Team ersetzt",
+        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-2026-letzter-test-gegen-die-usa-wer-lennart-karl-im-dfb-team-ersetzt-6a24595b5b91498a5b31739b",
+        "image_url": "https://images.bild.de/6a24595b5b91498a5b31739b/4b036cc806d3a1510491026cc30e0784,2a423a53?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
@@ -24,36 +48,12 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Beim letzten WM-Test:Wer Karl im DFB-Team ersetzt",
-        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-2026-letzter-test-gegen-die-usa-wer-lennart-karl-im-dfb-team-ersetzt-6a24595b5b91498a5b31739b",
-        "image_url": "https://images.bild.de/6a24595b5b91498a5b31739b/4b036cc806d3a1510491026cc30e0784,2a423a53?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
         "title": "Nach geplatztem WM-Traum:Lennart Karl in München gelandet!",
         "link": "https://sportbild.bild.de/fussball/fussball-wm/nach-wm-aus-bayern-youngster-lennart-karl-in-muenchen-gelandet-6a24123fd69745dd74e2c622",
         "image_url": "https://images.bild.de/6a24123fd69745dd74e2c622/aa75a6d8ceb8d17444a7628705deb9ea,d161f4b3?w=992",
         "w": 992,
         "h": 1178,
         "focus_y": 0.5,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Donnerstag startet XXL-Turnier:Ballack: WM ist kein Premium-Produkt mehr",
-        "link": "https://sportbild.bild.de/fussball/fussball-wm/michael-ballack-wm-ist-kein-premium-produkt-mehr-6a23c7aa8d84dbd8a4ed695c",
-        "image_url": "https://images.bild.de/6a23c7aa8d84dbd8a4ed695c/90f2c95afa601902edcb1160ee06e11b,a8706b87?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
         "source_title1": "SPORT",
         "source_title2": "BILD",
         "source_color": "#fc4e4e",
@@ -180,18 +180,6 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Es geht um mehrere Stars:Transferkampf zwischen Barça und Atlético",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/es-geht-um-mehrere-stars-transferkampf-zwischen-barca-und-atletico-6a226c32b20db0d89b655d96",
-        "image_url": "https://images.bild.de/6a226c32b20db0d89b655d96/652a265d74576805394095bd7de278b2,85e9d593?w=992",
-        "w": 992,
-        "h": 558,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
         "title": "„Ich weiß, was er denkt“:Watzke äußert sich zu Klopp-Gerüchten bei Real",
         "link": "https://sportbild.bild.de/fussball/internationaler-fussball/watzke-aeussert-sich-zu-klopp-geruechten-bei-real-madrid-6a24012b8d84dbd8a4ed6cd5",
         "image_url": "https://images.bild.de/6a24012b8d84dbd8a4ed6cd5/71fb50a7eec1f33a42db4ed85caf6892,723d4269?w=992",
@@ -233,6 +221,18 @@
         "image_url": "https://images.bild.de/6a22cf119e32e33bafd53866/d6788f90c6797bb276c48e8dd8a5abab,65b49f9e?w=992",
         "w": 992,
         "h": 607,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Für 150 Mio. Euro:Real-Boss kündigt MEGA-Transfer an",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/real-madrid-boss-perez-kuendigt-mega-transfer-fuer-150-mio-euro-an-6a2254ef8d84dbd8a4ed548b",
+        "image_url": "https://images.bild.de/6a2254ef8d84dbd8a4ed548b/859245acee67a07a88b927b777496a96,b1d8904f?w=992",
+        "w": 992,
+        "h": 558,
         "focus_y": 0.3,
         "source_title1": "SPORT",
         "source_title2": "BILD",
