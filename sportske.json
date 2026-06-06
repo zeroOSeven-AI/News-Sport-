@@ -1,8 +1,44 @@
 [
     {
-        "title": "Vatrenog nakon SP-a čeka transfer karijere? Na radaru je slavnog kluba, trener je očaran njime Trenutak za Hrvata čini se pravim za iskorak. Sa 28 godina dosegnuo je punu nogometnu zrelost i osjeća potrebu da se uhvati u koštac s ambicioznijim ciljevima",
+        "title": "Dvojac Vatrenih je ‘poseban‘, njih se jednostavno mora čekati! O njima će ovisiti igra Hrvatske Usprkos sumnjama nakon Belgije, izbornik računa da će kroz minute podići ritam i povući Hrvatsku",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/modric-kovacic-dalic-varazdin-nova-sansa-minutaza-forma-hrvatska-15715662",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_37670670_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Djevojka iz Sibira‘ pomela senzaciju Roland Garrosa i osvojila svoj prvi Grand Slam!",
+        "link": "https://sportske.jutarnji.hr/sportske/tenis/grand-slam/cudesna-dominacija-djevojke-iz-sibira-mira-andrejeva-pomela-senzaciju-i-osvojila-svoj-prvi-grand-slam-15715667",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39064252_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Vatrenog nakon SP-a čeka transfer karijere? Na radaru je slavnog kluba, trener je očaran njime",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/roma-nikola-vlasic-gasperini-transfer-serie-a-15715628",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_27089259_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Kulminacija tenzija koje traju godinama: Navijači Zvezde otjerali bivšeg izbornika Srbije sa stadiona",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/piksi-izbacen-iz-kafica-na-stadionu-crvene-zvezde-delije-15715660",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_37379348_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -60,7 +96,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘S jedne strane Hrvati, koji navijaju protiv nas, s druge Srbi ili Jugoslaveni, atmosfera je bila mučna...",
+        "title": "‘S jedne strane Hrvati, koji navijaju protiv nas, s druge Srbi ili Jugoslaveni, atmosfera je bila mučna, kaos...‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/moja-prica-sn/veljko-mrsic-trofeji-propustena-barcelona-ratne-godine-i-novi-izazov-15715545",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/02/k_39062162_640.jpg",
         "w": 640,
@@ -72,7 +108,19 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Nesvakidašnja scena na hrvatskim terenima! Usred turnira na travnjak sletio - helikopter",
+        "title": "UŽIVO: Vatreni mijenja adresu? Majer napušta Wolfsburg? Brozović blizu povratka u Europu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-vatreni-mijenja-adresu-majer-napusta-wolfsburg-brozovic-blizu-povratka-u-europu-15715558",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_38907653_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Nesvakidašnja scena na hrvatskim terenima! Usred turnira na travnjak sletio - helikopter Kako smo uspjeli doznati, jedna osoba iz okolice doživjela je ozbiljnije medicinske probleme, vozilo hitne pomoći dovezlo ju je na stadion, a helikopter ju je hitno prebacio na liječenje u Split",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/helikopter-sletio-na-teren-prekinuo-ragbi-makarska-hhms-15715640",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39063270_640.png",
         "w": 640,
@@ -108,19 +156,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Vatreni mijenja adresu? Majer napušta Wolfsburg? Brozović blizu povratka u Europu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-vatreni-mijenja-adresu-majer-napusta-wolfsburg-brozovic-blizu-povratka-u-europu-15715558",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_38907653_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Veliki obrat oko izgradnje novog stadiona u Hrvatskoj: ‘Već smo dobili potporu Vlade i ministarstva!‘ ‘Trenutno je cilj da država i Grad Rijeka zajedno izgrade stadion. To će biti model sličan onaj maksimirskom‘, pričala je riječka gradonačelnica",
+        "title": "Veliki obrat oko izgradnje novog stadiona u Hrvatskoj: ‘Već smo dobili potporu Vlade i ministarstva!‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/kantrida-grad-rijeka-gradi-novi-stadion-bez-nebodera-uz-sufinanciranje-15715522",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_31559449_640.png",
         "w": 640,
@@ -156,18 +192,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Premijer Andrej Plenković primio Vatrene i poželio im sreću uoči nastupa na Svjetskom prvenstvu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/plenkovic-podrska-vatrenima-u-rijeci-najava-zavrsenog-kampa-hns-a-15715597",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39062702_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Je li ovo moguće? Pogledajte koju je suludu cifru Srbin tražio za ostanak u Juventusu",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/vlahovic-napusta-juventus-chiellini-potvrdio-interes-chelsea-bayerna-15715576",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_37507186_640.jpg",
@@ -180,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Šok pred SP: Zvijezda u suzama ležala na travnjaku, na nosilima je iznijeli s terena",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/enciso-ozljeda-paragvaj-nikaragva-asuncion-svjetsko-prvenstvo-15715542",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39060895_640.jpg",
+        "title": "‘Djevojka iz Sibira‘ pomela senzaciju Roland...",
+        "link": "https://sportske.jutarnji.hr/sportske/tenis/grand-slam/cudesna-dominacija-djevojke-iz-sibira-mira-andrejeva-pomela-senzaciju-i-osvojila-svoj-prvi-grand-slam-15715667",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39064252_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Mijenja li Dalić zacrtani plan? Ako stožer drži do svoje riječi, jasno je kako treba postupiti",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hrvatska-testira-3-4-2-1-protiv-slovenije-uoci-engleske-15715584",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/04/k_39041594_640.jpg",
+        "title": "‘Sudac je spasio Verhoevena! Usik bi u 12...",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/sudac-je-spasio-verhoevena-usik-bi-u-12-rundi-tesko-uspavao-rica-to-je-jednostavno-tako-15715665",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39001300_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -204,33 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Guardiola pohvalio Barcu, upozorio na opsjednutost Ligom prvaka i poručio: ‘Ni sam...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/guardiola-napusta-manchester-city-hvali-flickovu-barcelonu-i-upozorava-na-opasnost-lige-prvaka-15715652",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_38972076_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Antonelli najbrži na zadnjem slobodnom...",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/automoto/formula1/antonelli-najbrzi-monako-treci-trening-leclerc-hamilton-mercedes-15715648",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39056744_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Zvonimir Butić: Idemo jako, agresivno, ‘u kost‘...",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vaterpolo/zvonimir-butic-idemo-jako-agresivno-u-kost-na-rubu-iskljucenja-15715644",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_38350009_640.jpg",
+        "title": "Dvojac Vatrenih je ‘poseban‘, njih se jednostavno mora čekati! O njima će ovisiti...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/modric-kovacic-dalic-varazdin-nova-sansa-minutaza-forma-hrvatska-15715662",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_37670670_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
