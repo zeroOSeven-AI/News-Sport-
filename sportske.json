@@ -1,8 +1,68 @@
 [
     {
-        "title": "FOTO/VIDEO HNS-ov kamp raste munjevito, a sad su ga posjetili i Vatreni: ‘Ovo je jako lijepo već sada!‘ Četiri terena, stadion za 3.000 gledatelja i sjedište Saveza trebali bi biti završeni do proljeća sljedeće godine",
+        "title": "VIDEO: BiH povela pa primila gol protiv protivnika Hrvatske, zabio bivši hajdukovac! Na odmor se otišlo rezultatom 1:1, a Vatrene čeka upravo Panama u skupini Svjetskog prvenstva",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/katic-zabio-za-vodstvo-bih-protiv-paname-u-st-louisu-15715715",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_38675037_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "FOTO/VIDEO HNS-ov kamp raste munjevito, a sad su ga posjetili i Vatreni: ‘Ovo je jako lijepo već sada!‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/kamp-hns-velika-gorica-stadion-cetiri-terena-zavrsetak-na-proljece-15715707",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39065597_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Dalić može iskoristiti ovaj Tuchelov propust, a Engleska nema ono što svjetski prvak mora imati",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/dalic-moze-iskoristiti-ovaj-tuchelov-propust-a-engleska-nema-ono-sto-svjetski-prvak-mora-imati-15715726",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/04/k_38974256_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Evo tko će odlučiti o sudbini trojice otpisanih hajdukovaca, je li moguć i novi preokret na Poljudu?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-otpisani-trojac-odluka-roberta-grafa-krovinovic-sarlija-guillamon-15715717",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_38617153_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Split je gorio, Jadran u ludoj utakmici srušio Francuze, pa u zadnjoj minuti ostao bez europskog...",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vaterpolo/jadran-srusio-marseille-1614-ali-trofej-ostao-francuzima-botic-8-golova-split-zvoncac-15715719",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39066021_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Rijetko viđena drama u finalu: Olmissum u riječkom ‘paklu‘ osvojio treći naslov prvaka Hrvatske!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rijeka-olmissum-dvorana-mladosti-majstorica-produzeci-finale-futsal-15715721",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39036659_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -60,6 +120,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "UŽIVO: Majer napušta Wolfsburg? Cancelo blizu ostanka u Barceloni Donosimo najaktualnija i najzanimljivija događanja na nogometnoj tržnici",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-majer-napusta-wolfsburg-cancelo-blizu-ostanka-u-barceloni-15715558",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_38676060_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Djevojka iz Sibira pomela senzaciju Roland Garrosa i osvojila svoj prvi Grand Slam!",
         "link": "https://sportske.jutarnji.hr/sportske/tenis/grand-slam/cudesna-dominacija-djevojke-iz-sibira-mira-andrejeva-pomela-senzaciju-i-osvojila-svoj-prvi-grand-slam-15715667",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39064226_640.jpg",
@@ -84,45 +156,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "S 19 godina zaradila pravo bogatstvo! Evo koliko će mlada Ruskinja dobiti za osvajanje Roland Garrosa",
-        "link": "https://sportske.jutarnji.hr/sportske/tenis/grand-slam/mira-andrejeva-osvojila-roland-garros-prvi-grand-slam-bez-izgubljenog-seta-15715686",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39064729_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Engleski izbornik povukao zanimljiv potez uoči Hrvatske: ‘To je naše pravilo, a bilo bi idealno da toga uopće nema‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/engleska-u-sad-u-tuchel-ogranicava-transfere-fokus-na-hrvatsku-15715672",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39059708_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "UŽIVO: Majer napušta Wolfsburg? Cancelo blizu ostanka u Barceloni",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-majer-napusta-wolfsburg-cancelo-blizu-ostanka-u-barceloni-15715558",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_38676060_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Zagrlila majku, trenericu i psića pa poručila legendi: ‘Ne znam smijem li se tebi zahvaliti...‘ Mira Andrejeva je postala najmlađa pobjednica Roland Garrosa još od 1992. i tada osamnaestogodišnje Monike Seleš",
-        "link": "https://sportske.jutarnji.hr/sportske/tenis/grand-slam/zagrlila-majku-trenericu-i-psica-pa-porucila-legendi-ne-znam-smijem-li-se-tebi-zahvaliti-15715674",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39064400_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -168,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Skandal dosegao vrhunac, velikom savezu prijeti bankrot? ‘Ovim tempom udaramo u zid sa 180 km/h‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/skijanje/kriza-fis-pobuna-skijasa-financije-izbori-beograd-raskol-15715581",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39062477_640.jpg",
+        "title": "Dalić može iskoristiti ovaj Tuchelov propust, a Engleska nema ono što svjetski prvak mora...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/dalic-moze-iskoristiti-ovaj-tuchelov-propust-a-engleska-nema-ono-sto-svjetski-prvak-mora-imati-15715726",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/04/k_38974256_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘S jedne strane Hrvati, koji navijaju protiv nas, s druge Srbi ili Jugoslaveni, atmosfera je bila mučna, kaos...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/moja-prica-sn/veljko-mrsic-trofeji-propustena-barcelona-ratne-godine-i-novi-izazov-15715545",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/02/k_39062162_640.jpg",
+        "title": "Ragbijaši u Makarskoj izgubili od Turske i borit će se za peto mjesto, djevojke žele izbjeći...",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/ragbi-7-makarska-hrvatska-za-peto-ragbijasice-za-jedanaesto-15715724",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39064826_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,45 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Zalažem se za najviše dva predsjednička mandata u HOO-u, a nacionalni centri nužni su za jačanje sporta‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/zalazem-se-za-najvise-dva-predsjednicka-mandata-u-hoo-u-a-nacionalni-centri-nuzni-su-za-jacanje-sporta-15715637",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_39056725_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Novi rukometni spektakl: Braniteljice naslova preživjele dramu i opet izborile finale Lige...",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/rukomet-lpz/metz-gyor-finale-lige-prvakinja-budimpesta-15715712",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39065771_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hrvatska dobila novu svjetsku prvakinju, pao i...",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/anja-vickovic-svjetska-prvakinja-paula-polanscak-rekord-bronca-schwaz-15715709",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39063383_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "FOTO/VIDEO HNS-ov kamp raste munjevito, a sad su ga posjetili i Vatreni: ‘Ovo je jako lijepo...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kamp-hns-velika-gorica-stadion-cetiri-terena-zavrsetak-na-proljece-15715707",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39065597_640.jpg",
+        "title": "Rijetko viđena drama u finalu: Olmissum u riječkom ‘paklu‘ osvojio treći naslov prvaka...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rijeka-olmissum-dvorana-mladosti-majstorica-produzeci-finale-futsal-15715721",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39036659_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
