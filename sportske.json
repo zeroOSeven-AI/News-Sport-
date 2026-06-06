@@ -1,8 +1,44 @@
 [
     {
-        "title": "‘S jedne strane Hrvati, koji navijaju protiv nas, s druge Srbi ili Jugoslaveni, atmosfera je bila mučna, kaos...‘ Priča o igraču i treneru koji je osvajao naslove, promašio Barcelonu i preživio najmučnije utakmice hrvatske košarke",
+        "title": "Mijenja li Dalić zacrtani plan? Ako stožer drži do svoje riječi, jasno je kako treba postupiti Nakon utorka i poraza 2:0, ukoliko je riješeno da se s Engleskom igra u spomenutom rasporedu (3-4-2-1), dobro bi došla još jedna provjera",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hrvatska-testira-3-4-2-1-protiv-slovenije-uoci-engleske-15715584",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/04/k_39041594_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Skandal dosegao vrhunac, velikom savezu prijeti bankrot? ‘Ovim tempom udaramo u zid sa 180 km/h‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/skijanje/kriza-fis-pobuna-skijasa-financije-izbori-beograd-raskol-15715581",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39062477_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘S jedne strane Hrvati, koji navijaju protiv nas, s druge Srbi ili Jugoslaveni, atmosfera je bila mučna...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/moja-prica-sn/veljko-mrsic-trofeji-propustena-barcelona-ratne-godine-i-novi-izazov-15715545",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/02/k_39062162_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Olmo otvorio dušu, govorio o budućnosti pa priznao: ‘To je uspomena koju ću čuvati zauvijek‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dani-olmo-intervju-euro-barcelona-ostanak-liga-prvaka-de-la-fuente-15715594",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_36502609_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,9 +60,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Potresna priča nogometne zvijezde: ‘Kad smo stigli kući, slomili smo se, zaustavili smo auto da bismo...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/pedro-porro-od-vallecas-do-oslonca-spanjolske-majcina-ispovijed-15715561",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_39057921_640.jpg",
+        "title": "‘Pucali su po meni sve dok nisu ostali bez metaka! Ispalili su hrpu hitaca, mogao sam izgubiti život‘",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/pucali-su-po-meni-sve-dok-nisu-ostali-bez-metaka-ispalili-su-hrpu-hitaca-mogao-sam-izgubiti-zivot-15715579",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39062450_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,9 +72,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Bivši trener Dinama ispisao povijest pa se emotivno oprostio od kluba: ‘Jedna od najtežih odluka u...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/krunoslav-jurcic-napustio-pyramids-pet-trofeja-africka-titula-odlazak-15715525",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39057533_640.jpg",
+        "title": "Premijer Andrej Plenković primio Vatrene i poželio im sreću uoči nastupa na Svjetskom prvenstvu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/plenkovic-podrska-vatrenima-u-rijeci-najava-zavrsenog-kampa-hns-a-15715597",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39021893_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Je li ovo moguće? Pogledajte koju je suludu cifru Srbin tražio za ostanak u Juventusu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/vlahovic-napusta-juventus-chiellini-potvrdio-interes-chelsea-bayerna-15715576",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_37507186_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -60,9 +108,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Novi trener inzistirat će na svakom detalju, a čemu provjeravati ovog igrača za reprezentaciju?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/cabello-pula-istra-1961-intenzitet-pripreme-kadar-transferi-15715569",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_38242767_640.jpg",
+        "title": "Potresna priča nogometne zvijezde: ‘Kad smo stigli kući, slomili smo se, zaustavili smo auto da bismo plakali‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/pedro-porro-od-vallecas-do-oslonca-spanjolske-majcina-ispovijed-15715561",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_39057921_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "UŽIVO: United naciljao novog napadača, cijena - 81 milijun eura. Brozović blizu povratka u Europu Donosimo najaktualnija i najzanimljivija događanja na nogometnoj tržnici",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-bivsi-vatreni-vraca-se-u-europu-otkriveno-za-koga-real-nudi-150-milijuna-eura-15715558",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_38179928_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,9 +144,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Bivši Vatreni vraća se u Europu? Otkriveno za koga Real nudi 150 milijuna eura",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/transferi/uzivo-stize-li-ovaj-igrac-na-bernabeu-barcelona-ima-alternativu-za-alvareza-15715558",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_38179928_640.jpg",
+        "title": "Bivši trener Dinama ispisao povijest pa se emotivno oprostio od kluba: ‘Jedna od najtežih odluka u karijeri‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/krunoslav-jurcic-napustio-pyramids-pet-trofeja-africka-titula-odlazak-15715525",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39057533_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Novi trener inzistirat će na svakom detalju, a čemu provjeravati ovog igrača za reprezentaciju?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/cabello-pula-istra-1961-intenzitet-pripreme-kadar-transferi-15715569",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_38242767_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -120,7 +192,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Na Poljudu ima posla preko glave! Hajduk dovodi veliki broj igrača, evo gdje najviše ‘gori‘ Za očekivati je da će na Poljud stići još igrača poput Brrutija i Šutala, \"ispod radara\" i uz priličnu dozu rizika",
+        "title": "Na Poljudu ima posla preko glave! Hajduk dovodi veliki broj igrača, evo gdje najviše ‘gori‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-rekonstrukcija-momcadi-transferi-graf-garcia-poljud-15715511",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/01/k_38975781_640.jpg",
         "w": 640,
@@ -132,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Neočekivana ‘nasljednica‘ Ige Swiatek prijeti prvom ruskom slavlju u Parizu od Šarapove",
-        "link": "https://sportske.jutarnji.hr/sportske/tenis/grand-slam/neocekivana-nasljednica-ige-swiatek-prijeti-prvom-ruskom-slavlju-u-parizu-od-sarapove-15715549",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_39052364_640.jpg",
+        "title": "Premijer Andrej Plenković primio Vatrene i poželio im sreću uoči nastupa na Svjetskom...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/plenkovic-podrska-vatrenima-u-rijeci-najava-zavrsenog-kampa-hns-a-15715597",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39021893_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -144,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Brunson zaustavio veliki preokret Spursa i sad nas čeka potpuno ludilo u Madisonu",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/brunson-zaustavio-veliki-preokret-spursa-i-sad-nas-ceka-potpuno-ludilo-u-madisonu-15715533",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39061592_640.jpg",
+        "title": "Olmo otvorio dušu, govorio o budućnosti pa priznao: ‘To je uspomena koju ću čuvati...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dani-olmo-intervju-euro-barcelona-ostanak-liga-prvaka-de-la-fuente-15715594",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_36502609_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -156,81 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Luda utakmica u Draženovu domu! Zadar u dramatičnoj završnici slomio Cibonu i stigao na korak do naslova",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/hrvatska-liga/zadar-svladao-cibonu-treca-utakmica-finala-ss-premijer-lige-15715508",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_39059628_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Odmah pokazao što donosi na Poljud! Novo pojačanje Hajduka zabilo za mladu reprezentaciju",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/etnik-brruti-gol-albanija-u-21-penal-hajduk-potpis-2029-15715523",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_39060218_640.png",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Jusup nakon velikog trijumfa: Imali smo rupu, no izvukli smo se!; Rudež: Igrači Zadra stalno ‘flopaju‘",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/hrvatska-liga/zadar-slomio-cibonu-u-zagrebu-21-i-korak-do-naslova-15715515",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_39059608_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "FOTO: Procurio novi gostujući dres Vatrenih! Priča je posebno inspirirana prepoznatljivim simbolom",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/adidas-plavi-gostujuci-dres-hrvatske-cipkasti-uzorak-trefoil-15715502",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_39041382_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Iranski nogometaši dobili vize za SAD: ‘Sport...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/iran-odobrene-vize-sp-2026-sad-meksiko-kanada-15715570",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39062343_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Novi trener inzistirat će na svakom detalju, a čemu provjeravati ovog igrača za...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/cabello-pula-istra-1961-intenzitet-pripreme-kadar-transferi-15715569",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_38242767_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO Potpuni šok u BKFC-u! Boksač golim...",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ostalo/video-potpuni-sok-u-bkfc-u-boksac-golim-sakama-diskvalificiran-nakon-suludog-poteza-15715568",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39062340_640.png",
+        "title": "Varaždin produžio ugovore stožernoj četvorci...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/varazdin-produzio-ugovore-cetvorice-zelenika-meta-rijeke-15715589",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_38468250_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
