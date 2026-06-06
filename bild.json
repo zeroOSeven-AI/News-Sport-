@@ -1,6 +1,18 @@
 [
     {
-        "title": "Deutschland – USA:Hier der letzte Test der DFB-Elf vor der WM im Live-Ticker",
+        "title": "Knapper Sieg bei WM-Generalprobe:Erst Blitztor, dann trifft Karl-Ersatz Sané",
+        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-2026-erst-blitztor-dann-trifft-karl-ersatz-sane-letzter-test-gegen-usa-6a24845a8d84dbd8a4ed749c",
+        "image_url": "https://images.bild.de/6a24845a8d84dbd8a4ed749c/7c7a1139832ba94253b24f2bcd52620b,574bfd69?w=992",
+        "w": 992,
+        "h": 558,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Deutschland – USA im Ticker:Hier der letzte Test der DFB-Elf vor der WM im Live-Ticker",
         "link": "https://sportbild.bild.de/fussball/nationalmannschaft/deutschland-usa-im-live-ticker-dfb-generalprobe-vor-der-wm-6a1ed71bf2919cfc7489448a",
         "image_url": "https://images.bild.de/6a1ed71bf2919cfc7489448a/f1174b30f2d23ad14109a4b45c208b9f,d04dc40e?w=992",
         "w": 992,
@@ -42,18 +54,6 @@
         "w": 992,
         "h": 647,
         "focus_y": 0.35,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Nach geplatztem WM-Traum:Lennart Karl in München gelandet!",
-        "link": "https://sportbild.bild.de/fussball/fussball-wm/nach-wm-aus-bayern-youngster-lennart-karl-in-muenchen-gelandet-6a24123fd69745dd74e2c622",
-        "image_url": "https://images.bild.de/6a24123fd69745dd74e2c622/aa75a6d8ceb8d17444a7628705deb9ea,d161f4b3?w=992",
-        "w": 992,
-        "h": 1178,
-        "focus_y": 0.5,
         "source_title1": "SPORT",
         "source_title2": "BILD",
         "source_color": "#fc4e4e",
@@ -168,9 +168,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Bericht in Spanien:Top-Star bietet sich bei Barça an",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/fc-barcelona-top-star-bietet-sich-bei-barca-an-6a24270c8d84dbd8a4ed6f34",
-        "image_url": "https://images.bild.de/6a24270c8d84dbd8a4ed6f34/162b6b7dd5044cb1fd9e378bacacd382,2aca181?w=992",
+        "title": "„… muss ich mich woanders umsehen“:Liverpool-Star spricht von Abschied",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/fc-liverpool-reds-star-spricht-von-abschied-und-anderem-klub-6a244de1b20db0d89b6578d7",
+        "image_url": "https://images.bild.de/6a244de1b20db0d89b6578d7/ee84f4bf1e3e5a500a2c7bd18fdff132,a0dc983f?w=992",
         "w": 992,
         "h": 558,
         "focus_y": 0.3,
