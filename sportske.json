@@ -1,6 +1,18 @@
 [
     {
-        "title": "Dvojac Vatrenih je ‘poseban‘, njih se jednostavno mora čekati! O njima će ovisiti igra Hrvatske Usprkos sumnjama nakon Belgije, izbornik računa da će kroz minute podići ritam i povući Hrvatsku",
+        "title": "Djevojka iz Sibira pomela senzaciju Roland Garrosa i osvojila svoj prvi Grand Slam! Treću godinu zaredom smo na Roland Garrosu dobili različitu pobjednicu, Mira Andrejeva je u finalu dobila poljsku senzaciju Maju Chwalinsku sa 6:3, 6:2",
+        "link": "https://sportske.jutarnji.hr/sportske/tenis/grand-slam/cudesna-dominacija-djevojke-iz-sibira-mira-andrejeva-pomela-senzaciju-i-osvojila-svoj-prvi-grand-slam-15715667",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39064226_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Dvojac Vatrenih je ‘poseban‘, njih se jednostavno mora čekati! O njima će ovisiti igra Hrvatske",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/modric-kovacic-dalic-varazdin-nova-sansa-minutaza-forma-hrvatska-15715662",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_37670670_640.jpg",
         "w": 640,
@@ -12,9 +24,33 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Djevojka iz Sibira‘ pomela senzaciju Roland Garrosa i osvojila svoj prvi Grand Slam!",
-        "link": "https://sportske.jutarnji.hr/sportske/tenis/grand-slam/cudesna-dominacija-djevojke-iz-sibira-mira-andrejeva-pomela-senzaciju-i-osvojila-svoj-prvi-grand-slam-15715667",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39064252_640.jpg",
+        "title": "VIDEO Srušili Hrvatsku pa utrpali pet komada uoči SP-a, svi u Belgiji pričaju o jednom čudesnom igraču",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/belgija-razbila-tunis-5-0-generalka-sp-doku-de-bruyne-15715671",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39063862_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Engleski izbornik povukao zanimljiv potez uoči Hrvatske: ‘To je naše pravilo, a bilo bi idealno da...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/engleska-u-sad-u-tuchel-ogranicava-transfere-fokus-na-hrvatsku-15715672",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39059708_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Zagrlila majku, trenericu i psića pa poručila legendi: ‘Ne znam smijem li se tebi zahvaliti...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/tenis/grand-slam/zagrlila-majku-trenericu-i-psica-pa-porucila-legendi-ne-znam-smijem-li-se-tebi-zahvaliti-15715674",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39064400_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,7 +120,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Guardiola pohvalio Barcu, upozorio na opsjednutost Ligom prvaka i poručio: ‘Ni sam ne znam što dalje‘",
+        "title": "Guardiola pohvalio Barcu, upozorio na opsjednutost Ligom prvaka i poručio: ‘Ni sam ne znam što dalje‘ Katalonac hvali Barcelonu Hansa Flicka, upozorava na opsesiju Ligom prvaka i poručuje da mu je budućnost otvorena.",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/guardiola-napusta-manchester-city-hvali-flickovu-barcelonu-i-upozorava-na-opasnost-lige-prvaka-15715652",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_38972076_640.jpg",
         "w": 640,
@@ -108,9 +144,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Vatreni mijenja adresu? Majer napušta Wolfsburg? Brozović blizu povratka u Europu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-vatreni-mijenja-adresu-majer-napusta-wolfsburg-brozovic-blizu-povratka-u-europu-15715558",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_38907653_640.jpg",
+        "title": "UŽIVO: Majer napušta Wolfsburg? Cancelo blizu ostanka u Barceloni",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-majer-napusta-wolfsburg-cancelo-blizu-ostanka-u-barceloni-15715558",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_38676060_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -120,7 +156,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Nesvakidašnja scena na hrvatskim terenima! Usred turnira na travnjak sletio - helikopter Kako smo uspjeli doznati, jedna osoba iz okolice doživjela je ozbiljnije medicinske probleme, vozilo hitne pomoći dovezlo ju je na stadion, a helikopter ju je hitno prebacio na liječenje u Split",
+        "title": "VIDEO Nesvakidašnja scena na hrvatskim terenima! Usred turnira na travnjak sletio - helikopter",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/helikopter-sletio-na-teren-prekinuo-ragbi-makarska-hhms-15715640",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39063270_640.png",
         "w": 640,
@@ -168,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Nosi slavno prezime, ima vlastitu tvrtku i pun je k‘o brod, a sada ‘nasrće‘ na Bernabeu i obećava zvijezde",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/enrique-riquelme-izaziva-pereza-najavljuje-promjene-u-real-madridu-15715600",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_38982994_640.jpg",
+        "title": "Ponosni vlasnik Crvene majice SN-a pokorio...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/jadran-lp-mladost-ulazak-u-1-nl-nikola-maric-prvi-strijelac-trofej-sn-15715675",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_38473593_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Olmo otvorio dušu, govorio o budućnosti pa priznao: ‘To je uspomena koju ću čuvati zauvijek‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dani-olmo-intervju-euro-barcelona-ostanak-liga-prvaka-de-la-fuente-15715594",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_36502609_640.jpg",
+        "title": "Zagrlila majku, trenericu i psića pa poručila...",
+        "link": "https://sportske.jutarnji.hr/sportske/tenis/grand-slam/zagrlila-majku-trenericu-i-psica-pa-porucila-legendi-ne-znam-smijem-li-se-tebi-zahvaliti-15715674",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39064400_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,45 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Je li ovo moguće? Pogledajte koju je suludu cifru Srbin tražio za ostanak u Juventusu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/vlahovic-napusta-juventus-chiellini-potvrdio-interes-chelsea-bayerna-15715576",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_37507186_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Djevojka iz Sibira‘ pomela senzaciju Roland...",
-        "link": "https://sportske.jutarnji.hr/sportske/tenis/grand-slam/cudesna-dominacija-djevojke-iz-sibira-mira-andrejeva-pomela-senzaciju-i-osvojila-svoj-prvi-grand-slam-15715667",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39064252_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Sudac je spasio Verhoevena! Usik bi u 12...",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/sudac-je-spasio-verhoevena-usik-bi-u-12-rundi-tesko-uspavao-rica-to-je-jednostavno-tako-15715665",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39001300_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Dvojac Vatrenih je ‘poseban‘, njih se jednostavno mora čekati! O njima će ovisiti...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/modric-kovacic-dalic-varazdin-nova-sansa-minutaza-forma-hrvatska-15715662",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_37670670_640.jpg",
+        "title": "Engleski izbornik povukao zanimljiv potez uoči Hrvatske: ‘To je naše pravilo, a bilo bi idealno...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/engleska-u-sad-u-tuchel-ogranicava-transfere-fokus-na-hrvatsku-15715672",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39059708_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
