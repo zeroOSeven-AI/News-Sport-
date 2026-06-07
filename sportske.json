@@ -1,8 +1,8 @@
 [
     {
-        "title": "Vatrenima prijeti najbolji strijelac iz - Modrićevoga kluba! Bio je na radaru i Dinama i Hajduka Ove godine poentirao je dvaput u dresu Slovenije, u gostujućoj pobjedi (2:3) protiv Crne Gore",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/slovenija-bez-seska-vipotnik-i-oblak-spremaju-test-za-hrvatsku-u-varazdinu-15715854",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_34163423_640.jpg",
+        "title": "Rijeka objavila: Kek se vratio! Pomoćnici su mu kapetan šampionske generacije i ikona HNL-a Povratak Matjaža Keka nije samo promjena trenera. To je poruka. Jasna, glasna i ambiciozna",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/matjaz-kek-povratak-rijeka-rujevica-males-cop-brkljaca-vargic-konferencija-15715876",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_34071849_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,7 +24,55 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Jasno je što Tuchel sprema Hrvatskoj! Sve je već nacrtano, a baš zato nije pozvao ni dvije...",
+        "title": "Novi sukob u Francuskoj, ljutite zvijezde predvodi - Mbappé! ‘Ovakve stvari su uništavale živote‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/mbappe-fff-sukob-betclic-reklama-imidz-prava-sp-2026-15715872",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39065760_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Ikona Slovenije i bivši as Dinama: ‘Hrvati, vi ste fenomen! Imate jedan rijedak privilegij...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bostjan-cesar-modric-fenomen-hrvatsku-ne-otpisujte-remi-s-ciprom-15715866",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_29714731_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Želja Riječana se ispunila! Evo kako je klub najavio povratak legende",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/matjaz-kek-vraca-se-na-klupu-rijeke-novi-pocetak-rujevica-15715863",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39071381_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Vatrenima prijeti najbolji strijelac iz - Modrićevoga kluba! Bio je na radaru i Dinama i Hajduka",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/slovenija-bez-seska-vipotnik-i-oblak-spremaju-test-za-hrvatsku-u-varazdinu-15715854",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_34163423_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Jasno je što Tuchel sprema Hrvatskoj! Sve je već nacrtano, a baš zato nije pozvao ni dvije megazvijezde",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/tuchelova-engleska-neprobojna-obrana-siroka-krila-kane-kreator-15715832",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39068333_640.jpg",
         "w": 640,
@@ -48,7 +96,19 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Strašan incident u Mađarskoj! Vozač neobjašnjivo pao na ravnici, srušio dvojicu pa je...",
+        "title": "Kraljevi više ne vladaju: Slavni trener nakon debakla na izlaznim vratima, a Hezonji stiže more ponuda",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/basket-euroliga/tenerife-izbacili-real-madrid-acb-cetvrtfinale-mills-huertas-sok-15715864",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39071046_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Strašan incident u Mađarskoj! Vozač neobjašnjivo pao na ravnici, srušio dvojicu pa je pregažen",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/automoto/moto3-quiles-pobjeda-balaton-park-prekid-nakon-teskog-incidenta-15715847",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39070997_640.png",
         "w": 640,
@@ -60,9 +120,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "U četvrtak besplatno uz Sportske novosti i Jutarnji list: Totalni vodič za Svjetsko prvenstvo",
+        "title": "U četvrtak besplatno uz Sportske novosti i Jutarnji list: Totalni vodič za Svjetsko prvenstvo Spremite se za 39 dana non‑stop nogometa uz naš besplatni priručnik. Raspored sve 104 utakmice, popis svih 1248 igrača iz 48 reprezentacija, nova sudačka pravila koja će debitirati na Svjetskom prvenstvu...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/junak-sp2026/besplatni-vodic-sp-2026-raspored-sastavi-ifab-pravila-104-utakmice-15715849",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39063195_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "UŽIVO: Rijeka predstavila Keka, dvojica dinamovaca vruća tema, Vatreni dobiva novi ugovor",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-rijeka-predstavila-novog-trenera-dvojica-dinamovaca-vruca-tema-vatreni-dobiva-novi-ugovor-15715754",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39040776_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -108,66 +180,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Kruno Jurčić nakon senzacionalnih uspjeha za SN otkriva: Evo zašto ne mogu dobiti posao u Europi!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kruno-jurcic-odlazak-iz-pyramidsa-pet-trofeja-novi-izazov-15715742",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/04/k_36922673_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Ludilo počinje, ulazimo u prvi tjedan Svjetskog prvenstva, provjerite svoje znanje Ove nedjelje smo vam na portalu Sportskih novosti pripremili 16 zanimljivih pitanja vezanih za najveći sportski događaj",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/kviz/kviz-svjetsko-prvenstvo-i-hrvatska-reprezentacija-test-znanja-15715767",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_38806688_640.gif",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Na današnji dan poginuo je Dražen, majka Biserka otkrila zbog čega su on i Aco odabrali Cibonu",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-mix/biserka-petrovic-zasto-su-aco-i-drazen-odabrali-cibonu-umjesto-splita-15715792",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_35570603_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "UŽIVO: Dvojica dinamovaca vruća tema, Vatreni dobiva novi ugovor zbog interesa talijanskog diva",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-dvojica-dinamovaca-vruca-tema-vatreni-dobiva-novi-ugovor-zbog-interesa-talijanskog-diva-15715754",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39045234_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Pun je s*anja, ispada glup! Mogao je platiti svog najboljeg prijatelja pa bi ostali najbolji‘",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/pun-je-s-anja-ispada-glup-mogao-je-platiti-svog-najboljeg-prijatelja-pa-bi-ostali-najbolji-15715766",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39069953_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Gdje gledati Hrvatska - Slovenija: Veliki Luka Modrić igra zadnju utakmicu na hrvatskim travnjacima!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/modricev-oprostaj-u-varazdinu-posljednji-nastup-u-hrvatskoj-prije-sp-15715746",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/05/k_39056468_640.jpg",
@@ -180,9 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Navijači grme: ‘Engleska je dosadna!‘; Mediji nakon skromne pobjede: Bit će taman za - Hrvatsku",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kane-spasava-bljedu-englesku-tuchel-nezadovoljan-igrom-prije-hrvatske-15715758",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39067653_640.jpg",
+        "title": "Kruno Jurčić nakon senzacionalnih uspjeha za SN otkriva: Evo zašto ne mogu dobiti posao u Europi!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kruno-jurcic-odlazak-iz-pyramidsa-pet-trofeja-novi-izazov-15715742",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/04/k_36922673_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Izbornik BiH nakon lude utakmice u ‘maloj Bosni‘: ‘Neki od igrača koje sam promijenio bili su ‘ljuti‘...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bih-panama-1-1-st-louis-katic-barbarez-sp-pripreme-15715744",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39019643_640.jpg",
+        "title": "Rijeka objavila: Kek se vratio! Pomoćnici su...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/matjaz-kek-povratak-rijeka-rujevica-males-cop-brkljaca-vargic-konferencija-15715876",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_34071849_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -204,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Luka Mikrut predao finale u Heilbronnu i...",
-        "link": "https://sportske.jutarnji.hr/sportske/tenis/atp-wta-turniri/mikrut-predao-finale-heilbronn-emilio-nava-osvojio-naslov-15715860",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_38524328_640.jpg",
+        "title": "Varaždin traži najbolju obranu sezone:...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nk-varazdin-najbolja-obrana-sezone-glasanje-zelenika-silic-15715873",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_38468088_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -216,21 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "To što je Olmissum napravio usred Rijeke je definicija pobjednika! U novoj sezoni će biti još...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/olmissum-prvak-hrvatske-preokret-0-2-trsat-rijeka-penali-15715859",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39067691_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Vatrenima prijeti najbolji strijelac iz - Modrićevoga kluba! Bio je na radaru i Dinama...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/slovenija-bez-seska-vipotnik-i-oblak-spremaju-test-za-hrvatsku-u-varazdinu-15715854",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_34163423_640.jpg",
+        "title": "Novi sukob u Francuskoj, ljutite zvijezde predvodi - Mbappé! ‘Ovakve stvari su...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/mbappe-fff-sukob-betclic-reklama-imidz-prava-sp-2026-15715872",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39065760_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
