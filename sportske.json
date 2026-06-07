@@ -12,9 +12,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Modrić zaradio ovacije, ‘bomba‘ i suze Marija Pašalića za pobjedu u zadnjim trenucima!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/video-modric-zaradio-ovacije-bomba-i-suze-marija-pasalica-za-pobjedu-u-zadnjim-trenucima-15715898",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39074385_640.jpg",
+        "title": "Livaković najbolji, a Baturina si ovo ne smije dozvoliti! Jedan Dalićev potez ostaje nejasan",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/livakovic-najbolji-a-baturina-si-ovo-ne-smije-dozvoliti-jedan-dalicev-potez-ostaje-nejasan-15715960",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39074459_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,9 +24,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "FOTO Pogledajte navijača koji je utrčao na teren! Slikao se s Vatrenim, zaštitari ga jedva sustigli",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/navijac-selfi-stanisic-hrvatska-slovenija-2-1-zastitari-put-u-sad-15715953",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39074266_640.jpg",
+        "title": "‘Svjestan sam da ne mogu do kraja u boj sa svojim senatorima, ja to znam bolje nego bilo tko drugi‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/svjestan-sam-da-ne-mogu-do-kraja-u-boj-sa-svojim-senatorima-ja-to-znam-bolje-nego-bilo-tko-drugi-15715965",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39073707_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Slovenci secirali Vatrene, nisu oduševljeni: ‘Hrvatska nije stroj, ne djeluje zastrašujuće‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/miljkovic-slovenija-zasluzila-vise-hrvatska-2-1-varazdin-analiza-15715963",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39074005_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,9 +60,69 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "VIDEO Modrić zaradio ovacije, ‘bomba‘ i suze Marija Pašalića za pobjedu u zadnjim trenucima!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/video-modric-zaradio-ovacije-bomba-i-suze-marija-pasalica-za-pobjedu-u-zadnjim-trenucima-15715898",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39074385_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Junak pobjede: ‘Trebalo nam je ovo, idemo s osmijehom u Ameriku‘; Dalić zabrinut: ‘To nam se prije nije događalo‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/junak-pobjede-trebalo-nam-je-ovo-idemo-s-osmijehom-u-ameriku-dalic-zabrinut-to-nam-se-prije-nije-dogadalo-15715959",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39073997_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Četvorica napala i propucala poznatog borca, on ostao na nogama: ‘Majku vam j***m klošarsku!‘",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/regija/cetvorica-napala-i-propucala-poznatog-borca-on-ostao-na-nogama-majku-vam-j-m-klosarsku-15715911",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39072732_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "FOTO Pogledajte navijača koji je utrčao na teren! Slikao se s Vatrenim, zaštitari ga jedva sustigli",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/navijac-selfi-stanisic-hrvatska-slovenija-2-1-zastitari-put-u-sad-15715953",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39074266_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Potez Stipe i Radojke otkrio Modrićevu budućnost? Stigao Lovren, ali i čovjek kojeg se rijetko viđa",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/modric-ovacije-varazdin-roditelji-lovren-englezi-skauti-15715934",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39073573_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Modrić ispraćen kao legenda, svijet se opet divi velikom kapetanu: ‘Sve za domovinu‘ Pogotkom se Modrić izjednačio s Eduardom da Silvom na petom mjestu vječne liste strijelaca u dresu Vatrenih",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/modric-gol-198-nastup-izjednacenje-s-eduardom-romanov-hvalospjev-varazdin-hrvatska-slovenija-15715957",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39074545_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,18 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Već je imao srčane probleme, sada se opet srušio! Nogometna ikona zabrinula sve, utakmica prekinuta",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/eriksen-kolabirao-prijateljska-utakmica-danska-ukrajina-odense-15715920",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39073189_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "FOTO/VIDEO Neredi u Draženovu domu i nakon finala! Zadrani palili sjedalice: ‘Gej parada, ponos Zagreba‘",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/hrvatska-liga/prekid-finala-cibona-zadar-neredi-navijaci-specijalci-drazenov-dom-15715908",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39073204_640.jpg",
@@ -108,9 +168,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Nije izgubio tri godine, a sada je doživio šok na ‘najvažnijem‘ natjecanju: ‘Nisam bio svoj...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/atletika/duplantis-porazen-u-stockholmu-marschall-pobijedio-dijamantna-liga-15715950",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39071484_640.jpg",
+        "title": "VIDEO Već je imao srčane probleme, sada se opet srušio! Nogometna ikona zabrinula sve, utakmica prekinuta",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/eriksen-kolabirao-prijateljska-utakmica-danska-ukrajina-odense-15715920",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39073189_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -120,7 +180,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Trener Cibone nakon pobjede: ‘Zadrani, pozivam da nas vrijeđate!‘ ‘Cibona je bila bolja, od starta smo ušli zavezano i nismo se odmotali do kraja utakmice‘, kazao je Daniel Jusup, trener Zadra",
+        "title": "Trener Cibone nakon pobjede: ‘Zadrani, pozivam da nas vrijeđate!‘",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/hrvatska-liga/cibona-pobijedila-zadar-73-67-izborila-majstoricu-u-finalu-15715928",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39072455_640.jpg",
         "w": 640,
@@ -132,68 +192,8 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Četvorica napala i propucala poznatog borca, on ostao na nogama: ‘Majku vam j***m klošarsku!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/regija/cetvorica-napala-i-propucala-poznatog-borca-on-ostao-na-nogama-majku-vam-j-m-klosarsku-15715911",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39072732_640.png",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hrvati i Slovenci kao jedno: Emotivna scena s Modrićem, poseban promet u Dalićevom restoranu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/varazdin-ispratio-vatrene-rasprodani-stadion-modriceva-emocija-i-daliceva-neizvjesnost-15715927",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39073568_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Zverev iskoristio šansu života i u velikoj drami osvojio Roland Garros",
-        "link": "https://sportske.jutarnji.hr/sportske/tenis/grand-slam/zverev-osvojio-roland-garros-protiv-cobollija-u-pet-setova-15715914",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39073387_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Cibona slavila protiv Zadra, odluka o prvaku u majstorici! Najbolji igrač Zadra ostao na pet poena",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/hrvatska-liga/cibona-pobijedila-zadar-73-67-izborila-majstoricu-za-naslov-15715917",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39072467_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Drama jedne od najvećih svih vremena: ‘Ovaj tjedan sam skoro umrla, a suprug nije bio doma‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/gimnastika/simone-biles-zdravstveni-incident-bolnica-oporavak-jonathan-owens-15715912",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39072428_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "UŽIVO: Rijeka predstavila Keka, dvojica dinamovaca vruća tema, Vatreni dobiva novi ugovor",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-rijeka-predstavila-keka-dvojica-dinamovaca-vruca-tema-vatreni-dobiva-novi-ugovor-15715754",
+        "title": "Rijeka predstavila Keka, dvojica dinamovaca vruća tema, Vatreni dobiva novi ugovor",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rijeka-predstavila-keka-dvojica-dinamovaca-vruca-tema-vatreni-dobiva-novi-ugovor-15715754",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/06/k_39040776_640.jpg",
         "w": 640,
         "h": 640,
@@ -204,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dalić definitivno ima o čemu razmišljati...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/hrvatska-slovenija-21-modric-livakovic-dalic-pobjeda-uz-oprez-pred-sp-15715955",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39073996_640.jpg",
+        "title": "Tamo gdje je Senna pao, Antonelli je ostao čvrst: Povijest se ponavlja, ali s drugačijim...",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/automoto/formula1/antonelli-monako-peta-pobjeda-hamilton-pohvala-russell-zaostao-krug-15715967",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_38991928_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -216,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "FOTO Pogledajte navijača koji je utrčao na teren! Slikao se s Vatrenim, zaštitari ga jedva...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/navijac-selfi-stanisic-hrvatska-slovenija-2-1-zastitari-put-u-sad-15715953",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39074266_640.jpg",
+        "title": "‘Svjestan sam da ne mogu do kraja u boj sa svojim senatorima, ja to znam bolje nego bilo...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/svjestan-sam-da-ne-mogu-do-kraja-u-boj-sa-svojim-senatorima-ja-to-znam-bolje-nego-bilo-tko-drugi-15715965",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39073707_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -228,9 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dan odmora, a onda put u Ameriku: Ovo je...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/dan-odmora-a-onda-put-u-ameriku-ovo-je-plan-vatrenih-nakon-ogleda-sa-slovencima-15715952",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_39073602_640.jpg",
+        "title": "Remi Norveške i Maroka, Italija s igračem...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/eriksen-kolaps-prekid-danska-ukrajina-maroko-norveska-1-1-italija-grcka-1-0-15715964",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/07/k_38525404_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
