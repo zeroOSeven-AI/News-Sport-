@@ -1,13 +1,12 @@
 import json
 import logging
 import re
-from typing import Any, Dict, List
+from typing import Any, Dict, List, Optional  # <-- Ovdje je sada dodan Optional
 import httpx
 
 # ==============================================================================
 # KONFIGURACIJA
 # ==============================================================================
-# Službeni Bild Sport API feed za najnovije vijesti
 API_URL = "https://sportbild.bild.de/api/v1/editorial/sportbild/sections/home/teaser-list"
 MAX_NEWS_ITEMS = 20
 
@@ -23,30 +22,25 @@ def get_focus_y(w: int, h: int) -> float:
 def clean_title(title: str) -> str:
     if not title:
         return ""
-    # Čišćenje neželjenih znakova s početka naslova
     return re.sub(r'^[:\s–|-]+', '', title).strip()
 
 def extract_best_image(teaser: Dict[str, Any]) -> Optional[Dict[str, Any]]:
     """Izvlači glavnu sliku iz API strukture artikla."""
-    # API drži slike unutar 'images' liste ili 'media' objekta
     images = teaser.get("images", [])
     if not images and "image" in teaser:
         images = [teaser["image"]]
         
     for img_obj in images:
-        # Tražimo url i dimenzije
         url = img_obj.get("url") or img_obj.get("src")
         if not url:
             continue
             
-        # Preskačemo ako je u pitanju očiti placeholder ili sistemska ikona
         if "placeholder" in url.lower() or "sys-fallback" in url.lower():
             continue
             
         w = int(img_obj.get("width", 0) or img_obj.get("w", 992))
         h = int(img_obj.get("height", 0) or img_obj.get("h", 558))
         
-        # Dinamički prilagođavamo širinu u URL-u ako Bild koristi predloške poput {width}
         if "{width}" in url:
             url = url.replace("{width}", "992")
             w = 992
@@ -67,7 +61,6 @@ def main():
     }
     
     try:
-        # Povlačimo čisti JSON direktno sa servera
         with httpx.Client(timeout=10.0, headers=headers) as client:
             response = client.get(API_URL)
             if response.status_code != 200:
@@ -76,7 +69,6 @@ def main():
                 
             data = response.json()
             
-        # Ovisno o verziji API-ja, članci su obično u 'items', 'teasers' ili 'data' listi
         items = data.get("items", []) or data.get("teasers", []) or data.get("data", [])
         logging.info(f"📊 API je isporučio {len(items)} sirovih stavki.")
         
@@ -86,17 +78,14 @@ def main():
             if len(news_items) >= MAX_NEWS_ITEMS:
                 break
                 
-            # Izvlačenje naslova i linka
             title = clean_title(item.get("title") or item.get("headline"))
             link = item.get("shareUrl") or item.get("url")
             
             if not title or not link:
                 continue
                 
-            # Pametno izvlačenje slike iz čistog JSON-a
             image_info = extract_best_image(item)
             if not image_info:
-                # Ako nema slike u API-ju, preskačemo članak odmah (nema lažnih slika i ikona)
                 continue
                 
             news_items.append({
