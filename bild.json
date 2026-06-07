@@ -1,8 +1,20 @@
 [
     {
-        "title": "French Open im Live-Ticker:Oh, nein! Zverev verschenkt Break",
+        "title": "Tiebreak: French Open im Live-Ticker:Mega-Krimi! Jetzt kann Zverev den Titel holen!",
         "link": "https://sportbild.bild.de/sportmix/tennis/tennis-heute-alexander-zverev-flavio-cobolli-im-live-ticker-french-open-6a254c988d84dbd8a4ed7b29",
         "image_url": "https://images.bild.de/6a254c988d84dbd8a4ed7b29/c3457ffb21fe21c37db53a53541b9057,2b04f42?w=1280",
+        "w": 1280,
+        "h": 720,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "„Nicht zu fassen!“:Bei welchem Promi Becker plötzlich laut wird",
+        "link": "https://sportbild.bild.de/sportmix/tennis/french-open-bei-welchem-promi-becker-ploetzlich-laut-wird-nicht-zu-fassen-6a2598a0b20db0d89b658620",
+        "image_url": "https://images.bild.de/6a2598a0b20db0d89b658620/22855bf18dd32aead30ab8cda8bce3cb,b4fa4edb?w=1280",
         "w": 1280,
         "h": 720,
         "focus_y": 0.3,
@@ -17,18 +29,6 @@
         "image_url": "https://images.bild.de/6a2591ca27d9ac9142ccdfa3/8de7577484d72441d7deefb8736deb31-landscape,8cdb69a0?w=1280",
         "w": 1280,
         "h": 720,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "„Es wird schwer, wenn ...“:Besondere Becker-Botschaft an Zverev",
-        "link": "https://sportbild.bild.de/sportmix/tennis/french-open-besondere-becker-botschaft-an-zverev-es-wird-schwer-wenn-6a256fae8d84dbd8a4ed7d31",
-        "image_url": "https://images.bild.de/6a256fae8d84dbd8a4ed7d31/3d91f874e4501a6ef4177f4601ce7e42,d73abdc9?w=1280",
-        "w": 1024,
-        "h": 576,
         "focus_y": 0.3,
         "source_title1": "SPORT",
         "source_title2": "BILD",
@@ -156,9 +156,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Formel 1 im Live-Ticker zum Nachlesen:Antonelli bei Chaos-Rennen in Monaco unschlagbar",
-        "link": "https://sportbild.bild.de/motorsport/formel-1/formel-1-in-monte-carlo-das-monaco-spektakel-heute-im-live-ticker-6a21627c3807a686af77d879",
-        "image_url": "https://images.bild.de/6a21627c3807a686af77d879/ba961ccc029114f9231677df878a929f,beecb755?w=1280",
+        "title": "Konkurrenten patzen:Antonelli wird bei Chaos-Rennen König von Monaco",
+        "link": "https://sportbild.bild.de/motorsport/formel-1/formel-1-antonelli-wird-bei-chaos-rennen-koenig-von-monaco-konkurrenten-patzen-6a2591d854cb5c359ee0003a",
+        "image_url": "https://images.bild.de/6a2591d854cb5c359ee0003a/07e24d2ebd616315bbd2dd4442a850c5,3f9b870c?w=1280",
         "w": 1280,
         "h": 720,
         "focus_y": 0.3,
