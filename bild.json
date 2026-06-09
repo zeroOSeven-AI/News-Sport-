@@ -1,5 +1,41 @@
 [
     {
+        "title": "Angespanntes Verhältnis zu Superstar:Traut sich Tuchel diesen WM-Paukenschlag zu?",
+        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-traut-sich-thomas-tuchel-diesen-paukenschlag-zu-6a27d4ee37d75abfaf7361ed",
+        "image_url": "https://images.bild.de/6a27d4ee37d75abfaf7361ed/7a720fc3233243de10e83efe71a9a8e5,8b317bec?w=1280",
+        "w": 1280,
+        "h": 720,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Uruguay bangt um Top-Spieler:Barcelona-Star reist aus WM-Trainingslager ab",
+        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-uruguay-bangt-um-top-spieler-barcelona-star-reist-aus-trainingslager-ab-6a26a7f8de941cb7ad3cb8b7",
+        "image_url": "https://images.bild.de/6a26a7f8de941cb7ad3cb8b7/a4e3d44b986906b1acc32805c3420103,35a060f0?w=1280",
+        "w": 1280,
+        "h": 720,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Kein Entkommen!:DFB-Star genervt wegen Fan-Hype",
+        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-dfb-star-genervt-wegen-fan-hype-es-gibt-kein-entkommen-6a27eacb2f1d399245057989",
+        "image_url": "https://images.bild.de/6a27eacb2f1d399245057989/40fbfd242e5a8093e22f381083981d66,cb64dfcb?w=1280",
+        "w": 1280,
+        "h": 720,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
         "title": "Es geht um seinen körperlichen Zustand:Spannende Musiala-These! „Bin zutiefst davon überzeugt ...“",
         "link": "https://sportbild.bild.de/fussball/nationalmannschaft/wm-2026-spannende-musiala-these-ich-bin-zutiefst-davon-ueberzeugt-6a27cb6129fcf2207deb1994",
         "image_url": "https://images.bild.de/6a27cb6129fcf2207deb1994/7e2c6e3f87615b92717c46a0d8d7a47c,480786a4?w=1280",
@@ -24,42 +60,6 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Kurz vor WM-Beginn:Strafanzeige gegen Infantino!",
-        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-2026-strafanzeige-gegen-gianni-infantino-kurz-vor-turnier-start-6a27c8c529fcf2207deb194c",
-        "image_url": "https://images.bild.de/6a27c8c529fcf2207deb194c/b3c670a7b8e9eba26034aa1623033fe6,bcea3a38?w=1280",
-        "w": 1280,
-        "h": 720,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Rückblick: Heute vor 20 Jahren:Ein Tor, das ein Sommermärchen entfachte",
-        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-das-tor-das-deutschland-zum-traeumen-brachte-heute-vor-20-jahren-6a22b13fb20db0d89b656520",
-        "image_url": "https://images.bild.de/6a22b13fb20db0d89b656520/3ad69d98d3d054159a134b265c845c1a,cbcf6e?w=1280",
-        "w": 1280,
-        "h": 720,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Arzt gibt Update:Wird Neymar fit für die WM?",
-        "link": "https://sportbild.bild.de/fussball/fussball-wm/wm-2026-wird-neymar-rechtzeitig-fit-arzt-gibt-update-6a27a729b20db0d89b659ef5",
-        "image_url": "https://images.bild.de/6a27a729b20db0d89b659ef5/fe8a4c9aae97a3391062e7b97a7b0e68,edb2e3d8?w=1280",
-        "w": 1280,
-        "h": 720,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
         "title": "Große Studie:Warum uns der VAR manchmal komplett verändert",
         "link": "https://sportbild.bild.de/partner/brandstory/anzeige-grosse-studie-warum-uns-der-var-manchmal-komplett-veraendert-69fb3e44cbc6aa7d81ba1d8c",
         "image_url": "https://images.bild.de/69fb3e44cbc6aa7d81ba1d8c/cc16aa262f0104b6e848482c6f253a0f,2ae95c74?w=1280",
@@ -72,9 +72,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Fahnen-Meer erinnert an WM 2006:Deutsche Straße wird zum Sommermärchen",
-        "link": "https://sportbild.bild.de/fussball/fussball-wm/fahnen-meer-erinnert-an-wm-2006-deutsche-strasse-wird-zum-sommermaerchen-6a27101ab20db0d89b659b44",
-        "image_url": "https://images.bild.de/6a27101ab20db0d89b659b44/44f30cfbdeec669dbca941096dee253c,996703a6?w=1280",
+        "title": "„Er hört ja hoffentlich nicht zu“:Interessante Reif-Beobachtung bei Leroy Sané",
+        "link": "https://sportbild.bild.de/fussball/fussball-wm/er-hoert-ja-hoffentlich-nicht-zu-interessante-reif-beobachtung-bei-leroy-sane-6a27f4f67ae6ee108d9ebc33",
+        "image_url": "https://images.bild.de/6a27f4f67ae6ee108d9ebc33/b828be112cc694fa772511638612b8ef-landscape,a56a32ad?w=1280",
         "w": 1280,
         "h": 720,
         "focus_y": 0.3,
@@ -84,21 +84,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "So kennt man sie ja gar nicht...:Südkoreaner beim Eimer-Saufen ertappt",
-        "link": "https://sportbild.bild.de/fussball/fussball-wm/so-kennt-man-sie-ja-gar-nicht-suedkoreaner-beim-eimer-saufen-ertappt-6a26b273de941cb7ad3cb9af",
-        "image_url": "https://images.bild.de/6a26b273de941cb7ad3cb9af/95b9877ebdf0c57a052662a8548e8d37,dd4efa78?w=1280",
-        "w": 965,
-        "h": 543,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Aus dem Urlaub zur WM:DFB-Nachrücker ist der Erste im Luxus-Camp!",
-        "link": "https://sportbild.bild.de/fussball/fussball-wm/aus-dem-urlaub-zur-wm-dfb-nachruecker-ist-der-erste-im-luxus-camp-6a26b23db20db0d89b6593d8",
-        "image_url": "https://images.bild.de/6a26b23db20db0d89b6593d8/bd09258ed725595b27f5c6127c9da033,b1df73cf?w=1280",
+        "title": "Nach Hattrick gegen Nordirland:Wird Olise zur Schlüsselfigur?",
+        "link": "https://sportbild.bild.de/fussball/fussball-wm/nach-hattrick-gegen-nordirland-wird-olise-zur-schluesselfigur-6a27f5657ae6ee108d9ebc43",
+        "image_url": "https://images.bild.de/6a27f5657ae6ee108d9ebc43/33d0cfabff1108eb76d5731e189a2c88-landscape,57ccd98f?w=1280",
         "w": 1280,
         "h": 720,
         "focus_y": 0.3,
@@ -108,21 +96,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "„Sorry, wir sind angekommen\":Überragende Bus-Ankunft von unserem WM-Gegner",
-        "link": "https://sportbild.bild.de/fussball/fussball-wm/sorry-wir-sind-angekommen-ueberragende-bus-ankunft-von-unserem-wm-gegner-6a26b20cf1ea924ca06cc5e1",
-        "image_url": "https://images.bild.de/6a26b20cf1ea924ca06cc5e1/c412da365c9a80f348b4b5c1676cc9df,22d1de97?w=1280",
-        "w": 1232,
-        "h": 693,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Er spielt in der Bundesliga:WM-Star hat seltenes Talent",
-        "link": "https://sportbild.bild.de/fussball/fussball-wm/er-spielt-in-der-bundesliga-wm-star-hat-seltenes-talent-6a26b1f4b20db0d89b6593d2",
-        "image_url": "https://images.bild.de/6a26b1f4b20db0d89b6593d2/a033a281759a71d00a5380714993760d,ad70835f?w=1280",
+        "title": "„Schrecklich“:Reif kritisiert Wirtz-Auftritt",
+        "link": "https://sportbild.bild.de/fussball/fussball-wm/schrecklich-reif-kritisiert-auftritt-von-florian-wirtz-6a27f44737d75abfaf73660d",
+        "image_url": "https://images.bild.de/6a27f44737d75abfaf73660d/052f7c6578faa0e506f68383eaacd5c8,f52aa04a?w=1280",
         "w": 1280,
         "h": 720,
         "focus_y": 0.3,
@@ -132,9 +108,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Gleich beim 1. Versuch:Fußball-Legende mit Lehrstunde für Lamine Yamal",
-        "link": "https://sportbild.bild.de/fussball/fussball-wm/gleich-beim-1-versuch-fussball-legende-mit-lehrstunde-fuer-lamine-yamal-6a26b1d6f1ea924ca06cc5d9",
-        "image_url": "https://images.bild.de/6a26b1d6f1ea924ca06cc5d9/340958e442fd962a13cffeb23512b159,ea471dcd?w=1280",
+        "title": "„Musste die Entscheidung fressen“:Nagelsmann zur Baumann-Rolle",
+        "link": "https://sportbild.bild.de/fussball/fussball-wm/musste-die-entscheidung-fressen-nagelsmann-zur-baumann-rolle-6a27f38f37d75abfaf7365fd",
+        "image_url": "https://images.bild.de/6a27f38f37d75abfaf7365fd/04ca8526958417a3488bd563e6032f30-landscape,1603feb2?w=1280",
         "w": 1280,
         "h": 720,
         "focus_y": 0.3,
@@ -144,9 +120,45 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Krisen-Gipfel in Kiel:Wie hart wird die Abrechnung beim THW?",
-        "link": "https://sportbild.bild.de/sportmix/handball/hbl-krisen-gipfel-beim-thw-wie-hart-wird-die-abrechnung-in-kiel-6a2790358d84dbd8a4ed9939",
-        "image_url": "https://images.bild.de/6a2790358d84dbd8a4ed9939/d78aac4206f8e35a5b04cd7fddba50da,8954d00e?w=1280",
+        "title": "„Er ist wieder zurück“:Reicht es für Neuer gegen Curacao?",
+        "link": "https://sportbild.bild.de/fussball/fussball-wm/er-ist-wieder-zurueck-reicht-es-fuer-neuer-gegen-curacao-6a27f2d62f1d399245057a8e",
+        "image_url": "https://images.bild.de/6a27f2d62f1d399245057a8e/8d1752c40fa3c63420d3c6eb6ae0e12d-landscape,5d0cf16d?w=1280",
+        "w": 1280,
+        "h": 720,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Vor dem Einzug ins WM-Quartier:Kimmich zieht gefährlichen Katar-Vergleich",
+        "link": "https://sportbild.bild.de/fussball/fussball-wm/vor-dem-einzug-ins-wm-quartier-kimmich-zieht-gefaehrlichen-katar-vergleich-6a27f25c2f1d399245057a76",
+        "image_url": "https://images.bild.de/6a27f25c2f1d399245057a76/a717b1f381773bd561ed6035d3efe864-landscape,d19de93f?w=1280",
+        "w": 1280,
+        "h": 720,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Er bringt fast eine halbe Milliarde:Rekord-Deal für Real!",
+        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/real-madrid-neuer-rekord-deal-er-bringt-fast-eine-halbe-milliarde-6a28035a37d75abfaf736780",
+        "image_url": "https://images.bild.de/6a28035a37d75abfaf736780/d8bfdf31473e2269bf6dba67c30a8c4d,9b4baa6a?w=1280",
+        "w": 1280,
+        "h": 720,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "„Ich glaube, das sieht jeder“:Müller empfiehlt Bayern Transfer von DFB-Star",
+        "link": "https://sportbild.bild.de/fussball/fc-bayern-muenchen/fc-bayern-thomas-mueller-empfiehlt-transfer-von-dfb-star-ich-glaube-das-sieht-jeder-6a27e4aa2f1d3992450578c1",
+        "image_url": "https://images.bild.de/6a27e4aa2f1d3992450578c1/4d37b4188a9a9c73caa4b3cddf44e6a4,f3e066b2?w=1280",
         "w": 1280,
         "h": 720,
         "focus_y": 0.3,
@@ -219,18 +231,6 @@
         "title": "Kader-Umbruch geht weiter:Zwei neue Stars für Liverpool-Trainer Iraola",
         "link": "https://sportbild.bild.de/fussball/internationaler-fussball/liverpool-startet-umbruch-zwei-neue-stars-fuer-trainer-iraola-6a259ba1b20db0d89b658658",
         "image_url": "https://images.bild.de/6a259ba1b20db0d89b658658/2bfadb549e48b548e7432fe104eadc7a,8b59fdaf?w=1280",
-        "w": 1280,
-        "h": 720,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "„… muss ich mich woanders umsehen“:Liverpool-Star spricht von Abschied",
-        "link": "https://sportbild.bild.de/fussball/internationaler-fussball/fc-liverpool-reds-star-spricht-von-abschied-und-anderem-klub-6a244de1b20db0d89b6578d7",
-        "image_url": "https://images.bild.de/6a244de1b20db0d89b6578d7/d13b57db4cf26931a1e53412e29e8e8b,9976b7e4?w=1280",
         "w": 1280,
         "h": 720,
         "focus_y": 0.3,
