@@ -13,10 +13,10 @@ import httpx
 # ==========================================
 # KONFIGURACIJA
 # ==========================================
-# Čista domena kako bi se relativni linkovi (npr. /fussball/...) ispravno spajali
+# Čista domena za ispravno spajanje relativnih linkova s naslovnice
 BASE_URL = "https://m.sportbild.bild.de"
-# Točna adresa za nogometne vijesti
-START_URL = "https://m.sportbild.bild.de/fussball/startseite/fussball/"
+# Točan link na nogometnu stranicu koju si poslao
+START_URL = "https://m.sportbild.bild.de/fussball/startseite/fussball/home-33017580.sportMobile.html"
 
 MIN_IMAGE_WEIGHT_BYTES = 30000  # 30 KB
 MIN_IMAGE_WIDTH_PX = 400
