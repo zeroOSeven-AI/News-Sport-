@@ -13,8 +13,8 @@ import httpx
 # ==========================================
 # KONFIGURACIJA
 # ==========================================
-BASE_URL = "https://sportbild.bild.de"
-START_URL = "https://m.sportbild.bild.de/"
+BASE_URL = "https://m.sportbild.bild.de/fussball/startseite/fussball"
+START_URL = "https://m.sportbild.bild.de/fussball/startseite/fussball/"
 
 MIN_IMAGE_WEIGHT_BYTES = 30000  # 30 KB
 MIN_IMAGE_WIDTH_PX = 400
