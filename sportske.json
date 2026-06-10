@@ -1,8 +1,44 @@
 [
     {
-        "title": "Jedan od najluđih naslova ikada: Cibona više nije siromah, kreće nova dominacija Masjtori na parketu i frajer na klupi. Bit će Cibona sve ono što je Zadar bio posljednjih sezona",
+        "title": "VIDEO Pogledajte show na prvom treningu Vatrenih: Uz 800 navijača stigli i - tamburaši! Prekrasni su uvjeti, lijep doček i ovdje u kampu, sve je na najvišoj razini i toliko navijača na treningu pokazuje koliko cijene naše igrače, rekao je Kustić",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/otvoreni-trening-hrvatske-u-alexandriji-800-navijaca-puna-momcad-15716923",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/11/k_39091387_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Jedan od najluđih naslova ikada: Cibona više nije siromah, kreće nova dominacija",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/hrvatska-liga/cibona-osvojila-21-naslov-prekinula-dominaciju-zadra-nova-era-15716912",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/10/k_39090892_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Dominantna pobjeda Engleske uoči Vatrenih! Rice otvorio paljbu, jedan napadač posebno...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/engleska-kostarika-2-0-orlando-rice-gordon-uoci-hrvatske-15716922",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/11/k_39091477_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Grom iz vedra neba: Donedavni dinamovac pozvan s godišnjeg odmora, ide na Svjetsko prvenstvo!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/dejan-ljubicic-pozvan-u-austriju-za-svjetsko-prvenstvo-rangnick-aktivirao-pretpoziv-15716899",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/10/k_37101402_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,9 +60,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Grom iz vedra neba: Donedavni dinamovac pozvan s godišnjeg odmora, ide na Svjetsko prvenstvo!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/dejan-ljubicic-pozvan-u-austriju-za-svjetsko-prvenstvo-rangnick-aktivirao-pretpoziv-15716899",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/10/k_37101402_640.jpg",
+        "title": "UŽIVO: Trump donio šokantnu odluku uoči prve utakmice SAD-a! Stotine navijača pratilo Vatrene...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/uzivo-trump-donio-sokantnu-odluku-uoci-prve-utakmice-sad-a-uspjesan-test-za-portugalce-15716921",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/11/k_39091316_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -72,18 +108,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Trump donio šokantnu odluku uoči prve utakmice SAD-a! Uspješan test za Portugalce",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/uzivo-trump-donio-sokantnu-odluku-uoci-prve-utakmice-sad-a-uspjesan-test-za-portugalce-15716921",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/11/k_39091177_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Što god se govorilo o senatorima, on je za Hrvatsku ‘obavezan‘. I dalje je VIP igrač",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/perisic-cetvrti-sp-155-nastup-hrvatska-protiv-engleske-15716902",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/10/k_39085412_640.jpg",
@@ -96,7 +120,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Magičan posao Zvone Bobana: Čistka se pretvorila u zlato, Dinamo već ovog ljeta vraća sve što je uložio?",
+        "title": "Magičan posao Zvone Bobana: Čistka se pretvorila u zlato, Dinamo već ovog ljeta vraća sve što je uložio? Eventualna prodaja Sergija Domingueza s bonusima ciljano diže prihod do 15 milijuna eura, uz već ostvarene izlaske",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-vraca-ulaganja-dominguez-prodaja-boban-rekonstrukcija-transfere-15716888",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/09/k_32014865_640.png",
         "w": 640,
@@ -120,21 +144,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Jasna poruka susjeda: ‘Za Europu želimo igrati protiv Hajduka. Živimo za pune tribine‘ Dok navijači u Splitu imaju neko svoje mišljenje koji bi im protivnik najviše pasao, koji je najlakši, ima onih u susjedstvu koji ne razmišljaju na taj način",
+        "title": "Jasna poruka susjeda: ‘Za Europu želimo igrati protiv Hajduka. Živimo za pune tribine‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/vid-koderman-zeli-hajduk-aluminij-prvo-pretkolo-europske-lige-15716904",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/10/k_32824003_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "UŽIVO/VIDEO: Englezima kasnila zadnja utakmica prije Vatrenih, Cannavaro objasnio čudne snimke",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-video-stadion-u-kaosu-englezima-odgodena-posljednja-utakmica-uoci-vatrenih-15716865",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/10/k_39090248_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Srbi o novom stadionu u Vukovaru: ‘Ime bi moglo izazvati revolt, nama je to prst u oko!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/vukovar-stadion-12-hrvatskih-redarstvenika-borovo-naselje-reakcije-srbija-15716834",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/10/k_38073647_640.jpg",
+        "title": "VIDEO Pogledajte show na prvom treningu...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/otvoreni-trening-hrvatske-u-alexandriji-800-navijaca-puna-momcad-15716923",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/11/k_39091387_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -204,33 +216,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Trump donio šokantnu odluku uoči...",
+        "title": "VIDEO: Dominantna pobjeda Engleske uoči Vatrenih! Rice otvorio paljbu, jedan napadač...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/engleska-kostarika-2-0-orlando-rice-gordon-uoci-hrvatske-15716922",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/11/k_39091477_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "UŽIVO: Trump donio šokantnu odluku uoči prve utakmice SAD-a! Stotine navijača pratilo...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/uzivo-trump-donio-sokantnu-odluku-uoci-prve-utakmice-sad-a-uspjesan-test-za-portugalce-15716921",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/11/k_39091177_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Portugal slavio pred SP, Ronaldo se propisno osramotio! Pogledajte nevjerojatne...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/portugal-nigerija-2-1-ronaldo-promasaji-neto-i-conceicao-rijesili-generalnu-probu-15716920",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/10/k_39090916_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Taj lik je idiot! Nokautirat ću ga, a onda mu...",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/taj-lik-je-idiot-nokautirat-cu-ga-a-onda-mu-necu-pruziti-ni-ruku-niti-bilo-kakvo-postovanje-15716919",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/10/k_39091247_640.jpg",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/11/k_39091316_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
