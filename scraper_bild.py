@@ -13,7 +13,9 @@ import httpx
 # ==========================================
 # KONFIGURACIJA
 # ==========================================
-BASE_URL = "https://m.sportbild.bild.de/fussball/startseite/fussball"
+# Čista domena kako bi se relativni linkovi (npr. /fussball/...) ispravno spajali
+BASE_URL = "https://m.sportbild.bild.de"
+# Točna adresa za nogometne vijesti
 START_URL = "https://m.sportbild.bild.de/fussball/startseite/fussball/"
 
 MIN_IMAGE_WEIGHT_BYTES = 30000  # 30 KB
@@ -116,7 +118,6 @@ async def process_single_article(browser: Any, title: str, link: str) -> Optiona
                     continue
 
         # Ako članak nema službenu naslovnu sliku u zaglavlju, ignoriramo ga.
-        # Nema više šetanja po HTML-u i kupljenja smeća s dna stranice!
         if not src:
             return None
             
