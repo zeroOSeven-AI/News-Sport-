@@ -1,5 +1,53 @@
 [
     {
+        "title": "Schon beim 2. Spiel:Viele leere Ränge in WM-Stadion",
+        "link": "https://m.sportbild.bild.de/fussball/fussball-wm/wm-2026-beim-2-spiel-viele-leere-raenge-im-stadion-in-guadalajara-bei-suedkorea-tschechien-6a2b87f66bb5c7fe2e1c2b73",
+        "image_url": "https://images.bild.de/6a2b87f66bb5c7fe2e1c2b73/93e98a503e59a3f2f5a31214eb2bd617,b23deeb6?w=1280",
+        "w": 1280,
+        "h": 720,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Siegtreffer gegen Tschechien:Fast-Stuttgarter ist Südkoreas Torheld",
+        "link": "https://m.sportbild.bild.de/fussball/fussball-wm/wm-2026-suedkorea-jubelt-oh-macht-siegtreffer-gegen-tschechien-6a2b87ed6bb5c7fe2e1c2b6f",
+        "image_url": "https://images.bild.de/6a2b87ed6bb5c7fe2e1c2b6f/493329d82162fc366b8e32ccdc5f3cc1,3e80bf07?w=1280",
+        "w": 1280,
+        "h": 720,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "WM 2026:Diese Spiele laufen heute im TV",
+        "link": "https://m.sportbild.bild.de/fussball/fussball-wm/wm-2026-diese-spiele-laufen-heute-im-tv-6a2a71d75f783159b22b06ba",
+        "image_url": "https://images.bild.de/6a2a71d75f783159b22b06ba/ffc18473abe7e650b173a86ce32ab997,95614a6f?w=1280",
+        "w": 1280,
+        "h": 720,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "TV-Experte wird deutlich:Knallharte Klopp-Kritik an WM-Auftakt",
+        "link": "https://m.sportbild.bild.de/fussball/fussball-wm/wm-2026-knallharte-kritik-von-juergen-klopp-an-wm-auftakt-zwischen-mexiko-und-suedafrika-6a2b4a266bb5c7fe2e1c2910",
+        "image_url": "https://images.bild.de/6a2b4a266bb5c7fe2e1c2910/b8ff592562770a16ea00fe9568a8202e,78b5b7fe?w=1280",
+        "w": 1280,
+        "h": 720,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
         "title": "Chaos bei WM-Eröffnung:Ex-Real-Star aus Stadion-Randalen gerettet",
         "link": "https://m.sportbild.bild.de/fussball/fussball-wm/krawalle-bei-wm-2026-ex-real-star-marcelo-vor-aztekenstadion-gerettet-6a2b22b19747a34752e3a9db",
         "image_url": "https://images.bild.de/6a2b22b19747a34752e3a9db/7500530f958f13a480dcc02abb3f22b8,53841670?w=1280",
@@ -12,7 +60,7 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Brutaler WM-Auftakt mit Steinen und Raketen:Hunderte Chaoten wollen Aztekenstadion stürmen!",
+        "title": "WM-Auftakt mit Steinen und Raketen:Hunderte Chaoten wollen Aztekenstadion stürmen!",
         "link": "https://m.sportbild.bild.de/fussball/fussball-wm/wm-in-mexiko-hunderte-chaoten-wollen-aztekenstadion-stuermen-6a2b136ba8f463c23bad2b5c",
         "image_url": "https://images.bild.de/6a2b136ba8f463c23bad2b5c/78d084674d38aa21682f530d77d2d730,5b81403?w=1280",
         "w": 1280,
@@ -24,9 +72,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Rot, Tränen, Traumstart!:Mexiko glänzt im WM-Eröffnungsspiel",
-        "link": "https://m.sportbild.bild.de/fussball/fussball-wm/wm-2026rot-traenen-traumstart-mexiko-gewinnt-wm-eroeffnungsspiel-6a2b15771f9ab6257feddd89",
-        "image_url": "https://images.bild.de/6a2b15771f9ab6257feddd89/9bd5ade169366d9fa08e7e1426ac2abe,c3315d30?w=1280",
+        "title": "Wegen Rot-Rekord:Spannende Gräfe-Theorie für die restliche WM",
+        "link": "https://m.sportbild.bild.de/fussball/fussball-wm/wegen-rot-rekord-spannende-graefe-theorie-fuer-die-restliche-wm-6a2b88a16bb5c7fe2e1c2b91",
+        "image_url": "https://images.bild.de/6a2b88a16bb5c7fe2e1c2b91/f21a45e317603e09261ea55cd412ca60-landscape,3b302568?w=1280",
         "w": 1280,
         "h": 720,
         "focus_y": 0.3,
@@ -36,9 +84,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Was für eine Eröffnung:WM-Wahnsinn im Live-Ticker zum Nachlesen",
-        "link": "https://m.sportbild.bild.de/fussball/fussball-wm/wm-2026-eroeffnungsspiel-mexiko-suedafrika-hier-im-live-ticker-6a26af3db20db0d89b65937c",
-        "image_url": "https://images.bild.de/6a26af3db20db0d89b65937c/c700e7b288014ed4037b0fb0728697fb,8511341?w=1280",
+        "title": "Es hat nichts mit Musik zu tun:Das war das Beste am Shakira-Auftritt!",
+        "link": "https://m.sportbild.bild.de/fussball/es-hat-nichts-mit-musik-zu-tun-das-war-das-beste-am-shakira-auftritt-6a2b63136bb5c7fe2e1c29d2",
+        "image_url": "https://images.bild.de/6a2b63136bb5c7fe2e1c29d2/6b0dda44261e3afa1dda5b9846f0e7e1-landscape,860a0f92?w=1280",
         "w": 1280,
         "h": 720,
         "focus_y": 0.3,
@@ -48,9 +96,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Was war denn da los?:ZDF verpennt 7 Minuten der WM-Eröffnungsfeier",
-        "link": "https://m.sportbild.bild.de/fussball/fussball-wm/wm-2026-zdf-verpennt-sieben-minuten-der-eroeffnungsfeier-6a2b1c846bb5c7fe2e1c2715",
-        "image_url": "https://images.bild.de/6a2b1c846bb5c7fe2e1c2715/a6040960b8d2c8c8a0f762c146528de7,edcfc6f5?w=1280",
+        "title": "Er wirkte völlig verwirrt:War das der Grund für die holprige Schiri-Ansage?",
+        "link": "https://m.sportbild.bild.de/fussball/fussball-wm/er-wirkte-verwirrt-war-das-der-grund-fuer-die-holprige-schiri-ansage-6a2b62d37e682fc37fbf67ff",
+        "image_url": "https://images.bild.de/6a2b62d37e682fc37fbf67ff/e5df93e41ceef1accae182bc7817e245-landscape,44f0d86d?w=1280",
         "w": 1280,
         "h": 720,
         "focus_y": 0.3,
@@ -60,9 +108,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Die besten Bilder des Abends:SO spektakulär war die Eröffnungsfeier mit Shakira, J Balvin & Co.!",
-        "link": "https://m.sportbild.bild.de/fussball/fussball-wm/so-spektakulaer-war-die-eroeffnungsfeier-mit-shakira-co-6a2af6f26bb5c7fe2e1c24fb",
-        "image_url": "https://images.bild.de/6a2af6f26bb5c7fe2e1c24fb/0328f312375e28afa32ece9c78ac97ee,71575f50?w=1280",
+        "title": "„Ich habe große Zweifel!“:Harte Abrechnung mit WM-Gastgeber",
+        "link": "https://m.sportbild.bild.de/fussball/fussball-wm/ich-habe-grosse-zweifel-harte-abrechnung-mit-wm-gastgeber-6a2b58d36bb5c7fe2e1c2970",
+        "image_url": "https://images.bild.de/6a2b58d36bb5c7fe2e1c2970/a0b5b27d937e128458d72e789443dd6e-landscape,7596bb49?w=1280",
         "w": 1280,
         "h": 720,
         "focus_y": 0.3,
@@ -137,54 +185,6 @@
         "image_url": "https://images.bild.de/6a2b29626bb5c7fe2e1c283b/2792aeac48108f6942ee3fcaca86bf7b,c35dfe30?w=1280",
         "w": 1280,
         "h": 720,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Erster WM-Treffer:Achten Sie mal auf die Tor-Hymne",
-        "link": "https://m.sportbild.bild.de/fussball/fussball-wm/erster-wm-treffer-achten-sie-mal-auf-die-tor-hymne-6a2b27016bb5c7fe2e1c2801",
-        "image_url": "https://images.bild.de/6a2b27016bb5c7fe2e1c2801/1602eb18c34d8388951d3c90b0f8bd03-landscape,311d7ec7?w=1280",
-        "w": 1280,
-        "h": 720,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "An Müller und Klopp:Frecher Wontorra-Spruch",
-        "link": "https://m.sportbild.bild.de/fussball/fussball-wm/an-mueller-und-klopp-frecher-wontorra-spruch-6a2b0a0f6bb5c7fe2e1c260c",
-        "image_url": "https://images.bild.de/6a2b0a0f6bb5c7fe2e1c260c/dc6c0dafd26a0f67b5d7d19600e94174-landscape,f90c660?w=1280",
-        "w": 1280,
-        "h": 720,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "„War jetzt nicht vorbereitet“:Plötzlich hat Müller eine Kühl-Weste an",
-        "link": "https://m.sportbild.bild.de/fussball/fussball-wm/war-jetzt-nicht-vorbereitet-ploetzlich-hat-mueller-eine-kuehl-weste-an-6a2b1747a8f463c23bad2b9a",
-        "image_url": "https://images.bild.de/6a2b1747a8f463c23bad2b9a/48560db8e396a77a5f3336234265c5b6,e16b29d9?w=1280",
-        "w": 1280,
-        "h": 720,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Hier knallt die WM los:Hammer-Auftritt von Shakira",
-        "link": "https://m.sportbild.bild.de/fussball/fussball-wm/hier-knallt-die-wm-los-hammer-auftritt-von-shakira-6a2b1727a8f463c23bad2b94",
-        "image_url": "https://images.bild.de/6a2b1727a8f463c23bad2b94/a7a7680983fed765950762664d4f282c-landscape,3cadbf67?w=1280",
-        "w": 1080,
-        "h": 608,
         "focus_y": 0.3,
         "source_title1": "SPORT",
         "source_title2": "BILD",
