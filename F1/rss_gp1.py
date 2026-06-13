@@ -143,7 +143,14 @@ async def scrape_gp1_async() -> None:
     logging.info("🚀 Pokrećem GP1 XML feed parsiranje...")
     
     try:
-        feed = feedparser.parse(START_URL)
+        # 🔥 POPRAVAK: Preuzimamo XML pomoću httpx-a s User-Agentom da izbjegnemo blokadu na GitHubu
+        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
+        async with httpx.AsyncClient(timeout=15.0, headers=headers) as client:
+            response = await client.get(START_URL)
+            xml_content = response.text
+
+        # Prosjeđujemo preuzeti XML tekst feedparseru
+        feed = feedparser.parse(xml_content)
         tasks_to_process = []
         
         for entry in feed.entries:
