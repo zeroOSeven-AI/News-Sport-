@@ -56,7 +56,8 @@ def scrape_sn():
 
         try:
             print(f"🚀 Otvaram Sportske Novosti (Meta-data mode)...")
-            page.goto(url, wait_until="networkidle", timeout=60000)
+            # 🔥 POPRAVAK: Čekamo samo osnovni HTML (domcontentloaded) i smanjujemo timeout na 30s
+            page.goto(url, wait_until="domcontentloaded", timeout=30000)
             
             soup = BeautifulSoup(page.content(), 'html.parser')
             news_items = []
