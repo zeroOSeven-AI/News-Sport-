@@ -21,7 +21,7 @@ jobs:
           pip install beautifulsoup4 lxml Pillow requests
 
       - name: Run ESPN Scraper
-        run: python scraper_espn.py
+        run: python Football/scraper_espn.py
 
       - name: Commit and Push
         run: |

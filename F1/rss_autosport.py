@@ -9,14 +9,12 @@ from bs4 import BeautifulSoup
 from PIL import Image
 from playwright.async_api import BrowserContext, async_playwright
 import httpx
+import feedparser
 
 # ==========================================
 # KONFIGURACIJA
 # ==========================================
-# Čista domena za ispravno spajanje relativnih linkova s naslovnice
-BASE_URL = "https://m.sportbild.bild.de"
-# Točan link na nogometnu stranicu koju si poslao
-START_URL = "https://m.sportbild.bild.de/fussball/startseite/fussball/home-33017580.sportMobile.html"
+START_URL = "https://www.autosport.com/rss/f1/news"
 
 MIN_IMAGE_WEIGHT_BYTES = 30000  # 30 KB
 MIN_IMAGE_WIDTH_PX = 400
@@ -33,9 +31,8 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(
 
 def get_focus_y(w: int, h: int) -> float:
     ratio = round(w / h, 2)
-    if ratio >= 1.6: return 0.30
-    if 0.9 <= ratio <= 1.1: return 0.22
-    if 1.2 <= ratio <= 1.6: return 0.35
+    if ratio >= 1.6: return 0.35
+    if 0.9 <= ratio <= 1.1: return 0.25
     return 0.5
 
 
@@ -44,7 +41,7 @@ async def get_image_info_async(url: str, proxy: Optional[str] = None) -> Optiona
         return None
         
     try:
-        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'}
+        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
         mounts = {"http://": httpx.AsyncHTTPTransport(proxy=proxy), "https://": httpx.AsyncHTTPTransport(proxy=proxy)} if proxy else None
         
         async with httpx.AsyncClient(mounts=mounts, timeout=10.0, headers=headers) as client:
@@ -64,7 +61,7 @@ async def get_image_info_async(url: str, proxy: Optional[str] = None) -> Optiona
         return None
 
 # ==========================================
-# PROCESIRANJE JEDNOG ČLANKA (FlashScore stil)
+# PROCESIRANJE JEDNOG ČLANKA (Otvaranje i čitanje Meta oznaka)
 # ==========================================
 
 async def process_single_article(browser: Any, title: str, link: str) -> Optional[Dict[str, Any]]:
@@ -75,36 +72,32 @@ async def process_single_article(browser: Any, title: str, link: str) -> Optiona
         selected_proxy = random.choice(PROXY_LIST)
         proxy_config = {"server": selected_proxy}
 
+    # Postavljen standardni desktop User-Agent jer Autosport zna filtrirati mobilne botove
     context = await browser.new_context(
-        user_agent="Mozilla/5.0 (iPhone; CPU iPhone OS 15_0 like Mac OS X) AppleWebKit/605.1.15",
-        viewport={'width': 390, 'height': 844},
+        user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        viewport={'width': 1280, 'height': 720},
         proxy=proxy_config
     )
     
     page = await context.new_page()
     try:
-        logging.info(f"🔍 Otvaram članak: '{title[:30]}...'")
+        logging.info(f"🔍 Otvaram Autosport članak: '{title[:30]}...'")
         await page.goto(link, wait_until="domcontentloaded", timeout=30000)
         
         soup = BeautifulSoup(await page.content(), 'html.parser')
-        
-        # -----------------------------------------------------------------
-        # PRAVI DETEKTOR GLAVNE SLIKE (Ciljamo isključivo Meta tagove)
-        # -----------------------------------------------------------------
         src = None
         
-        # Tražimo službenu Open Graph sliku koju Bild servira vanjskim servisima
+        # 1. Ciljamo Open Graph sliku visoke rezolucije
         og_image = soup.find("meta", property="og:image") or soup.find("meta", name="twitter:image")
         if og_image and og_image.get("content"):
             src = og_image["content"]
             
-        # Ako iz nekog razloga nema og:image, tražimo sliku u strogo definiranom JSON-LD bloku
+        # 2. Fallback na JSON-LD strukturu ako meta zakaže
         if not src:
             json_ld_tags = soup.find_all("script", type="application/ld+json")
             for tag in json_ld_tags:
                 try:
                     js_data = json.loads(tag.string)
-                    # Ako je struktura NewsArticle, u njoj se nalazi 'image' polje
                     if isinstance(js_data, dict) and js_data.get("@type") == "NewsArticle":
                         if "image" in js_data:
                             if isinstance(js_data["image"], list) and js_data["image"]:
@@ -117,13 +110,9 @@ async def process_single_article(browser: Any, title: str, link: str) -> Optiona
                 except Exception:
                     continue
 
-        # Ako članak nema službenu naslovnu sliku u zaglavlju, ignoriramo ga.
         if not src:
             return None
-            
-        if src.startswith('/'): src = BASE_URL + src
         
-        # Preskačemo ako je u pitanju očiti sistemski fallback/placeholder tekst u URL-u
         if "placeholder" in src.lower() or "sys-fallback" in src.lower():
             return None
                 
@@ -136,10 +125,10 @@ async def process_single_article(browser: Any, title: str, link: str) -> Optiona
                 "w": image_info["w"],
                 "h": image_info["h"],
                 "focus_y": image_info["focus_y"],
-                "source_title1": "SPORT",
-                "source_title2": "BILD",
-                "source_color": "#fc4e4e",
-                "flag": "🇩🇪"
+                "source_title1": "AUTOSPORT",
+                "source_title2": "F1",
+                "source_color": "#000000",
+                "flag": "🇬🇧"
             }
         return None
     except Exception:
@@ -151,37 +140,28 @@ async def process_single_article(browser: Any, title: str, link: str) -> Optiona
 # GLAVNA ASINKRONA LOGIKA
 # ==========================================
 
-async def scrape_bild_async() -> None:
-    logging.info("🚀 Pokrećem stabilno HTML skeniranje preko glave stranice...")
+async def scrape_autosport_async() -> None:
+    logging.info("🚀 Pokrećem Autosport XML feed parsiranje...")
     
-    async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
-        main_context = await browser.new_context(viewport={'width': 390, 'height': 844})
-        main_page = await main_context.new_page()
+    try:
+        feed = feedparser.parse(START_URL)
+        tasks_to_process = []
         
-        try:
-            await main_page.goto(START_URL, wait_until="networkidle", timeout=60000)
-            await main_page.evaluate("window.scrollBy(0, 3000)")
-            await main_page.wait_for_timeout(2000)
+        for entry in feed.entries:
+            title = entry.get('title', '').strip()
+            link = entry.get('link', '')
             
-            soup = BeautifulSoup(await main_page.content(), 'html.parser')
-            articles = soup.find_all('article')
-            logging.info(f"📊 Detektirano {len(articles)} potencijalnih vijesti na naslovnici.")
-            
-            tasks_to_process = []
-            for art in articles:
-                title_elem = art.find(['h2', 'h3', 'h4'])
-                link_elem = art.find('a', href=True)
+            if title and link:
+                tasks_to_process.append((title, link))
                 
-                if title_elem and link_elem:
-                    title = title_elem.get_text(strip=True)
-                    title = re.sub(r'^[:\s–|-]+', '', title).strip()
-                    link = link_elem['href']
-                    if link.startswith('/'): link = BASE_URL + link
-                    
-                    tasks_to_process.append((title, link))
-            
-            await main_context.close()
+        logging.info(f"📊 Detektirano {len(tasks_to_process)} vijesti unutar Autosport XML feeda.")
+        
+        if not tasks_to_process:
+            logging.warning("⚠️ XML feed je prazan ili nedostupan.")
+            return
+
+        async with async_playwright() as p:
+            browser = await p.chromium.launch(headless=True)
             news_items: List[Dict[str, Any]] = []
             
             for i in range(0, len(tasks_to_process), CONCURRENT_TASKS):
@@ -189,7 +169,7 @@ async def scrape_bild_async() -> None:
                     break
                     
                 chunk = tasks_to_process[i:i + CONCURRENT_TASKS]
-                logging.info(f"📦 Otvaram paket od {len(chunk)} paralelna članka...")
+                logging.info(f"📦 Otvaram paket od {len(chunk)} paralelna Autosport članka...")
                 
                 async_tasks = [process_single_article(browser, title, link) for title, link in chunk]
                 results = await asyncio.gather(*async_tasks)
@@ -200,15 +180,16 @@ async def scrape_bild_async() -> None:
                         if len(news_items) >= MAX_NEWS_ITEMS:
                             break
                             
-            if news_items:
-                with open("bild.json", "w", encoding="utf-8") as f:
-                    json.dump(news_items[:MAX_NEWS_ITEMS], f, ensure_ascii=False, indent=4)
-                logging.info(f"🎉 Gotovo! 'bild.json' uspješno spremljen s {len(news_items[:MAX_NEWS_ITEMS])} artikala.")
-            
-        except Exception as e:
-            logging.error(f"❌ Kritična greška: {e}")
-        finally:
             await browser.close()
+            
+            if news_items:
+                # Spremanje izravno u F1 mapu projekta
+                with open("F1/autosport.json", "w", encoding="utf-8") as f:
+                    json.dump(news_items[:MAX_NEWS_ITEMS], f, ensure_ascii=False, indent=4)
+                logging.info(f"🎉 Gotovo! 'F1/autosport.json' uspješno spremljen s {len(news_items[:MAX_NEWS_ITEMS])} artikala.")
+            
+    except Exception as e:
+        logging.error(f"❌ Kritična greška u glavnom Autosport procesu: {e}")
 
 if __name__ == "__main__":
-    asyncio.run(scrape_bild_async())
+    asyncio.run(scrape_autosport_async())

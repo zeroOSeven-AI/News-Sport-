@@ -110,7 +110,7 @@ def scrape_sn():
                 if len(news_items) >= 20:
                     break
 
-            with open('sportske.json', 'w', encoding='utf-8') as f:
+            with open('Football/sportske.json', 'w', encoding='utf-8') as f:
                 json.dump(news_items, f, ensure_ascii=False, indent=4)
             
             print(f"✅ SN GOTOVO — JSON spreman za Scriptable")

@@ -1,7 +1,7 @@
-name: Update Bild Sport
+name: Update F1 Official
 on:
   schedule:
-    - cron: '*/35 * * * *'
+    - cron: '*/40 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -22,16 +22,16 @@ jobs:
           pip install -r requirements.txt
           playwright install chromium
 
-      - name: Run Bild Scraper
-        run: python Football/scraper_bild.py
+      - name: Run F1 Official Scraper
+        # Pokreće tvoju novu asinkronu skriptu iz F1 foldera
+        run: python F1/rss_f1_official.py
 
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # KLJUČNA PROMJENA: Dodajemo i slike i JSON
-          # Koristimo -A (All) da uhvati sve nove foldere i JPG fileove
+          # Dodaje novonastale JSON datoteke i slike iz F1 foldera
           git add -A
           
           if git diff --staged --quiet; then
@@ -39,13 +39,13 @@ jobs:
             exit 0
           fi
 
-          git commit -m "Automated update: JSON + Images" || exit 0
+          git commit -m "Automated update: F1 Official JSON" || exit 0
           
-          # Rebase i push s ponavljanjem u slučaju konflikta
+          # Rebase i push s ponavljanjem u slučaju konflikta s ostalim scraperima
           for i in {1..3}; do
             git pull origin main --rebase
             if git push origin main; then
-              echo "Uspješan push svega!"
+              echo "Uspješan push za F1 Official!"
               exit 0
             fi
             echo "Pokušaj $i propao, čekam 5 sekundi..."

@@ -75,7 +75,7 @@ def scrape_espn():
 
             if len(news_items) >= 15: break
 
-        with open('espn.json', 'w', encoding='utf-8') as f:
+        with open('Football/espn.json', 'w', encoding='utf-8') as f:
             json.dump(news_items, f, ensure_ascii=False, indent=4)
         print("✅ ESPN JSON spreman (bez lokalnih slika).")
 

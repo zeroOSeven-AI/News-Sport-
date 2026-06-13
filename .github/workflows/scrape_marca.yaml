@@ -22,7 +22,7 @@ jobs:
           playwright install chromium
 
       - name: Run Marca Scraper
-        run: python scraper_marca.py
+        run: python Football/scraper_marca.py
 
       - name: Commit and Push
         run: |

@@ -122,7 +122,7 @@ def scrape_marca():
                 if len(news_items) >= 20:
                     break
 
-            with open('marca.json', 'w', encoding='utf-8') as f:
+            with open('Football/marca.json', 'w', encoding='utf-8') as f:
                 json.dump(news_items, f, ensure_ascii=False, indent=4)
 
             print(f"✅ MARCA GOTOVO - Generiran JSON sa {len(news_items)} vijesti.")
