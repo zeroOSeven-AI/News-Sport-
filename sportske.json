@@ -1,5 +1,101 @@
 [
     {
+        "title": "‘Ne smijemo na Engleze s tako mladim igračem! Pa on ima velikih problema‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/mundocast-uzivo-kanada-bih-1-1-sad-paragvaj-4-1-hrvatska-engleska-najava-brazila-15717723",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/13/k_39102543_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Pakleni napadački trojac na vrhu najskupljih, najvrjedniji Hrvat tek na diobi 72. mjesta",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/fifa-fantasy-svjetsko-prvenstvo-kane-mbappe-haaland-budimir-baturina-vuskovic-15717715",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/11/k_39098213_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Prijeti Hrvatskoj, a onda će ga kontroverzni mogul učiniti - rekorderom? Sprema se nezamisliv posao",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-medjunarodni/elliot-anderson-forest-odbio-city-cilja-150-milijuna-rekordni-transfer-15717744",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/12/k_39091866_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Kaos u BiH: Navijači izašli na ulice proslaviti rezultat, pa završili u sukobu s Hrvatima Slavlje bh. navijača uz bakljade, sirene i navijačke pjesme podiglo je tenzije u mješovitoj sredini, a situacija je eskalirala u samom centru grada",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/novi-travnik-policija-sprijecila-sukob-navijaca-nakon-remija-bih-kanade-15717735",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/13/k_39103992_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Izdajnički potez bivšeg premijera: Zbog djevojke propustio spektakl i otišao na utakmicu u SAD!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/trudeau-katy-perry-na-utakmici-sad-paragvaj-dok-kanada-igra-protiv-bih-15717754",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/13/k_37756132_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Dosta nam je zvjezdica i bogova!‘ Hajdučki puk poslao jaku poruku, počinje nova era na Poljudu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-rebic-odlazi-andjelo-sutalo-potpisao-do-2029-nova-era-poljud-15717713",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/12/k_37884940_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Da nema Hrvata, u Washingtonu se ne bi ni znalo za Svjetsko prvenstvo! A evo što radi Donald Trump...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ufc-zasjenio-svjetsko-prvenstvo-u-washingtonu-hrvati-odrzavaju-duh-15717704",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/12/k_39101425_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Promijenio reprezentaciju i zablistao na Mundijalu: Arsenalovo dijete je ‘vrsta koja izumire‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/balogun-dva-gola-sad-paragvaj-cista-devetka-svjetsko-prvenstvo-15717731",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/13/k_39103461_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "SAD uvjerljivim slavljem otvorio prvenstvo, potop Paragvaja pred 70.000 gledatelja",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/sad-paragvaj-4-1-otvaranje-svjetskog-prvenstva-balogun-reyna-los-angeles-15717683",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/13/k_39103472_640.jpg",
@@ -12,9 +108,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Vlašić odgovorio Pašaliću: ‘Bio je pritisak, brate, kako nije?! Ali volim taj osjećaj jesi ili nisi‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-u-tysini-trenira-za-englesku-pasalic-vlasic-plan-obrana-15717671",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/12/k_39072749_640.jpg",
+        "title": "Bivši hajdukovac igrao je kao Sergio Ramos, a junak BiH ispisao je povijest SP-a",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/bih-remi-kanada-lukic-gol-katic-dominacija-optimizam-uoci-svicarske-15717702",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/13/k_39103775_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,9 +120,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Englezi opljačkani pred utakmicu s Hrvatskom, provalnici im ostavili samo jednu loptu?!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-englezi-opljackani-pred-utakmicu-s-hrvatskom-provalnici-im-ostavili-samo-jednu-loptu-15717686",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/13/k_39103930_640.jpg",
+        "title": "Otvaranje bez državnog poglavara domaćina je neobično, ali Trump nikome nije nedostajao",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/otvaranje-bez-drzavnog-poglavara-domacina-je-neobicno-ali-trump-nikome-nije-nedostajao-15717710",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/13/k_39103179_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,9 +132,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Tko je junak BiH? Htio ga je Dinamo, a na SP-u je odigrao utakmicu kakva nije viđena 60 godina Nije bio dijelom rostera BiH tijekom kvalifikacijskog ciklusa, a prvi službeni nastup upisao je baš protiv - Kanade",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/jovi-lukic-gol-na-sp-rekord-zracni-dueli-bih-kanada-15717684",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/13/k_39101602_640.jpg",
+        "title": "Pred nama je Glory koji čeka cijela regija! Doznajte sve o nastupima Plazibata, Cvjetićanina i Selimovića",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/pred-nama-je-glory-koji-ceka-cijela-regija-doznajte-sve-o-nastupima-plazibata-cvjeticanina-i-selimovica-15717717",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/13/k_39103961_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,9 +144,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: BiH ipak nije izdržala! Zmajevi vodili skoro cijelu utakmicu pa ostali bez pobjede na Svjetskom...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/kanada-bosna-i-hercegovina-uzivo-bmo-field-toronto-sastavi-15717609",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/12/k_39102189_640.jpg",
+        "title": "FOTO: Nema tuge u Sarajevu i BiH! Ovo je trenutak kojeg je cijela država čekala dugih 12 godina",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/bih-toronto-30000-navijaca-lukic-gol-svjetsko-prvenstvo-15717650",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/12/k_39101571_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -60,69 +156,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Igrači gledali u čudu, nikome ništa nije bilo jasno. Na SP-u upotrebljeno novo VAR pravilo",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/var-preokrenuo-zuti-karton-s-reama-na-almirona-na-sp-u-15717687",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/13/k_39103457_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "FOTO: Zagreb navijao za BiH! Pogledajte kako su naši navijači slavili vodstvo Zmajeva i strepili do kraja",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/bih-kanada-11-lukic-i-larin-zagreb-navijao-na-trgu-15717672",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/12/k_39102238_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Dalićeva dilema: Hoće li Kovačiću, Modriću i Sučiću priključiti Vatrenog koji je najviše napredovao?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/daliceva-nova-os-veznog-reda-naspram-rusije-2018-izazovi-potencijal-15717606",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/11/k_39096067_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Navijači BiH: ‘Bod kao kuća! Imali pobjedu pa se čupali, a taj igrač više ne smije startati‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/bih-kanada-1-1-svjetsko-prvenstvo-lukic-vodstvo-larin-izjednacio-navijaci-podijeljeni-15717679",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/13/k_39102474_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Kiša i munje okovale Alexandriju, Vatreni trenirali nakon pljuska. Stožeru stiglo pojačanje",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/hrvatska-trening-sparina-alexandrija-ladic-analiza-engleska-15717685",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/13/k_39102543_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Pochettino otkrio zašto je izvadio najveću zvijezdu: ‘Bilo mu je teško hodati, dobio je udarac...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/pochettino-otkrio-zasto-je-izvadio-najvecu-zvijezdu-bilo-mu-je-tesko-hodati-dobio-je-udarac-15717689",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/13/k_39103670_640.jpg",
+        "title": "VIDEO: Pogledajte kako su Ibrahimović i Henry zapjevali veliki hit Dubioze Kolektiv Legendarni napadači podigli atmosferu pjevajući „I Am from Bosnia – Take Me to America”",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ibrahimovic-henry-dubioza-himna-bih-fox-sports-kanada-15717666",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/12/k_39102249_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -144,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Platio da bi došao u Cibonu pa dao nogu za naslov: ‘Kost nije pukla, ali jesu ligamenti. No, ne žalim‘",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/hrvatska-liga/platio-da-bi-dosao-u-cibonu-pa-dao-nogu-za-naslov-kost-nije-pukla-ali-jesu-ligamenti-no-ne-zalim-15717664",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/12/k_39090896_640.jpg",
+        "title": "Čelnik trećeligaša osumnjičen da je sucu nudio mito dao ostavku, otišao i predsjednik kluba",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/celnik-treceligasa-osumnjicen-da-je-sucu-nudio-mito-dao-ostavku-otisao-i-predsjednik-kluba-15717738",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/12/k_39100899_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -156,9 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Nijemac u rasulu zbog zaluđenog fana! Prati ga, urliče, terorizira... i apsolutni je hit društvenih mreža Kreator sadržaja Finn Keßler postao je ‘originalni Goretzkaaa‘, a trend preplavljuje komentare i snimke s putovanja.",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/superfan-finn-kessler-urlicima-pretvara-leona-goretzku-u-viralni-trend-15717656",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/12/k_39089104_640.jpg",
+        "title": "Vlašić odgovorio Pašaliću: ‘Bio je pritisak, brate, kako nije?! Ali volim taj osjećaj jesi ili nisi‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-u-tysini-trenira-za-englesku-pasalic-vlasic-plan-obrana-15717671",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/12/k_39072749_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -168,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Kanađani svi ističu jedno i u prvi planu guraju svog ‘superheroja‘: ‘Povijesan rezultat na SP-ima‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/larin-donio-prvi-bod-kanadi-protiv-bih-na-svjetskom-prvenstvu-15717681",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/13/k_39102209_640.jpg",
+        "title": "Prošli su kroz Maksimir, a sada su na Mundijalu: Dva najzvučnija bivša dinamovca imaju ogromne ambicije",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-na-sp-u-dvojica-aktualnih-i-mnogo-bivsih-igraca-15717660",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/11/k_37785973_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Ovako se u Sarajevu proslavilo vodstvo Zmajeva! Eksplozija oduševljenja, bakljada i totalna ludnica",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/bih-vodi-protiv-kanade-lukic-zabio-slavlje-u-sarajevu-15717643",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/12/k_39101454_640.png",
+        "title": "FOTO: Zagreb navijao za BiH! Pogledajte kako su naši navijači slavili vodstvo Zmajeva i strepili do kraja",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/bih-kanada-11-lukic-i-larin-zagreb-navijao-na-trgu-15717672",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/12/k_39102238_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,45 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Izbornik Paname jasan: ‘Ako ne pobijedimo Ganu, ne možemo ni sanjati prolazak skupine‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/gana-panama-toronto-kljucna-utakmica-prije-hrvatske-i-engleske-15717655",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/11/k_39054919_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "U Madridu se kuha nešto veliko! Perez vraća Modrića na Bernabeu? ‘To je beskrajna ljubavna priča‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/modric-pred-oprostajem-real-madrid-mu-priprema-novu-ulogu-15717627",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/12/k_36857650_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Slučaj kakav nije zabilježen u povijesti svjetskih prvenstava: Šok za protivnika Hrvatske na Mundijalu!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/kanada-odbila-vizu-thomasu-parteyju-ghana-propusta-panamu-igra-u-sad-u-15717618",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/12/k_39039873_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Mladost furioznom završnicom slomila Jadran i povela u prvoj utakmici za naslov prvaka",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vaterpolo/vaterpolo-prvenstvohr/mladost-preokret-19-14-jadran-finale-radulovic-harkov-cubranic-15717636",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/12/k_39101153_640.jpg",
+        "title": "VIDEO: BiH ipak nije izdržala! Zmajevi vodili skoro cijelu utakmicu pa ostali bez pobjede na Svjetskom prvenstvu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/kanada-bosna-i-hercegovina-uzivo-bmo-field-toronto-sastavi-15717609",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/12/k_39102189_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
