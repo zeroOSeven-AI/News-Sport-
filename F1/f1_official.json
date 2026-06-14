@@ -1,5 +1,17 @@
 [
     {
+        "title": "Ex-F1 drivers De Vries and Kobayashi win Le Mans 24 Hours",
+        "link": "https://www.formula1.com/en/latest/article/former-f1-drivers-de-vries-and-kobayashi-win-le-mans-24-hours.6HsLK7VOWDwnUoNimVwJp7",
+        "image_url": "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Miscellaneous/16x9%20single%20image%20-%202026-06-14T195954.298.webp",
+        "w": 1920,
+        "h": 1080,
+        "focus_y": 0.35,
+        "source_title1": "FORMULA 1",
+        "source_title2": "F1",
+        "source_color": "#E10600",
+        "flag": "🇬🇧"
+    },
+    {
         "title": "'Not good enough' – Wolff critical of Mercedes' reliability",
         "link": "https://www.formula1.com/en/latest/article/not-good-enough-wolff-critical-of-mercedes-reliability-after-antonelli-retirement-in-barcelona-catalunya-grand-prix.6KLa3k3yay82ZUUWe5G09W",
         "image_url": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_Canada___Previews/2277542239.webp",
@@ -101,18 +113,6 @@
         "image_url": "https://media.formula1.com/image/upload/t_16by9North/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Barcelona-Catalunya/GettyImages-2281549843.webp",
         "w": 2048,
         "h": 1152,
-        "focus_y": 0.35,
-        "source_title1": "FORMULA 1",
-        "source_title2": "F1",
-        "source_color": "#E10600",
-        "flag": "🇬🇧"
-    },
-    {
-        "title": "Hamilton your clear winner after first Ferrari triumph",
-        "link": "https://www.formula1.com/en/latest/article/driver-of-the-day-hamilton-your-clear-winner-after-first-ferrari-triumph.5GssLCBAdUbY8nASwtuK7F",
-        "image_url": "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/fom-website/manual/Misc/Driver%20Of%20The%20Day/2026/Clean%20versions/Hamilton-DOTD-clean.webp",
-        "w": 1920,
-        "h": 1080,
         "focus_y": 0.35,
         "source_title1": "FORMULA 1",
         "source_title2": "F1",
