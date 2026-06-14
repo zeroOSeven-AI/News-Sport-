@@ -1,5 +1,17 @@
 [
     {
+        "title": "Hamilton wins first GP for Ferrari as Antonelli retires",
+        "link": "https://www.formula1.com/en/latest/article/hamilton-claims-stellar-maiden-grand-prix-victory-for-ferrari-in-barcelona-as-antonelli-suffers-shock-retirement.4yCXiPLHUdcnl2BwNpqUIa",
+        "image_url": "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Barcelona-Catalunya/16x9%20single%20image%20-%202026-06-14T154706.439.webp",
+        "w": 1920,
+        "h": 1080,
+        "focus_y": 0.35,
+        "source_title1": "FORMULA 1",
+        "source_title2": "F1",
+        "source_color": "#E10600",
+        "flag": "🇬🇧"
+    },
+    {
         "title": "Camara victorious in strategic F2 Barcelona Feature Race",
         "link": "https://www.formula1.com/en/latest/article/f2-camara-victorious-in-strategic-barcelona-feature-race-to-claim-maiden-win.3FdJDmKlrDGNzybWR0xvXt",
         "image_url": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Formula%202/GettyImages-2281512025.webp",
@@ -24,7 +36,7 @@
         "flag": "🇬🇧"
     },
     {
-        "title": "LIVE COVERAGE: Russell leads Hamilton in Barcelona",
+        "title": "LIVE COVERAGE: Hamilton wins in Barcelona as Antonelli retires",
         "link": "https://www.formula1.com/en/latest/article/live-coverage-formula-1-msc-cruises-gran-premio-de-barcelona-catalunya-2026.4cOdCOhdk5kkdpeKllE8jK",
         "image_url": "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Barcelona-Catalunya/16x9%20single%20image%20-%202026-06-14T134051.186.webp",
         "w": 1920,
@@ -101,18 +113,6 @@
         "image_url": "https://media.formula1.com/image/upload/t_16by9North/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_Barcelona_Catalunya___Qualifying/2281407809.webp",
         "w": 2048,
         "h": 1152,
-        "focus_y": 0.35,
-        "source_title1": "FORMULA 1",
-        "source_title2": "F1",
-        "source_color": "#E10600",
-        "flag": "🇬🇧"
-    },
-    {
-        "title": "Red Bull drivers surprised by 'better than expected' pace",
-        "link": "https://www.formula1.com/en/latest/article/better-than-expected-verstappen-and-hadjar-surprised-by-red-bulls-pace-in-qualifying-for-barcelona-catalunya-gp.5x1TC5doCaydOiaFlwcB4v",
-        "image_url": "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Barcelona-Catalunya/16x9%20single%20image%20-%202026-06-13T184750.894.webp",
-        "w": 1920,
-        "h": 1080,
         "focus_y": 0.35,
         "source_title1": "FORMULA 1",
         "source_title2": "F1",
