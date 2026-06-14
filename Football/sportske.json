@@ -1,8 +1,8 @@
 [
     {
-        "title": "VIDEO: Bajka je trajala samo 17 minuta! Curacao razljutio Nijemce pa popio rekordan broj golova na ovom Mundijalu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/video-bajka-je-trajala-samo-17-minuta-curacao-razljutio-nijemce-pa-popio-rekordan-broj-golova-na-ovom-mundijalu-15718115",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/14/k_39109823_640.jpg",
+        "title": "UŽIVO Nizozemska - Japan: Suzuki upalio motore! Vratar Japana zaustavio dvije sjajne prilike Oranja",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/uzivo-nizozemska-japan-suzuki-upalio-motore-vratar-japana-zaustavio-dvije-sjajne-prilike-oranja-15718156",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/14/k_39110299_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -12,9 +12,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO Nizozemska - Japan: Težak test za Oranje na otvaranju Mundijala, stigli su i sastavi",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/uzivo-nizozemska-japan-tezak-test-za-oranje-na-otvaranju-mundijala-15718156",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/14/k_38931127_640.jpg",
+        "title": "FOTO: Najstariji izbornik u povijesti nije mogao suspregnuti emocije! Trenutak koji slama i najtvrđa srca",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/dick-advocaat-suze-povijesni-debi-curacaoa-na-svjetskom-prvenstvu-15718171",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/14/k_39109575_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,9 +36,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Pred njim je budućnost, ali ne u Hajduku! Svi su vjerovali da je ‘on taj‘, ali odlazak je ipak najbolji za sve Bljesnuo je pod Gattusom, ali razvoj situacije i statusa doveo je do raspleta u kojem na kraju ipak na Poljud donosi određenu \"kesu\"",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bruno-durdov-iz-hajduka-u-gornik-zabrze-transfer-13-milijuna-25-posto-15718151",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/14/k_38074096_640.jpg",
+        "title": "Ako njih dvojica ostanu u Dinamu, Oršićev dolazak ne bi imao smisla! Evo što spremaju na Maksimiru... Prostor bi se trebao otvoriti skorašnjim izlaznim transferom Hoxhe, dok Vidović još, po svemu sudeći, neće nigdje...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/povratak-mislava-orsica-u-dinamo-borba-za-lijevo-krilo-15718164",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/10/k_38693652_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,9 +48,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Pala prva prodaja na Poljudu ovog ljeta! Durdov napušta Hajduk, za dragulja Bijelih srušili rekord",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bruno-durdov-iz-hajduka-u-gornik-rekordna-odsteta-postotak-preprodaje-15718095",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/14/k_37289465_640.jpg",
+        "title": "Pred njim je budućnost, ali ne u Hajduku! Svi su vjerovali da je ‘on taj‘, sada odlazi...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bruno-durdov-iz-hajduka-u-gornik-zabrze-transfer-13-milijuna-25-posto-15718151",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/14/k_38074096_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -72,9 +72,33 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "VIDEO: Teško se osramotio i to pred milijunima ljudi! Ismijavao Korejku i ekspresno popio otkaz",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/rasisticka-gesta-guadalajara-dekan-ulises-bernal-otkaz-juzna-koreja-ceska-15718137",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/14/k_39109224_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "VIDEO Donna pokorila London i osvojila rekordnu zaradu: ‘Bila sam ljubomorna na muškarce‘",
         "link": "https://sportske.jutarnji.hr/sportske/tenis/atp-wta-turniri/donna-vekic-osvojila-queens-rekordna-nagrada-pobjeda-nad-raducanu-15718120",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/14/k_39109181_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Pala prva prodaja na Poljudu ovog ljeta! Durdov napušta Hajduk, za dragulja Bijelih srušili rekord",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bruno-durdov-iz-hajduka-u-gornik-rekordna-odsteta-postotak-preprodaje-15718095",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/14/k_37289465_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,6 +120,30 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Hajduk dovodi 35-godišnjaka iz treće lige, Vatreni pred ugovorom života, Rijeka kupuje u Koprivnici",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-dovodi-35-godisnjaka-iz-trece-lige-vatreni-pred-ugovorom-zivota-rijeka-kupuje-u-koprivnici-15717955",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/13/k_39077128_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Ovo je Vatrenima već postala rutina, i Kustić ‘udara kilometre‘, a jedna legenda nikad nije izgledala spremnije",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/john-malkovich-promovira-hrvatsku-podrska-vatrenima-sad-alexandria-15718141",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/14/k_39106426_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Brazilci ‘igraju‘ po svome! Svjesno prekršili pravilo i baš ih briga: ‘Platit ćemo kaznu, nećemo to raditi‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/vinicius-odbijanje-tv-izjave-fifa-pravila-brazil-maroko-kazna-15718108",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/14/k_39106803_640.jpg",
@@ -108,19 +156,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Hajduk dovodi 35-godišnjaka iz treće lige, Vatreni pred ugovorom života, Rijeka kupuje u Koprivnici",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-hajduk-dovodi-35-godisnjaka-iz-trece-lige-vatreni-pred-ugovorom-zivota-rijeka-kupuje-u-koprivnici-15717955",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/13/k_39077128_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Barca srušila Füchse i po 13. put postala prvak Europe! Gidsel bez jedinog velikog trofeja koji mu nedostaje",
+        "title": "Barca srušila Füchse i po 13. put postala prvak Europe! Gidsel bez jedinog velikog trofeja koji mu nedostaje Nielsen briljirao s 14 obrana, Gidsel kasno proradio, a Katalonci zadržali mirnoću do završnog sirena.",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/barcelona-osvojila-13-naslov-prvaka-europe-rukomet-fuchse-37-34-15718143",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/14/k_39109458_640.jpg",
         "w": 640,
@@ -156,7 +192,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UFC postaje Trumpova igračka kojom se šalje jasna poruka, a sigurnosni izazovi nikada nisu bili veći Sutra ujutro po hrvatskom vremenu nećete gledati South Park ili Simpsone već presliku realnosti američkog društva",
+        "title": "UFC postaje Trumpova igračka kojom se šalje jasna poruka, a sigurnosni izazovi nikada nisu bili veći",
         "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/ufc-postaje-trumpova-igracka-kojom-se-salje-jasna-poruka-a-sigurnosni-izazovi-nikada-nisu-bili-veci-15718126",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/14/k_39096045_640.jpg",
         "w": 640,
@@ -195,42 +231,6 @@
         "title": "Znate li više o 1998. ili 2026.? Provjerite svoje poznavanje svjetskih nogometnih prvenstava",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/kviz-svjetsko-prvenstvo-nogomet-provjera-znanja-15717993",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/13/k_38806688_640.gif",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hamilton prekinuo Antonellijev niz! Britanac upisao prvu pobjedu za Ferrari i prvu nakon 687 dana",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/automoto/formula1/hamilton-pobjeda-barcelona-ferrari-prekid-antonelli-niza-vsc-mercedes-15718105",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/14/k_39072234_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Evo tko dijeli pravdu Vatrenima: Hrvatska slavila u sve četiri utakmice u kojima je sudio",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/turpin-sudi-hrvatska-engleska-u-dallasu-hrvatska-s-njim-uvijek-slavila-15718088",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/14/k_39109053_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Obala Bjelokosti želi srušiti prokletstvo skupine već na startu Mundijala, ali čeka ih južnoamerička sila",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/obala-bjelokosti-ekvador-najava-sudar-sp-tvrda-obrana-pripremne-pobjede-15718123",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/13/k_39053964_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
