@@ -1,5 +1,29 @@
 [
     {
+        "title": "Ergebnisse: Barcelona-Catalunya GP - Rennen",
+        "link": "https://www.motorsport-magazin.com/formel1/ergebnisse/2026/session/barcelona-catalunya-gp-rennen-41585.html",
+        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1124208.jpg",
+        "w": 1200,
+        "h": 627,
+        "focus_y": 0.35,
+        "source_title1": "MOTORSPORT MAGAZIN",
+        "source_title2": "F1",
+        "source_color": "#FFD300",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Ergebnisse: Barcelona-Catalunya GP - Schnellste Runde",
+        "link": "https://www.motorsport-magazin.com/formel1/ergebnisse/2026/session/barcelona-catalunya-gp-schnellste-runde-41586.html",
+        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1124118.jpg",
+        "w": 1200,
+        "h": 627,
+        "focus_y": 0.35,
+        "source_title1": "MOTORSPORT MAGAZIN",
+        "source_title2": "F1",
+        "source_color": "#FFD300",
+        "flag": "🇩🇪"
+    },
+    {
         "title": "Lewis Hamilton holt ersten Formel-1-Sieg für Ferrari! Antonelli-Drama in Barcelona",
         "link": "https://www.motorsport-magazin.com/formel1/news-298922-lewis-hamilton-holt-ersten-formel-1-sieg-fuer-ferrari-antonelli-drama-in-barcelona/",
         "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1124208.jpg",
@@ -26,7 +50,7 @@
     {
         "title": "Formel 1 Liveticker: Erster Ferrari-Sieg! Reaktionen zur Hamilton-Sensation in Barcelona - F1-News",
         "link": "https://www.motorsport-magazin.com/formel1/news-298919-formel-1-liveticker-das-rennen-heute-live-aus-barcelona-catalunya-f1-news-zu-spanien/",
-        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1124086.jpg",
+        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1124223.jpg",
         "w": 1200,
         "h": 627,
         "focus_y": 0.35,
@@ -207,30 +231,6 @@
         "title": "Lewis Hamilton flüchtet ins Wohnmobil: So kam es zum Spektakel im Formel-1-Qualifying",
         "link": "https://www.motorsport-magazin.com/formel1/news-298905-lewis-hamilton-fluechtet-ins-wohnmobil-so-kam-es-zum-spektakel-im-formel-1-qualifying/",
         "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1124136.jpg",
-        "w": 1200,
-        "h": 627,
-        "focus_y": 0.35,
-        "source_title1": "MOTORSPORT MAGAZIN",
-        "source_title2": "F1",
-        "source_color": "#FFD300",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Formel 1 heute: Die Startaufstellung für den Grand Prix von Barcelona-Catalunya",
-        "link": "https://www.motorsport-magazin.com/formel1/news-298904-formel-1-heute-die-startaufstellung-fuer-den-grand-prix-von-barcelona-catalunya/",
-        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1124133.jpg",
-        "w": 1200,
-        "h": 627,
-        "focus_y": 0.35,
-        "source_title1": "MOTORSPORT MAGAZIN",
-        "source_title2": "F1",
-        "source_color": "#FFD300",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Formel 1 Barcelona-Qualifying: Russell verhindert Hamilton-Sensation, Leclerc crasht wieder",
-        "link": "https://www.motorsport-magazin.com/formel1/news-298903-formel-1-barcelona-qualifying-russell-verhindert-hamilton-sensation-leclerc-crasht-wieder/",
-        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1124132.jpg",
         "w": 1200,
         "h": 627,
         "focus_y": 0.35,
