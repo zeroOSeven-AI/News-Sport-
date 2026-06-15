@@ -106,5 +106,17 @@
         "source_title2": "F1",
         "source_color": "#FF0000",
         "flag": "🇭🇷"
+    },
+    {
+        "title": "Russellu pole position u Barceloni, nova nesreća Leclerca",
+        "link": "https://www.gp1.hr/2026/06/russellu-pole-position-u-barceloni-nova-nesreca-leclerca/",
+        "image_url": "https://www.gp1.hr/wp-content/uploads/2026/06/2026-barcelona-mercedes-russell-02.jpg",
+        "w": 1800,
+        "h": 1200,
+        "focus_y": 0.5,
+        "source_title1": "GP1",
+        "source_title2": "F1",
+        "source_color": "#FF0000",
+        "flag": "🇭🇷"
     }
 ]
