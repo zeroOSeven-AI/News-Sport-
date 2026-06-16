@@ -1,8 +1,8 @@
 [
     {
-        "title": "Osijek ima novog trenera! Na Opus Arenu stigao Argentinac, nogometni put počeo je u čuvenoj La Masiji",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/federico-bessone-novi-trener-osijeka-la-masia-andora-olimpija-15718672",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_37794313_640.jpg",
+        "title": "UŽIVO Francuska - Senegal: Velika greška Mbappea, Lavovi bili centimetrima od vodstva",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/uzivo-francuska-senegal-velika-greska-mbappea-lavovi-bili-centimetrima-od-vodstva-15718852",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_39119201_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -12,8 +12,80 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hajduk danas saznaje suparnika u Europi! Bijeli mogu izvući Srbe, a evo tko bi bio najlakši protivnik",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-danas-saznaje-suparnika-u-europi-bijeli-mogu-izvuci-srbe-a-evo-tko-bi-bio-najlaksi-protivnik-15718642",
+        "title": "Ne znaju Hrvati što je Texas? Policija izdala posebno priopćenje: Zbog ovoga možete biti uhićeni!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/teksaska-policija-upute-hrvatskim-navijacima-u-dallasu-prije-hrvatska-engleska-15718861",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_39105595_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Podatak koji brine uoči okršaja Hrvatske i Engleske! Kane zabio koliko i cijela jedna reprezentacija",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupina-l-engleska-dominira-hrvatska-ispred-gane-i-paname-15718849",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/11/k_39091845_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Hrvatska igra, Dinamo kreće u akciju: Dolaze ‘B pojačanja‘, stigla i komična ponuda za Stojkovića! Prvi trening bit će održan na terenu Luka Modrić, čeka se i ždrijeb Lige prvaka, a Leko slaže roster do kraja tjedna",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-starta-pripreme-prvi-trening-zdrijeb-lige-prvaka-b-momcad-pojacanja-15718874",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_38909113_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Pao rekordni posao, Hajduk prodao dragulja kluba! Igrat će kvalifikacije za Ligu prvaka",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bruno-durdov-transfer-gornik-zabrze-rekordna-odsteta-hajduk-bonusi-postotak-15718855",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_39118498_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Žilina je u Hajduku uzrokovala ostavke, pa i srčani udar! Ovaj put dolazi s klincima i hrvatskim napadačem",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-zilina-poljud-revans-europska-liga-15718854",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_39114602_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Dinamo doznao sve moguće suparnike u Europi! Prijeti mu odlazak na ‘kraj svijeta‘, ali i Dambrauskas...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-moguci-protivnici-zdrijeb-2-pretkola-lige-prvaka-uefa-15718823",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_39022458_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Hajduk saznao ime prvog suparnika u Europi, izbjegnut neugodan protivnik iz Srbije!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-hajduk-saznao-ime-prvog-suparnika-u-europi-izbjegnut-neugodan-protivnik-iz-srbije-15718642",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_38849107_640.jpg",
         "w": 640,
         "h": 640,
@@ -24,9 +96,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "FIFA sprema kontroverzni potez, Izrael i Palestina će otvoriti novi turnir",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/fifa-u-15-festival-izrael-palestina-otvaranje-sad-15718684",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/15/k_39103299_640.jpg",
+        "title": "Konačno se sve zna: Luka Modrić dobio novog trenera!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/ruben-amorim-novi-trener-milana-modriceva-buducnost-neizvjesna-15718836",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_37796287_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,9 +108,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Osijek ima novog trenera! Na Opus Arenu stigao Argentinac, nogometni put počeo je u čuvenoj La Masiji S tri kluba u Andori osvojio je tri trofeja, a prošle sezone je sjedio na klupi ljubljanske Olimpije",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/federico-bessone-novi-trener-osijeka-la-masia-andora-olimpija-15718672",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_37794313_640.jpg",
+        "title": "FBI spriječio teroristički napad na UFC pred Bijelom kućom!? Uhićeni su planirali masovni pokolj",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/fbi-sprijecio-teroristicki-napad-na-ufc-pred-bijelom-kucom-uhiceni-su-planirali-masovni-pokolj-15718821",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_39118178_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,9 +120,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Iranac zabio gol, pa odlučio ‘pucati‘ po publici! ‘Ovo je izravna prijetnja, trebalo bi ih izbaciti!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/iran-novi-zeland-22-los-angeles-mohebi-proslava-kontroverza-15718574",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_39116765_640.jpg",
+        "title": "VIDEO: Snimka zbog koje je i danas neugodno svakom hajdukovcu, ovako su na Poljudu slavili - Žilinu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-zilina-prvo-pretkolo-europske-lige-termini-zdrijeb-15718826",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_39118175_640.png",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -60,32 +132,8 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Sedam čudesnih obrana i eksplozija popularnosti! Čovjeka koji je oduševio svijet čeka najveći ugovor u karijeri",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/vozinha-40-godina-sedam-obrana-bod-cabo-verde-protiv-spanjolske-15718589",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_39115962_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Nitko kao Dinamo: Plavi su rekorderi kvalifikacija za Ligu prvaka!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-lovi-deseti-ulazak-u-ligu-prvaka-pocinje-kao-favorit-15718603",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/14/k_36140241_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "UŽIVO: Jose Mourinho vraća veznjaka Reala! Jakirović cilja na Vragove, Jurić ima novi posao",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-jose-mourinho-vraca-veznjaka-reala-jakirovic-cilja-na-vragove-juric-ima-novi-posao-15718575",
+        "title": "UŽIVO: Kek dobio pojačanje, dijete Hajduka stiže u Rijeku! Mourinho vraća bivšeg veznjaka Reala",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-kek-dobio-pojacanje-dijete-hajduka-stize-u-rijeku-mourinho-vraca-bivseg-veznjaka-reala-15718575",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_39077128_640.jpg",
         "w": 640,
         "h": 640,
@@ -96,9 +144,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hrvatska zaslužuje puno više od ovog! Fifa gleda samo biznis i čitavu je priču vratila godine unazad",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/vatreni-nebrendirani-bez-engleskih-novinara-coca-cola-pravila-sp-15718587",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_39114991_640.jpg",
+        "title": "‘Iz Hajduka odlazim na valu glupih priča, morao sam i mogao dati puno više, ali ponosan sam‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/iz-hajduka-odlazim-na-valu-glupih-prica-morao-sam-i-mogao-dati-puno-vise-ali-ponosan-sam-15718795",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_37289408_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -108,9 +156,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Zabranjene zastave, prosvjed ispred stadiona i potpuna ludnica: ‘Ne želimo dogovor sa SAD-om, ljudi su ubijani...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/iran-remi-novi-zeland-rat-zastava-prosvjedi-fifa-los-angeles-15718597",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_39116580_640.jpg",
+        "title": "Dinamo doznao sve moguće suparnike u Europi! Prijeti mu odlazak na ‘kraj svijeta‘, ali i Dambrauskas... Prvak BiH, Borac Banja Luka, baš i nije imao sreće u ždrijebu 1. pretkola jer je izvukao jednog od najtežih mogućih suparnika, prvaka Bugarske, Levski",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-moguci-protivnici-zdrijeb-2-pretkola-lige-prvaka-uefa-15718823",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_39022458_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -120,9 +168,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Njega ništa ne može odvojiti od Vatrenih, čak ni teška životna drama: ‘Potrošio sam milijun dolara!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/tom-abicic-milijun-dolara-za-vatrene-defibrilator-ga-vratio-u-dallas-15718557",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_39116162_640.png",
+        "title": "Reprezentacija na SP-u pod ‘opsadom‘ - zmija! ‘Otrovne su, ako vas ugrize, odmah u bolnicu...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/kimmich-njemacki-igraci-naletjeli-na-bakroglavku-u-kampu-sp-sad-15718877",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_39119113_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -132,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Legenda otkrila recept za Engleze pa progovorila o zvijezdi Vatrenih: ‘Jedno je klub, a drugo reprezentacija‘ Iskusni strateg vidi šansu u kontroli ritma, hladnoj glavi i pametnim izmjenama izbornika Dalića",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/katalinic-hrvatska-prolazi-engleska-kontrola-ritma-izmjene-dalic-15718559",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/14/k_39098213_640.jpg",
+        "title": "Hrvatska igra, Dinamo kreće u akciju: Dolaze ‘B pojačanja‘, stigla i komična ponuda za Stojkovića!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-starta-pripreme-prvi-trening-zdrijeb-lige-prvaka-b-momcad-pojacanja-15718874",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_38909113_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -144,9 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "U Zagreb stiže gimnastički spektakl, bit će to najveće EP ikada s 670 sportaša iz 44 zemlje",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/gimnastika/ep-gimnastika-zagreb-2026-najvece-izdanje-arena-670-sportasa-15718655",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_25838473_640.jpg",
+        "title": "FOTO: Kći žrtve Ovčare posjetila Vatrene, Modrić joj darovao potpisani dres",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/vatreni-dallas-martina-caswell-luka-modric-ovcara-ivan-sencic-15718872",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_39119101_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -156,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Mbappe i ekipa otvaraju nastup u ‘skupini smrti‘, Norvežani veliki favoriti protiv Iračana",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/mbappe-haaland-messi-otvaraju-spektakl-senzacija-vreba-u-skupini-i-15718618",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/15/k_39080356_640.jpg",
+        "title": "‘Netko mi je kucao, a kad sam otvorio - policija! Samo su rekli: ‘Uzmi stvari, ideš u Hrvatsku‘",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/regija/netko-mi-je-kucao-a-kad-sam-otvorio-policija-samo-su-rekli-uzmi-stvari-ides-u-hrvatsku-15718863",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_38909083_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -168,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Pa Vušković je već igrao protiv njihove prve zvijezde, ali i dominirao ligom koja je najbliža Premiershipu‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/luka-vuskovic-spreman-za-englesku-vucko-hvali-mentalnu-snagu-brighton-u-igri-15718571",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/15/k_38282434_640.jpg",
+        "title": "Čilić izgubio od Humberta i završio nastup u Queen‘s Clubu",
+        "link": "https://sportske.jutarnji.hr/sportske/tenis/tenis-mix/cilic-ispao-u-prvom-kolu-queensa-humbert-bolji-7-5-6-3-15718862",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_39104417_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,57 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Neki čitaju, pa objave na društvenim mrežama, pa to brišu, uz ispriku. Luka Božić voli čitati...",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-reprezentacija/mijatovic-hrvatska-kosarka-zubac-saric-opatija-izrael-cipar-put-prema-sp-2027-15718565",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/14/k_38439277_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Poslušajte reakciju publike u SAD-u prilikom intoniranja himne Irana",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/iran-sp-los-angeles-sofi-stadion-himna-zvizduci-podrska-taremi-15718554",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_39116388_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "FOTO: Modrić jednim potezom ruke ‘zapalio‘ društvene mreže. Evo što se krije na viralnoj slici",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/modricev-detalj-u-dallasu-maskica-s-gospom-privukla-paznju-15718552",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_39116164_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "White nakon povijesnog spektakla: ‘Sjajno iskustvo, ali nikada više nećemo ovo ponoviti‘",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/white-nakon-povijesnog-spektakla-sjajno-iskustvo-ali-nikada-vise-necemo-ovo-ponoviti-15718700",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_39117431_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Nije komentiranje utakmica za svakog! Gledatelji u šoku, bile su to četiri minute teške blamaže",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/trt-komentator-brka-iran-i-novi-zeland-taremi-spasava-prijenos-15718698",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_39116419_640.jpg",
+        "title": "‘On je spektakularan borac i nokauter s velikim srcem! Naravno da se o njemu sada puno priča‘",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/on-je-spektakularan-borac-i-nokauter-s-velikim-srcem-naravno-da-se-o-njemu-sada-puno-prica-15718851",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_38861439_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
