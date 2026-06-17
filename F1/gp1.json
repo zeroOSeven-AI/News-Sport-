@@ -1,8 +1,20 @@
 [
     {
-        "title": "Lewis Hamilton pobjednik u Barceloni; Prva pobjeda u Ferrariju!",
-        "link": "https://www.gp1.hr/2026/06/lewis-hamilton-pobjednik-u-barceloni-prva-pobjeda-u-ferrariju/",
-        "image_url": "https://www.gp1.hr/wp-content/uploads/2026/05/2026-miami-ferrari-hamilton.jpg",
+        "title": "Norris: Imamo sreće što Ferrari trenutačno nema bolji motor",
+        "link": "https://www.gp1.hr/2026/06/norris-imamo-srece-sto-ferrari-trenutacno-nema-bolji-motor/",
+        "image_url": "https://www.gp1.hr/wp-content/uploads/2026/06/2026-barcelona-mclaren-norris-02.jpg",
+        "w": 1800,
+        "h": 1200,
+        "focus_y": 0.5,
+        "source_title1": "GP1",
+        "source_title2": "F1",
+        "source_color": "#FF0000",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Četvrta utrka brdske sezone u Ogulinu: Dimitrijević pobjedom učvrstio vodstvo",
+        "link": "https://www.gp1.hr/2026/06/cetvrta-utrka-brdske-sezone-u-ogulinu-dimitrijevic-pobjedom-ucvrstio-vodstvo/",
+        "image_url": "https://www.gp1.hr/wp-content/uploads/2026/06/DEJAN-DIMITRIJEVIC-AKK-Fly-with-Kolman-snimio-M.-Krpan.jpg",
         "w": 1800,
         "h": 1200,
         "focus_y": 0.5,
@@ -17,18 +29,6 @@
         "image_url": "https://www.gp1.hr/wp-content/uploads/2026/06/toyota-lemans-2026.jpg",
         "w": 1200,
         "h": 800,
-        "focus_y": 0.5,
-        "source_title1": "GP1",
-        "source_title2": "F1",
-        "source_color": "#FF0000",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Norris: Imamo sreće što Ferrari trenutačno nema bolji motor",
-        "link": "https://www.gp1.hr/2026/06/norris-imamo-srece-sto-ferrari-trenutacno-nema-bolji-motor/",
-        "image_url": "https://www.gp1.hr/wp-content/uploads/2026/06/2026-barcelona-mclaren-norris-02.jpg",
-        "w": 1800,
-        "h": 1200,
         "focus_y": 0.5,
         "source_title1": "GP1",
         "source_title2": "F1",
@@ -60,9 +60,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Colapinto dobio kaznu nakon utrke u Barceloni i izgubio tri boda",
-        "link": "https://www.gp1.hr/2026/06/colapinto-dobio-kaznu-nakon-utrke-u-barceloni-i-izgubio-tri-boda/",
-        "image_url": "https://www.gp1.hr/wp-content/uploads/2026/06/2026-barcelona-alpine-colapinto.jpg",
+        "title": "Toto Wolff o Hamiltonu: Možda mu djevojka pomaže",
+        "link": "https://www.gp1.hr/2026/06/toto-wolff-o-hamiltonu-mozda-mu-djevojka-pomaze/",
+        "image_url": "https://www.gp1.hr/wp-content/uploads/2026/06/M585750-scaled-e1781515271366.jpg",
         "w": 1800,
         "h": 1200,
         "focus_y": 0.5,
@@ -84,9 +84,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Piastri u nevjerici zbog poništavanja Gaslyjeve kazne, Wolff komunicira s odvjetnicima",
-        "link": "https://www.gp1.hr/2026/06/piastri-u-nevjerici-zbog-ponistavanja-gaslyjeve-kazne-wolff-komunicira-s-odvjetnicima/",
-        "image_url": "https://www.gp1.hr/wp-content/uploads/2026/06/2026-monaco-piastri-gasly.jpg",
+        "title": "Lewis Hamilton pobjednik u Barceloni; Prva pobjeda u Ferrariju!",
+        "link": "https://www.gp1.hr/2026/06/lewis-hamilton-pobjednik-u-barceloni-prva-pobjeda-u-ferrariju/",
+        "image_url": "https://www.gp1.hr/wp-content/uploads/2026/05/2026-miami-ferrari-hamilton.jpg",
         "w": 1800,
         "h": 1200,
         "focus_y": 0.5,
@@ -96,9 +96,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Antonelli: Nisam imao brzinu u jednom krugu, previše sam forsirao",
-        "link": "https://www.gp1.hr/2026/06/antonelli-nisam-imao-brzinu-u-jednom-krugu-previse-sam-forsirao/",
-        "image_url": "https://www.gp1.hr/wp-content/uploads/2026/06/2026-barcelona-mercedes-antonelli-02.jpg",
+        "title": "Piastri u nevjerici zbog poništavanja Gaslyjeve kazne, Wolff komunicira s odvjetnicima",
+        "link": "https://www.gp1.hr/2026/06/piastri-u-nevjerici-zbog-ponistavanja-gaslyjeve-kazne-wolff-komunicira-s-odvjetnicima/",
+        "image_url": "https://www.gp1.hr/wp-content/uploads/2026/06/2026-monaco-piastri-gasly.jpg",
         "w": 1800,
         "h": 1200,
         "focus_y": 0.5,
