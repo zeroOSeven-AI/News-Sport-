@@ -1,8 +1,8 @@
 [
     {
-        "title": "UŽIVO Engleska - Hrvatska: Stigli su sastavi! Dalić iznenadio i ostavio senatora na klupi, pogledajte udarne postave",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/uzivo-engleska-hrvatska-stigli-su-sastavi-dalic-iznenadio-i-ostavio-senatora-na-klupi-pogledajte-udarne-postave-15719233",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/17/k_39073997_640.jpg",
+        "title": "UŽIVO/VIDEO Engleska - Hrvatska: Livaković sprječava debakl! Primili smo gol nakon 88 sekundi, Englezi treći put vode i napadaju",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/uzivo-video-engleska-hrvatska-livakovic-sprjecava-debakl-primili-smo-gol-nakon-88-sekundi-englezi-treci-put-vode-i-napadaju-15719233",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/17/k_39125309_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -12,9 +12,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO/VIDEO: Pogledajte kako su Hrvati preuzeli Dallas, došlo i do susreta s Englezima, oglasila se i Kolinda",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/uzivo-video-hrvati-su-preuzeli-dallas-doslo-i-do-susreta-s-englezima-musin-klub-se-divi-kockicama-15719198",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/17/k_39123916_640.jpg",
+        "title": "VIDEO: Stanišić poludio na suigrače! Kane ostao sam k‘o duh i zabio, a Musa onda zaledio Engleze",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-engleska-penal-drama-baturina-gol-livakovic-kane-15719255",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/17/k_39125148_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,7 +24,19 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Nova senzacija na Svjetskom prvenstvu! Portugal u ludoj utakmici kiksao protiv Konga",
+        "title": "VIDEO: Je li Hrvatska drastično oštećena i zašto Livaković nije poslušao Stanišića?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/var-ponistio-obranu-livakovica-kane-realizirao-ponovljeni-penal-15719253",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/17/k_39125139_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Nova senzacija na Svjetskom prvenstvu! Portugal u ludoj utakmici kiksao protiv Konga Portugal je dominirao posjedom, imao poništen gol nakon zaleđa, ali nisu uspjeli stvoriti velik broj pravih prilika. Kongo je bio opasan preko kontranapada",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/nova-senzacija-na-svjetskom-prvenstvu-portugal-u-ludoj-utakmici-kiksao-protiv-konga-15719204",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/17/k_39124408_640.jpg",
         "w": 640,
@@ -36,7 +48,55 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Ekskluzivno: ‘Engleski izbornik vikao je na mene, on je kao Guardiola!‘ ‘Imao sam puno vrhunskih trenera, velikih imena, ali nijedan nije bio kao Tuchel‘, otkrio nam je Ivanschitz",
+        "title": "FOTO: Nauljena Knoll Doll nadmašila samu sebe i izvela neviđeni show, Englez gledao u nevjerici",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ivana-knoll-kockice-arlington-hrvatska-engleska-att-stadium-15719237",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/17/k_39124466_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Tko to može platit‘? Hrvatice Kristina i Katarina za ‘skupu zabavu‘ iskeširale - 8.000 dolara",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/navijacice-iz-melbournea-s-vip-ulaznicama-u-arlingtonu-bodre-hrvatsku-15719221",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/17/k_39123910_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "UŽIVO: Hrvatska otvara SP, skandal u taboru Obale Bjelokosti, Haaland uzrokovao - podrhtavanje tla",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/uzivo-poznata-hrvatska-otvara-sp-skandal-u-taboru-obale-bjelokosti-haaland-uzrokovao-podrhtavanje-tla-15718909",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/17/k_39120736_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Ludnica u BiH traje, junak priznao: ‘Supruga mi javlja da “iskačem i iz frižidera”, idemo po još jedno čudo‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/bih-remi-kanada-svicarska-prolaz-skupine-barbarez-dzeko-lukic-15719250",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_39101645_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Ekskluzivno: ‘Engleski izbornik vikao je na mene, on je kao Guardiola!‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ivanschitz-otkriva-tuchel-disciplina-analize-odluke-bez-kompromisa-sp-izazovi-15719208",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_39110727_640.jpg",
         "w": 640,
@@ -60,21 +120,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Bio sam lud i odmah dao otkaz u Hajduku. Sada svi vrte onaj video, meni nije u dobrom sjećanju‘",
+        "title": "‘Bio sam lud i odmah dao ostavku u Hajduku. Sada svi vrte onaj video, meni nije u dobrom sjećanju‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/ante-mise-upozorava-na-zilinu-hajduk-bolji-ali-bez-podcjenjivanja-15719236",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/17/k_37289049_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hrvatska nikad nije pobijedila velikana na startu, a na zadnja tri natjecanja nije ni zabila gol",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-laksi-start-ali-presudna-treca-utakmica-u-skupini-15719235",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/16/k_11779671_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -108,31 +156,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dvaput je naslijedio Kloppa, smjenjivali su ga Mislav Oršić i Andrej Kramarić",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/tuchel-produljio-ugovor-s-engleskom-do-eura-2028-uz-bonuse-i-placu-od-7-milijuna-15719215",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/17/k_39110729_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Dalić traži ‘hit-igrača‘, ali nešto drugo moglo bi biti najveći plus Hrvatske na Mundijalu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-novi-strijelac-tri-gola-sp-2026-perisic-suker-mandzukic-15719172",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/15/k_39094750_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Potreseni Messi se slomio pred milijunima, sad je procurilo što se krije iza suza najvećeg svih vremena",
+        "title": "Potreseni Messi se slomio pred milijunima, sad je procurilo što se krije iza suza najvećeg svih vremena Feinmann je dodao da se situacija ovoga tjedna dodatno zakomplicirala, što je Messija posebno pogodilo",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/messi-hattrick-suze-argentina-alzir-2026-zdravlje-jorge-15719201",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/17/k_39042931_640.jpg",
         "w": 640,
@@ -156,7 +180,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Razdor u reprezentaciji koja čeka Bosnu i Hercegovinu! Igrači okrenuli leđa nervoznom kapetanu? Još nakon remija u generalci protiv Australije Xhaka je pokazao veliko nezadovoljstvo, a njegove riječi nisu naišle na plodno tlo",
+        "title": "Razdor u reprezentaciji koja čeka Bosnu i Hercegovinu! Igrači okrenuli leđa nervoznom kapetanu?",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/xhaka-proziva-svicarce-yakin-pod-pritiskom-slijedi-bih-u-los-angelesu-15719126",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/17/k_39106645_640.jpg",
         "w": 640,
@@ -171,30 +195,6 @@
         "title": "Dinamu najteži protivnik i prošlosezonska senzacija! Evo tko čeka Hajduk, Rijeku i Varaždin",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-dinamo-saznaje-protivnika-na-putu-do-lige-prvaka-15718957",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/17/k_38909241_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO Suci Messiju i Argentincima gledaju kroz prste? ‘Povlašten je, trebalo ga je isključiti!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/messijev-hat-trick-kontroverza-izostao-crveni-karton-var-marciniak-15719100",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/17/k_39121382_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Mrlja na pobjedi Francuske, najbolji na svijetu seli na klupu? ‘Veliki gubitnik, to nije isti igrač!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/francuska-senegal-3-1-mbappe-rekorder-dembele-pod-upitnikom-olise-barcola-15719071",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/17/k_39079919_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
