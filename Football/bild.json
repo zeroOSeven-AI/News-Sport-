@@ -1,5 +1,41 @@
 [
     {
+        "title": "Super-Show mit Tor & Vorlage:Kolumbien feiert Díaz",
+        "link": "https://m.sportbild.bild.de/fussball/fussball-wm/wm-2026-kolumbien-feiert-luis-diaz-nach-super-show-mit-tor-vorlage-gegen-usbekistan-6a337b2e7e682fc37fbfeb63",
+        "image_url": "https://images.bild.de/6a337b2e7e682fc37fbfeb63/6de33f110cf6f5ca7b650b3a0685bf04,32b07a4b?w=1280",
+        "w": 1280,
+        "h": 720,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Liebelei auf der Tribüne:Mbappé-Ex feuert jetzt diesen WM-Star an",
+        "link": "https://m.sportbild.bild.de/fussball/fussball-wm/wm-2026-mbappe-ex-feuert-jetzt-diesen-wm-star-an-liebelei-auf-der-tribuene-6a3264e2e495aff7b584651b",
+        "image_url": "https://images.bild.de/6a3264e2e495aff7b584651b/798205ba588fd5a38809cf26088621a2,25b17f02?w=1280",
+        "w": 1029,
+        "h": 579,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Spielplan für den DFB:Wann spielt Deutschland bei der WM 2026?",
+        "link": "https://m.sportbild.bild.de/fussball/fussball-wm/wann-spielt-deutschland-bei-der-wm-2026-dfb-spielplan-6a291e8e5b5345aa051d61f7",
+        "image_url": "https://images.bild.de/6a291e8e5b5345aa051d61f7/93e75279598b64eff3df1b3552c8bf34,5f8f9f6?w=1280",
+        "w": 1280,
+        "h": 720,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
         "title": "6-Tore-Spektakel:Kane knallt Kroatien weg",
         "link": "https://m.sportbild.bild.de/fussball/fussball-wm/wm-2026-england-mit-tuchel-gewinnt-spektakel-gegen-kroatien-6a3313947e682fc37fbfe800",
         "image_url": "https://images.bild.de/6a3313947e682fc37fbfe800/fe630dcaf6ea137859047f91c20ef876,9314e925?w=1280",
@@ -12,7 +48,7 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "BILDplus Gewinnspiel:NUR HEUTE! WM-Trikot gewinnen",
+        "title": "Nur heute!:Jetzt noch schnell ein Deutschland-Trikot sichern",
         "link": "https://m.sportbild.bild.de/fussball/fussball-wm/nur-heute-bildplus-verlost-adidas-deutschland-heimtrikots-6a329bf8a7834e0047eed01e",
         "image_url": "https://images.bild.de/6a329bf8a7834e0047eed01e/337ffc8a3ebea863b64e156cd1fd6dec,ec4c84c0?w=1280",
         "w": 1280,
@@ -36,7 +72,7 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "„What the f***ing hell is that?“:England-Fans verhöhnen neue WM-Regel",
+        "title": "„„What the f***ing hell is that?“:England Fans verhöhnen neue WM-Regel",
         "link": "https://m.sportbild.bild.de/fussball/internationaler-fussball/wm-2026-england-fans-verhoehnen-im-spiel-gegen-kroatien-neue-trinkpause-6a330c7fa7834e0047eed69e",
         "image_url": "https://images.bild.de/6a330c7fa7834e0047eed69e/99a7630a2ace58c7fbd072b01ecd388a-landscape,de77cd27?w=1280",
         "w": 1280,
@@ -48,9 +84,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Heavy Metal wie bei Klopp:Iraola der Richtige für Liverpools Millionen-Stars",
-        "link": "https://m.sportbild.bild.de/fussball/internationaler-fussball/liverpool-iraola-ist-der-richtige-fuer-millionen-stars-6a316e4ea8614079727d8631",
-        "image_url": "https://images.bild.de/6a316e4ea8614079727d8631/9910214b380f18a25b3014a3c988f4c6,d77f0ed?w=1280",
+        "title": "Bei Portugal-Blamage:Diese Ronaldo-Szene lässt tief blicken",
+        "link": "https://m.sportbild.bild.de/fussball/fussball-wm/bei-portugal-blamage-diese-ronaldo-szene-laesst-tief-blicken-6a336ca67e682fc37fbfead5",
+        "image_url": "https://images.bild.de/6a336ca67e682fc37fbfead5/ba832aa52428f5b02a6c1568ef4781c5-landscape,e0075db4?w=1280",
         "w": 1280,
         "h": 720,
         "focus_y": 0.3,
@@ -60,11 +96,11 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Verunglückter Portugal-Star:Jotas Eltern bei WM-Auftakt im Stadion",
-        "link": "https://m.sportbild.bild.de/fussball/fussball-wm/gaensehautbei-portugal-spiel-jotas-eltern-im-stadion-emotionale-szenen-vor-dem-anpfiff-6a32e1bae495aff7b584708c",
-        "image_url": "https://images.bild.de/6a32e1bae495aff7b584708c/4f6621a5c5975240f8cffaf442e1063c,c821f5d1?w=1280",
-        "w": 1024,
-        "h": 576,
+        "title": "„Könnten Lawine lostreten!“:Werden England-Fans für Fifa zum Problem?",
+        "link": "https://m.sportbild.bild.de/fussball/fussball-wm/koennten-lawine-lostreten-werden-england-fans-fuer-fifa-zum-problem-6a336c80f7c58304795acca2",
+        "image_url": "https://images.bild.de/6a336c80f7c58304795acca2/8faf89104f01c007131070e6d06f792b,93ecda5?w=1280",
+        "w": 1280,
+        "h": 720,
         "focus_y": 0.3,
         "source_title1": "SPORT",
         "source_title2": "BILD",
@@ -72,9 +108,21 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Zum Maresca-Start:Die Zahlen bei Man Citys Rekord-Transfer Anderson",
-        "link": "https://m.sportbild.bild.de/fussball/internationaler-fussball/man-city-anderson-als-rekord-transfer-zum-maresca-start-6a316e296bb5c7fe2e1c9c49",
-        "image_url": "https://images.bild.de/6a316e296bb5c7fe2e1c9c49/e2a0510442b29c3a8ae033240fe4b8a3,97f9eac1?w=1280",
+        "title": "Emotionaler Moment:Plötzliche Jubel-Explosion bei WM-Trainer",
+        "link": "https://m.sportbild.bild.de/fussball/fussball-wm/emotionaler-moment-ploetzliche-jubel-explosion-bei-wm-trainer-6a3360a6a7834e0047eed965",
+        "image_url": "https://images.bild.de/6a3360a6a7834e0047eed965/2e31e6e3e211d66e5eb9de52ec3b649d-landscape,d0a693bf?w=1280",
+        "w": 1280,
+        "h": 720,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Was Sie nachts verpasst haben:Ghana feiert Last-Minute-Wahnsinn",
+        "link": "https://m.sportbild.bild.de/fussball/fussball-wm/was-sie-nachts-verpasst-haben-ghana-feiert-last-minute-wahnsinn-6a335ae07e682fc37fbfea18",
+        "image_url": "https://images.bild.de/6a335ae07e682fc37fbfea18/d48c19584f8d9add5d80b461b84c8b30-landscape,5ed8e975?w=1280",
         "w": 1280,
         "h": 720,
         "focus_y": 0.3,
@@ -144,66 +192,6 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Eltern auf der Tribüne:Emotionale Jota-Szene im Stadion",
-        "link": "https://m.sportbild.bild.de/fussball/fussball-wm/eltern-auf-der-tribuene-emotionale-jota-szene-im-stadion-6a32f5d9a7834e0047eed5a4",
-        "image_url": "https://images.bild.de/6a32f5d9a7834e0047eed5a4/4be009caa5a97dc17f299b3f5746a8ce-landscape,f2e7598a?w=1280",
-        "w": 931,
-        "h": 524,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Ronaldo-Frust:Hier vergibt CR7 gleich doppelt",
-        "link": "https://m.sportbild.bild.de/fussball/fussball-wm/ronaldo-frust-hier-vergibt-cr7-gleich-doppelt-6a32f5bea31eb4153caa17ff",
-        "image_url": "https://images.bild.de/6a32f5bea31eb4153caa17ff/2345fcf3dda24f1566dee80d831a61b3,8959e6d3?w=1280",
-        "w": 1195,
-        "h": 672,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "„Das kostet“:Plötzlich klingelt es bei Rüdiger-PK",
-        "link": "https://m.sportbild.bild.de/fussball/fussball-wm/das-kostet-ploetzlich-klingelt-es-bei-ruediger-pk-6a32e06e7e682fc37fbfe585",
-        "image_url": "https://images.bild.de/6a32e06e7e682fc37fbfe585/98d9f670498e34212a9f6a2b251741d0-landscape,a7d766ab?w=1280",
-        "w": 1176,
-        "h": 662,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "„Messi-Bonus“:Muss er HIER Rot sehen?",
-        "link": "https://m.sportbild.bild.de/fussball/fussball-wm/messi-bonus-muss-er-hier-rot-sehen-6a32c361e495aff7b5846ebe",
-        "image_url": "https://images.bild.de/6a32c361e495aff7b5846ebe/f6f788a1bfe609d0cae540c9bb008e05,8c50b5b0?w=1280",
-        "w": 1280,
-        "h": 720,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Bundesliga statt United:HIER kommt der neue Millionen-Mann",
-        "link": "https://m.sportbild.bild.de/fussball/1-bundesliga/bayer-sticht-united-aus-hier-kommt-millionen-mann-moreira-an-6a328ccda7834e0047eece79",
-        "image_url": "https://images.bild.de/6a328ccda7834e0047eece79/190b1a3018fb882ae534ad7271e71ef3,94e16104?w=1280",
-        "w": 1280,
-        "h": 720,
-        "focus_y": 0.3,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
         "title": "Trainerwechsel bei RB:Leipzig trennt sich von Werner",
         "link": "https://m.sportbild.bild.de/fussball/rb-leipzig/bundesliga-trainer-von-rb-leipzig-ole-werner-offiziell-freigestellt-6a32c0ac4522e459ce2f3ee9",
         "image_url": "https://images.bild.de/6a32c0ac4522e459ce2f3ee9/0a7e342f4566d5eeb8ad90aa07eee847,bb713afe?w=1280",
@@ -231,6 +219,18 @@
         "title": "Was Borussia plant:WM entscheidet über Reynas Gladbach-Zukunft",
         "link": "https://m.sportbild.bild.de/fussball/borussia-moenchengladbach/gladbach-woran-jetzt-reynas-zukunft-jetzt-haengt-6a30bfb87e682fc37fbfb994",
         "image_url": "https://images.bild.de/6a30bfb87e682fc37fbfb994/a5d582f6d426ec565e0740bc37d7c5ea,f7f7a7aa?w=1280",
+        "w": 1280,
+        "h": 720,
+        "focus_y": 0.3,
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Ex-Bayern-Star im Gespräch:Wird ER neuer RB-Trainer?",
+        "link": "https://m.sportbild.bild.de/fussball/1-bundesliga/rb-leipzig-ex-bayern-star-im-gespraech-wird-er-neuer-rb-trainer-6a2c436f7e682fc37fbf7b3d",
+        "image_url": "https://images.bild.de/6a2c436f7e682fc37fbf7b3d/c5661b4607d1d9ff2607ee058b371c9d,eb3fc400?w=1280",
         "w": 1280,
         "h": 720,
         "focus_y": 0.3,
