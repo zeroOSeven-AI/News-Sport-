@@ -1,8 +1,8 @@
 [
     {
-        "title": "Dalić najavio povratak na \"tvorničke postavke\": Nikad nismo ovako loše branili prekide, neću više kalkulirati!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/dalic-vraca-433-nakon-engleske-fokus-na-prekidima-uoci-paname-15719581",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/18/k_39062775_640.jpg",
+        "title": "VIDEO Stravične scene, igrač Kanade doživio teški lom noge. S terena iznesen s maskom za kisik",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ozljeda-konea-crveni-za-madiba-kanada-razbila-katar-4-0-15719596",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/19/k_39132307_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -12,9 +12,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Švicarska u završnici razbila Bosnu i Hercegovinu, od 74. minute palo pet pogodaka!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/svicarska-u-zavrsnici-razbila-bosnu-i-hercegovinu-od-74-minute-palo-pet-pogodaka-15719539",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/18/k_39131371_640.jpg",
+        "title": "Šok u BiH nakon poraza: \"Zmajevi su teško oštećeni, a ovo se nije dogodilo u povijesti SP-a\"",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/bih-svicarci-sok-u-zavrsnici-sporni-penal-crveni-karton-katar-15719594",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/19/k_39131855_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,9 +24,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO Kanada - Katar: Stravične scene u Vancouveru, veznjak Kanade slomio nogu, igrači u šoku",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/uzivo-kanada-katar-stigli-su-sastavi-domacin-u-lovu-na-prvu-pobjedu-15719588",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/18/k_39102205_640.jpg",
+        "title": "Kanada sa šest komada potopila Katar, hat-trick Davida. Utakmicu obilježila strašna ozljeda",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/kanada-sa-sest-komada-potopila-katar-hat-trick-davida-utakmicu-obiljezila-strasna-ozljeda-15719588",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/18/k_39132308_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,9 +48,57 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "S razlogom ga zovu \"novi Broz\": Jedan Vatreni zasjenio sve, razlika je čak - kilometar i pol!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/petar-sucic-123-km-asistencija-protiv-engleske-novi-broz-15719546",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/18/k_39127477_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Kanada pobjedom srušila niz rekorada na SP-ima. Jedan je star čak 96 godina",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/kanada-katar-6-0-rekord-david-hat-trick-ozljeda-konea-15719598",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/19/k_39132911_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Modrićev kraj mora biti dostojan. Mogu li Hrvati, za promjenu, napokon gledati stvari drukčije?",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/modricev-najtezi-dan-penal-ritam-i-takticki-promasaj-protiv-engleske-15719512",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/18/k_39127437_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "\"Hrvatskoj je zabio iz inata\". Preporođenu zvijezdu Englezi slave više nego moćnog Kanea",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/bellingham-ponovno-zlatni-decko-kane-razbio-hrvatsku-tuchel-vjerovao-zlatan-pohvalio-15719570",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/18/k_39125553_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Žestoko priopćenje obitelji Lea Messija",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/messi-otkrio-razlog-suza-pismo-o-zdravlju-oca-i-poruka-medijima-15719555",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/18/k_39042931_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -108,7 +156,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "FOTO: Tri milijuna ljudi slavi na ulicama New Yorka. Na ovo su čekali više od pola stoljeća",
+        "title": "FOTO: Tri milijuna ljudi slavi na ulicama New Yorka. Na ovo su čekali više od pola stoljeća Dovraga, stvarno smo to uspjeli, kazao je MVP NBA finala Jalen Brunson",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/parada-knicksa-new-york-rekord-tri-milijuna-nakon-53-godine-15719575",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/18/k_39130486_640.jpg",
         "w": 640,
@@ -156,7 +204,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Češka vodila od početka do samog kraja utakmice pa ostala bez prve pobjede na Svjetskom prvenstvu Češka i JAR sada imaju po bod, dva manje od Meksika i Južne Koreje koji će svoj susret 2. kola odigrati u 3 sata u Guadalajari.",
+        "title": "Češka vodila od početka do samog kraja utakmice pa ostala bez prve pobjede na Svjetskom prvenstvu",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/ceska-vodila-od-pocetka-do-samog-kraja-utakmice-pa-ostala-bez-prve-pobjede-na-svjetskom-prvenstvu-15719509",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/18/k_39129587_640.jpg",
         "w": 640,
@@ -180,57 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Liverpool ‘preoteo‘ igrača Newcastleu pa ponudio 100 mil. eura za 19-godišnjaka, Real doveo stopera",
+        "title": "Liverpool ‘preoteo‘ igrača Newcastleu pa ponudio 100 mil. eura za 19-godišnjaka, Real doveo stopera",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-liverpool-preoteo-igraca-newcastleu-real-doveo-stopera-15719373",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/18/k_39077128_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Komentator SP-a dobio otkaz zbog nevjerojatnog gafa! \"Za osobu s 30 godina iskustva, neprihvatljivo!\"",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/trt-suspendirao-murata-ekrema-cimena-zbog-zamjene-irana-i-novog-zelanda-15719532",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/18/k_39118312_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hrvatska dobiva igrača od 80 milijuna eura i tandem za budućnost! A Dalić mora objasniti jednu stvar",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/baturina-sucic-iskra-nade-hrvatska-engleska-prekidi-sp-15719451",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/18/k_39125296_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Zaručnica slovenske ikone slomila čeljust u stravičnom padu",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/urska-zigart-tezak-pad-tour-de-suisse-slomljena-celjust-bolnica-15719545",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/18/k_39064934_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Nakon ove utakmice se pitam što znači ta familija! I zašto je Vušković uopće igrao?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/nakon-ove-utakmice-se-pitam-sto-znaci-ta-familija-i-zasto-je-vuskovic-uopce-igrao-15719307",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/18/k_39125206_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
