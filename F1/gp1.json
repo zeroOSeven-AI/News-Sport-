@@ -1,8 +1,20 @@
 [
     {
-        "title": "McLaren i Red Bull uložili žalbu zbog vraćanja Gaslyja na postolje VN Monaka",
-        "link": "https://www.gp1.hr/2026/06/mclaren-i-red-bull-ulozili-zalbu-zbog-vracanja-gaslyja-na-postolje-vn-monaka/",
-        "image_url": "https://www.gp1.hr/wp-content/uploads/2026/06/2026-monaco-red-bull-hadjar-podium.jpg",
+        "title": "Mercedes povukao zahtjev za ponovno razmatranje rezultata na VN Monaka",
+        "link": "https://www.gp1.hr/2026/06/mercedes-povukao-zahtjev-za-ponovno-razmatranje-rezultata-na-vn-monaka/",
+        "image_url": "https://www.gp1.hr/wp-content/uploads/2026/06/2026-monaco-mercedes-russell-02.jpg",
+        "w": 1800,
+        "h": 1200,
+        "focus_y": 0.5,
+        "source_title1": "GP1",
+        "source_title2": "F1",
+        "source_color": "#FF0000",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Autocross u Gambetićima: Jubilej 15. utrke zaslađen s 56 prijava",
+        "link": "https://www.gp1.hr/2026/06/autocross-u-gambeticima-jubilej-15-utrke-zasladen-s-56-prijava/",
+        "image_url": "https://www.gp1.hr/wp-content/uploads/2026/05/Najzanimljivija-utrka-CrossCar-snimio-M.-Krpan.jpg",
         "w": 1800,
         "h": 1200,
         "focus_y": 0.5,
@@ -48,6 +60,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "McLaren i Red Bull uložili žalbu zbog vraćanja Gaslyja na postolje VN Monaka",
+        "link": "https://www.gp1.hr/2026/06/mclaren-i-red-bull-ulozili-zalbu-zbog-vracanja-gaslyja-na-postolje-vn-monaka/",
+        "image_url": "https://www.gp1.hr/wp-content/uploads/2026/06/2026-monaco-red-bull-hadjar-podium.jpg",
+        "w": 1800,
+        "h": 1200,
+        "focus_y": 0.5,
+        "source_title1": "GP1",
+        "source_title2": "F1",
+        "source_color": "#FF0000",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Hülkenberg: Vrlo neobično i nesretno odustajanje",
         "link": "https://www.gp1.hr/2026/06/hulkenberg-vrlo-neobicno-i-nesretno-odustajanje/",
         "image_url": "https://www.gp1.hr/wp-content/uploads/2026/06/2026-barcelona-audi-hulkenberg.jpg",
@@ -72,45 +96,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Toyota pobijedila na 24 sata Le Mansa",
-        "link": "https://www.gp1.hr/2026/06/toyota-pobijedila-na-24-sata-le-mansa/",
-        "image_url": "https://www.gp1.hr/wp-content/uploads/2026/06/toyota-lemans-2026.jpg",
-        "w": 1200,
-        "h": 800,
-        "focus_y": 0.5,
-        "source_title1": "GP1",
-        "source_title2": "F1",
-        "source_color": "#FF0000",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Norris: Imamo sreće što Ferrari trenutačno nema bolji motor",
         "link": "https://www.gp1.hr/2026/06/norris-imamo-srece-sto-ferrari-trenutacno-nema-bolji-motor/",
         "image_url": "https://www.gp1.hr/wp-content/uploads/2026/06/2026-barcelona-mclaren-norris-02.jpg",
-        "w": 1800,
-        "h": 1200,
-        "focus_y": 0.5,
-        "source_title1": "GP1",
-        "source_title2": "F1",
-        "source_color": "#FF0000",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Vasseur: Lewis je bio izvanredan, ovo će mu biti novi početak",
-        "link": "https://www.gp1.hr/2026/06/vasseur-lewis-je-bio-izvanredan-ovo-ce-mu-biti-novi-pocetak/",
-        "image_url": "https://www.gp1.hr/wp-content/uploads/2026/06/2026-barcelona-ferrari-hamilton-celebration1.jpg",
-        "w": 1800,
-        "h": 1200,
-        "focus_y": 0.5,
-        "source_title1": "GP1",
-        "source_title2": "F1",
-        "source_color": "#FF0000",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Braća Coenen oduševila Ameriku: Lucas na postolju, Sacha pobijedio u drugoj utrci",
-        "link": "https://www.gp1.hr/2026/06/braca-coenen-odusevila-ameriku-lucas-na-postolju-sacha-pobijedio-u-drugoj-utrci/",
-        "image_url": "https://www.gp1.hr/wp-content/uploads/2026/06/2026-motocross-lucas-coenen-ama-thunder-valley-1.jpg",
         "w": 1800,
         "h": 1200,
         "focus_y": 0.5,
