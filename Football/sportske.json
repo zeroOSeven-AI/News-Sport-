@@ -1,8 +1,8 @@
 [
     {
-        "title": "Dalić mijenja plan, traži se jedanaesti Vatreni! Ovo je trojac zbog kojeg se izbornik našao u škakljivoj situaciji",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/sastav-hrvatske-panama-budimir-krama-baturina-modric-200-nastup-15719893",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/19/k_39062610_640.jpg",
+        "title": "Većina ga je vidjela kako vodi bitke u SAD-u, ali ovo SP on gleda na TV-u: ‘Vjerovao sam da ću dobiti poziv...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/lovro-majer-ugljan-poruka-dalicu-vatreni-humanitarni-turnir-15719930",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/19/k_37670381_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -12,9 +12,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Kramarić o novom pravilu: Apsolutno sam protiv! A u Dallasu su neki igrači imali osjećaj da je finale SP-a",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-panama-sp-najava-druga-utakmica-kramaric-vuskovic-modric-15719835",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/19/k_39041378_640.jpg",
+        "title": "VIDEO: Uhvatio ga za ruku, uperio mu prst u lice i krenuo brojiti! Kamere zabilježile žestoku reakciju izbornika",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/kanada-razbila-katar-6-0-ozljeda-konea-crveni-za-madiba-sukob-stozera-15719919",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/19/k_39132557_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,9 +24,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Rođendanska atmosfera kod Vatrenih, Dalić zagrlio svog ‘borca‘, igrači mu čestitali velikim pljeskom",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/kramaric-rodendan-dalic-pocetna-postava-panama-trening-hrvatska-15719866",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/19/k_39052244_640.jpg",
+        "title": "UŽIVO/VIDEO SAD - Australija: Domaćini nakon sjajne akcije došli u rano vodstvo nespretnim autogolom",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/uzivo-sad-australija-pocela-je-utakmica-amerikanci-love-novu-pobjedu-australci-zele-jos-jedno-iznenadenje-15719904",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/19/k_39135889_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -39,6 +39,18 @@
         "title": "Priča koja mijenja igru na Poljudu! Stvara se moćni Hajduk, evo istine iza ‘milijunskog‘ posla kojeg svi čekaju ‘Svašta se priča i piše, toliko gluposti koje nemaju veze s istinom. Ne tražimo dionice, postotke, kamate, ni bilo što četvrto ili peto‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/whitebit-hajduk-ugovor-10-milijuna-eura-piric-bonusi-ulaganja-pojacanja-15719869",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/19/k_37262730_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Opalili po džepu navijača: Evo koliko su Dinamo i Hajduk podigli cijene ulaznica, jedna je promjena značajna",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-hajduk-godisnje-ulaznice-cijene-porast-30-posto-14-posto-europske-utakmice-15719926",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/19/k_38981937_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -72,6 +84,54 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Kramarić o novom pravilu: Apsolutno sam protiv! A u Dallasu su neki igrači imali osjećaj da je finale SP-a",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-panama-sp-najava-druga-utakmica-kramaric-vuskovic-modric-15719835",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/19/k_39041378_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Zbog slučajno poslane poruke na Facebooku doselila se iz Južnoafričke Republike na Cres: ‘Još se nisam navikla na vaše juhe!‘",
+        "link": "https://sportske.jutarnji.hr/native/zbog-slucajno-poslane-poruke-na-facebooku-doselila-se-iz-juznoafricke-republike-na-cres-jos-se-nisam-navikla-na-vase-juhe-15719834",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/19/k_39115275_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "UŽIVO Kane: ‘Pobjeda protiv Hrvatske mi je jedan od najdražih trenutaka‘, oglasio se Džeko nakon poraza",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-kane-pobjeda-protiv-hrvatske-mi-je-jedan-od-najdrazih-trenutaka-oglasio-se-dzeko-nakon-poraza-15719600",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/19/k_39125846_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Rođendanska atmosfera kod Vatrenih, Dalić zagrlio svog borca, igrači mu čestitali velikim pljeskom",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/kramaric-rodendan-dalic-pocetna-postava-panama-trening-hrvatska-15719866",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/19/k_39052244_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Boban Zagrebom proveo novo pojačanje i rasplakao Zajeca. Čekaju se važne vijesti iz Italije i Turske",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/peretz-na-pragu-dinama-boban-otkriva-planove-bennacer-livakovic-15719822",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/19/k_38983583_640.jpg",
@@ -84,8 +144,8 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Soudani se vratio u Hrvatsku, Zrinjski predstavio novog trenera, Real ruši rekord?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-soudani-se-vratio-u-hrvatsku-zrinjski-predstavio-novog-trenera-real-rusi-rekord-15719601",
+        "title": "UŽIVO: Englezi nude 50 milijuna za Vatrenog! Soudani se vratio u Hrvatsku, Zrinjski predstavio novog trenera",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-englezi-nude-50-milijuna-za-vatrenog-soudani-se-vratio-u-hrvatsku-zrinjski-predstavio-novog-trenera-15719601",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/19/k_39077128_640.jpg",
         "w": 640,
         "h": 640,
@@ -96,7 +156,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Škabrnja simboličnom donacijom podupire izgradnju vukovarskog Stadiona 12 hrvatskih redarstvenika",
+        "title": "Škabrnja simboličnom donacijom podupire izgradnju vukovarskog Stadiona 12 hrvatskih redarstvenika Potez naglašava neraskidivu vezu dvaju stradalničkih mjesta i ulaganje u budućnost mladih sportaša",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/skabrnja-donira-za-izgradnju-vukovarskog-stadiona-12-hrvatskih-redarstvenika-15719896",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/19/k_39088186_640.png",
         "w": 640,
@@ -108,9 +168,33 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Nasmijao ‘pola svijeta‘, ali sve će to masno platiti: Francuz za psovanje popio kaznu od 35 tisuća eura",
+        "title": "Otvaranje SP-a gledao s klupe, svlačionicu Vatrenih napustio pola sata prije svih, a sad upada u prvih 11?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/budimir-ili-musa-dalicev-odabir-za-panamu-15719778",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/19/k_39085408_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Nasmijao ‘pola svijeta‘, ali sve će to masno platiti: Francuz za psovanje popio kaznu od 35 tisuća eura",
         "link": "https://sportske.jutarnji.hr/sportske/tenis/tenis-mix/moutet-kazna-40000-dolara-psovke-bbc-queen-s-club-atp-zalba-15719874",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/19/k_37695741_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Stravičan trenutak koji je utišao euforiju! ‘Srce vam stane kad to doživite, svi smo potreseni‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/kanada-razbila-katar-6-0-kone-tesko-ozlijeden-bih-na-potezu-15719863",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/19/k_39132307_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -147,90 +231,6 @@
         "title": "Neočekivan potez Cibone, sve se odigralo u samo nekoliko sati! Apsurd koji bi mogao dovesti do novog cirkusa",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/aba-liga/cibona-prijavila-bcl-vraca-se-u-aba-ligu-i-gubi-subvenciju-15719842",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/19/k_39093718_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Navijači dobili odgovor koji su čekali mjesecima: Dinamo objavio važne detalje za nadolazeću sezonu Klub je objavio sve detalje godišnjih ulaznica: poznate su cijene, termini prodaje i model koji će vrijediti nakon preseljenja dijela utakmica u Kranjčevićevu ulicu.",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-godisnje-ulaznice-maksimir-kranjceviceva-prodajni-rokovi-cijene-15719839",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/19/k_38981944_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Nakon hrvatskog dresa, Amerikanci popljuvali i \"Lijepu našu\". Pogledajte gdje su je rangirali",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/the-athletic-hrvatska-himna-na-40-mjestu-engleska-najgora-bih-visoko-15719808",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/19/k_39125128_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Voditeljica dala ostavku nakon skandalozne objave: \"Messijev otac je upravo preminuo, Leo mora otići usred SP-a\"",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/voditeljica-ostala-bez-posla-nakon-netocne-objave-o-messijevu-ocu-15719783",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/19/k_39133659_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Ne mogu podnijeti neke stvari, nitko ne smije vrijeđati naš razum! Zašto ovaj Vatreni nije starter?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/loncarevic-trazi-kovacica-u-startu-promjene-za-panamu-vuskovic-ispada-15719626",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/19/k_39125293_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Za Ninu i Nataliju domaći je miting idealna prilika za probijanje granica",
-        "link": "https://sportske.jutarnji.hr/sportske/boris-hanzekovic-memorijal/vukovic-svenda-hanzekovicev-memorijal-sub-2-ispod-56-dinamo-zrinjevac-15719844",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/19/k_39133872_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Maestro ušao u rijetko društvo, a pogledajte brojke: Modrić ovo ne pamti 20 godina!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/modric-prag-200-nastupa-rekordi-hrvatska-engleska-svjetsko-prvenstvo-15719751",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/18/k_39126951_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Ancelotti pod udarom kritika mijenja sastav i sustav velesile, evo tko ispada iz prvih 11",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/brazil-ancelotti-vraca-4-2-4-neymar-trenira-haiti-u-philadelphiji-15719768",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/18/k_39101992_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
