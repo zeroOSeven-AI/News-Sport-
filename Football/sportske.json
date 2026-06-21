@@ -1,8 +1,20 @@
 [
     {
-        "title": "Od njega se puno očekuje! Bratića je odavno nadmašio, a po nekima je već sada najbolji hrvatski nogometaš",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/sucic-krilo-panama-kovacic-dzoker-modric-hrvatska-15720332",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/21/k_39143189_640.jpg",
+        "title": "Velik as Vatrenih vraća se u udarnu momčad? U samo pola sata protiv Engleza bio je apsolutno nepogrešiv",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/dalic-vraca-posjed-kovacic-i-modric-od-starta-protiv-paname-15720380",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/18/k_39062628_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Sprema se pravi šou za Vatrene! Koferi su već spakirani, Mladen Grdović i njegova gitara stižu u Toronto",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/mladen-grdovic-u-torontu-bodri-vatrene-protiv-paname-15720383",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/21/k_39144932_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,9 +36,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "FOTO: Tko je fatalna Srpkinja čiji je suprug postao junak Mundijala?‘Ponosna, ovo im nitko ne može oduzeti!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/eloy-room-15-obrana-ocjena-10-ekvador-curacao-zorana-jovanovic-15720287",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/21/k_39144598_640.jpg",
+        "title": "FOTO: Apsolutna legenda Vatrenih uhvaćena na tribinama! Evo s kim je ikona pratila utakmicu Japana Davor Šuker je uživo pratio dvoboj između Japana i Tunisa, a u njegovu je društvu bio legendarni Bugarin Hristo Stoičkov",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/japan-razbio-tunis-4-0-suker-i-stoickov-u-monterreyu-15720275",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/21/k_39111148_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,9 +48,45 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Hrvatska iduću utakmicu igra na najmanjem stadionu SP-a, Modrić protiv Paname ispisuje povijest Najzanimljivije događaje s Mundijala pratite tijekom cijelog dana i noći",
+        "title": "UŽIVO: Mundijalu prijeti prva odgoda utakmice, Luka Modrić će protiv Paname ispisati povijest",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-noc-za-pamcenje-na-sp-u-japan-slavio-u-povijesnoj-utakmici-curacao-uzeo-bod-15720276",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/21/k_39125262_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Koliko znate o Vatrenima i ostalim ne toliko važnim stvarima sa svjetskih prvenstava?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/kviz-svjetsko-prvenstvo-nogomet-provjera-znanja-15720111",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/20/k_38806688_640.gif",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "UŽIVO: Man. United zagrizao za Vatrenog! Barcelona nudi 100 milijuna eura za zvijezdu Argentine",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/uzivo-man-united-zagrizao-za-vatrenog-barcelona-nudi-100-milijuna-eura-za-zvijezdu-argentine-15720277",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/21/k_39077128_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "FOTO: Sjećate li se popularne Larisse? Ponovno se pojavila u javnosti, ovog puta u prijenosu potekle i suze",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/larissa-riquelme-suze-paragvaj-pobijedio-tursku-1-0-s-igracem-manje-15720343",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/21/k_39144677_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,6 +132,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Ne brinem se zbog konkurencije, ponekad čak ni ne gledam startne liste",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/atletika/ne-brinem-se-zbog-konkurencije-ponekad-cak-ni-ne-gledam-startne-liste-15720376",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/21/k_39144924_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Ipak nije bila šala! Ronaldinho potpisao za novi klub u karijeri, legenda će zaista opet zaigrati nogomet",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/ronaldinho-ravenna-suvlasnik-sluzbena-utakmica-serie-c-r10-15720309",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/21/k_39139153_640.jpg",
@@ -96,19 +156,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Barcelona nudi 100 milijuna eura za zvijezdu Argentine, Liverpool ne odustaje od Diomandea",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/uzivo-liverpool-ne-odustaje-od-diomandea-maresca-uskoro-i-sluzbeno-u-cityju-15720277",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/21/k_39077128_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Nakon Džeke još jedan igrač digao glas protiv izbornika? ‘Svi se možemo složiti oko jednog‘",
+        "title": "Nakon Džeke još jedan igrač digao glas protiv izbornika? ‘Svi se možemo složiti oko jednog‘ ‘Sada imamo utakmicu u kojoj smo na papiru favoriti. Očekujem drugačiji pristup i drugačiju igru. Moramo biti momčad koja će stvarati šanse‘, kaže Dedić",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/bih-mora-napasti-protiv-katara-dedic-i-dzeko-najavljuju-ofenzivu-za-prolaz-15720230",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/20/k_39141578_640.jpg",
         "w": 640,
@@ -156,7 +204,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hrvatska na ispitu zajedništva! Neki svoje ambicije neće ispuniti, a koplja se sada lome oko dvojice Vatrenih Vatreni stižu do ključnog raskrižja: mir donose tri boda i konačna kralježnica momčadi",
+        "title": "Hrvatska na ispitu zajedništva! Neki svoje ambicije neće ispuniti, a koplja se sada lome oko dvojice Vatrenih",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/dalic-udarnu-postavu-hrvatska-panama-prva-pobjeda-15720256",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/21/k_36438132_640.jpg",
         "w": 640,
@@ -180,57 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Japan dominantnom predstavom svladao nemoćni Tunis u 1000. utakmici SP-a, sjajna partija Uede",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/video-japan-dominantnom-predstavom-svladao-nemocni-tunis-u-1000-utakmici-sp-a-sjajna-partija-uede-15720254",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/21/k_39144436_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Senzacija nad senzacijama: Država sa 135 nogometaša osvojila prvi bod na Svjetskom prvenstvu!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/senzacija-nad-senzacijama-drzava-sa-135-nogometasa-osvojila-prvi-bod-na-svjetskom-prvenstvu-15720244",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/20/k_39143657_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Režiser čuda koje je šokiralo svijet: ‘Ljudima kojima život nije uvijek lagan želim da proslave ovaj uspjeh‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/curacao-prvi-bod-sp-eloy-room-15-obrana-0-0-ekvador-kansas-city-15720260",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/21/k_39144250_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Trumpu se ovo neće svidjeti! Nizozemski kralj: ‘Dao sam Infantinu nekoliko prijedloga‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/kralj-willem-alexander-bocnuo-infantina-trumpova-nagrada-za-mir-fifa-15720253",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/21/k_39140551_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Sučić žestoko startao na Baturinu, stoper gurnuo Modriću kroz noge, kapetan se ‘osvetio‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/hrvatska-zestok-trening-aleksandrija-puni-kadar-pred-panamu-15720245",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/21/k_39143305_640.png",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
