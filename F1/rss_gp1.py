@@ -5,197 +5,231 @@ import random
 import re
 from io import BytesIO
 from typing import Any, Dict, List, Optional
+
+import feedparser
+import httpx
 from bs4 import BeautifulSoup
 from PIL import Image
-from playwright.async_api import BrowserContext, async_playwright
-import httpx
-import feedparser
+from playwright.async_api import async_playwright
 
 # ==========================================
-# KONFIGURACIJA
+# CONFIG
 # ==========================================
 START_URL = "https://www.gp1.hr/feed/"
 
-MIN_IMAGE_WEIGHT_BYTES = 30000  # 30 KB
+MIN_IMAGE_WEIGHT_BYTES = 30000
 MIN_IMAGE_WIDTH_PX = 400
 MAX_NEWS_ITEMS = 20
-CONCURRENT_TASKS = 5  # Broj članaka paralelno
+CONCURRENT_TASKS = 5
 
 PROXY_LIST = []
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
-# ==========================================
-# POMOĆNE FUNKCIJE
-# ==========================================
 
+# ==========================================
+# IMAGE QUALITY
+# ==========================================
 def get_focus_y(w: int, h: int) -> float:
     ratio = round(w / h, 2)
-    if ratio >= 1.6: return 0.35
-    if 0.9 <= ratio <= 1.1: return 0.25
+    if ratio >= 1.6:
+        return 0.35
+    if 0.9 <= ratio <= 1.1:
+        return 0.25
     return 0.5
 
 
 async def get_image_info_async(url: str, proxy: Optional[str] = None) -> Optional[Dict[str, Any]]:
-    if not url or not url.startswith('http') or "1x1" in url:
+    if not url or not url.startswith("http") or "1x1" in url:
         return None
-        
+
     try:
-        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
-        mounts = {"http://": httpx.AsyncHTTPTransport(proxy=proxy), "https://": httpx.AsyncHTTPTransport(proxy=proxy)} if proxy else None
-        
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        }
+
+        mounts = None
+        if proxy:
+            mounts = {
+                "http://": httpx.AsyncHTTPTransport(proxy=proxy),
+                "https://": httpx.AsyncHTTPTransport(proxy=proxy),
+            }
+
         async with httpx.AsyncClient(mounts=mounts, timeout=10.0, headers=headers) as client:
             res = await client.get(url)
-            
+
+            if res.status_code != 200:
+                return None
+
             if len(res.content) < MIN_IMAGE_WEIGHT_BYTES:
                 return None
-                
+
             img = Image.open(BytesIO(res.content))
             w, h = img.size
-            
-            if w < MIN_IMAGE_WIDTH_PX: 
+
+            if w < MIN_IMAGE_WIDTH_PX:
                 return None
-                
-            return {"url": url, "w": w, "h": h, "focus_y": get_focus_y(w, h)}
+
+            return {
+                "url": url,
+                "w": w,
+                "h": h,
+                "focus_y": get_focus_y(w, h),
+            }
+
     except Exception:
         return None
 
-# ==========================================
-# PROCESIRANJE JEDNOG ČLANKA (Otvaranje i čitanje Meta oznaka)
-# ==========================================
 
+# ==========================================
+# ARTICLE PROCESSOR
+# ==========================================
 async def process_single_article(browser: Any, title: str, link: str) -> Optional[Dict[str, Any]]:
     proxy_config = None
     selected_proxy = None
-    
+
     if PROXY_LIST:
         selected_proxy = random.choice(PROXY_LIST)
         proxy_config = {"server": selected_proxy}
 
     context = await browser.new_context(
         user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        viewport={'width': 1280, 'height': 720},
-        proxy=proxy_config
+        viewport={"width": 1280, "height": 720},
+        proxy=proxy_config,
     )
-    
+
     page = await context.new_page()
+
     try:
-        logging.info(f"🔍 Otvaram GP1 članak: '{title[:30]}...'")
+        logging.info(f"🔍 GP1: {title[:40]}")
+
         await page.goto(link, wait_until="domcontentloaded", timeout=30000)
-        
-        soup = BeautifulSoup(await page.content(), 'html.parser')
+        soup = BeautifulSoup(await page.content(), "html.parser")
+
         src = None
-        
-        # 1. Ciljamo Open Graph sliku visoke rezolucije
-        og_image = soup.find("meta", property="og:image") or soup.find("meta", name="twitter:image")
-        if og_image and og_image.get("content"):
-            src = og_image["content"]
-            
-        # 2. Fallback na JSON-LD strukturu ako meta zakaže
+
+        # OG IMAGE
+        og = soup.find("meta", property="og:image") or soup.find("meta", name="twitter:image")
+        if og and og.get("content"):
+            src = og["content"]
+
+        # JSON-LD fallback
         if not src:
-            json_ld_tags = soup.find_all("script", type="application/ld+json")
-            for tag in json_ld_tags:
+            for tag in soup.find_all("script", type="application/ld+json"):
                 try:
-                    js_data = json.loads(tag.string)
-                    if isinstance(js_data, dict) and js_data.get("@type") == "NewsArticle":
-                        if "image" in js_data:
-                            if isinstance(js_data["image"], list) and js_data["image"]:
-                                src = js_data["image"][0]
-                            elif isinstance(js_data["image"], dict):
-                                src = js_data["image"].get("url")
-                            else:
-                                src = js_data["image"]
-                            break
+                    data = json.loads(tag.string)
+                    if isinstance(data, dict) and data.get("@type") == "NewsArticle":
+                        img = data.get("image")
+                        if isinstance(img, list):
+                            src = img[0]
+                        elif isinstance(img, dict):
+                            src = img.get("url")
+                        else:
+                            src = img
+                        break
                 except Exception:
                     continue
 
         if not src:
             return None
-        
+
         if "placeholder" in src.lower() or "sys-fallback" in src.lower():
             return None
-                
-        image_info = await get_image_info_async(src, proxy=selected_proxy)
-        if image_info:
-            return {
-                "title": title,
-                "link": link,
-                "image_url": image_info["url"],
-                "w": image_info["w"],
-                "h": image_info["h"],
-                "focus_y": image_info["focus_y"],
-                "source_title1": "GP1",
-                "source_title2": "F1",
-                "source_color": "#FF0000",
-                "flag": "🇭🇷"
-            }
-        return None
+
+        img = await get_image_info_async(src, proxy=selected_proxy)
+        if not img:
+            return None
+
+        return {
+            "title": title,
+            "link": link,
+            "image_url": img["url"],
+            "w": img["w"],
+            "h": img["h"],
+            "focus_y": img["focus_y"],
+            "source_title1": "GP1",
+            "source_title2": "F1",
+            "source_color": "#FF0000",
+            "flag": "🇭🇷",
+        }
+
     except Exception:
         return None
     finally:
         await context.close()
 
-# ==========================================
-# GLAVNA ASINKRONA LOGIKA
-# ==========================================
 
+# ==========================================
+# MAIN SCRAPER (FIXED FEED HANDLING)
+# ==========================================
 async def scrape_gp1_async() -> None:
-    logging.info("🚀 Pokrećem GP1 XML feed parsiranje...")
-    
-    try:
-        # 🔥 POPRAVAK: Preuzimamo XML pomoću httpx-a s User-Agentom da izbjegnemo blokadu na GitHubu
-        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'}
-        async with httpx.AsyncClient(timeout=15.0, headers=headers) as client:
-            response = await client.get(START_URL)
-            xml_content = response.text
+    logging.info("🚀 GP1 feed loading...")
 
-        # Prosjeđujemo preuzeti XML tekst feedparseru
-        feed = feedparser.parse(xml_content)
-        tasks_to_process = []
-        
-        for entry in feed.entries:
-            title = entry.get('title', '').strip()
-            link = entry.get('link', '')
-            
-            if title and link:
-                tasks_to_process.append((title, link))
-                
-        logging.info(f"📊 Detektirano {len(tasks_to_process)} vijesti unutar GP1 XML feeda.")
-        
-        if not tasks_to_process:
-            logging.warning("⚠️ XML feed je prazan ili nedostupan.")
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    }
+
+    try:
+        async with httpx.AsyncClient(timeout=15.0, headers=headers) as client:
+            res = await client.get(START_URL)
+
+            if res.status_code != 200:
+                logging.error(f"❌ Feed HTTP error: {res.status_code}")
+                return
+
+            xml = res.text.strip()
+
+        # 🔥 CRITICAL FIX: sanity check
+        if not xml or "<rss" not in xml:
+            logging.error("❌ Feed nije XML (vjerojatno blocked HTML page)")
             return
+
+        feed = feedparser.parse(xml)
+
+        if not feed.entries:
+            logging.error("❌ feedparser.entries = 0 (broken feed)")
+            return
+
+        tasks = []
+        for e in feed.entries:
+            title = e.get("title", "").strip()
+            link = e.get("link", "")
+            if title and link:
+                tasks.append((title, link))
+
+        logging.info(f"📊 GP1 entries: {len(tasks)}")
 
         async with async_playwright() as p:
             browser = await p.chromium.launch(headless=True)
-            news_items: List[Dict[str, Any]] = []
-            
-            for i in range(0, len(tasks_to_process), CONCURRENT_TASKS):
-                if len(news_items) >= MAX_NEWS_ITEMS:
+
+            news = []
+
+            for i in range(0, len(tasks), CONCURRENT_TASKS):
+                if len(news) >= MAX_NEWS_ITEMS:
                     break
-                    
-                chunk = tasks_to_process[i:i + CONCURRENT_TASKS]
-                logging.info(f"📦 Otvaram paket od {len(chunk)} paralelna članka...")
-                
-                async_tasks = [process_single_article(browser, title, link) for title, link in chunk]
-                results = await asyncio.gather(*async_tasks)
-                
-                for res in results:
-                    if res:
-                        news_items.append(res)
-                        if len(news_items) >= MAX_NEWS_ITEMS:
+
+                chunk = tasks[i:i + CONCURRENT_TASKS]
+
+                results = await asyncio.gather(
+                    *[process_single_article(browser, t, l) for t, l in chunk]
+                )
+
+                for r in results:
+                    if r:
+                        news.append(r)
+                        if len(news) >= MAX_NEWS_ITEMS:
                             break
-                            
+
             await browser.close()
-            
-            if news_items:
-                # Spremanje izravno u F1 mapu projekta
-                with open("F1/gp1.json", "w", encoding="utf-8") as f:
-                    json.dump(news_items[:MAX_NEWS_ITEMS], f, ensure_ascii=False, indent=4)
-                logging.info(f"🎉 Gotovo! 'F1/gp1.json' uspješno spremljen s {len(news_items[:MAX_NEWS_ITEMS])} artikala.")
-            
+
+        with open("F1/gp1.json", "w", encoding="utf-8") as f:
+            json.dump(news[:MAX_NEWS_ITEMS], f, ensure_ascii=False, indent=4)
+
+        logging.info(f"✅ GP1 done: {len(news)} articles")
+
     except Exception as e:
-        logging.error(f"❌ Kritična greška u glavnom procesu: {e}")
+        logging.error(f"❌ GP1 fatal error: {e}")
+
 
 if __name__ == "__main__":
     asyncio.run(scrape_gp1_async())
