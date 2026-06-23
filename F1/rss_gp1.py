@@ -133,7 +133,6 @@ async def process(entry: Dict[str, Any], client: httpx.AsyncClient) -> Dict[str,
     
     width, height = 0, 0
     if image_url:
-        # Wrapped in a localized try-except to ensure one broken image cannot crash the run
         try:
             width, height = await get_image_dimensions(client, image_url)
         except Exception:
