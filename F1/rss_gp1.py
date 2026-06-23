@@ -1,4 +1,5 @@
 import asyncio
+import io
 import json
 import logging
 import re
@@ -8,6 +9,7 @@ from typing import Optional, Dict, Any, List
 import feedparser
 import httpx
 from email.utils import parsedate_to_datetime
+from PIL import Image
 
 START_URL = "https://www.gp1.hr/feed/"
 
@@ -30,36 +32,67 @@ def to_iso(date_str: Optional[str]) -> Optional[str]:
 
 
 # ----------------------------
-# IMAGE EXTRACTION (WITH WP FALLBACK)
+# IMAGE EXTRACTION & CLEANUP
 # ----------------------------
 def extract_image(entry: Dict[str, Any]) -> str:
+    img_url = ""
+    
     # 1. Standard RSS fields
     media = entry.get("media_content")
     if media and isinstance(media, list) and "url" in media[0]:
-        return media[0]["url"]
+        img_url = media[0]["url"]
+    else:
+        thumb = entry.get("media_thumbnail")
+        if thumb and isinstance(thumb, list) and "url" in thumb[0]:
+            img_url = thumb[0]["url"]
+        else:
+            enclosures = entry.get("enclosures")
+            if enclosures and isinstance(enclosures, list) and "href" in enclosures[0]:
+                img_url = enclosures[0]["href"]
 
-    thumb = entry.get("media_thumbnail")
-    if thumb and isinstance(thumb, list) and "url" in thumb[0]:
-        return thumb[0]["url"]
+    # 2. WordPress Fallback: Extract from content or description
+    if not img_url:
+        content_encoded = ""
+        if "content" in entry and isinstance(entry["content"], list) and len(entry["content"]) > 0:
+            content_encoded = entry["content"][0].get("value", "")
+            
+        description = entry.get("description", "")
+        search_text = f"{content_encoded} {description}"
 
-    enclosures = entry.get("enclosures")
-    if enclosures and isinstance(enclosures, list) and "href" in enclosures[0]:
-        return enclosures[0]["href"]
+        if search_text.strip():
+            match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', search_text)
+            if match:
+                img_url = match.group(1)
 
-    # 2. WordPress Fallback: Extract first <img> src from content or description
-    content_encoded = ""
-    if "content" in entry and isinstance(entry["content"], list) and len(entry["content"]) > 0:
-        content_encoded = entry["content"][0].get("value", "")
-        
-    description = entry.get("description", "")
-    search_text = f"{content_encoded} {description}"
+    # 3. Clean WordPress image dimensions to get the ORIGINAL image
+    if img_url:
+        img_url = re.sub(r'-\d+x\d+(?=\.[a-zA-Z]+$)', '', img_url)
 
-    if search_text.strip():
-        match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', search_text)
-        if match:
-            return match.group(1)
+    return img_url
 
-    return ""
+
+# ----------------------------
+# ASYNC IMAGE DIMENSIONS FETCH
+# ----------------------------
+async def get_image_dimensions(client: httpx.AsyncClient, url: str) -> tuple[int, int]:
+    if not url:
+        return 0, 0
+    try:
+        # We use streaming to download only the first few bytes (headers) of the image
+        async with client.stream("GET", url) as response:
+            if response.status_code != 200:
+                return 0, 0
+            
+            p = ImageFile.Parser()
+            async for chunk in response.iter_bytes(chunk_size=1024):
+                p.feed(chunk)
+                if p.image:
+                    return p.image.size  # returns (width, height)
+                if len(p.data) > 32768:  # Safety break after 32KB if dimensions aren't found
+                    break
+    except Exception as e:
+        logging.warning(f"Failed to get dimensions for {url}: {e}")
+    return 0, 0
 
 
 # ----------------------------
@@ -85,7 +118,6 @@ async def fetch_feed() -> Any:
     logging.info(f"FEED STATUS: {r.status_code}")
     logging.info(f"FEED SIZE: {len(r.content)} bytes")
 
-    # HARD GUARD: detect HTML/block page
     content_type = r.headers.get("content-type", "").lower()
     if "xml" not in content_type and "rss" not in content_type:
         logging.error("❌ NOT RSS FEED (likely blocked or HTML response)")
@@ -97,15 +129,20 @@ async def fetch_feed() -> Any:
 # ----------------------------
 # PROCESS ENTRY
 # ----------------------------
-async def process(entry: Dict[str, Any]) -> Dict[str, Any]:
+async def process(entry: Dict[str, Any], client: httpx.AsyncClient) -> Dict[str, Any]:
+    image_url = extract_image(entry)
+    
+    # Fetch real dimensions for the original image
+    width, height = await get_image_dimensions(client, image_url)
+
     return {
         "title": entry.get("title", ""),
         "link": entry.get("link", ""),
         "author": entry.get("author", ""),
         "published_at": to_iso(entry.get("published") or entry.get("updated")),
-        "image_url": extract_image(entry),
-        "w": 0,
-        "h": 0,
+        "image_url": image_url,
+        "w": width,
+        "h": height,
         "focus_y": 0.5,
         "source_title1": "GP1",
         "source_title2": "F1",
@@ -119,7 +156,6 @@ async def process(entry: Dict[str, Any]) -> Dict[str, Any]:
 # ----------------------------
 async def run():
     feed = await fetch_feed()
-
     entries = getattr(feed, "entries", [])
 
     logging.info(f"FEED ITEMS: {len(entries)}")
@@ -138,9 +174,14 @@ async def run():
         print("OK: 0 articles (EMPTY FEED)")
         return
 
-    articles: List[Dict[str, Any]] = await asyncio.gather(
-        *[process(e) for e in entries]
-    )
+    # Using a single client instance to handle image dimension checking concurrently
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    }
+    async with httpx.AsyncClient(timeout=10, headers=headers, follow_redirects=True) as client:
+        articles: List[Dict[str, Any]] = await asyncio.gather(
+            *[process(e, client) for e in entries]
+        )
 
     output = {
         "created_at": datetime.now(timezone.utc).isoformat(),
@@ -158,4 +199,6 @@ async def run():
 # ENTRYPOINT
 # ----------------------------
 if __name__ == "__main__":
+    # Import ImageFile locally here to ensure safety inside get_image_dimensions fallback
+    from PIL import ImageFile
     asyncio.run(run())
