@@ -16,6 +16,9 @@ logging.basicConfig(
 )
 
 
+# ----------------------------
+# DATE PARSER (PY3.9 SAFE)
+# ----------------------------
 def to_iso(date_str: Optional[str]) -> Optional[str]:
     if not date_str:
         return None
@@ -25,18 +28,18 @@ def to_iso(date_str: Optional[str]) -> Optional[str]:
         return None
 
 
+# ----------------------------
+# IMAGE EXTRACTION (RSS ONLY)
+# ----------------------------
 def extract_image(entry: Dict[str, Any]) -> str:
-    # 1. media_content (najčešće WordPress)
     media = entry.get("media_content")
     if media and isinstance(media, list) and "url" in media[0]:
         return media[0]["url"]
 
-    # 2. media_thumbnail
     thumb = entry.get("media_thumbnail")
     if thumb and isinstance(thumb, list) and "url" in thumb[0]:
         return thumb[0]["url"]
 
-    # 3. enclosure
     enclosures = entry.get("enclosures")
     if enclosures and isinstance(enclosures, list) and "href" in enclosures[0]:
         return enclosures[0]["href"]
@@ -44,27 +47,48 @@ def extract_image(entry: Dict[str, Any]) -> str:
     return ""
 
 
+# ----------------------------
+# FETCH RSS WITH SAFETY HEADERS
+# ----------------------------
 async def fetch_feed() -> Any:
-    headers = {"User-Agent": "Mozilla/5.0"}
+    headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36"
+        ),
+        "Accept": "application/rss+xml, application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.5"
+    }
 
-    async with httpx.AsyncClient(timeout=20, headers=headers) as client:
+    async with httpx.AsyncClient(
+        timeout=20,
+        headers=headers,
+        follow_redirects=True
+    ) as client:
         r = await client.get(START_URL)
 
-    return feedparser.parse(r.text)
+    logging.info(f"FEED STATUS: {r.status_code}")
+    logging.info(f"FEED SIZE: {len(r.content)} bytes")
+
+    # HARD GUARD: detect HTML/block page
+    content_type = r.headers.get("content-type", "").lower()
+    if "xml" not in content_type and "rss" not in content_type:
+        logging.error("❌ NOT RSS FEED (likely blocked or HTML response)")
+        return feedparser.parse(b"")
+
+    return feedparser.parse(r.content)
 
 
+# ----------------------------
+# PROCESS ENTRY
+# ----------------------------
 async def process(entry: Dict[str, Any]) -> Dict[str, Any]:
-    title = entry.get("title", "")
-    link = entry.get("link", "")
-
-    image_url = extract_image(entry)
-
     return {
-        "title": title,
-        "link": link,
+        "title": entry.get("title", ""),
+        "link": entry.get("link", ""),
         "author": entry.get("author", ""),
         "published_at": to_iso(entry.get("published") or entry.get("updated")),
-        "image_url": image_url,
+        "image_url": extract_image(entry),
         "w": 0,
         "h": 0,
         "focus_y": 0.5,
@@ -75,15 +99,33 @@ async def process(entry: Dict[str, Any]) -> Dict[str, Any]:
     }
 
 
+# ----------------------------
+# MAIN RUN
+# ----------------------------
 async def run():
     feed = await fetch_feed()
 
-    logging.info(f"FEED ITEMS: {len(feed.entries)}")
+    entries = getattr(feed, "entries", [])
 
-    articles: List[Dict[str, Any]] = []
+    logging.info(f"FEED ITEMS: {len(entries)}")
 
-    for e in feed.entries:
-        articles.append(await process(e))
+    if not entries:
+        logging.error("❌ FEED EMPTY - blocked or invalid RSS")
+        output = {
+            "created_at": datetime.now(timezone.utc).isoformat(),
+            "created_by": "rss_gp1.py",
+            "articles": []
+        }
+
+        with open("F1/gp1.json", "w", encoding="utf-8") as f:
+            json.dump(output, f, ensure_ascii=False, indent=2)
+
+        print("OK: 0 articles (EMPTY FEED)")
+        return
+
+    articles: List[Dict[str, Any]] = await asyncio.gather(
+        *[process(e) for e in entries]
+    )
 
     output = {
         "created_at": datetime.now(timezone.utc).isoformat(),
@@ -97,5 +139,8 @@ async def run():
     print(f"OK: {len(articles)} articles")
 
 
+# ----------------------------
+# ENTRYPOINT
+# ----------------------------
 if __name__ == "__main__":
     asyncio.run(run())
