@@ -1,29 +1,5 @@
 [
     {
-        "title": "Group L at the 2026 World Cup: Teams, records, stats to know",
-        "link": "https://www.espn.com/soccer/story/_/id/49096580/group-l-2026-world-cup-teams-records-stats-know-england-panama-ghana-croatia",
-        "image_url": "https://a.espncdn.com/photo/2026/0617/r1674888_608x342_16-9.jpg",
-        "w": 608,
-        "h": 342,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "World Cup Daily: England draw with Ghana; Ronaldo scores twice in big Portugal win",
-        "link": "https://www.espn.com/soccer/story/_/id/49150583/messi-100-year-old-super-fan-sees-make-history-portugal-england-action",
-        "image_url": "https://a.espncdn.com/photo/2026/0623/r1678347_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
         "title": "England held by Ghana at World Cup as Harry Kane skies late chance",
         "link": "http://www.espn.com/soccer/report/_/gameId/760458",
         "image_url": "https://a.espncdn.com/media/motion/2026/0623/dm_260623_Ghana_coach_England_has_three_lions_we_have_33_million_lions/dm_260623_Ghana_coach_England_has_three_lions_we_have_33_million_lions.jpg",
@@ -48,9 +24,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "South Africa to rely on 'different midfielder' Thalente Mbatha against South Korea says Relebohile Mofokeng",
-        "link": "https://www.espn.com/espn/story/_/id/49157870/south-africa-rely-different-midfielder-thalente-mbatha-south-korea-says-relebohile-mofokeng",
-        "image_url": "https://a.espncdn.com/photo/2026/0623/r1678422_1296x729_16-9.jpg",
+        "title": "World Cup Daily: England draw with Ghana; Ronaldo scores twice in big Portugal win",
+        "link": "https://www.espn.com/soccer/story/_/id/49150583/messi-100-year-old-super-fan-sees-make-history-portugal-england-action",
+        "image_url": "https://a.espncdn.com/photo/2026/0623/r1678347_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -173,6 +149,30 @@
         "image_url": "https://a.espncdn.com/photo/2026/0616/r1674169_608x342_16-9.jpg",
         "w": 608,
         "h": 342,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Transfer rumors, news: Could Arsenal recruit the new Alexis in Osorio?",
+        "link": "https://www.espn.com/soccer/story/_/id/49151181/transfer-rumors-news-real-madrid-want-haaland-vinicius-jr-leaves",
+        "image_url": "https://a.espncdn.com/photo/2026/0623/r1678154_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Ronaldo underlines legacy, importance to Portugal with brace vs. Uzbekistan",
+        "link": "https://www.espn.com/soccer/story/_/id/49156518/cristiano-ronaldo-underlines-world-cup-legacy-importance-portugal-brace-win-vs-uzbekistan",
+        "image_url": "https://a.espncdn.com/photo/2026/0623/r1678336_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
         "focus_y": 0.35,
         "source_title1": "ESPN",
         "source_title2": "FOOTBALL",
