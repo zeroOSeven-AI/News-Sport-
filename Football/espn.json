@@ -1,32 +1,20 @@
 [
     {
-        "title": "World Cup Daily: Ronaldo starts crucial game for Portugal; England in action",
-        "link": "https://www.espn.com/soccer/story/_/id/49150583/messi-100-year-old-super-fan-sees-make-history-portugal-england-action",
-        "image_url": "https://a.espncdn.com/photo/2026/0617/r1674971_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Donald Trump to present World Cup trophy at final, FIFA boss Gianni Infantino confirms",
-        "link": "https://www.espn.com/soccer/story/_/id/49154827/donald-trump-present-world-cup-trophy-final-fifa-boss-gianni-infantino-confirms",
-        "image_url": "https://a.espncdn.com/photo/2026/0623/r1678248_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
         "title": "Premier League preseason friendlies 2026-27: Fixtures, UK kick-off times and summer tour schedule",
         "link": "https://www.espn.com/soccer/story/_/id/49154575/premier-league-preseason-friendlies-202627-fixtures-uk-kickoff-s-summer-tour-schedule-chelsea-liverpool-arsenal-man-united-man-city-spurs",
         "image_url": "https://a.espncdn.com/photo/2026/0623/r1678163_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "World Cup Daily: Ronaldo starts crucial game for Portugal; England in action",
+        "link": "https://www.espn.com/soccer/story/_/id/49150583/messi-100-year-old-super-fan-sees-make-history-portugal-england-action",
+        "image_url": "https://a.espncdn.com/photo/2026/0617/r1674971_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -173,6 +161,18 @@
         "image_url": "https://a.espncdn.com/photo/2026/0616/r1674383_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Joško Gvardiol agrees new long-term contract with Man City - sources",
+        "link": "https://www.espn.com/soccer/story/_/id/49153118/josko-gvardiol-man-city-croatia-transfers-premier-league",
+        "image_url": "https://a.espncdn.com/photo/2026/0623/r1678131_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 728,
         "focus_y": 0.35,
         "source_title1": "ESPN",
         "source_title2": "FOOTBALL",
