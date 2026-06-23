@@ -1,8 +1,20 @@
 [
     {
-        "title": "UŽIVO Hrvatska - Panama: Dalić napravio tri promjene, objasnio zašto je Petar Sučić na klupi",
+        "title": "UŽIVO Hrvatska - Panama: Vatreni u velikim problemima! Panamci dominiraju, ‘bomba‘ Baturine",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/uzivo-hrvatska-panama-zahuktava-se-atmosfera-u-torontu-dalic-iznenadio-sastavom-za-kljucnu-utakmicu-15721087",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39125262_640.jpg",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39155653_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Jedan Vatreni potpuno odsječen! Gvardiol problematičan, Kovačić bez ideje...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-panama-0-0-poluvrijeme-toronto-livakovic-brani-napad-bez-ideje-15721119",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39155897_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,6 +36,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Kako je Gana zaključala Englesku: Quieroz je bio mudriji od Dalića, Bellinghamova izjava rekla je sve Samo su još Meksiko, Španjolska i Argentina, uz Ganu, ostali bez primljenog gola u dvije utakmice Mundijala",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/gana-zaustavila-englesku-quierozov-zid-nadmudrio-tuchela-15721114",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39155600_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "VIDEO Pogledajte kako se Kane osramotio! Tuchel u nevjerici: ‘Ovo je u pravilu čisti gol‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/engleska-gana-00-tuchel-rice-skupina-l-hrvatska-panama-15721106",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39155378_640.jpg",
@@ -36,7 +60,55 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Fenomen reprezentativaca iz dijaspore mijenja lice čitavog Mundijala, jedna je priča zaista posebna Fenomen reprezentativaca iz dijaspore mijenja lice SP-a 2026., a Šveđanin tuniškog podrijetla postaje njegovo lice.",
+        "title": "UŽIVO/VIDEO: Luda atmosfera u Torontu, čelnik DOMiNO-a zasvirao gitaru i zapjevao Thompsonov hit",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/uzivo-video-luda-atmosfera-u-torontu-cijeli-svijet-pise-o-fantasticnim-hrvatima-stigla-i-ivana-knoll-15721080",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39124462_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Nestvaran promašaj Harryja Kanea, Englezi ‘kiksali‘ protiv Gane!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/nestvaran-promasaj-harryja-kanea-englezi-kiksali-protiv-gane-15721062",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39155271_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Reakcija Ronalda obilazi svijet! Novinar je samo spomenuo Messija, a njemu odmah pao mrak na oči",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/video-reakcija-ronalda-obilazi-svijet-novinar-je-samo-spomenuo-messija-a-njemu-odmah-pao-mrak-na-oci-15721104",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39153852_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Deschamps zbog obiteljske tragedije odlazi u Francusku usred Svjetskog prvenstva",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/deschamps-odlazi-zbog-smrti-majke-francuska-bez-izbornika-protiv-norveske-15721085",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39150466_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Fenomen reprezentativaca iz dijaspore mijenja lice čitavog Mundijala, jedna je priča zaista posebna",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/ayari-gol-bez-slavlja-svedska-tunis-dijaspora-sp-2026-15721098",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/21/k_39141178_640.jpg",
         "w": 640,
@@ -51,18 +123,6 @@
         "title": "Evo što nam je Ljubo Pavasović rekao o ponudi koju je WhiteBit poslao Hajduku",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/whitebit-ponuda-hajduku-sluzbeno-potvrdena-pregovori-o-rekordnom-sponzorstvu-15721095",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_38340880_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Imamo sastav Vatrenih za Panamu: Dalić šokantno ostavio na klupi Petra Sučića, ovo je prvih 11!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/kovacic-starta-sucic-na-klupi-musa-ostaje-baturina-desetka-hrvatska-panama-15721057",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39127477_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,19 +156,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Oko Paname se stvara ‘teška‘ atmosfera s opipljivom skepsom! To je ekipa koja bi Vatrenima mogla zagorčati život",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-panama-posjed-kontrola-ritma-dalic-taktika-15721089",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/22/k_39149628_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Igrao sam s obojicom! Bio je bolji igrač od Dalića, ali Zlatko je u prednosti kao izbornik, majstor‘",
+        "title": "‘Igrao sam s obojicom! Bio je bolji igrač od Dalića, ali Zlatko je u prednosti kao izbornik, majstor‘ Samir Toplak, bivši suigrač obojice izbornika koji će se susresti u Torontu, govori o karakterima kormilara Paname i Hrvatske",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/toplak-dalic-christiansen-analiza-hrvatska-panama-kljuc-pobjede-15721066",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/22/k_39126171_640.jpg",
         "w": 640,
@@ -156,18 +204,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Vatrene u jednom od najvećih ‘hrvatskih gradova‘ svijeta čeka luda podrška i navijačka povorka Kanada je 62. inozemna ‘nogometna‘ država u kojoj će Vatreni imati priliku pokazati svoje znanje, a u Torontu i okolici ima podjednako Hrvata kao u Beču",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-toronto-bmo-field-debi-dijaspora-navijaci-kanada-15721059",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/22/k_39153268_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Mladen Grdović u Torontu nakon putovanja od 54 sata: Stiglo je i šest prijatelja, a što je najbitnije - gitara!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/mladen-grdovic-54-sata-putovanja-stigao-u-toronto-bodriti-hrvatsku-15721056",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39154130_640.jpg",
@@ -195,42 +231,6 @@
         "title": "Garcia nakon pobjede pohvalio novog igrača: ‘Ima baš ono što nam je kronično nedostajalo‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-shkendija-4-0-garcia-pobjednicki-mentalitet-upozorenje-obrani-15721064",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39129718_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Modrić piše povijest, ali priči s Dalićem došao je - kraj! Mogla bi se osjetiti i mala nelagoda...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/modric-pise-povijest-ali-prici-s-dalicem-dosao-je-kraj-mogla-bi-se-osjetiti-i-mala-nelagoda-15720974",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/22/k_37641676_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hajduk ‘razmontirao‘ Makedonce u Sloveniji! Livaja načeo suparnika, Šego ga dovršio",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-razmontirao-makedonce-u-sloveniji-livaja-naceo-suparnika-sego-ga-dovrsio-15721014",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39129724_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hrvatska navijačka zvijezda kanadske dijaspore: ‘Bit će nas 15.000 na stadionu, neki govore i 30.000!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/bojan-mutnjakovic-navijacka-pjesma-idemo-hrvatska-toronto-15721038",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39153703_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
