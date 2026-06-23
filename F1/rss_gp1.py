@@ -9,7 +9,7 @@ from typing import Optional, Dict, Any, List
 import feedparser
 import httpx
 from email.utils import parsedate_to_datetime
-from PIL import Image
+from PIL import Image, ImageFile
 
 START_URL = "https://www.gp1.hr/feed/"
 
@@ -78,7 +78,6 @@ async def get_image_dimensions(client: httpx.AsyncClient, url: str) -> tuple[int
     if not url:
         return 0, 0
     try:
-        # We use streaming to download only the first few bytes (headers) of the image
         async with client.stream("GET", url) as response:
             if response.status_code != 200:
                 return 0, 0
@@ -87,11 +86,11 @@ async def get_image_dimensions(client: httpx.AsyncClient, url: str) -> tuple[int
             async for chunk in response.iter_bytes(chunk_size=1024):
                 p.feed(chunk)
                 if p.image:
-                    return p.image.size  # returns (width, height)
-                if len(p.data) > 32768:  # Safety break after 32KB if dimensions aren't found
+                    return p.image.size  # (width, height)
+                if len(p.data) > 32768:  # 32KB protection guard
                     break
     except Exception as e:
-        logging.warning(f"Failed to get dimensions for {url}: {e}")
+        logging.warning(f"Error fetching dimensions for {url}: {e}")
     return 0, 0
 
 
@@ -132,8 +131,13 @@ async def fetch_feed() -> Any:
 async def process(entry: Dict[str, Any], client: httpx.AsyncClient) -> Dict[str, Any]:
     image_url = extract_image(entry)
     
-    # Fetch real dimensions for the original image
-    width, height = await get_image_dimensions(client, image_url)
+    width, height = 0, 0
+    if image_url:
+        # Wrapped in a localized try-except to ensure one broken image cannot crash the run
+        try:
+            width, height = await get_image_dimensions(client, image_url)
+        except Exception:
+            pass
 
     return {
         "title": entry.get("title", ""),
@@ -174,7 +178,6 @@ async def run():
         print("OK: 0 articles (EMPTY FEED)")
         return
 
-    # Using a single client instance to handle image dimension checking concurrently
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     }
@@ -199,6 +202,4 @@ async def run():
 # ENTRYPOINT
 # ----------------------------
 if __name__ == "__main__":
-    # Import ImageFile locally here to ensure safety inside get_image_dimensions fallback
-    from PIL import ImageFile
     asyncio.run(run())
