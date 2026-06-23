@@ -1,5 +1,29 @@
 [
     {
+        "title": "Vatreni koji je doktorirao na ‘malima‘! Ne bude li starter, on je prvi s klupe koji može ući i prelomiti utakmicu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-panama-visoki-presing-dominacija-dalic-modric-kovacic-15720907",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/22/k_39052244_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Piše se povijest na Poljudu: Stigla rekordna, višemilijunska ponuda, odmah se ide po pojačanja!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/whitebit-rekordna-sponzorska-ponuda-hajduku-petogodisnji-ugovor-15720915",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_37262801_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "MUNDOCAST: ‘Iz kampa Vatrenih stižu razne informacije, postoji mogućnost da on ipak starta‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-panama-dalic-tajna-postava-mundocast-toronto-prvi-bodovi-15720786",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39150830_640.jpg",
@@ -12,9 +36,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Teorija zavjere‘ zbog golčina Baturine i Mbappea: Nešto nije u redu s loptama!?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/joe-hart-lopta-na-sp-vara-vratara-i-mijenja-igru-15720845",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39152241_640.jpg",
+        "title": "Bolan šamar za Ronalda, vlastita nacija okrenula mu leđa: ‘Ne želimo ga u prvih 11!‘ Izbornik Roberto Martinez na pitanje hoće li Ronaldo biti u startnoj postavi odbio je dati direktan odgovor",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ronaldo-na-klupi-anketa-navijaca-ramos-i-psg-jezgra-dominiraju-15720888",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39124987_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,7 +60,79 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Eksplodirala‘ još jedna francuska zvijezda, izbornik poručuje: Mbappe sebičan? Nije baš tako... Tricolori su nastavili stopostotan učinak na prvenstvu, rezultatom 3:0 pao je Irak, a momčad je još jednom zasjala u napadačkom smislu",
+        "title": "On ne igra za Argentinu ili Francusku, a najbolji je napadač svijeta! Moramo mu osigurati utakmice...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/haaland-norveska-drugi-krug-francuska-rekordi-svjetsko-prvenstvo-15720883",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39151740_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "U Torontu smo sreli Ivana Turudića! ‘Imam najdražeg napadača, a znate li za koga navijam nakon Hrvatske?‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/plenkovic-na-tribinama-turudic-hvali-budimira-i-modrica-15720778",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39151985_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Svjetska rekorderka i olimpijska pobjednica stiže u Zagreb: ‘Želim uživati u trenutku‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/atletika/jaroslava-mahucih-zagreb-city-challenge-skok-u-vis-zagrebacke-fontane-15720914",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39152725_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Severina, Thompson, ali velika fešta - bez Grdovića! Evo što mu se dogodilo na putu do Amerike",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/toronto-hrvatska-kuca-navijaci-festa-grdovic-kasnio-korteo-kanada-15720756",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_27380905_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Skandalozna izjava iz Srbije odjeknula diljem svijeta: Poznati analitičar se ispričao nakon rasističkog ispada",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rade-bogdanovic-skandal-rasisticki-komentar-na-rts-u-i-isprika-15720825",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_31475069_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Messi može sve, samo jedno ne! Nogometni genij postao prvi u povijesti kojem se ovo dogodilo",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/messi-penali-sp-statistika-argentina-mls-rekordi-15720794",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39150215_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Eksplodirala‘ još jedna francuska zvijezda, izbornik poručuje: Mbappe sebičan? Nije baš tako...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/mbappe-juri-prema-rekordu-francuska-uvjerljiva-poraz-iraka-norveska-odlucuje-15720809",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39151189_640.jpg",
         "w": 640,
@@ -60,19 +156,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Imamo sve na jednom mjestu: Gdje se utakmice gledaju u Zagrebu, Rijeci, Splitu i Osijeku",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/imamo-sve-na-jednom-mjestu-gdje-se-utakmice-gledaju-u-zagrebu-rijeci-splitu-i-osijeku-15719145",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/17/k_39124477_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Dok se svi dive Messiju, najskuplji Argentinac šokirao svijet: ‘Ne mogu se više skrivati...‘",
+        "title": "Dok se svi dive Messiju, najskuplji Argentinac šokirao svijet: ‘Ne mogu se više skrivati...‘ Julian Alvarez otvoreno je priznao da želi otići iz Atletico Madrida, zna se da ga želi Barca, a ugovor s Madriđanima ima do 2030. godine",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/julian-alvarez-napusta-atletico-i-zeli-barcelonu-transfer-klauzula-15720741",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/22/k_39150662_640.jpg",
         "w": 640,
@@ -84,9 +168,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Izbornik Mijatović: Gledamo Vatrene, odmaramo, pa putujemo u Italiju, zna se što su prioriteti",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-reprezentacija/izbornik-mijatovic-gledamo-vatrene-odmaramo-pa-putujemo-u-italiju-zna-se-sto-su-prioriteti-15720839",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39149514_640.jpg",
+        "title": "UŽIVO Evo gdje gledati Hrvatska - Panama, jedna osoba poginula nakon stampeda u Jordanu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/uzivo-evo-gdje-gledati-hrvatska-panama-jedna-osoba-poginula-nakon-stampeda-u-jordanu-15720744",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/22/k_39125262_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -108,9 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Noćni spektakl: Haaland briljirao i ozlijedio vratara, Senegalci se zamalo vratili u dramatičnoj završnici",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/nocni-spektakl-haaland-briljirao-i-ozlijedio-vratara-senegalci-se-zamalo-vratili-u-dramaticnoj-zavrsnici-15720748",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/22/k_39151330_640.jpg",
+        "title": "UŽIVO Osijek predstavio novog trenera, Real dovodi ‘senzaciju‘ SP-a?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-osijek-predstavio-novog-trenera-real-dovodi-senzaciju-sp-a-15720782",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/22/k_39077128_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -144,93 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Spektakularna razmjena i kraj jedne ere: Bucksi trejdali Giannisa, evo gdje nastavlja karijeru",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/giannis-antetokounmpo-prelazi-u-miami-heat-bucksi-u-rebuildu-15720768",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_38254494_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO Alžir preokretom srušio Jordan i izbacio ga sa Svjetskog prvenstva Jordan je u većem dijelu utakmice imao vodstvo, plovio ka pozitivnom ishodu, no pritisak Alžira u nastavku urodio je plodom",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/video-alzir-preokretom-srusio-jordan-i-izbacio-ga-sa-svjetskog-prvenstva-15720752",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/22/k_39151986_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "VIDEO: Povijesni gol Messija je morao biti poništen? Legenda jasna: ‘Ovo je čista i očita pogreška!‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/messi-rekord-17-golova-srusio-klosea-protiv-austrije-var-15720708",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/22/k_39149956_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Živjeti u njegovo vrijeme je - blagoslov. Legendarna izjava Ćire mora dobiti nastavak",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/messi-na-39-carolija-protiv-austrije-u-dallasu-rusi-rekorde-15720762",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/22/k_39151104_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Zato je najveći ikad! Messi nakon ‘one man showa‘ nije ni spomenuo svoje golove: ‘Evo što je najvažnije‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/messi-rekordi-argentina-nokaut-faza-austrija-alzir-15720747",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39150365_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "UŽIVO Messi izazvao potres, ne stišavaju se reakcije: ‘Ti pet, a ja ni jedan! Nemam riječi...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/uzivo-messi-izazvao-potres-ne-stisavaju-se-reakcije-ti-pet-a-ja-ni-jedan-nemam-rijeci-15720744",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/22/k_39150229_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "UŽIVO: Real dovodi ‘senzaciju‘ SP-a? Arsenal spreman pustiti zvijezdu, Sentić potpisao za Slaven",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-real-dovodi-senzaciju-sp-a-arsenal-spreman-pustiti-zvijezdu-sentic-potpisao-za-slaven-15720782",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/22/k_39077128_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Legenda protiv svih: ‘Ne, Messi nije najbolji svih vremena! Ne možete ovo ignorirati...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/rio-ferdinand-messijev-rekord-ne-zatvara-goat-raspravu-ronaldo-uzbekistan-15720753",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39151105_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
