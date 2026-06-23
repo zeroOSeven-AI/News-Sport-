@@ -1,7 +1,9 @@
 import asyncio
+import hashlib
 import json
 import logging
 from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 from io import BytesIO
 
 import feedparser
@@ -31,6 +33,25 @@ def get_focus_y(w: int, h: int) -> float:
         return 0.25
 
     return 0.5
+
+
+def to_iso_date(date_str: str | None) -> str | None:
+    if not date_str:
+        return None
+
+    try:
+        return (
+            parsedate_to_datetime(date_str)
+            .astimezone(timezone.utc)
+            .isoformat()
+            .replace("+00:00", "Z")
+        )
+    except Exception:
+        return None
+
+
+def article_id(link: str) -> str:
+    return hashlib.md5(link.encode("utf-8")).hexdigest()[:16]
 
 
 async def get_image_info_async(url: str):
@@ -71,11 +92,10 @@ async def get_image_info_async(url: str):
 
 
 async def process_single_article(entry):
-
     title = entry.get("title", "")
     link = entry.get("link", "")
 
-    logging.info(f"🔍 GP1: {title[:40]}")
+    logging.info(f"🔍 GP1: {title[:60]}")
 
     try:
         headers = {
@@ -102,28 +122,38 @@ async def process_single_article(entry):
             image_url = og["content"]
 
         if not image_url:
+            logging.warning(f"No image found: {link}")
             return None
 
         image = await get_image_info_async(image_url)
 
         if not image:
+            logging.warning(f"Invalid image: {image_url}")
             return None
 
         return {
+            "id": article_id(link),
+
             "title": title,
             "link": link,
 
-            # članak
-            "author": entry.get("author", ""),
-            "published_at": entry.get("published", ""),
+            "author": entry.get("author") or None,
 
-            # slika
+            "published_at": to_iso_date(
+                entry.get("published")
+            ),
+
+            "description": (
+                entry.get("summary")
+                or entry.get("description")
+                or None
+            ),
+
             "image_url": image["url"],
             "w": image["w"],
             "h": image["h"],
             "focus_y": image["focus_y"],
 
-            # source
             "source_title1": "GP1",
             "source_title2": "F1",
             "source_color": "#FF0000",
@@ -136,12 +166,9 @@ async def process_single_article(entry):
 
 
 async def scrape_gp1_async():
-
     feed = feedparser.parse(START_URL)
 
-    tasks = list(feed.entries)
-
-    results = []
+    entries = list(feed.entries)
 
     semaphore = asyncio.Semaphore(CONCURRENT_TASKS)
 
@@ -150,12 +177,13 @@ async def scrape_gp1_async():
             return await process_single_article(entry)
 
     batch = await asyncio.gather(
-        *[worker(entry) for entry in tasks],
+        *[worker(entry) for entry in entries],
         return_exceptions=True
     )
 
-    for item in batch:
+    results = []
 
+    for item in batch:
         if isinstance(item, Exception):
             logging.error(item)
             continue
@@ -163,13 +191,26 @@ async def scrape_gp1_async():
         if item:
             results.append(item)
 
+    results.sort(
+        key=lambda x: x.get("published_at") or "",
+        reverse=True
+    )
+
     output = {
-        "created_at": datetime.now(timezone.utc).isoformat(),
-        "created_by": "rss_gp1.py",
+        "created_at": (
+            datetime.now(timezone.utc)
+            .isoformat()
+            .replace("+00:00", "Z")
+        ),
+        "source": "gp1",
         "articles": results
     }
 
-    with open("F1/gp1.json", "w", encoding="utf-8") as f:
+    with open(
+        "F1/gp1.json",
+        "w",
+        encoding="utf-8"
+    ) as f:
         json.dump(
             output,
             f,
@@ -177,7 +218,9 @@ async def scrape_gp1_async():
             indent=4
         )
 
-    logging.info(f"✅ GP1 articles saved: {len(results)}")
+    logging.info(
+        f"✅ GP1 articles saved: {len(results)}"
+    )
 
 
 if __name__ == "__main__":
