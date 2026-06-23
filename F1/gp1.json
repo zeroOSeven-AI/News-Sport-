@@ -1,7 +1,21 @@
 {
-    "created_at": "2026-06-23T07:35:47.699553+00:00",
+    "created_at": "2026-06-23T10:51:01.899180+00:00",
     "created_by": "rss_gp1.py",
     "articles": [
+        {
+            "title": "Herlings prvi u Montevarchiju, Gajser uzvratio pobjedom, Coeneni nastavili dominaciju",
+            "link": "https://www.gp1.hr/2026/06/herlings-prvi-u-montevarchiju-gajser-uzvratio-pobjedom-coeneni-nastavili-dominaciju/",
+            "author": "GeaGP",
+            "published_at": "Tue, 23 Jun 2026 10:14:36 +0000",
+            "image_url": "https://www.gp1.hr/wp-content/uploads/2026/06/2026-mxgp-italy-start-600x400.jpg",
+            "w": 600,
+            "h": 400,
+            "focus_y": 0.5,
+            "source_title1": "GP1",
+            "source_title2": "F1",
+            "source_color": "#FF0000",
+            "flag": "🇭🇷"
+        },
         {
             "title": "Mercedes povukao zahtjev za ponovno razmatranje rezultata na VN Monaka",
             "link": "https://www.gp1.hr/2026/06/mercedes-povukao-zahtjev-za-ponovno-razmatranje-rezultata-na-vn-monaka/",
@@ -122,20 +136,6 @@
             "image_url": "https://www.gp1.hr/wp-content/uploads/2026/06/toyota-lemans-2026.jpg",
             "w": 1200,
             "h": 800,
-            "focus_y": 0.5,
-            "source_title1": "GP1",
-            "source_title2": "F1",
-            "source_color": "#FF0000",
-            "flag": "🇭🇷"
-        },
-        {
-            "title": "Norris: Imamo sreće što Ferrari trenutačno nema bolji motor",
-            "link": "https://www.gp1.hr/2026/06/norris-imamo-srece-sto-ferrari-trenutacno-nema-bolji-motor/",
-            "author": "Igor Šestak",
-            "published_at": "Tue, 16 Jun 2026 06:27:33 +0000",
-            "image_url": "https://www.gp1.hr/wp-content/uploads/2026/06/2026-barcelona-mclaren-norris-02.jpg",
-            "w": 1800,
-            "h": 1200,
             "focus_y": 0.5,
             "source_title1": "GP1",
             "source_title2": "F1",
