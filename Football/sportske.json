@@ -1,5 +1,53 @@
 [
     {
+        "title": "Imamo sastav Vatrenih za Panamu: Dalić šokantno ostavio na klupi Petra Sučića, ovo je prvih 11!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/kovacic-starta-sucic-na-klupi-musa-ostaje-baturina-desetka-hrvatska-panama-15721057",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39127477_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "UŽIVO Engleska - Gana: Stigli sastavi, Tuchel napravio dvije promjene u odnosu na Hrvatsku",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/uzivo-engleska-gana-stigli-sastavi-tuchel-napravio-dvije-promjene-u-odnosu-na-hrvatsku-15721062",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39125478_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Igrao sam s obojicom! Bio je bolji igrač od Dalića, ali Zlatko je u prednosti kao izbornik, majstor‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/toplak-dalic-christiansen-analiza-hrvatska-panama-kljuc-pobjede-15721066",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/22/k_39126171_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Modrić piše povijest, ali priči s Dalićem došao je - kraj! Mogla bi se osjetiti i mala nelagoda... Stotu utakmicu za nacionalnu momčad Modrić je odigrao protiv Finske na Rujevici 2017. Te večeri bez posla je ostao Ante Čačić, a izbornikom postao Zlatko Dalić",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/modric-pise-povijest-ali-prici-s-dalicem-dosao-je-kraj-mogla-bi-se-osjetiti-i-mala-nelagoda-15720974",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/22/k_37641676_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Hrvatska nikad nije izgubila ovakvu utakmicu. No, ovo je ozbiljno upozorenje za Zlatka Dalića",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-panama-niz-bez-poraza-drugo-kolo-daliceve-promjene-15721030",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/21/k_33967239_640.jpg",
@@ -12,9 +60,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO Portugal - Uzbekistan: GOOOL! Uragan Portugalaca, Ronaldo zabio za vodstvo, Mendes pogodio iz slobodnjaka",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/uzivo-portugal-uzbekistan-ronaldo-i-drustvo-traze-iskupljenje-martinez-napravio-dvije-izmjene-u-prvih-11-15721018",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39153679_640.jpg",
+        "title": "Hajduk ‘razmontirao‘ Makedonce u Sloveniji! Livaja načeo suparnika, Šego ga dovršio",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-razmontirao-makedonce-u-sloveniji-livaja-naceo-suparnika-sego-ga-dovrsio-15721014",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39129724_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -26,7 +74,7 @@
     {
         "title": "Hrvatska navijačka zvijezda kanadske dijaspore: ‘Bit će nas 15.000 na stadionu, neki govore i 30.000!‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/bojan-mutnjakovic-navijacka-pjesma-idemo-hrvatska-toronto-15721038",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39151630_640.jpg",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39153703_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,7 +84,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO Evo gdje gledati Hrvatska - Panama! U Torontu se sprema velika hrvatska fešta, poruku poslao i Plenković Najzanimljivije događaje s Mundijala pratite tijekom cijelog dana i noći",
+        "title": "Hrvatica šokirana ‘sramotnom‘ odlukom: ‘Nije to zaslužila! Taj čovjek..., vidi se da jednostavno mrzi, užas‘",
+        "link": "https://sportske.jutarnji.hr/sportske/tenis/tenis-mix/ajla-tomljanovic-brani-vondrousovu-kritizira-itia-cetverogodisnja-zabrana-15721043",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_38766894_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Hrvatska priča o Pepeljugi, legende padale kao na traci! Čak je i veliki Eusébio vikao: ‘Pi*ku mater, Osijek, ševa!‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/toronto-metros-croatia-1976-hrvati-nasl-eusebio-pola-stoljeca-15721033",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_28663823_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "UŽIVO Evo gdje gledati Hrvatska - Panama! U Torontu se sprema velika hrvatska fešta, poruku poslao i Plenković",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/uzivo-evo-gdje-gledati-hrvatska-panama-jedna-osoba-poginula-nakon-stampeda-u-jordanu-15720744",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/22/k_39124462_640.jpg",
         "w": 640,
@@ -84,7 +156,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Trojac Vatrenih na meti Torina, Osijek predstavio novog trenera, Gattuso ima novi posao",
+        "title": "UŽIVO: Trojac Vatrenih na meti Torina, Osijek predstavio novog trenera, Gattuso ima novi posao Pratimo najnovija događanja prijelaznog roka na domaćoj i svjetskoj tržnici",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-osijek-predstavio-novog-trenera-gattuso-ima-novi-posao-barcelona-potpisala-egipcanina-15720782",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/22/k_39077128_640.jpg",
         "w": 640,
@@ -97,7 +169,7 @@
     },
     {
         "title": "Država koja je odustala od Svjetskog prvenstva: ‘Ostanak je postajanje robom, odlazak je riskiranje života‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/eritreja-povlaci-reprezentaciju-kako-bi-sprijecila-bjegove-igraca-15721002",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/eritreja-povlaci-reprezentaciju-kako-bi-sprijecila-bjegove-igraca-15721002",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_38173777_640.jpg",
         "w": 640,
         "h": 640,
@@ -156,81 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "MUNDOCAST: ‘Iz kampa Vatrenih stižu razne informacije, postoji mogućnost da on ipak starta‘ U studiju Hanza Medije o aktualnostima iz tabora \"vatrenih\" uoči Paname razgovarali su nogometni trener Ilija Lončarević i kolumnist Sportskih novosti Robert Matteoni",
+        "title": "MUNDOCAST: ‘Iz kampa Vatrenih stižu razne informacije, postoji mogućnost da on ipak starta‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-panama-dalic-tajna-postava-mundocast-toronto-prvi-bodovi-15720786",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39150830_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Imamo sve na jednom mjestu: Gdje se utakmice gledaju u Zagrebu, Rijeci, Splitu i Osijeku",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/imamo-sve-na-jednom-mjestu-gdje-se-utakmice-gledaju-u-zagrebu-rijeci-splitu-i-osijeku-15719145",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/17/k_39124477_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hrvatskoj povijest ne govori u prilog, ali priča je sada drugačija. Novi format sve je promijenio",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/startni-poraz-vise-nije-presuda-na-svjetskom-prvenstvu-15720988",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/17/k_39125660_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Do 2018. živjeli su za bejzbol i navijali za Argentinu ili Brazil, a danas su opasnost čak i za Vatrene!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/do-2018-zivjeli-su-za-bejzbol-i-navijali-za-argentinu-ili-brazil-a-danas-su-opasnost-cak-i-za-vatrene-15720965",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/22/k_39126606_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "FIFA isključila sportskog komentatora sa Svjetskog prvenstva, evo koga je napao u izravnom prijenosu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/fifa-oduzela-akreditaciju-jorgeu-veri-nakon-ispada-u-prijenosu-paragvaj-turska-15720900",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39138880_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Jugaši dovode trojicu mađarskih reprezentativaca, tako i ‘friškog‘ pobjednika Lige prvaka",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vaterpolo/jugasi-dovode-trojicu-madarskih-reprezentativaca-tako-i-friskog-pobjednika-lige-prvaka-15721003",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_31782397_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "FOTO: Nikola Jokić više ne sliči na sebe! Zvijezda Srbije se ‘prepolovila‘, a ima i novu ulogu",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/basket-international/nikola-jokic-transformacija-kapetan-reprezentacije-srbije-kvalifikacije-15720934",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_38833996_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
