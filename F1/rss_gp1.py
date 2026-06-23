@@ -1,6 +1,7 @@
 import asyncio
 import json
 import logging
+import re
 from datetime import datetime, timezone
 from typing import Optional, Dict, Any, List
 
@@ -29,9 +30,10 @@ def to_iso(date_str: Optional[str]) -> Optional[str]:
 
 
 # ----------------------------
-# IMAGE EXTRACTION (RSS ONLY)
+# IMAGE EXTRACTION (WITH WP FALLBACK)
 # ----------------------------
 def extract_image(entry: Dict[str, Any]) -> str:
+    # 1. Standard RSS fields
     media = entry.get("media_content")
     if media and isinstance(media, list) and "url" in media[0]:
         return media[0]["url"]
@@ -43,6 +45,19 @@ def extract_image(entry: Dict[str, Any]) -> str:
     enclosures = entry.get("enclosures")
     if enclosures and isinstance(enclosures, list) and "href" in enclosures[0]:
         return enclosures[0]["href"]
+
+    # 2. WordPress Fallback: Extract first <img> src from content or description
+    content_encoded = ""
+    if "content" in entry and isinstance(entry["content"], list) and len(entry["content"]) > 0:
+        content_encoded = entry["content"][0].get("value", "")
+        
+    description = entry.get("description", "")
+    search_text = f"{content_encoded} {description}"
+
+    if search_text.strip():
+        match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', search_text)
+        if match:
+            return match.group(1)
 
     return ""
 
@@ -56,7 +71,7 @@ async def fetch_feed() -> Any:
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
             "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36"
         ),
-        "Accept": "application/rss+xml, application/xml;q=0.9,*/*;q=0.8",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,application/rss+xml;q=0.8,*/*;q=0.8",
         "Accept-Language": "en-US,en;q=0.5"
     }
 
