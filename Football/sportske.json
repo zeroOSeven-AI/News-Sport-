@@ -1,20 +1,8 @@
 [
     {
-        "title": "U Kataru ga je slavila cijela Hrvatska, a ozljede bacile u zaborav: Junak bronce kreće ispočetka",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/juranovic-sezona-bez-ozljeda-borba-za-mjesto-union-berlin-trimmel-15721447",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_38668757_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "UŽIVO: GOOOL! Dva pogotka Zmajeva u pet minuta, na pragu su povijesnog uspjeha",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/uzivo-petorica-hrvata-u-prvih-11-bih-za-najvazniju-utakmicu-u-povijesti-svicarska-i-kanada-za-prvo-mjesto-15721451",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_38642776_640.jpg",
+        "title": "VIDEO: Bosna i Hercegovina pobijedila Katar za treće mjesto! Švicarska prva u skupini",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/video-bosna-i-hercegovina-pobijedila-katar-za-trece-mjesto-svicarska-prva-u-skupini-15721451",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39158909_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,7 +24,67 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Bliži se neizbježna ogromna kontroverza na Svjetskom prvenstvu Egipatski i iranski nogometni savezi tražili su od Fife da spriječi sve aktivnosti povezane s \"June Prideom\" na stadionu, ali bezuspješno",
+        "title": "VIDEO: Džeko podivljao na odluku izbornika BiH. Pogledajte rijetko viđenu reakciju bosanskog dijamanta",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dzeko-bijesan-nakon-zamjene-barbarez-rizicni-potez-bih-katar-nokaut-15721491",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39159353_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Hajduk nije imao strpljenja, a on je molio trenere da dolaze i radio po 12 sati da bi se vratio‘ Povratak Ivana Perišića na Poljud nije završio onako kako su mnogi priželjkivali",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/jese-perisic-oporavak-radna-etika-hajduk-psv-reprezentacija-15721439",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39155776_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Svjetsko prvenstvo se pretvara u cirkus! Fifine novotarije ubijaju napetost, a sve bi moglo postati još gore",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/sp-2026-fifa-format-mrtve-utakmice-kalkulacije-medusobni-omjer-treceplasirani-15721442",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39144941_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Navijači presudili: Petorica moraju van iz prve postave, ponajveća zvijezda ‘pala razred‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/navijacke-ocjene-hrvatska-panama-livakovic-odlikas-gvardiol-najlosiji-15721324",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39156356_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Baldasso poput Curryja, Mijatović dozirao Zupca, Hezonju i Smitha, Šarić se tek uhodava",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-reprezentacija/baldasso-poput-curryja-mijatovic-dozirao-zupca-hezonju-i-smitha-saric-se-tek-uhodava-15721484",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_38453593_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Bliži se neizbježna ogromna kontroverza na Svjetskom prvenstvu",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/seattle-pride-match-unatoc-pritisku-egipta-i-irana-15721431",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39141764_640.jpg",
         "w": 640,
@@ -108,7 +156,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Opsadno stanje u Meksiku! Zavladao strah od nereda: Mobilizirano 50.000 policajaca, zabranjen je i alkohol",
+        "title": "Opsadno stanje u Meksiku! Zavladao strah od nereda: Mobilizirano 50.000 policajaca, zabranjen je i alkohol Iza ovako masovnog policijskog rasporeda krije se kombinacija prijetnji koje vlasti nisu mogle ignorirati.",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/mexico-city-pod-opsadom-56320-policajaca-zabrana-alkohola-ceska-meksiko-15721358",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39098565_640.jpg",
         "w": 640,
@@ -156,7 +204,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dvije milijarde funti, 100.000 sjedala i datum koji čekaju navijači Manchester Uniteda Klub procjenjuje da će izgradnja trajati oko pet godina od trenutka kad radovi službeno počnu",
+        "title": "Dvije milijarde funti, 100.000 sjedala i datum koji čekaju navijači Manchester Uniteda",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/dvije-milijarde-funti-100-000-sjedala-i-datum-koji-cekaju-navijaci-manchester-uniteda-15721425",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_38747290_640.jpg",
         "w": 640,
@@ -183,54 +231,6 @@
         "title": "‘Ne sjećam se kad je ovakva Hrvatska otišla na veliko natjecanje; ‘Ne može Modrić igrati kao Messi...‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ne-sjecam-se-kad-je-ovakva-hrvatska-otisla-na-veliko-natjecanje-ne-moze-modric-igrati-kao-messi-15721172",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39156356_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Dvojica Hrvata ispisali povijest Vatrenih, na ovom Mundijalu su ispred samo dvojica Zmajeva",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/modric-vuskovic-rekord-starosne-razlike-hrvatska-engleska-sp-15721330",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/21/k_39125262_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Baturina pokazao magiju! Ovo su uspjela još samo tri igrača u povijesti svjetskih prvenstava",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/baturina-rekord-driblinga-budimir-najstariji-hrvatski-strijelac-sp-15721233",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39155660_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "UŽIVO: Victor Sanchez ima novi klub, Ronaldinho i službeno u Ravenni",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-chelsea-preoteo-talentiranog-stopera-trojac-vatrenih-na-meti-torina-15721237",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39077128_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hrvatskoj i Gani paše isti rezultat, ali Dalić nešto mora mijenjati! Samo dva asa su na vrhunskoj razini",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/daliceva-sedma-pobjeda-modric-200-hrvatska-porazi-panamu-dvojbe-pred-ganom-15721197",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39155744_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
