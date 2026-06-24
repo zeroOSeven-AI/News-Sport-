@@ -1,8 +1,20 @@
 [
     {
-        "title": "World Cup Daily: Messi turns 39 with midnight workout, as three groups to be decided",
+        "title": "World Cup Daily: Canada, Swiss fight for Group B; Messi's midnight workout",
         "link": "https://www.espn.com/soccer/story/_/id/49162159/world-cup-daily-messi-turns-39-midnight-workout-three-groups-decided",
-        "image_url": "https://a.espncdn.com/photo/2026/0624/r1678674_1296x729_16-9.jpg",
+        "image_url": "https://a.espncdn.com/photo/2026/0624/r1678863_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "NWSL changes rules for hydration breaks ahead of return to action",
+        "link": "https://www.espn.com/soccer/story/_/id/49166625/nwsl-changes-rules-hydration-breaks-ahead-return-action",
+        "image_url": "https://a.espncdn.com/photo/2026/0624/r1678831_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -161,18 +173,6 @@
         "image_url": "https://a.espncdn.com/photo/2026/0601/r1666550_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "World Cup 2026 Power Rankings after two games: Who is No. 1?",
-        "link": "https://www.espn.com/soccer/story/_/id/49154319/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina-france",
-        "image_url": "https://a.espncdn.com/photo/2026/0618/soc_wc_power-rankings_16x9.jpg",
-        "w": 1500,
-        "h": 844,
         "focus_y": 0.35,
         "source_title1": "ESPN",
         "source_title2": "FOOTBALL",
