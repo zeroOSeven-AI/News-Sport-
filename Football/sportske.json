@@ -1,17 +1,5 @@
 [
     {
-        "title": "Svjetsko prvenstvo se pretvara u cirkus! Fifine novotarije ubijaju napetost, a sve bi moglo postati još gore",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/sp-2026-fifa-format-mrtve-utakmice-kalkulacije-medusobni-omjer-treceplasirani-15721442",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39144941_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "U Kataru ga je slavila cijela Hrvatska, a ozljede bacile u zaborav: Junak bronce kreće ispočetka",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/juranovic-sezona-bez-ozljeda-borba-za-mjesto-union-berlin-trimmel-15721447",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_38668757_640.jpg",
@@ -24,9 +12,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Večeras se na SP-u igraju četiri važne utakmice za Hrvatsku. Evo koji rezultati guraju Vatrene u nokaut-fazu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hrvatska-prag-nokaut-faze-cetiri-utakmice-kljucni-ishodi-15721427",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39156335_640.jpg",
+        "title": "UŽIVO: GOOOL! Dva pogotka Zmajeva u pet minuta, na pragu su povijesnog uspjeha",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/uzivo-petorica-hrvata-u-prvih-11-bih-za-najvazniju-utakmicu-u-povijesti-svicarska-i-kanada-za-prvo-mjesto-15721451",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_38642776_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,7 +24,55 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Evo tko će suditi Vatrenima u ključnoj utakmici, prije samo nekoliko dana doživio je krunu karijere Drew Fischer će biti glavni sudac utakmice. Kanađanin je prije nekoliko dana po prvi put u karijeri sudio utakmicu na SP-u",
+        "title": "Sprema se najkontroverznija utakmica SP-a, obje reprezentacije žele izgubiti?! ‘Ovo će biti sramota‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/alzir-austrija-poraz-trece-mjesto-laksi-put-spanjolska-kalkulacije-15721465",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39158004_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Bliži se neizbježna ogromna kontroverza na Svjetskom prvenstvu Egipatski i iranski nogometni savezi tražili su od Fife da spriječi sve aktivnosti povezane s \"June Prideom\" na stadionu, ali bezuspješno",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/seattle-pride-match-unatoc-pritisku-egipta-i-irana-15721431",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39141764_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Svjetska rekorderka na Fontanama pobijedila kćerku nervozne srpske legende",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/atletika/mahucih-osvojila-zagreb-topic-druga-balley-rekord-gvineje-197-193-15721458",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39158564_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Njemačka nogometna ikona na meti kritika zbog izjava o afričkim nogometašima: ‘To su rasistički stereotipi‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/schweinsteiger-kritike-africki-nogomet-stereotipi-ard-njemacka-15721433",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39112352_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Evo tko će suditi Vatrenima u ključnoj utakmici, prije samo nekoliko dana doživio je krunu karijere",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/drew-fischer-sudi-hrvatska-gana-u-philadelphiji-15721377",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39156052_640.jpg",
         "w": 640,
@@ -60,7 +96,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Raspleti skupina A i C, BiH ostala bez važnog igrača, Harry Kane oslobođen uroka",
+        "title": "UŽIVO: Raspleti skupina B i C, BiH ostala bez važnog igrača, Harry Kane oslobođen uroka",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/uzivo-raspleti-skupina-a-i-c-bih-ostala-bez-vaznog-igraca-harry-kane-osloboden-uroka-15721080",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39155501_640.jpg",
         "w": 640,
@@ -73,7 +109,7 @@
     },
     {
         "title": "Opsadno stanje u Meksiku! Zavladao strah od nereda: Mobilizirano 50.000 policajaca, zabranjen je i alkohol",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/mexico-city-pod-opsadom-56320-policajaca-zabrana-alkohola-ceska-meksiko-15721358",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/mexico-city-pod-opsadom-56320-policajaca-zabrana-alkohola-ceska-meksiko-15721358",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39098565_640.jpg",
         "w": 640,
         "h": 640,
@@ -109,7 +145,7 @@
     },
     {
         "title": "Zvijezda Real Madrida pod paljbom! Padale su teške riječi, a jedan detalj pokrenuo je ozbiljnu raspravu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/bellingham-incident-s-ganezima-i-novo-fifa-pravilo-u-remiju-engleske-i-gane-15721371",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bellingham-incident-s-ganezima-i-novo-fifa-pravilo-u-remiju-engleske-i-gane-15721371",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39155435_640.jpg",
         "w": 640,
         "h": 640,
@@ -120,7 +156,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dvije milijarde funti, 100.000 sjedala i datum koji čekaju navijači Manchester Uniteda",
+        "title": "Dvije milijarde funti, 100.000 sjedala i datum koji čekaju navijači Manchester Uniteda Klub procjenjuje da će izgradnja trajati oko pet godina od trenutka kad radovi službeno počnu",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/dvije-milijarde-funti-100-000-sjedala-i-datum-koji-cekaju-navijaci-manchester-uniteda-15721425",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_38747290_640.jpg",
         "w": 640,
@@ -156,7 +192,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dvojica Hrvata ispisali povijest Vatrenih, na ovom Mundijalu su ispred samo dvojica Zmajeva Jedini put kad su na svjetskim prvenstvima najstariji i najmlađi hrvatski reprezentativac zajedno počeli utakmicu bilo je u Brazilu 2014. godine",
+        "title": "Dvojica Hrvata ispisali povijest Vatrenih, na ovom Mundijalu su ispred samo dvojica Zmajeva",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/modric-vuskovic-rekord-starosne-razlike-hrvatska-engleska-sp-15721330",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/21/k_39125262_640.jpg",
         "w": 640,
@@ -195,42 +231,6 @@
         "title": "Hrvatskoj i Gani paše isti rezultat, ali Dalić nešto mora mijenjati! Samo dva asa su na vrhunskoj razini",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/daliceva-sedma-pobjeda-modric-200-hrvatska-porazi-panamu-dvojbe-pred-ganom-15721197",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39155744_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Legendarni arhitekt igre, stvaratelj šampiona i inovator koji je promijenio Hajduk olako je zaboravljen",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/tomislav-ivic-inovator-hajduka-osvajao-europu-split-mu-duguje-pocast-15721384",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_37426796_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Gdje gledati BiH - Katar: Uskače novi dinamovac, sve osim pobjede znači povratak kući",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/gdje-gledati-bih-katar-uskace-novi-dinamovac-sve-osim-pobjede-znaci-povratak-kuci-15721258",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39130440_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Novozelanđanin koji je zaslužio hrvatsku domovnicu lovi šestu pobjedu i rekordera Crousera",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/atletika/novozelandanin-koji-je-zasluzio-hrvatsku-domovnicu-lovi-sestu-pobjedu-i-rekordera-crousera-15721349",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39157292_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
