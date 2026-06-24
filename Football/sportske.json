@@ -1,29 +1,5 @@
 [
     {
-        "title": "VIDEO: Bosna i Hercegovina pobijedila Katar za treće mjesto! Švicarska prva u skupini",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/video-bosna-i-hercegovina-pobijedila-katar-za-trece-mjesto-svicarska-prva-u-skupini-15721451",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39158909_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Sprema se najkontroverznija utakmica SP-a, obje reprezentacije žele izgubiti?! ‘Ovo će biti sramota‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/alzir-austrija-poraz-trece-mjesto-laksi-put-spanjolska-kalkulacije-15721465",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39158004_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "VIDEO: Džeko podivljao na odluku izbornika BiH. Pogledajte rijetko viđenu reakciju bosanskog dijamanta",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/dzeko-bijesan-nakon-zamjene-barbarez-rizicni-potez-bih-katar-nokaut-15721491",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39159353_640.png",
@@ -36,7 +12,79 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Hajduk nije imao strpljenja, a on je molio trenere da dolaze i radio po 12 sati da bi se vratio‘ Povratak Ivana Perišića na Poljud nije završio onako kako su mnogi priželjkivali",
+        "title": "Sva bizarnost novog FIFA-inog sustava stane u slavlje nogometaša i navijača Bosne i Hercegovine",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bih-slavlje-pobjeda-katar-cetiri-boda-nokaut-faza-jos-nesigurna-15721498",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39159199_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "UŽIVO: Luda utakmica u Atlanti, pala četiri gola u poluvremenu. BiH slavi katastrofalnu grešku dinamovca",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/uzivo-brazil-i-maroko-love-prvo-mjesto-skoti-se-nadaju-cudu-15721495",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39139142_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Junak BiH otkrio koga priželjkuje u nokaut-fazi: ‘Da im pokažemo...‘ Ovdje, maltene kod kuće, pred domaćom publikom, a u Americi, kazao je strijelac trećeg pogotka",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/bih-pobijedila-katar-gotovo-osigurala-osminu-finala-memic-zeli-sad-15721501",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39159174_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "U Kataru ga je slavila cijela Hrvatska, a ozljede bacile u zaborav: Junak bronce kreće ispočetka",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/juranovic-sezona-bez-ozljeda-borba-za-mjesto-union-berlin-trimmel-15721447",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_38668757_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Večeras se igraju još tri važne utakmice za Hrvatsku. Evo koji rezultati guraju Vatrene u nokaut-fazu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hrvatska-prag-nokaut-faze-cetiri-utakmice-kljucni-ishodi-15721427",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39156335_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Nogometni velikan, koliko god samodopadan i umišljen, ne zaslužuje ovakav tretman. Pogotovo iz svoje domovine",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/messi-ocarava-ronaldo-prkosi-godinama-rekordi-carolija-vjecno-rivalstvo-15721487",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39154645_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Hajduk nije imao strpljenja, a on je molio trenere da dolaze i radio po 12 sati da bi se vratio‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/jese-perisic-oporavak-radna-etika-hajduk-psv-reprezentacija-15721439",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39155776_640.jpg",
         "w": 640,
@@ -108,7 +156,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Njemačka nogometna ikona na meti kritika zbog izjava o afričkim nogometašima: ‘To su rasistički stereotipi‘",
+        "title": "Njemačka nogometna ikona na meti kritika zbog izjava o afričkim nogometašima: ‘To su rasistički stereotipi‘ Osvajač SP-a 2014. rekao je kako Obala Bjelokosti igra \"afrički nogomet\", koji je okarakterizirao kao \"ponekad malo neortodoksan, pomalo divlji i ne baš taktički nastrojen",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/schweinsteiger-kritike-africki-nogomet-stereotipi-ard-njemacka-15721433",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39112352_640.jpg",
         "w": 640,
@@ -156,7 +204,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Opsadno stanje u Meksiku! Zavladao strah od nereda: Mobilizirano 50.000 policajaca, zabranjen je i alkohol Iza ovako masovnog policijskog rasporeda krije se kombinacija prijetnji koje vlasti nisu mogle ignorirati.",
+        "title": "Opsadno stanje u Meksiku! Zavladao strah od nereda: Mobilizirano 50.000 policajaca, zabranjen je i alkohol",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/mexico-city-pod-opsadom-56320-policajaca-zabrana-alkohola-ceska-meksiko-15721358",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39098565_640.jpg",
         "w": 640,
@@ -183,54 +231,6 @@
         "title": "Cristiano Ronaldo nakon vala sumnji i teških riječi utišao kritičare: ‘Bog pomaže onima koji naporno rade‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/ronaldo-rekord-sest-svjetskih-prvenstava-dva-gola-protiv-uzbekistana-portugal-5-0-15721420",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39154645_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Zvijezda Real Madrida pod paljbom! Padale su teške riječi, a jedan detalj pokrenuo je ozbiljnu raspravu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bellingham-incident-s-ganezima-i-novo-fifa-pravilo-u-remiju-engleske-i-gane-15721371",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39155435_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Dvije milijarde funti, 100.000 sjedala i datum koji čekaju navijači Manchester Uniteda",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/dvije-milijarde-funti-100-000-sjedala-i-datum-koji-cekaju-navijaci-manchester-uniteda-15721425",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_38747290_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hrvatska bi mogla biti na mukama! Opasnost prijeti sa svih strana, a ‘zvijer‘ iz Premier lige posebna je priča",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/kolumbija-munoz-derbi-portugal-sest-bodova-vrh-skupine-15721308",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39155451_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Ne sjećam se kad je ovakva Hrvatska otišla na veliko natjecanje; ‘Ne može Modrić igrati kao Messi...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ne-sjecam-se-kad-je-ovakva-hrvatska-otisla-na-veliko-natjecanje-ne-moze-modric-igrati-kao-messi-15721172",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/23/k_39156356_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
