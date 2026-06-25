@@ -1,8 +1,20 @@
 [
     {
-        "title": "UŽIVO/VIDEO: Hrvatska nije dugo slavila, Ekvador brzo poništio njemačko vodstvo",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/uzivo-video-hrvatska-nije-dugo-slavila-ekvador-brzo-ponistio-njemacko-vodstvo-15721833",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/25/k_39163978_640.jpg",
+        "title": "VIDEO: Jedna od najvećih senzacija SP-a! Ekvador srušio Njemačku, to je loša vijest i za Vatrene",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/video-jedna-od-najvecih-senzacija-sp-a-ekvador-srusio-njemacku-to-je-losa-vijest-i-za-vatrene-15721833",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/25/k_39164018_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Gvardiol stiže Bobana: ‘Nije mi bilo jasno kako se to dogodilo. Kritike? Ne bježim, mlad sam, naučit ću‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/gvardiol-moro-hrvatska-ganom-zavrsne-pripreme-dalic-tranzicija-15721862",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/25/k_39162675_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -14,7 +26,7 @@
     {
         "title": "VIDEO: Je li ovo najveća sudačka greška na SP-u? Pogledajte odluku sutkinje prije gola Njemačke",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/skandal-metlife-njemacka-rani-gol-bez-var-ekvador-prosvjedi-15721851",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/25/k_39163931_640.jpg",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/25/k_39164001_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,9 +36,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Ključni Vatreni mogao bi dobiti odmor protiv Gane da sredi misli. Nije lijepo vidjeti kako ga ‘buše‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/dalic-rotira-hrvatska-trazi-stabilnu-obranu-i-sirinu-klupe-15721815",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/25/k_39155821_640.jpg",
+        "title": "VIDEO: Drama na tribini! Ušao sa srpskom zastavom među navijače BiH, pogledajte što se dogodilo Da slika bude potpuna, sceni je svjedočio i jedan gledatelj koji je bio u plavom dresu hrvatske reprezentacije...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/incident-lumen-field-navijac-bih-srpska-zastava-seattle-katar-3-1-15721807",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/25/k_39162822_640.png",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,9 +48,45 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dragi naš Pindra, sve smo znali, a ne možemo ne biti tužni... Tvoje Sportske novosti Spavaj prijatelju. Odmori. I ako dospiješ, ponekad, na neki nama smrtnicima nepoznat način, pošalji neki znak, savjet, korekciju...",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/dragi-nas-pindra-sve-smo-znali-a-ne-mozemo-ne-biti-tuzni-tvoje-sportske-novosti-15721782",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/25/k_39161581_640.jpg",
+        "title": "Bjelica otkrio kako Hrvatska mora igrati protiv Gane: ‘Ako to učinimo, imamo velike šanse za pobjedu‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/bjelica-otkriva-taktiku-hrvatske-za-pobjedu-nad-ganom-15721843",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/25/k_38788970_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "U Zagrebu sam kod kuće, a zbog svog izgleda sam često htjela pobjeći s natjecanja",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/ivana-spanovic-rekord-u-zagrebu-kraj-dalja-i-prelazak-na-troskok-15721857",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/25/k_39161693_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Hajduk bira između životarenja i milijunske injekcije čovjeka koji želi moćan i jak klub",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-ponuda-whitebit-piric-nosov-rekordni-sponzor-poljud-odluka-15721853",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39153008_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Manchester City dovršio transfer vrijedan 150 milijuna eura! Dinamo želi Hrvata iz Cvajte",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-real-vraca-velikog-talenta-i-odmah-ga-salje-nazad-hajduk-blizu-jos-jednog-transfera-15721535",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39077128_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -108,7 +156,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Oni su najbolji tandem Vatrenih: Jasno je tko bi od Modrića uskoro trebao naslijediti veliku čast",
+        "title": "Oni su najbolji tandem Vatrenih: Jasno je tko bi od Modrića uskoro trebao naslijediti veliku čast Dok prvi štiti braniče nakon propusta i pomaže da se pogreške brže zaborave, drugi u napadu preuzima konce i unosi nepredvidljivost u, zapravo, predvidljive napadačke postavke...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/baturina-livakovic-hrvatski-tandem-mundijala-dribling-parade-transferi-15721751",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39144940_640.jpg",
         "w": 640,
@@ -144,19 +192,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Hrvat je hit u Njemačkoj, a sad bi mogao put Dinama? Hajduk blizu još jednog transfera",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-real-vraca-velikog-talenta-i-odmah-ga-salje-nazad-hajduk-blizu-jos-jednog-transfera-15721535",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39077128_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Olmo o proslavi na biciklu, zašto nije Yamalu dao broj 10 i odlasku u Dinamo: ‘Ne znam jesam li plakao‘ ‘Nekako sam navikao da se uvijek moram dokazivati da bih na kraju igrao, tako je kroz cijelu moju karijeru‘",
+        "title": "Olmo o proslavi na biciklu, zašto nije Yamalu dao broj 10 i odlasku u Dinamo: ‘Ne znam jesam li plakao‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/dani-olmo-voznja-petom-avenijom-povratak-u-barcelonu-intervju-15721789",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/25/k_39162413_640.png",
         "w": 640,
@@ -192,45 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "MUNDOCAST: ‘Zašto ga je Dalić uopće zvao na Mundijal ako ga ne koristi, a vidjelo se da nam treba...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/mundocast-sucic-u-prvih-11-gvardiol-na-klupi-hrabra-rjesenja-za-ganu-15721564",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/25/k_39155935_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "VIDEO Slavlje se pretvorilo u horor: Automobilom pregazio 17 ljudi, rulja ga izvukla i ‘pretukla na mrtvo‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/meksiko-skupina-bez-gola-slavlje-u-cabo-san-lucasu-pretvoreno-u-tragediju-15721693",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/25/k_39161681_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "UŽIVO: Pet utakmica suspenzije za krvnički prekršaj, BiH ima novog junaka, evo tko je noćas pomogao Hrvatskoj",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-pet-utakmica-suspenzije-za-krvnicki-prekrsaj-bih-ima-novog-junaka-evo-tko-je-nocas-pomogao-hrvatskoj-15721511",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/24/k_39159737_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Propisno se osramotili na SP-u, sad žele - ponovljenu utakmicu!? ‘Ako postoji jedan posto šanse, učinimo to‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/fifa-odbijila-ponavljanje-turska-izgubljeni-sudacki-sat-15721704",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/25/k_39139122_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
