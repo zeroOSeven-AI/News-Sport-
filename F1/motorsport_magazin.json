@@ -1,8 +1,8 @@
 [
     {
-        "title": "Formel 1 Österreich, 1. Training: Kimi Antonelli vor Russell, Hamilton mit Rückstand",
-        "link": "https://www.motorsport-magazin.com/formel1/news-299104-formel-1-oesterreich-1-training-kimi-antonelli-vor-george-russell-hamilton-mit-rueckstand/",
-        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1124953.jpg",
+        "title": "Formel 1 Österreich, 2. Training: Antonelli kämpft mit McLaren, Ferrari & Russell nirgends",
+        "link": "https://www.motorsport-magazin.com/formel1/news-299110-formel-1-oesterreich-2-training-kimi-antonelli-kaempft-mit-mclaren-ferrari-george-russell-nirgends/",
+        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1124967.jpg",
         "w": 1200,
         "h": 627,
         "focus_y": 0.35,
@@ -12,9 +12,33 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Formel 1 Liveticker: Die Trainings auf dem Red Bull Ring - F1-News zum Österreich GP",
+        "title": "Formel 1 Liveticker: Das 2. Training JETZT live - F1-News zum Österreich GP",
         "link": "https://www.motorsport-magazin.com/formel1/news-299103-formel-1-liveticker-die-trainings-auf-dem-red-bull-ring-f1-news-zum-oesterreich-gp/",
         "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1124338.jpg",
+        "w": 1200,
+        "h": 627,
+        "focus_y": 0.35,
+        "source_title1": "MOTORSPORT MAGAZIN",
+        "source_title2": "F1",
+        "source_color": "#FFD300",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Formel-1-Updates Österreich: Großer Umbau bei Red Bull, Diskussionen um Mercedes",
+        "link": "https://www.motorsport-magazin.com/formel1/news-299105-formel-1-updates-oesterreich-grosser-umbau-bei-red-bull-diskussionen-um-mercedes/",
+        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1124949.jpg",
+        "w": 1200,
+        "h": 627,
+        "focus_y": 0.35,
+        "source_title1": "MOTORSPORT MAGAZIN",
+        "source_title2": "F1",
+        "source_color": "#FFD300",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Formel 1 Österreich, 1. Training: Kimi Antonelli vor Russell, Hamilton mit Rückstand",
+        "link": "https://www.motorsport-magazin.com/formel1/news-299104-formel-1-oesterreich-1-training-kimi-antonelli-vor-george-russell-hamilton-mit-rueckstand/",
+        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1124953.jpg",
         "w": 1200,
         "h": 627,
         "focus_y": 0.35,
@@ -567,30 +591,6 @@
         "title": "Wenn der Heckflügel ins Handgepäck muss: Einblicke in die Welten der Audi-Logistik",
         "link": "https://www.motorsport-magazin.com/formel1/news-298965-audi-gibt-einblicke-in-formel-1-logistik-wenn-der-heckfluegel-ins-handgepaeck-muss/",
         "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1124421.jpg",
-        "w": 1200,
-        "h": 627,
-        "focus_y": 0.35,
-        "source_title1": "MOTORSPORT MAGAZIN",
-        "source_title2": "F1",
-        "source_color": "#FFD300",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Max zu Mercedes? Jos Verstappen kontert Ralf Schumachers \"Billig-Angebot\"-Aussage",
-        "link": "https://www.motorsport-magazin.com/formel1/news-298964-f1-wirbel-um-mercedes-deal-jos-verstappen-schiesst-gegen-ralf-schumacher/",
-        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1124426.jpg",
-        "w": 1200,
-        "h": 627,
-        "focus_y": 0.35,
-        "source_title1": "MOTORSPORT MAGAZIN",
-        "source_title2": "F1",
-        "source_color": "#FFD300",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Formel 1 2026: Stand Power Units und Motoren",
-        "link": "https://www.motorsport-magazin.com/formel1/news-297562-formel-1-2026-stand-power-units-und-motoren/",
-        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1118564.jpg",
         "w": 1200,
         "h": 627,
         "focus_y": 0.35,
