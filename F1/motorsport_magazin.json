@@ -1,5 +1,17 @@
 [
     {
+        "title": "Formel 1 Liveticker: Antonelli dominiert Trainings - F1-News zum Österreich GP",
+        "link": "https://www.motorsport-magazin.com/formel1/news-299103-formel-1-liveticker-die-trainings-auf-dem-red-bull-ring-f1-news-zum-oesterreich-gp/",
+        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1124338.jpg",
+        "w": 1200,
+        "h": 627,
+        "focus_y": 0.35,
+        "source_title1": "MOTORSPORT MAGAZIN",
+        "source_title2": "F1",
+        "source_color": "#FFD300",
+        "flag": "🇩🇪"
+    },
+    {
         "title": "Formel 1 Österreich, 2. Training: Antonelli kämpft mit McLaren, Ferrari & Russell nirgends",
         "link": "https://www.motorsport-magazin.com/formel1/news-299110-formel-1-oesterreich-2-training-kimi-antonelli-kaempft-mit-mclaren-ferrari-george-russell-nirgends/",
         "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1124967.jpg",
@@ -12,9 +24,9 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Formel 1 Liveticker: Das 2. Training JETZT live - F1-News zum Österreich GP",
-        "link": "https://www.motorsport-magazin.com/formel1/news-299103-formel-1-liveticker-die-trainings-auf-dem-red-bull-ring-f1-news-zum-oesterreich-gp/",
-        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1124338.jpg",
+        "title": "Ergebnisse: Österreich GP - 2. Training",
+        "link": "https://www.motorsport-magazin.com/formel1/ergebnisse/2026/session/oesterreich-gp-2-training-41587.html",
+        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1124968.jpg",
         "w": 1200,
         "h": 627,
         "focus_y": 0.35,
@@ -579,18 +591,6 @@
         "title": "Christian Danner sieht Wolff unter Zugzwang: Hamilton verändert die Großwetterlage",
         "link": "https://www.motorsport-magazin.com/formel1/news-298958-formel-1-experte-sieht-mercedes-unter-zugzwang-hamilton-veraendert-die-grosswetterlage/",
         "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1124427.jpg",
-        "w": 1200,
-        "h": 627,
-        "focus_y": 0.35,
-        "source_title1": "MOTORSPORT MAGAZIN",
-        "source_title2": "F1",
-        "source_color": "#FFD300",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Wenn der Heckflügel ins Handgepäck muss: Einblicke in die Welten der Audi-Logistik",
-        "link": "https://www.motorsport-magazin.com/formel1/news-298965-audi-gibt-einblicke-in-formel-1-logistik-wenn-der-heckfluegel-ins-handgepaeck-muss/",
-        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1124421.jpg",
         "w": 1200,
         "h": 627,
         "focus_y": 0.35,
