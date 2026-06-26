@@ -1,5 +1,17 @@
 [
     {
+        "title": "Vatreni u ljubavnom gnijezdu, Kramarić traži protivnika za veliki okršaj, navijači spremaju čak dva kortea!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/kramaric-sah-the-notary-vatreni-philadelphia-navijaci-15722157",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/25/k_39155265_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Kalkulacije počinju, propada spektakl dana na SP-u? ‘Izbornik odlučio zaigrati s rezervama...‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/kalkulacije-pocinju-propada-spektakl-dana-na-sp-u-izbornik-odlucio-zaigrati-s-rezervama-15722136",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/26/k_39151541_640.jpg",
@@ -12,9 +24,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Zašto je obrana Hrvatske tako porozna? Veliku ulogu u svemu odigrao je upravo - Zlatko Dalić",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-obrana-rotacije-ozljede-pad-kompaktnosti-na-sp-15722085",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/25/k_39150430_640.jpg",
+        "title": "UŽIVO: GOL! DInamo furiozno otvorio sezonu, Beljo i Vidović zabili dva ‘komada‘ već na startu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-dinamo-u-sloveniji-igra-prvu-utakmicu-misic-skoro-zatresao-mrezu-legenda-u-prvih-11-15722148",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/26/k_39168281_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,9 +36,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hrvatska je izrazito veliki favorit, ali kladionice ipak ne očekuju ishod koji svima paše!?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/hrvatska-gana-favorit-kvote-remi-prolaz-scenariji-15722124",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/26/k_39156052_640.jpg",
+        "title": "UŽIVO: LaFond skočila najbolji rezultat na svijetu! Nižu se rekordi mitinga, oduševila Nina Vuković Glavni program sa 16 službenih disciplina na Stadionu Mladosti uz Savu pratimo i komentiramo iz minute u minutu",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/atletika/uzivo-76-boris-hanzekovic-memorijal-15722070",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/26/k_39168020_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,9 +48,69 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Cirkus u režiji Fife! Navijači kipte, posljedice stigle i Hrvatsku: ‘Najgora utakmica u povijesti čovječanstva‘ Nula bez šansi razbjesnila navijače i otvorila novu raspravu o pravilima turnira",
+        "title": "Cirkus u režiji Fife! Navijači kipte, posljedice stigle i Hrvatsku: ‘Najgora utakmica u povijesti čovječanstva‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/remi-australije-i-paragvaja-otkrio-mane-sustava-svjetskog-prvenstva-15721935",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/26/k_39166334_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Zagrijavanje‘ na Savi s vatrometom rekorda u režiji djevojaka s Kariba",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/atletika/zagrijavanje-na-savi-s-vatrometom-rekorda-u-reziji-djevojaka-s-kariba-15722163",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/26/k_39168253_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "UŽIVO: Hajduk doveo novo pojačanje, Vatreni na meti škotskog velikana Škorić napušta Rijeku",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-hajduk-doveo-novo-pojacanje-vatreni-na-meti-skotskog-velikana-skoric-napusta-rijeku-15721895",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/26/k_39077128_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Daliću od početka karijere leže Afrikanci, a tamošnju veliku zvijezdu koju je vodio optužili su za - ubojstvo!?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/dalic-africke-reprezentacije-gyan-al-ain-senegal-maroko-bronca-egipat-15722117",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/26/k_39155759_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Mundijal bi mogao zatresti ogroman skandal! Nijemci tvrde da imaju dokaze, u priču upleteni i Meksiko i SAD",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/istrazivanje-savezi-preprodaju-ulaznice-za-svjetsko-prvenstvo-po-vise-cijeni-15722062",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/26/k_39091637_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "FOTO: Nizozemac podigao prašinu! Već je bio kažnjen, a sada je opet ‘izveo performans‘ i to uoči velike utakmice",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/wilders-ai-crveni-karton-maroku-rasprava-optuzbe-15722102",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/26/k_37770565_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -51,18 +123,6 @@
         "title": "Spektakl je zagarantiran, svijet će večeras vidjeti sudar divova! Jedan je eksplozija, drugi je prava sila",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/mbappe-vs-haaland-francuska-norveska-sudar-napadackih-titana-15722072",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/25/k_39161488_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "UŽIVO Boris Hanžeković memorijal: Čeh peti put zaredom pobjednik",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/atletika/uzivo-76-boris-hanzekovic-memorijal-15722070",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/26/k_39167503_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,7 +156,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dominacija kakva se rijetko viđa: osvojili duplu krunu, bez poraza u finalnoj seriji, briljirali u Ligi prvaka",
+        "title": "Dominacija kakva se rijetko viđa: osvojili duplu krunu, bez poraza u finalnoj seriji, briljirali u Ligi prvaka Navijači na nogama, igrači u vodi čestitaju, Mladost je zaključila sezonu",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vaterpolo/mladost-dominira-prvaci-hrvatske-aplauz-jadrana-liga-prvaka-15722108",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/26/k_39163272_640.jpg",
         "w": 640,
@@ -156,30 +216,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Hajduk doveo novo pojačanje, Škorić napušta Rijeku, ‘Građani‘ iskeširali 150 milijuna eura Pratimo najnovija događanja prijelaznog roka na domaćoj i svjetskoj tržnici",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-gradani-doveli-igraca-za-150-milijuna-eura-dinamo-se-natjece-s-nijemcima-za-hrvata-15721895",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/26/k_39077128_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Za hrvatsku ragbijašku reprezentaciju prvi put istovremeno zaigrali brat i sestra",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/ragbi-7-hrvatska-poraz-remi-kisinjev-svedska-monaco-malta-15722138",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/26/k_39167900_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Fifa povukla radikalan potez i to usred Mundijala, Infantino i društvo bez milosti - izbačeni ste!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/fifa-suspendirala-nepal-zbog-politickog-uplitanja-u-izbore-15721982",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/26/k_38759269_640.jpg",
@@ -192,45 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Ovo je prava istina iza ‘skandala‘ sa srpskom zastavom na utakmici Bosne i Hercegovine?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bh-fanaticosi-vratili-srpsku-zastavu-vlasnici-na-tribinama-los-angeles-15721976",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/26/k_39162822_640.png",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Hamilton traži nastavak renesanse, Antonelli nikada motiviraniji, je li Ferrari zapravo konkurent?",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/automoto/formula1/f1-austrija-spielberg-ferrari-merc-pouzdanost-red-bull-verstappen-hamilton-15722114",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/25/k_39109198_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Raskol u reprezentaciji! Zvijezda Reala predvodnik bunta protiv izbornika, bijesni igrači napustili sastanak",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/urugvaj-igraci-protiv-bielse-kriza-prije-spanjolske-skupina-h-15721893",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/26/k_39148381_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Doznajemo: Hrvatskoj u subotu ne bi bilo previše ni jedanaest Petra Sučića, a on je i dalje upitan!?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/sucic-na-klupi-razlog-odluke-i-sto-slijedi-protiv-gane-15721876",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/25/k_39156153_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
