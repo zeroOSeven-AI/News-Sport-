@@ -240,21 +240,6 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "DFB-Chef Rettig vor Paraguay:„Haben das Messer am Hals!“",
-        "link": "https://m.sportbild.bild.de/fussball/fussball-wm/dfb-chef-rettig-vor-paraguay-haben-das-messer-am-hals-6a3f9da0113e90346dc4ed46",
-        "image_url": "https://images.bild.de/6a3f9da0113e90346dc4ed46/887d3d8f2ecdf0c2597946620a183cb9-landscape,57dc39ba?w=1280",
-        "w": 1280,
-        "h": 720,
-        "focus_y": 0.3,
-        "published_at": null,
-        "author": null,
-        "description": null,
-        "source_title1": "SPORT",
-        "source_title2": "BILD",
-        "source_color": "#fc4e4e",
-        "flag": "🇩🇪"
-    },
-    {
         "title": "Neue Chefin legt los:So läuft der HSV-Start von Kathleen Krüger",
         "link": "https://m.sportbild.bild.de/fussball/hamburger-sv/hamburger-sv-so-laeuft-der-start-der-neuen-chefin-kathleen-krueger-6a3a9b32bee7c015a23d8884",
         "image_url": "https://images.bild.de/6a3a9b32bee7c015a23d8884/81e7ca719af37e1b6900090b8e4ff61b,e28680e9?w=1280",
@@ -294,6 +279,21 @@
         "published_at": "2026-06-24T20:39:46.752Z",
         "author": "Phillip  Arens",
         "description": "Im Interview mit SPORT BILD spricht Leverkusens Sportchef Simon Rolfes über Coach Carles Martínez, Top-Talent Kennet Eichhorn und seine persönliche Zukunft.",
+        "source_title1": "SPORT",
+        "source_title2": "BILD",
+        "source_color": "#fc4e4e",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Jahrelange Fehl-Entwicklung:DAS ist Gladbachs größtes Kohle-Problem",
+        "link": "https://m.sportbild.bild.de/fussball/borussia-moenchengladbach/gladbach-das-ist-borussias-groesstes-kohle-problem-6a3985374a511c5d28f90a69",
+        "image_url": "https://images.bild.de/6a3985374a511c5d28f90a69/bbbf72b08ebb03ed257b1fc4c7845aab,480e4118?w=1280",
+        "w": 1280,
+        "h": 720,
+        "focus_y": 0.3,
+        "published_at": "2026-06-23T13:00:28.960Z",
+        "author": "Yannick Hüber",
+        "description": "Gladbach: So kämpft Borussia gegen den eigenen Wertverlust",
         "source_title1": "SPORT",
         "source_title2": "BILD",
         "source_color": "#fc4e4e",
