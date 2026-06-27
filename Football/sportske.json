@@ -1,5 +1,17 @@
 [
     {
+        "title": "‘Čitam da više ne može, ali ja nikad ne bih Modrića preselio na klupu. Samo u jednom slučaju...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/vranjes-modric-ostaje-starter-gvardiol-upitan-francuska-prvi-favorit-15722469",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/25/k_39128028_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Povratak korijenima: Dalić za ključnu utakmicu sprema tihi zaokret, ovo bi moglo presuditi protiv Gane",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-gana-dalicev-plan-za-prolaz-posjed-plitka-obrana-15722434",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/26/k_39155393_640.jpg",
@@ -24,9 +36,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Oštar istup zvijezde Irana: ‘Znate što nam je Infantino rekao kad je ušao u svlačionicu?‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/taremi-napao-fifa-infantino-iran-vize-logistika-tijuana-15722358",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/27/k_39172552_640.jpg",
+        "title": "Nogometna zvijezda ‘zarobljena‘ u državi: ‘Duguje više od 20 mjeseci alimentacije, a živi jako luksuzno‘ Argentinski sud mu stavio zabranu izlaska, a Wanda proziva luksuzni život bez plaćanja uzdržavanja djece.",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/icardi-zabrana-izlaska-alimentacija-transfer-karijera-buenos-aires-15722472",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/27/k_36974161_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,7 +48,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Premijera biografije Roberta Prosinečkog: ‘Ćiro mi je ulazio u sobu mažnjavati cigarete‘ Knjiga je rasprodana prije početka promocije, a anegdote s Ćirom nasmijale brojnu publiku",
+        "title": "Najveći tragičar SP-a, koliko god da se ispričavao neće biti dovoljno... ‘Sam je tražio izlazak‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/najveci-tragicar-sp-a-koliko-god-da-se-ispricavao-nece-biti-dovoljno-sam-je-trazio-izlazak-15722376",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/27/k_39172823_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "MUNDOCAST: ‘Ako Dalić ovo napravi, znači da priznaje pogrešku. Sučić je nužan, a jednog igrača smo zanemarili‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-gana-dalic-promjene-mundocast-analiza-taktika-15722261",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/27/k_39168837_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Premijera biografije Roberta Prosinečkog: ‘Ćiro mi je ulazio u sobu mažnjavati cigarete‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/rasprodana-biografija-roberta-prosineckog-ovacije-u-knjiznici-bogdana-ogrizovica-15722453",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/27/k_39173095_640.jpg",
         "w": 640,
@@ -60,9 +96,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "MUNDOCAST: ‘Ako Dalić ovo napravi, znači da priznaje pogrešku. Sučić je nužan, a jednog igrača smo zanemarili‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-gana-dalic-promjene-mundocast-analiza-taktika-15722261",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/27/k_39168837_640.jpg",
+        "title": "UŽIVO: Gana zbog zvijezde na udaru želi izgubiti od Hrvatske? Poznato više od pola parova nokaut faze",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/uzivo-veliki-debakl-juznoamericke-reprezentacije-ceka-nas-poslastica-u-sesnaestini-finala-15722236",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/27/k_39172457_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Hrvatska se više ne može uzdati u najlošiji scenarij. Evo što Vatrenima treba za prolaz",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/hrvatska-poraz-od-gane-rub-ispadanja-kalkulacije-alzir-kong-uzbekistan-15722254",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/27/k_39156050_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -108,7 +156,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Nitko nema dres kao on! Modrića na tribinama čeka poseban navijač: ‘Zamolio bih ga samo jedno..‘",
+        "title": "Nitko nema dres kao on! Modrića na tribinama čeka poseban navijač: ‘Zamolio bih ga samo jedno..‘ Navijačka atmosfera u Philadelphiji je blizu usijanja, a mlada obitelj koja je došla podržati Hrvatsku otkrila nam je svoje dojmove",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/simun-dres-201-modric-philadelphia-hrvatska-gana-15722326",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/27/k_39169817_640.jpg",
         "w": 640,
@@ -156,57 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dva igrača na liječničkom pregledu u Poljudu: Bijelima napokon stiže rješenje za kritičnu poziciju? Alberto Del Moral i Dalisson će uskoro dres španjolske Cordobe zamijenti onim bijelim splitskoga kluba",
+        "title": "Dva igrača na liječničkom pregledu u Poljudu: Bijelima napokon stiže rješenje za kritičnu poziciju?",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-del-moral-dalisson-stizu-iz-cordobe-transferi-poljud-15722281",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/27/k_39172673_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Kapa dolje Dembeleu i Belgijcima, ali ovo je nenadmašno: Bajka arhipelaga se nastavlja!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/junakdana-sp2026/zelenortski-otoci-povijesni-prolaz-debitanta-u-nokaut-fazu-vozinha-heroj-15722301",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/27/k_39171855_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Jako sam zabrinut, ključni igrači Hrvatske su u problemu, a Gana je kao ‘Panama na steroidima’",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-gana-eksplozija-brzina-dupli-bokovi-centarsutevi-prolaz-15722249",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/26/k_39155949_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO Oni su najljepša priča ovog SP-a: Pogledajte trenutak kada su saznali da su ispisali povijest",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/zelenortski-otoci-ispisali-povijest-idu-na-argentinu-u-nokaut-fazi-15722279",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/27/k_39172636_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO Hrvati napravili show u Philadelphiji, a onda upali na - vjenčanje! Pogledajte šokirane mladence",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/video-hrvati-napravili-show-u-philadelphiji-a-onda-upali-na-vjencanje-pogledajte-sokirane-mladence-15722232",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/27/k_39170404_640.png",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -228,9 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Ludnica u Seattleu i nova loša vijest za Hrvatsku! Belgija slavi prvo mjesto, Egipćani ‘preživjeli‘ protiv Irana",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/ludnica-u-seattleu-i-nova-losa-vijest-za-hrvatsku-belgija-slavi-prvo-mjesto-egipcani-prezivjeli-protiv-irana-15722240",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/26/k_39172137_640.jpg",
+        "title": "Kapa dolje Dembeleu i Belgijcima, ali ovo je nenadmašno: Bajka arhipelaga se nastavlja!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/junakdana-sp2026/zelenortski-otoci-povijesni-prolaz-debitanta-u-nokaut-fazu-vozinha-heroj-15722301",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/27/k_39171855_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
