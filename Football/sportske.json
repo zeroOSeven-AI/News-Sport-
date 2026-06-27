@@ -1,8 +1,8 @@
 [
     {
-        "title": "UŽIVO/VIDEO: Fantazija Petra Sučića! Hrvatska je trenutno prva u skupini, evo s kim igra ako tako i ostane",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/uzivo-hrvatska-gana-goool-fantazija-petra-sucica-vatreni-su-trenutno-prvi-u-skupini-15722522",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/27/k_39176011_640.jpg",
+        "title": "VIDEO: Hrvatska ide dalje kao druga u skupini! Sučić i Vlašić srušili Ganu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/video-hrvatska-ide-dalje-kao-druga-u-skupini-sucic-i-vlasic-srusili-ganu-15722522",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/27/k_39176458_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -12,9 +12,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "FOTO Sučić razgalio Hrvatsku, evo razloga njegove posebne proslave gola!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/petar-sucic-gol-protiv-gane-proslava-bebe-povratak-u-prvih-11-15722549",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/27/k_39176009_640.jpg",
+        "title": "Evo kada Hrvatska igra iduću utakmicu! Dva su moguća protivnika",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-pobijedila-ganu-vlasic-donio-nokaut-fazu-ceka-portugal-ili-kolumbija-15722556",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39176530_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,9 +24,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Baturina muči Gance, braniči bez posla, a ovo ostaje vječno pitanje za Zlatka Dalića!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-gana-sucic-gol-kontrola-vrh-skupine-15722548",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/27/k_39176015_640.jpg",
+        "title": "Ocijenite kako su igrali Vatreni protiv Gane! Tko vas je oduševio, a tko razočarao?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/ocijenite-kako-su-igrali-vatreni-protiv-gane-tko-vas-je-odusevio-a-tko-razocarao-15722555",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/27/k_39176017_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,7 +36,43 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Frustrirana zvijezda Španjolske: ‘Danas je jedan od najgorih dana u mom životu‘ Ponovno sam ozlijeđen nakon vrlo teške godine u kojoj je pubalgija dobila mnoge bitke, ali ne i rat, napisao je Williams",
+        "title": "Zlatko Dalić objasnio promjene: ‘Evo zašto sam ostavio Gvardiola na klupi‘ ‘Imamo tri ofenzivna vezna prema naprijed, Baturinu, Sučića i Vlašića. Sva trojica mogu tražiti uzak prostor‘, pojasnio je svoje odluke izbornik",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-gana-dalic-promjene-perisic-bek-budimir-starter-gvardiol-klupa-15722543",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/27/k_39155755_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Zna se tko danas navija za potop Hrvatske! Nadaju se gotovo pa nemogućem scenariju",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/opta-skotska-sanse-hrvatska-poraz-minus-tri-alzir-austrija-uzbekistan-15722537",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/27/k_39149580_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Veliki Zlatan nema dileme: ‘Oni će osvojiti Svjetsko prvenstvo! Zastrašujući su...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ibrahimovic-francuska-favorit-tricolori-nokaut-faza-mundijal-15722527",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/27/k_37655091_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Frustrirana zvijezda Španjolske: ‘Danas je jedan od najgorih dana u mom životu‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nico-williams-ozljeda-aduktora-spanjolska-urugvaj-de-la-cruz-15722545",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/27/k_39175489_640.jpg",
         "w": 640,
@@ -48,8 +84,8 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO/VIDEO Fantastična atmosfera prije utakmice Vatrenih! U Philadelphiju stigla i ‘neizostavna‘ Ivana Knoll",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/uzivo-video-fantasticna-atmosfera-prije-utakmice-vatrenih-u-kockastim-dresovima-i-ljudi-koji-nisu-hrvati-15722236",
+        "title": "VIDEO Fantastična atmosfera prije utakmice Vatrenih! U Philadelphiju stigla i ‘neizostavna‘ Ivana Knoll",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/video-fantasticna-atmosfera-prije-utakmice-vatrenih-u-philadelphiju-stigla-i-neizostavna-ivana-knoll-15722236",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/27/k_39175392_640.jpg",
         "w": 640,
         "h": 640,
@@ -120,7 +156,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Na putu je da ‘skine‘ legendu i zaslužuje najveći klub karijere! Ikone Vatrenih mogu biti ponosne",
+        "title": "Na putu je da ‘skine‘ legendu i zaslužuje najveći klub karijere! Ikone Vatrenih mogu biti ponosne Gdje će Dominik braniti u sezoni koja dolazi vjerojatno danas nitko ne zna. Ali u najvećem je izlogu i sve će se vidjeti",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/livakovic-juri-pletikosu-rekordi-medalje-hrvatska-jedinica-15722515",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/26/k_39125663_640.jpg",
         "w": 640,
@@ -156,7 +192,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Kapetan najveće senzacije SP-a optužen za silovanje! Procurili detalji, FIFA je sve znala i ranije? Brazilka, angažirana kao prevoditeljica u reprezentaiciji Zelenortskih Otoka prijavila je napad koji se navodno dogodio prije Mundijala",
+        "title": "Kapetan najveće senzacije SP-a optužen za silovanje! Procurili detalji, FIFA je sve znala i ranije?",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/kapetan-zelenortskih-otoka-istraga-silovanje-ryan-mendes-novi-zeland-15722504",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/27/k_39115960_640.jpg",
         "w": 640,
@@ -171,18 +207,6 @@
         "title": "Osim što je neprofesionalna, time se i hvali: ‘Ne znam gdje je BiH na karti, ne želim znati ništa o toj državi‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/bih-prosla-skupinu-slijedi-sad-izjava-komentatorice-izazvala-osude-15722500",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/27/k_39173451_640.png",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Kalkulacije: Evo što Hrvatskoj treba za prolazak! Naši mogu završiti prvi u skupini i ispasti kao treći",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/hrvatska-gana-bod-za-osminu-finala-vatreni-15722495",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/27/k_39156285_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -207,30 +231,6 @@
         "title": "Donedavno najplaćeniji izbornik svijeta na teškom udaru: ‘Milijuni bačeni, najveći neuspjeh u povijesti‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/urugvaj-ispao-u-skupini-poraz-od-spanjolske-kritike-bielsi-sukobi-15722485",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/27/k_39172574_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Povratak korijenima: Dalić za ključnu utakmicu sprema tihi zaokret, ovo bi moglo presuditi protiv Gane",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-gana-dalicev-plan-za-prolaz-posjed-plitka-obrana-15722434",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/26/k_39155393_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Čitam da više ne može, ali ja nikad ne bih Modrića preselio na klupu. Samo u jednom slučaju...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/vranjes-modric-ostaje-starter-gvardiol-upitan-francuska-prvi-favorit-15722469",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/25/k_39128028_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
