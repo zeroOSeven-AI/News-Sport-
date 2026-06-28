@@ -1,5 +1,17 @@
 [
     {
+        "title": "Formel 1 Liveticker zum Rennen heute in Österreich - Alle F1-News vor dem Start",
+        "link": "https://www.motorsport-magazin.com/formel1/news-299116-formel-1-liveticker-zum-rennen-heute-in-oesterreich-alle-f1-news-vor-dem-start/",
+        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1124974.jpg",
+        "w": 1200,
+        "h": 627,
+        "focus_y": 0.35,
+        "source_title1": "MOTORSPORT MAGAZIN",
+        "source_title2": "F1",
+        "source_color": "#FFD300",
+        "flag": "🇩🇪"
+    },
+    {
         "title": "McLaren-Realitätscheck in Spielberg-Quali: Warum P6 und P7 die Wahrheit zeigen",
         "link": "https://www.motorsport-magazin.com/formel1/news-299144-kein-rueckschritt-sondern-f1-realitaet-mclaren-zeigt-am-spielberg-echtes-tempo/",
         "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1125068.jpg",
@@ -579,18 +591,6 @@
         "title": "Formel 1, Russell erwartet Ferrari-Test in Österreich: Hamilton-Sieg keine Eintagsfliege?",
         "link": "https://www.motorsport-magazin.com/formel1/news-299084-formel-1-russell-erwartet-ferrari-test-in-oesterreich-hamilton-sieg-keine-eintagsfliege/",
         "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1124871.jpg",
-        "w": 1200,
-        "h": 627,
-        "focus_y": 0.35,
-        "source_title1": "MOTORSPORT MAGAZIN",
-        "source_title2": "F1",
-        "source_color": "#FFD300",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Ferrari nach Formel-1-Sieg ein Hamilton-Auto? Charles Leclerc wehrt sich",
-        "link": "https://www.motorsport-magazin.com/formel1/news-299088-formel-1-ferrari-jetzt-lewis-hamilton-auto-charles-leclerc-wehrt-sich/",
-        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1124870.jpg",
         "w": 1200,
         "h": 627,
         "focus_y": 0.35,
