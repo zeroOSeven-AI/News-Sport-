@@ -24,9 +24,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Evo zašto je Messi najveći ikada: ‘Htio sam ga staviti u prvih 11, znate li što mi je rekao?‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/messi-odmara-pa-zabija-iz-slobodnjaka-protiv-jordana-povecava-vodstvo-na-sp-15722760",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39121643_640.jpg",
+        "title": "Bomba iz Slovenije: Marko Livaja poslan kući s priprema Hajduka!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/marko-livaja-napusta-pripreme-bled-vraca-se-u-split-disciplinski-razlozi-15722756",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39129724_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,33 +36,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Portugalce baš i ne zanimaju Hrvati? Već pričaju o idućem protivniku, lete i ‘otrovne strelice‘ Lisabonski dnevnici hladno bilježe prvog suparnika ili nas, ali zato kritike izborniku Martinezu skrivaju iza citata stranaca",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/portugal-gleda-preko-hrvatske-sanjaju-derbi-sa-spanjolskom-15722734",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39177875_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "FOTO ‘Odvratno i okrutno!‘ Svi su zgroženi, pogledajte ruganje preminuloj majci Didiera Deschampsa",
+        "title": "FOTO ‘Odvratno i okrutno!‘ Svi su zgroženi, pogledajte ruganje preminuloj majci Didiera Deschampsa Deschampsu je prije nekoliko dana preminula majka Ginette, a izbornik je privremeno napustio reprezentativni kamp u Bostonu kako bi u domovini nazočio privatnom ispraćaju.",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/charlie-hebdo-desmchamps-karikatura-urnom-osude-francuska-15722717",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39179248_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Jedan Dinamov branič završio avanturu na SP-u, drugi još živi snove: Evo kada se vraćaju na Maksimir",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/mckenna-vraca-se-u-dinamo-radeljic-na-sp-dinamo-sprema-obranu-za-kvalifikacije-15722753",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39160197_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -75,6 +51,30 @@
         "title": "Zvijezda BiH žestoko odgovorila Amerikancima: ‘Na kraju ćete nam se ispričavati‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/bih-sad-povijesni-dvoboj-san-francisco-nokaut-faza-muharemovic-15722739",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39131657_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Portugalce baš i ne zanimaju Hrvati? Već pričaju o idućem protivniku, lete i ‘otrovne strelice‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/portugal-gleda-preko-hrvatske-sanjaju-derbi-sa-spanjolskom-15722734",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39177875_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Jedan Dinamov branič završio avanturu na SP-u, drugi još živi snove: Evo kada se vraćaju na Maksimir",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/mckenna-vraca-se-u-dinamo-radeljic-na-sp-dinamo-sprema-obranu-za-kvalifikacije-15722753",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39160197_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -99,6 +99,18 @@
         "title": "Jedini Vatreni bez društvenih mreža: On je rijetka pojava, a sada je zabetonirao mjesto u udarnih 11",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/petar-sucic-elitna-osmica-gol-gani-inter-dinamo-baturina-hrvatska-15722737",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39176225_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Donna je u Queen‘su stigla do statusa nositeljice, što bi to moglo značiti za sljedeća dva tjedna?",
+        "link": "https://sportske.jutarnji.hr/sportske/tenis/grand-slam/donna-je-u-queen-su-stigla-do-statusa-nositeljice-sto-bi-to-moglo-znaciti-za-sljedeca-dva-tjedna-15722767",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39179043_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -144,7 +156,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Potres nakon ispadanja, predsjednik države obrušio se na izbornika, on odmah dao otkaz",
+        "title": "Potres nakon ispadanja, predsjednik države obrušio se na izbornika, on odmah dao otkaz Momčad izbornika Hong Myung-boa (koji je u međuvremenu podnio ostavku) skupila je samo tri boda te ispala u skupini",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/predsjednik-lee-trazi-istragu-nakon-ispadanja-juzne-koreje-na-sp-u-15722719",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39099296_640.jpg",
         "w": 640,
@@ -156,7 +168,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Željko Sopić ima novi klub: Na neočekivanoj destinaciji preuzima šampione i kreće po Ligu prvaka Kaunas je bio zainteresiran za još neke hrvatske stručnjake, ali na kraju je posao dogovoren sa Sopićem koji će ga povesti u nastavak sezone",
+        "title": "Željko Sopić ima novi klub: Na neočekivanoj destinaciji preuzima šampione i kreće po Ligu prvaka",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/zeljko-sopic-preuzima-kauno-zalgiris-litavski-prvak-liga-prvaka-15722712",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_38287863_640.jpg",
         "w": 640,
@@ -192,7 +204,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Romano objavio ‘bombu‘, Lewandowski napušta Europu! Španjolac na Poljudu, Baturini stiže Hrvat?",
+        "title": "Romano objavio ‘bombu‘, Lewandowski napušta Europu! Španjolac na Poljudu, Baturini stiže Hrvat?",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-romano-objavio-bombu-lewandowski-napusta-europu-spanjolac-na-poljudu-baturini-stize-hrvat-15722672",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39077128_640.jpg",
         "w": 640,
@@ -219,18 +231,6 @@
         "title": "Nikad nije eksplodirao, godinama smo ga čekali i napokon - dobili! Mogao bi biti ključan adut Hrvatske na SP-u",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/vlasic-na-desetki-dalicev-potez-protiv-gane-vratio-opasnu-hrvatsku-15722680",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39176764_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Od euforije do očaja u minuti: ‘Alah nas nagrađuje, muslimani spašavaju muslimane! Što je ovo? O ne...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/iran-alzir-euforija-austrija-izjednacenje-kalajdzic-izbacivanje-svjetsko-prvenstvo-15722674",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39178861_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
