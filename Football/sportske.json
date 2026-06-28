@@ -1,5 +1,17 @@
 [
     {
+        "title": "Bomba iz Slovenije: Marko Livaja poslan kući s priprema Hajduka!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/marko-livaja-napusta-pripreme-bled-vraca-se-u-split-disciplinski-razlozi-15722756",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39129724_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Postoji recept za Portugalce, ali Dalić ga ne može iskopirati. Izbornika ne brine ‘talačka kriza‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-protiv-portugala-najtezi-ispit-mundijala-analiza-15722743",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39176548_640.jpg",
@@ -24,9 +36,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Split klicao bivšem dinamovcu, a Zagreb hajdukovcu! Ovo je sve što nam treba u nastavku SP-a",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/sucic-i-vlasic-ujedinili-hrvatsku-slavlje-od-rive-do-trga-15722747",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39178668_640.jpg",
+        "title": "Jedan Dinamov branič završio avanturu na SP-u, drugi još živi snove: Evo kada se vraćaju na Maksimir Škot je produžio na pripreme s reprezentacijom odmah nakon osvajanja dvostruke krune, zbog čega će sada dobiti slobodne dane da zasluženo napuni baterije za novu sezonu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/mckenna-vraca-se-u-dinamo-radeljic-na-sp-dinamo-sprema-obranu-za-kvalifikacije-15722753",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39160197_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,9 +48,45 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO Južna Afrika - Kanada: Afrikanci izbili loptu s gol-crte, čeka se prvi pogodak Nakon ogleda u Torontu i Vancouveru, Kanađani prvi puta ne igraju pred u potpunosti svojim navijačima",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-juzna-afrika-kanada-pocela-je-nokaut-faza-sp-a-domacini-promasili-veliku-priliku-15722731",
+        "title": "UŽIVO Južna Afrika - Kanada: GOOOL! Ludnica u Los Angelesu, kapetan Kanade zabio u sudačkoj nadoknadi",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-juzna-afrika-kanada-goool-ludnica-u-los-angelesu-kapetan-kanade-zabio-u-sudackoj-nadoknadi-15722731",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39180086_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Zvijezda BiH žestoko odgovorila Amerikancima: ‘Na kraju ćete nam se ispričavati‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bih-sad-povijesni-dvoboj-san-francisco-nokaut-faza-muharemovic-15722739",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39131657_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Lansirana luda ideja: ‘Ponudite Modriću ogroman novac, samo neka dođe! Hrvatska? Nemaju šanse‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/cinquini-modric-milan-zenit-rusija-posljednja-sezona-15722701",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39156332_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Jedini Vatreni bez društvenih mreža: On je rijetka pojava, a sada je zabetonirao mjesto u udarnih 11",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/petar-sucic-elitna-osmica-gol-gani-inter-dinamo-baturina-hrvatska-15722737",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39176225_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -63,18 +111,6 @@
         "title": "Hajduk potvrdio još jedno pojačanje! Oglasio se Graf: ‘Bit će nam jako važan‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-potvrdio-jos-jedno-pojacanje-oglasio-se-graf-bit-ce-nam-jako-vazan-15722725",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39179382_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Lansirana luda ideja: ‘Ponudite Modriću ogroman novac, samo neka dođe! Hrvatska? Nemaju šanse‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/cinquini-modric-milan-zenit-rusija-posljednja-sezona-15722701",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39156332_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -120,7 +156,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Livaković ‘srušio‘ Pletikosu, ljutnja u Iranu, pao i novi otkaz",
+        "title": "UŽIVO: Livaković ‘srušio‘ Pletikosu, ljutnja u Iranu, pao i novi otkaz Pratite najzanimljivije događaje na Mundijalu",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/uzivo-vatrene-ceka-spektakl-poznati-svi-parovi-sesnaestine-finala-ovo-su-najveci-nesretnici-sp-a-15722563",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39176909_640.jpg",
         "w": 640,
@@ -156,7 +192,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Nogomet je postao predvidljiv, romantika poteza i zaigranost ostali su u crno-bijelim filmovima Za značajnije zaključke taktičke evolucije na ovom SP-u valja sačekati \"ozbiljniju\" fazu (od osmine finala dalje)",
+        "title": "Nogomet je postao predvidljiv, romantika poteza i zaigranost ostali su u crno-bijelim filmovima",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/fifa-analiza-nogomet-brzina-fizicka-moc-niski-blok-442-tranzicija-15722741",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/27/k_39159772_640.jpg",
         "w": 640,
@@ -195,42 +231,6 @@
         "title": "Legenda se naklonila Modriću: ‘Bit će zapamćen kao jedan od najvećih koje je svijet ikada vidio‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/henry-se-poklonio-modricu-najstariji-asistent-sp-rekord-protiv-gane-15722685",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39176552_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Ljutiti izbornik Irana zagrmio: ‘Nadam se da će Infantino ovo spriječiti! Zaista loše...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/ghalenoei-optuzuje-sad-i-poziva-fifa-u-zbog-uvjeta-za-iran-15722709",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39165633_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO Pogledajte što Luka Modrić s 40 godina radi u 96. minuti protiv Gane",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-gana-2-1-modric-briljira-nokaut-faza-portugal-bmo-field-toronto-15722694",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39176900_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "FIFA je izabrala Sučića, a naši čitatelji ne slažu se! Ovako ste ocijenili nastup Vatrenih",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/hrvatska-ganapobjeda-modric-najbolji-susic-vlasic-slijedi-portugal-15722663",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39176548_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
