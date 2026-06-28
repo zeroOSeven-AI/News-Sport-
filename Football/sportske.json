@@ -1,8 +1,20 @@
 [
     {
-        "title": "Put kao da ga je napisao sam Lucifer! Dobili smo najgoreg protivnika, prije 10 godina okrutno nam je oduzeo san",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/hrvatska-portugal-modric-ronaldo-toronto-veliki-dvoboj-15722582",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_32822987_640.jpg",
+        "title": "Ponovno izgledamo kao prava Hrvatska, ona koju poštuje čitav svijet, a jedan igrač zaslužio je naklon do poda",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-gana-takticka-pobjeda-modric-dalic-prolaz-nokaut-faza-portugal-15722638",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39176907_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "FIFA je izabrala Sučića, a naši čitatelji ne slažu se! Ovako ste ocijenili nastup Vatrenih",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/hrvatska-ganapobjeda-modric-najbolji-susic-vlasic-slijedi-portugal-15722663",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39176548_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,6 +36,66 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "UŽIVO: Jedan od najbogatijih ljudi na svijetu želi Tonija Fruka! Evo koliko je spreman ponuditi Pratimo najnovija događanja prijelaznog roka na domaćoj i svjetskoj tržnici",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-chelsea-u-lovu-na-bivseg-igraca-arsenala-slaven-belupo-doveo-novo-pojacanje-15722672",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39077128_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Došao je kao bivši Vatreni, trebao donijeti iskustvo, a sad napušta Rijeku nakon samo tri nastupa",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/mile-skoric-odlazi-iz-rijeke-ugovor-istekao-ozljeda-trofeji-15722655",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/27/k_36878264_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Heroj i krvnik: Srbin prvim dodirom odveo reprezentaciju u nokaut-fazu i bacio u očaj 90 milijuna ljudi",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/junakdana-sp2026/kalajdzic-gol-u-95-minuti-austrija-drugo-mjesto-milijuni-skupina-j-15722616",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39178454_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Opet podcjenjuju Hrvatsku, pogledajte tko sve ima ‘veće šanse‘ od Vatrenih",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/kladionice-portugal-favorit-hrvatska-podcijenjena-koeficijenti-nokaut-toronto-15722652",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39176770_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Talijani hvale ‘svoju‘ Hrvatsku, Španjolci Modrića, samo Srbi imaju problem: ‘Skandal je blaga riječ!‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-ganai-2-1-modric-dalic-sucic-vlasic-reakcije-medija-15722561",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39176547_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Evo koliko su novca Vatreni zasad zaradili HNS-u na Svjetskom prvenstvu",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-ganat-2-1-nokaut-faza-portugal-nagrade-hns-15722599",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39176904_640.jpg",
@@ -36,9 +108,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Ova reprezentacija ima najlakši put do finala Svjetskog prvenstva U slučaju pobjede protiv Zelenortske Republike, Messiju i društvu slijedi bolji iz dvoboja Australije i Egipta, a potom netko iz kvarteta Kolumbija, Gana, Alžir i Švicarska",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/argentina-laksi-zdrijeb-brazil-tezi-put-sp-15722633",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39178688_640.jpg",
+        "title": "Nije bilo puno onih koji su ga vidjeli u udarnoj postavi Vatrenih, a onda je iskočio iz sjene i potpisao trijumf",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/vlasic-gol-za-pobedu-hrvatska-gana-osmina-finala-philadelphia-15722586",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39176731_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -72,7 +144,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Javna isprika narodu Bosne i Hercegovine: ‘Otišla sam predaleko...‘",
+        "title": "Pa naravno kad joj je šef Sarajlija... Javna isprika narodu BiH: ‘Otišla sam predaleko...‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/abigail-velez-uvreda-bih-isprika-instagram-svjetsko-prvenstvo-15722600",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39173451_640.png",
         "w": 640,
@@ -84,7 +156,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hrvatska saznala protivnika! Vatreni pred ogromnim ispitom, evo kada i gdje igramo iduću utakmicu",
+        "title": "Hrvatska saznala protivnika! Vatreni pred ogromnim ispitom, evo kada i gdje igramo iduću utakmicu Što se tiče nokaut-faze i protivnika Hrvatske, matematika je jasna. Kao drugoplasirana momčad skupine L idemo na drugog u skupini K",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-pobijedila-ganu-vlasic-donio-nokaut-fazu-ceka-portugal-ili-kolumbija-15722556",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39176530_640.jpg",
         "w": 640,
@@ -156,81 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hrvatska se ‘vratila doma‘! Dalićev izbor ‘tvorničkih postavki‘ vodi Vatrene tamo gdje su i najopasniji Reprezentacija je ponovno u ‘prirodnom staništu‘, a kada igra prema ovakvim principima, onda ju žele izbjeći apsolutno svi...",
+        "title": "Hrvatska se ‘vratila doma‘! Dalićev izbor ‘tvorničkih postavki‘ vodi Vatrene tamo gdje su i najopasniji",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-u-nokaut-fazi-daliceva-pragmatika-donosi-prolaz-15722578",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39176174_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Ovo bi mogao biti posljednji okršaj dvojice nogometnih velikana! Modrić poslao moćnu poruku: ‘Želimo još više...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/modric-porucio-nije-kraj-uzivajmo-i-bit-cemo-najbolji-15722567",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39176899_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Stožer Vatrenih ima ‘konjske živce‘, njegov nogomet svima ledi krv u žilama, ali opravdao je Dalićevo povjerenje",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-prosla-skupinu-vlasic-zabio-modric-vodio-u-osminu-finala-15722559",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39176548_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Utakmica o kojoj će se dugo pričati! Austrijanci su bili u suzama, a onda je uslijedila eksplozija oduševljenja",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/utakmica-o-kojoj-ce-se-dugo-pricati-austrijanci-su-bili-u-suzama-a-onda-je-uslijedila-eksplozija-odusevljenja-15722564",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/27/k_39177975_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Dalića jedna situacija posebno naljutila: ‘To nije bilo čisto, u najmanju ruku sumnjivo, nama se takve stvari sude‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/dalic-hrvatska-pobjeda-nad-ganom-drugi-krug-modric-vlasic-toronto-15722566",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39176542_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Krenuo tiho, a onda zavladao terenom! Modrić je bio fenomenalan, ali jedan drugi Vatreni ima veliku manu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-ganasvlada-21-sucic-vlasic-prolaz-nokaut-faza-philadelphia-15722560",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39176552_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Argentina rutinski odradila posao protiv Jordana, Messi ušao s klupe i podebljao vječnu ljestvicu strijelaca",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/argentina-jordan-3-1-messi-s-klupe-zabio-sesti-gol-u-dallasu-15722571",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/28/k_39178263_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
