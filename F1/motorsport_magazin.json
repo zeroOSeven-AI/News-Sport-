@@ -1,5 +1,17 @@
 [
     {
+        "title": "Formel 1 2026: Welche Reifen bringt Pirelli zu welchem Rennen?",
+        "link": "https://www.motorsport-magazin.com/formel1/news-298017-formel-1-2026-die-reifenuebersicht-welche-reifen-bringt-pirelli-zu-welchem-rennen/",
+        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1115090.jpg",
+        "w": 1200,
+        "h": 627,
+        "focus_y": 0.35,
+        "source_title1": "MOTORSPORT MAGAZIN",
+        "source_title2": "F1",
+        "source_color": "#FFD300",
+        "flag": "🇩🇪"
+    },
+    {
         "title": "McLaren bringt historische Sonderlackierung nach Silverstone",
         "link": "https://www.motorsport-magazin.com/formel1/news-299196-mclaren-bringt-weiss-gruenen-formel-1-klassiker-zurueck-nach-silverstone/",
         "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1125417.jpg",
@@ -579,18 +591,6 @@
         "title": "Ergebnisse: Österreich GP - Startaufstellung",
         "link": "https://www.motorsport-magazin.com/formel1/ergebnisse/2026/session/oesterreich-gp-startaufstellung-41593.html",
         "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1124968.jpg",
-        "w": 1200,
-        "h": 627,
-        "focus_y": 0.35,
-        "source_title1": "MOTORSPORT MAGAZIN",
-        "source_title2": "F1",
-        "source_color": "#FFD300",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Ergebnisse: Österreich GP - Qualifyingsession 1",
-        "link": "https://www.motorsport-magazin.com/formel1/ergebnisse/2026/session/oesterreich-gp-qualifyingsession-1-41590.html",
-        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1125025.jpg",
         "w": 1200,
         "h": 627,
         "focus_y": 0.35,
