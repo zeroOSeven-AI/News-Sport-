@@ -1,6 +1,18 @@
 [
     {
-        "title": "World Cup Daily live: Haaland buys cowboy hat; USMNT, England in action",
+        "title": "Tottenham agree potential £100m Sandro Tonali deal with Newcastle - sources",
+        "link": "https://www.espn.com/soccer/story/_/id/49240006/tottenham-agree-deal-sign-sandro-tonali-newcastle-sources",
+        "image_url": "https://a.espncdn.com/photo/2025/1002/r1554596_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "World Cup Daily live: Kane rescues England in comeback win over Congo DR",
         "link": "https://www.espn.com/soccer/story/_/id/49233418/world-cup-daily-live-haaland-buys-cowboy-hat-usmnt-england-action",
         "image_url": "https://a.espncdn.com/photo/2026/0701/r1682569_1296x729_16-9.jpg",
         "w": 1296,
@@ -12,9 +24,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "World Cup: Grades for every eliminated team as they exit the tournament",
-        "link": "https://www.espn.com/soccer/story/_/id/49178425/world-cup-grades-every-eliminated-team-rating-exit-tournament",
-        "image_url": "https://a.espncdn.com/photo/2026/0701/r1682700_1296x729_16-9.jpg",
+        "title": "England's Kane delivers in dramatic World Cup win vs. Congo DR",
+        "link": "https://www.espn.com/soccer/story/_/id/49239386/england-harry-kane-delivers-dramatic-world-cup-win-vs-congo-dr",
+        "image_url": "https://a.espncdn.com/photo/2026/0701/r1682861_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -24,9 +36,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Marcus Rashford, Noni Madueke start for England vs. Congo DR at World Cup",
-        "link": "https://www.espn.com/soccer/story/_/id/49236385/marcus-rashford-starts-england-thomas-tuchel-makes-three-changes-congo-dr-world-cup",
-        "image_url": "https://a.espncdn.com/photo/2026/0701/r1682678_1296x729_16-9.jpg",
+        "title": "2026 World Cup Golden Boot tracker: Will Messi, Mbappe, or other score most goals?",
+        "link": "https://www.espn.com/soccer/story/_/id/49117037/lionel-messi-erling-haaland-kylian-mbappe-harry-kane-folarin-balogun-world-cup-golden-boot-top-scorer",
+        "image_url": "https://a.espncdn.com/photo/2026/0619/r1676221_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -36,9 +48,45 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Police conduct raids in Germany in Euro 2024 corruption probe",
-        "link": "https://www.espn.com/soccer/story/_/id/49236631/police-conduct-raids-germany-euro-2024-corruption-probe",
-        "image_url": "https://a.espncdn.com/photo/2024/0604/r1341415_1296x729_16-9.jpg",
+        "title": "Group K at the 2026 World Cup: Teams, records, stats to know",
+        "link": "https://www.espn.com/soccer/story/_/id/49095589/group-k-2026-world-cup-teams-records-stats-know-portugal-dr-congo-uzbekistan-colombia",
+        "image_url": "https://a.espncdn.com/photo/2026/0617/r1674875_608x342_16-9.jpg",
+        "w": 608,
+        "h": 342,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Group L at the 2026 World Cup: Teams, records, stats to know",
+        "link": "https://www.espn.com/soccer/story/_/id/49096580/group-l-2026-world-cup-teams-records-stats-know-england-panama-ghana-croatia",
+        "image_url": "https://a.espncdn.com/photo/2026/0617/r1674888_608x342_16-9.jpg",
+        "w": 608,
+        "h": 342,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Who scored the most goals in men's World Cup history?",
+        "link": "https://www.espn.com/soccer/story/_/id/49019838/who-scored-most-goals-men-world-cup-history",
+        "image_url": "https://a.espncdn.com/photo/2026/0622/r1677710_608x342_16-9.jpg",
+        "w": 608,
+        "h": 342,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Harry Kane doubles saves England against Congo DR at World Cup",
+        "link": "http://www.espn.com/soccer/report/_/gameId/760495",
+        "image_url": "https://a.espncdn.com/photo/2026/0701/r1682786_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -48,9 +96,21 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Assessing Scotland's post-World Cup manager contenders: Ange Postecoglou? David Moyes? Kasper Hjulmand?",
-        "link": "https://www.espn.com/soccer/story/_/id/49235954/assessing-scotland-post-world-cup-manager-contenders-ange-postecoglou-david-moyes-kasper-hjulmand-steve-clarke",
-        "image_url": "https://a.espncdn.com/photo/2026/0701/r1682632_1296x729_16-9.jpg",
+        "title": "Harry Kane Kane passes Pelé WC goals total as England advance",
+        "link": "https://www.espn.com/soccer/story/_/id/49237509/harry-kane-breaks-pele-world-cup-goals-tally",
+        "image_url": "https://a.espncdn.com/photo/2026/0701/r1682832_800x533_3-2.jpg",
+        "w": 800,
+        "h": 533,
+        "focus_y": 0.5,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "World Cup VAR review: England deserved penalty for foul on Kane",
+        "link": "https://www.espn.com/soccer/story/_/id/49238553/world-cup-2026-var-review-england-penalty-foul-harry-kane-congo",
+        "image_url": "https://a.espncdn.com/photo/2026/0701/r1682769_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -60,9 +120,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Premier League 2026-27 kits: Ranking every jersey released",
-        "link": "https://www.espn.com/soccer/story/_/id/49163915/premier-league-202627-kits-ranking-every-jersey-released-arsenal-chelsea-liverpool-man-city-man-united-tottenham",
-        "image_url": "https://a.espncdn.com/photo/2026/0625/r1679344_1296x729_16-9.jpg",
+        "title": "Surprised Vitor Pereira says Nottingham Forest departure came 'without warning'",
+        "link": "https://www.espn.com/soccer/story/_/id/49238620/surprised-vitor-pereira-says-nottingham-forest-departure-warning",
+        "image_url": "https://a.espncdn.com/photo/2026/0701/r1682804_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -72,21 +132,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Barcelona offer for Julián Álvarez still stands - Joan Laporta",
-        "link": "https://www.espn.com/soccer/story/_/id/49236321/barcelona-offer-atletico-madrid-julian-alvarez-stands",
-        "image_url": "https://a.espncdn.com/photo/2026/0528/r1664775_1296x518_5-2.jpg",
-        "w": 1296,
-        "h": 518,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "FIFA identifies 13-fold rise in abusive social media posts towards World Cup players",
-        "link": "https://www.espn.com/soccer/story/_/id/49236258/world-cup-abuse-social-media-fifa",
-        "image_url": "https://a.espncdn.com/photo/2026/0701/r1682659_1296x729_16-9.jpg",
+        "title": "Morocco's World Cup goalscorer Ismael Saibari joins Bayern Munich",
+        "link": "https://www.espn.com/soccer/story/_/id/49238268/morocco-world-cup-goalscorer-ismael-saibari-joins-bayern-munich",
+        "image_url": "https://a.espncdn.com/photo/2026/0619/r1676358_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -96,9 +144,21 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Transfer rumors, news: USMNT's Pulisic on six-man Liverpool short list",
-        "link": "https://www.espn.com/soccer/story/_/id/49234121/transfer-rumors-news-usmnt-pulisic-six-man-liverpool-shortlist",
-        "image_url": "https://a.espncdn.com/photo/2026/0618/r1675661_1296x729_16-9.jpg",
+        "title": "Chancellor of Germany derided for praising 'team spirit' of national side after World Cup exit",
+        "link": "https://www.espn.com/soccer/story/_/id/49237041/chancellor-germany-derided-praising-team-spirit-national-side-fifa-world-cup-exit-paraguay",
+        "image_url": "https://a.espncdn.com/photo/2026/0701/r1682731_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 728,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Tottenham accept Brighton bid for Luka Vuskovic",
+        "link": "https://www.espn.com/soccer/story/_/id/49237524/tottenham-accept-brighton-bid-luka-vuskovic",
+        "image_url": "https://a.espncdn.com/photo/2026/0701/r1682724_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -108,69 +168,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Marseille hire ex-Lille manager Bruno Genesio after Beye exit",
-        "link": "https://www.espn.com/soccer/story/_/id/49236027/marseille-hire-ex-lille-manager-bruno-genesio-beye-exit",
-        "image_url": "https://a.espncdn.com/photo/2026/0701/r1682676_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club",
-        "link": "https://www.espn.com/soccer/story/_/id/48955344/premier-league-2026-summer-transfers-all-confirmed-ins-outs-every-club",
-        "image_url": "https://a.espncdn.com/photo/2026/0701/r1682654_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Chelsea sign right-back Marco Palestra for £47m from Atalanta",
-        "link": "https://www.espn.com/soccer/story/_/id/49197936/chelsea-sign-marco-palestra-atalanta",
-        "image_url": "https://a.espncdn.com/photo/2026/0701/r1682652_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Summer transfer window: Grading big signings in men's soccer",
-        "link": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-        "image_url": "https://a.espncdn.com/photo/2026/0627/r1680488_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "World Cup: One big question for every round-of-16 team",
-        "link": "https://www.espn.com/soccer/story/_/id/49228332/world-cup-round-16-analysis-brazil-canada-paraguay-morocco-ryan-ohanlon",
-        "image_url": "https://a.espncdn.com/photo/2026/0630/r1682321_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Inter Milan's Bastoni under investigation for allegedly soliciting sex from a child",
-        "link": "https://www.espn.com/soccer/story/_/id/49235922/inter-milan-alessandro-bastoni-investigation-alleged-child-prostitution",
-        "image_url": "https://a.espncdn.com/photo/2025/1217/r1590795_1296x729_16-9.jpg",
+        "title": "Germany's Manuel Neuer retires from international football, has 'no regrets' after World Cup exit",
+        "link": "https://www.espn.com/soccer/story/_/id/49237304/germany-manuel-neuer-retires-international-football-no-regrets-2026-world-cup-exit",
+        "image_url": "https://a.espncdn.com/photo/2026/0701/r1682721_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
