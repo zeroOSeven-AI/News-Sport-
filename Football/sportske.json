@@ -1,8 +1,8 @@
 [
     {
-        "title": "Veliko slavlje Francuske i nova simultanka Kyliana Mbappea! Nemoćni Šveđani ispraćeni s Mundijala",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/francuska-svedska-3-0-mbappe-dvostruki-strijelac-barcola-francuska-u-osmini-finala-15723508",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/30/k_39187834_640.jpg",
+        "title": "Poruka koja će odjeknuti Amerikom! Izbornik BiH odgovorio na prozivku legende: ‘Tko je taj!?‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/barbarez-odgovorio-howardu-bih-hrabro-protiv-sad-u-nokaut-fazi-15723546",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/01/k_39188040_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -12,9 +12,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Potres u slavnoj reprezentaciji: Izbornik dao ostavku dan poslije ispadanja sa SP-a!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/koeman-napusta-klupu-nizozemske-nakon-poraza-od-maroka-15723533",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/30/k_39140613_640.jpg",
+        "title": "UŽIVO Meksiko - Ekvador: Odgođen je početak utakmice! Domaćin u lovu na pothvat kakav čeka već 40 godina",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/uzivo-meksiko-ekvador-domacin-u-lovu-na-pothvat-kakav-ceka-vec-40-godina-15723548",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/30/k_39097164_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,9 +24,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Na HRT-u komentirali istup Tomislava Ivkovića. Evo kako je reagirala Valentina Miletić",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/valentina-miletic-uzvratila-tomislavu-ivkovicu-duhovito-u-hrt-studiju-15723501",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/30/k_39039240_640.jpg",
+        "title": "Emotivna poruka Mbappea nakon slavlja, Šveđani utučeni: ‘Možda ni to ne bi bilo dovoljno...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/francuska-svedska-3-0-mbappe-dva-gola-barcola-deschamps-paragvaj-osmina-finala-15723550",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/01/k_39187821_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,7 +36,55 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Modrić i Brozović slobodni igrači! Idući potez je misterij, evo tko je sve na listi neizvjesnosti Od srijede su slobodni igrači i slobodni potražiti nove klubove, a kod nekih je situacija jasnija nego kod drugih",
+        "title": "Činilo se da je gotov, ali Dalić bez njega nikad ne bi započeo utakmicu! Da su nam barem dva takva... U Torontu protiv Portugala postaje četvrti s 21 startom na SP-u bez klupe i još drži ritam u 37. godini",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/perisic-21-start-sp-rekord-maldini-hrvatska-portugal-15723494",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/30/k_39168299_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Brazilce u osmini finala čekaju ‘uljezi‘ koje nikad nisu pobijedili. A igraju i bolji nogomet",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/brazilce-u-osmini-finala-cekaju-uljezi-koje-nikad-nisu-pobijedili-a-igraju-i-bolji-nogomet-15723531",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/30/k_39187582_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Portugal je favorit, ali Hrvatska je raznovrsnija! Ronaldo je pucao 13 puta, nijedan naš igrač više od tri",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hrvatska-portugal-modric-ronaldo-osmina-finala-toronto-analiza-15723536",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/29/k_35159445_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Vatreni napravio transfer usred SP-a! Tottenham srušio rekord, Dinamo polako slaže kockice",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/vatreni-napravio-transfer-usred-sp-a-rekordni-transfer-tottenhama-dinamo-polako-slaze-kockice-15723135",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/29/k_39077128_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Modrić i Brozović slobodni igrači! Idući potez je misterij, evo tko je sve na listi neizvjesnosti",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/istjecu-ugovori-modric-salah-dybala-vlahovic-slobodni-igraci-15723516",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/30/k_31312377_640.jpg",
         "w": 640,
@@ -108,7 +156,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Pravi misterij Hrvatske: Zašto ovo nitko nije rekao javno? Ispada da elitni Vatreni ne valja...",
+        "title": "Pravi misterij Hrvatske: Zašto ovo nitko nije rekao javno? Ispada da elitni Vatreni ne valja... Napadač s 36 reprezentativnih pogodaka na ovom je prvenstvu rezerva, ali još stigne reći koju udarnu riječ",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/kramaric-tajno-oruzje-hrvatske-protiv-portugala-dzoker-za-nokaut-15723433",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/30/k_39155974_640.jpg",
         "w": 640,
@@ -156,7 +204,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "NA DANAŠNJI DAN: 60. rođendan slavi jedan od najstrašnijih tipova u povijesti ovog planeta Točno na današnji dan prije 60 godina, rođen je Mike Tyson, jedna od najistaknutijih figura u povijesti boksa.",
+        "title": "NA DANAŠNJI DAN: 60. rođendan slavi jedan od najstrašnijih tipova u povijesti ovog planeta",
         "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/na-danasnji-dan-60-rodendan-slavi-jedan-od-najstrasnijih-tipova-u-povijesti-ovog-planeta-15723492",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/30/k_39186691_640.jpg",
         "w": 640,
@@ -183,54 +231,6 @@
         "title": "94 posto ispitanika žele odlazak izbornika ‘prividnog velikana‘ nakon blamaže, zaziva se jedno ime!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/sport-bild-trazi-kloppa-nakon-ispadanja-njemacke-od-paragvaja-15723468",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/30/k_39186044_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "U jeku raspleta Livajinog statusa Graf s Partizanom ušao u borbu za brazilskog centarfora?!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-trazi-jeha-dok-se-rijesava-slucaj-livaja-partizan-konkurent-15723491",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/30/k_38848989_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Mladi nogometaš iz Dalmacije poginuo na motociklu, policija objavila potresne detalje tragedije",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/preminuo-ante-bogdan-bivsi-igrac-nk-omis-tragicna-nesreca-15723471",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/30/k_39187096_640.webp",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Brutalan napad u Beogradu: Huligani pretukli trenera, Partizan traži hitnu reakciju države",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/napad-na-marka-jovanovica-trojica-huligana-partizan-trazi-zastitu-15723484",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/30/k_37930872_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Konačan krah nekoć slavnog kluba: Izbačen je iz svih natjecanja, može se vratiti u - šestoj ligi!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/dncg-izbacila-bordeaux-bez-9-milijuna-eura-prijeti-regional-1-15723444",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/06/30/k_39186822_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
