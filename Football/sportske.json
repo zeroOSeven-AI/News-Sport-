@@ -1,5 +1,17 @@
 [
     {
+        "title": "Imamo detalje novog Dinamova transfera! Tko ima najviše upita i koga Kovačević želi imati pod svaku cijenu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-dovodi-danija-rodrigueza-detalji-transfera-i-povratak-15724050",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/02/k_38060946_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "VIDEO: Je li ovo najveća pljačka na Svjetskom prvenstvu?",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/belgija-preokretom-uz-var-kontroverze-izbacila-senegal-3-2-u-produzecima-15723978",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/02/k_39191432_640.jpg",
@@ -12,7 +24,19 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "MUNDOCAST ‘Izbornik je prije trebao razmišljati o ovome, a Vušković ima veliki problem!‘",
+        "title": "Naručuje maloljetnice, žali se na cijene sushija i taksija: ‘Ljudi zarađuju 1.500 eura, a pametniji su od tebe‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/bastoni-pod-istragom-objavljene-poruke-o-dogovorima-s-maloljetnicom-15724069",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/02/k_39192728_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "MUNDOCAST ‘Izbornik je prije trebao razmišljati o ovome, a Vušković ima veliki problem!‘ U današnjoj epizodi podcasta Sportskih novosti raspravljali su nogometni trener Ilija Lončarević i naš novinar Marko Crnjak",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/mundocast-hrvatska-portugal-sastav-taktika-toronto-analiza-15723953",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/02/k_39189940_640.jpg",
         "w": 640,
@@ -36,9 +60,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Vatrene čeka ‘pakao‘! Osjet temperature 42 °C, okršaju Hrvatske i Portugala prijeti odgoda? Kanadski meteorološki servisi prognoziraju kako će u vrijeme početka utakmice temperatura zraka u Torontu biti 32 stupnja uz osjet od 42 stupnja, izdano je i žuto upozorenje",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/vrucina-i-oluje-prijete-hrvatska-portugal-toronto-15723949",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/02/k_39176174_640.jpg",
+        "title": "Estetika je nebitna, a Hrvatska mora biti besprijekorna! Jedna stvar puno je važnija od udarnih 11",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-protiv-portugala-taktika-kontrola-ritma-i-cvrst-blok-15724010",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/01/k_39175816_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,9 +72,69 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO Agent najavio odlazak zvijezde Chelseaja, Dinamo dogovorio pojačanje iz Barcelone",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-agent-najavio-odlazak-zvijezde-chelseaja-dinamo-dogovorio-pojacanje-iz-barcelone-15724005",
+        "title": "Vučićev igrač otvoreno protiv Hrvatske: ‘Neka propadnu! Prezirem Ronalda, ali želim da postigne dva gola‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dejan-andjus-protiv-bih-i-hrvatske-za-sad-i-portugal-15723958",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/02/k_39183985_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Ostaci ostataka‘ Zlatne generacije na putu iskupljenja za debakl prije četiri godine",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/ostaci-ostataka-zlatne-generacije-na-putu-iskupljenja-za-debakl-prije-cetiri-godine-15724032",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/02/k_39191498_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "UŽIVO Istra završila najveći posao u povijesti, poznati detalji Dinamovog posla",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-istra-zavrsila-najveci-posao-u-povijesti-poznati-detalji-dinamovog-posla-15724005",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/01/k_39077128_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Barbarez plakao na terenu. Džeko stao pred novinare i odgovorio na pitanje koje se provlači čitav Mundijal",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bih-sad-0-2-suze-ponos-kraj-nokaut-sna-barbarez-dzeko-balogun-tillman-15723934",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/02/k_39192081_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Evo koliko će novca pripasti Bosni i Hercegovini iz FIFA-ina fonda od 871 milijuna dolara",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bih-ispala-od-sad-a-ali-zaradila-23-5-milijuna-dolara-na-sp-15723999",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/02/k_39191843_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Vatrene čeka ‘pakao‘! Osjet temperature 42 °C, okršaju Hrvatske i Portugala prijeti odgoda?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/vrucina-i-oluje-prijete-hrvatska-portugal-toronto-15723949",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/02/k_39176174_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -72,7 +156,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "I Modrić ga smatra svojim nasljednikom, Zlatnom loptom. Može li profesor još što pokazati učeniku?",
+        "title": "I Modrić ga smatra svojim nasljednikom, Zlatnom loptom. Može li profesor još što pokazati učeniku? Vitinha je u osnovi Modrić s boljim šutom, ponavlja da mu je Luka idol, je li spreman za Zlatnu loptu? Ili će mu Luka poručiti: ‘Pričekat ćeš još malo...‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/modric-vitinhu-vidi-kao-najboljeg-the-best-2025-hrvatska-portugal-15723944",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/06/30/k_37145235_640.jpg",
         "w": 640,
@@ -147,90 +231,6 @@
         "title": "Skandal u Španjolskoj: Predstavili novu članicu stožera, društvene mreže preplavili sramotni komentari",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/calamocha-seksisticki-napadi-laura-lopez-gasi-objave-reakcija-kluba-15723946",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/01/k_39191182_640.png",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Matjaž Kek ima recept za Portugal, a za SN otkriva: ‘Hrvatska svima može zagorčati život, ovo će biti važno‘ ‘S Rijekom sam se dogovorio u dvije minute i guštam u radu. Igrači su me na pripremama oduševili pristupom‘, kaže slovenski strateg na klupi kluba s Rujevice",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/kek-ponovno-u-rijeci-nova-era-borba-za-trofeje-i-europski-pecat-15723939",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/01/k_39189630_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Sudac se igrao po živcima Barbarezu i društvu! Novi dinamovac poludio nakon kontroverznog prekršaja",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sad-bih-2-0-sporna-odluka-suca-zuti-radeljicu-crveni-balogun-15723931",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/02/k_39191927_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Razbijen tandem s najviše pobjeda u ligi od 2017. za euforiju u Philadelphiji",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/razbijen-tandem-s-najvise-pobjeda-u-ligi-od-2017-za-euforiju-u-philadelphiji-15723967",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/02/k_39192224_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Ibrahimović je posebno istaknuo jednu stvar: ‘SAD je pokazao mentalitet prvaka, a BiH je bila poljuljana‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sad-bih-2-0-ibrahimovic-hvali-mentalitet-prvaka-balogun-crveni-tillman-gol-15723936",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/02/k_37655091_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Nevjerojatna izjava Lukakua o tome zašto nije izveo ključni penal protiv Senagala",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/belgija-preokret-lukaku-tielemans-penal-125-minuta-senegal-osmina-finala-15723925",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/02/k_39191311_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "UŽIVO: Prijeti odgoda utakmice Vatrenih? Bolne reakcije Barbareza i bh. nogometaša nakon ispadanja",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-afrikanci-bez-senzacije-engleska-u-osmini-finala-navijacima-vatrenih-izdano-upozorenje-15723938",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/02/k_39191495_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Bijeli dim‘ osvanuo na Poljudu: Sastanak urodio plodom, Livaja se vraća u momčad!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/livaja-vraca-se-treninzima-prve-momcadi-hajduka-15723923",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/02/k_33214833_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
