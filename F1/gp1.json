@@ -1,13 +1,13 @@
 {
-  "created_at": "2026-07-02T19:03:22.494425+00:00",
+  "created_at": "2026-07-02T20:47:02.314526+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
     {
-      "title": "Wolff: Red Bull je bio brz radi Maxa",
-      "link": "https://www.gp1.hr/2026/06/wolff-red-bull-je-bio-brz-radi-maxa/",
-      "author": "Igor Vukajlovic",
-      "published_at": "2026-06-29T18:37:55+00:00",
-      "image_url": "",
+      "title": "Silverstone kao veliki test nove generacije bolida – hoće li utrkivanje patiti?",
+      "link": "https://www.gp1.hr/2026/07/silverstone-kao-veliki-test-nove-generacije-bolida-hoce-li-utrkivanje-patiti/",
+      "author": "Igor Šestak",
+      "published_at": "2026-07-02T19:11:43+00:00",
+      "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/2b06.png",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
@@ -73,6 +73,20 @@
       "flag": "🇭🇷"
     },
     {
+      "title": "Wolff: Red Bull je bio brz radi Maxa",
+      "link": "https://www.gp1.hr/2026/06/wolff-red-bull-je-bio-brz-radi-maxa/",
+      "author": "Igor Vukajlovic",
+      "published_at": "2026-06-29T18:37:55+00:00",
+      "image_url": "",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
+    {
       "title": "George Russell pobjednik VN Austrije!",
       "link": "https://www.gp1.hr/2026/06/george-russell-pobjednik-vn-austrije/",
       "author": "fermen",
@@ -120,20 +134,6 @@
       "author": "Tomislav Radić",
       "published_at": "2026-06-27T15:13:25+00:00",
       "image_url": "https://www.gp1.hr/wp-content/uploads/2026/06/austrija-2026-kvale.jpg",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Russell najbrži uoči kvalifikacija u Austriji",
-      "link": "https://www.gp1.hr/2026/06/russell-najbrzi-uoci-kvalifikacija-u-austriji/",
-      "author": "Igor Vukajlovic",
-      "published_at": "2026-06-27T11:33:50+00:00",
-      "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f7e2.png",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
