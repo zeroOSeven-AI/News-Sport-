@@ -1,7 +1,21 @@
 {
-  "created_at": "2026-07-03T12:32:12.883263+00:00",
+  "created_at": "2026-07-03T14:59:30.992250+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
+    {
+      "title": "Hamilton najbrži na prvom treningu na Silverstoneu!",
+      "link": "https://www.gp1.hr/2026/07/hamilton-najbrzi-na-prvom-treningu-na-silverstoneu-2/",
+      "author": "Luka Tunjić",
+      "published_at": "2026-07-03T12:37:00+00:00",
+      "image_url": "https://www.gp1.hr/wp-content/uploads/2026/07/image.png",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
     {
       "title": "Silverstone kao veliki test nove generacije bolida – hoće li utrkivanje patiti?",
       "link": "https://www.gp1.hr/2026/07/silverstone-kao-veliki-test-nove-generacije-bolida-hoce-li-utrkivanje-patiti/",
@@ -120,20 +134,6 @@
       "author": "Igor Šestak",
       "published_at": "2026-06-28T06:32:28+00:00",
       "image_url": "",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Russell najbrži u kvalifikacijama u Austriji!",
-      "link": "https://www.gp1.hr/2026/06/russell-najbrzi-u-kvalifikacijama-u-austriji/",
-      "author": "Tomislav Radić",
-      "published_at": "2026-06-27T15:13:25+00:00",
-      "image_url": "https://www.gp1.hr/wp-content/uploads/2026/06/austrija-2026-kvale.jpg",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
