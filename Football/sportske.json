@@ -1,5 +1,17 @@
 [
     {
+        "title": "Suci su štitili Portugal, a FIFA za igrača utakmice izabrala - najlošijeg!? Treba li tome što dodati?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hrvatska-ispala-od-portugala-u-torontu-penal-greske-povratak-15724554",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_39195752_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Hrvatska od danas nema izbornika! Pregovori kreću odmah",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/daliceva-odluka-hrvatska-bez-izbornika-hns-ceka-rasplet-15724509",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_39125293_640.jpg",
@@ -12,9 +24,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hladan tuš sa sjevera Europe: Čisti penal! Mnogi su propustili ono što je Vlašić napravio prije toga",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/referee-channel-tri-prekrsaja-vlasica-objasnili-penal-portugalu-15724538",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_39196889_640.jpg",
+        "title": "Javio se krivac za ispadanje Hrvatske sa SP-a, stiže lavina komentara! ‘Jesam li ga trebao ošišati...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ponisten-gol-hrvatske-frizer-luka-grbac-reakcija-dodir-kose-15724562",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_39195712_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,9 +36,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Igor Štimac zagrmio: ‘Nema nikakve urote protiv Hrvatske! Očito su ćelavi ljudi u prednosti...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/modric-kritizira-var-dalic-nezadovoljan-sucenjem-stimac-odbacuje-urotu-15724532",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_38483116_640.jpg",
+        "title": "Španjolac detaljno objasnio zašto je gol Gvardiola trebalo poništiti: ‘Danas to više nije kontroverza‘ Iturralde González objašnjava zašto je signal iz lopte i automatske linije VAR-a potpuno isključio ljudski faktor",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/cip-u-lopti-ponistio-hrvatski-gol-var-potvrdio-zaledje-iturralde-objasnio-15724557",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_39195763_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,7 +48,43 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Potez nakon utakmice razbjesnio navijače! Kako je ovo moguće?! ‘Sramota, Modrić mu je sve pokazao‘ Iako je Ronaldo postigao važan pogodak za izjednačenje, dojam većine bio je da su njegovi suigrači ostavili bolji ukupni dojam tijekom susreta.",
+        "title": "Modrić je na oproštaju svom ‘nasljedniku‘ dodijelio nekoliko poučnih lekcija",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/modric-oprostaj-lekcija-vitinha-hrvatska-buducnost-toronto-15724534",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_35148913_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Bura se ne stišava! Hrvatski sudac otkriva: ‘Čip ima veliku manu, ne može bez pravog dokaza...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/bruno-maric-cip-var-vizualni-dokaz-ponisten-gol-matanovic-gvardiol-15724438",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_39196929_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Legende u totalnom šoku: ‘Najgora odluka ikad! Hrvatska je oštećena, ovo je apsolutno suludo‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ponisteni-gol-hrvatske-henry-i-ibrahimovic-protiv-var-a-15724353",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_39196961_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Potez nakon utakmice razbjesnio navijače! Kako je ovo moguće?! ‘Sramota, Modrić mu je sve pokazao‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/portugal-izbacio-hrvatsku-ronaldo-mvp-kontroverza-ramos-costa-15724520",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_39195883_640.jpg",
         "w": 640,
@@ -108,8 +156,8 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Svijet u čudu, pljušte reakcije nakon bolnog poraza Vatrenih, poznato i kad se vraćaju u domovinu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/uzivo-stizu-reakcije-na-bolan-poraz-vatrenih-poznato-i-kad-se-vracaju-u-domovinu-15724378",
+        "title": "UŽIVO: Svijet u čudu, pljušte reakcije nakon bolnog poraza Vatrenih, poznato i kad se vraćaju u domovinu Pratite najzanimljivije događaje na Mundijalu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/uzivo-svijet-u-cudu-pljuste-reakcije-nakon-bolnog-poraza-vatrenih-poznato-i-kad-se-vracaju-u-domovinu-15724378",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_39195893_640.jpg",
         "w": 640,
         "h": 640,
@@ -144,33 +192,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Generacijski talent napušta Opus Arenu! Kramariću stiže novi suigrač, evo koliko će zaraditi Osijek",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/jakov-dedic-iz-osijeka-u-hoffenheim-transfer-850000-eura-bonusi-15724488",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_38334089_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hamilton na ‘svojoj‘ stazi juri povijesnu pobjedu, Britanci žele domaćeg pobjednika treću godinu zaredom Čak devet puta je Hamilton slavio na svojoj domaćoj stazi, što je apsolutni rekord, ne samo za njega, nego i rekord za najviše pobjeda na jednoj stazi u povijesti",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/automoto/formula1/russell-cilja-prvo-slavlje-na-silverstoneu-nakon-trijumfa-u-austriji-15724522",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/02/k_34237725_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "UŽIVO: Bivši Modrićev trener stigao u redove velikog rivala, Real demantirao glasine o transferu",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-bivsi-modricev-trener-stigao-u-redove-velikog-rivala-real-demantirao-glasine-o-transferu-15724423",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_39077128_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Hamilton na ‘svojoj‘ stazi juri povijesnu pobjedu, Britanci žele domaćeg pobjednika treću godinu zaredom",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/automoto/formula1/russell-cilja-prvo-slavlje-na-silverstoneu-nakon-trijumfa-u-austriji-15724522",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/02/k_34237725_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -195,42 +231,6 @@
         "title": "Suci, može vas biti sram, svu bih vam kosu počupao! Jedan Dalićev potez me začudio",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/komentator-sp2026/hrvatska-nadigrala-portugal-sporno-sudenje-var-cip-matanovic-kovacic-15724357",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_39195750_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Evo koliko je Hrvatska zaradila na SP-u: Novac dijele HNS, stožer i igrači",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-poraz-portugala-ispadanje-sesnaestina-finala-pad-fifa-ljestvica-zarada-20-milijuna-15724426",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_39195900_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "FOTO Ronaldova objava nakon rušenja Hrvatske u trenu skupila milijune reakcija",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/ronaldo-posvetio-pobjedu-protiv-hrvatske-diogu-joti-dres-21-15724370",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_39195882_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Trebao je biti junak, a postao glavni tragičar Hrvatske! Neshvatljiva pogreška još će nas dugo proganjati",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-portugal-var-milimetrima-kazneni-ronalda-ramosov-gol-ispadanje-15724339",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_39195766_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
