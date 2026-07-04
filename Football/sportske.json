@@ -1,5 +1,29 @@
 [
     {
+        "title": "Opet se trese Poljud: Marko Livaja nije se pojavio na jutarnjem treningu!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/livaja-nije-dosao-na-trening-hajduka-poljud-izostanak-15724697",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_38740585_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Hrvatska nakon ispadanja sa Svjetskog prvenstva pala i na FIFA-inoj ljestvici! Evo gdje su danas Vatreni",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-13-na-fifa-ljestvici-svicarska-moze-preskociti-pobjedom-nad-kolumbijom-15724705",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39196496_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Priča se da je Collina potjerao ‘krvnike‘ Hrvatske sa SP-a. Snovi su nam uništeni, ali smo i sami krivi...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/collina-kritizira-sudenje-hrvatska-ispada-nakon-spornog-penala-protiv-portugala-15724654",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39195855_640.jpg",
@@ -12,9 +36,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "MUNDOCAST Njih dvojica stoje, a Hrvatska prima najnevjerojatniji gol na SP-u! A naivnost Vlašića...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/mundocast-njih-dvojica-stoje-a-hrvatska-prima-najnevjerojatniji-gol-na-sp-u-a-naivnost-vlasica-15724656",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39196718_640.jpg",
+        "title": "Pavić na Wimbledonu: ‘Nogomet je izgubio smisao! Tenis? Nije mi baš zanimljivo gledati ga‘ ‘Bolje da nisam gledao utakmicu Hrvatske i Portugala, ne bih do 4 ujutro zaspao. Pogledao sam sažetak, drugo poluvrijeme naše je najbolje na SP-u‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/pavic-na-wimbledonu-nogomet-je-izgubio-smisao-tenis-nije-mi-bas-zanimljivo-gledati-ga-15724690",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_38738986_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,9 +48,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Naša VAR stručnjakinja detaljno objasnila: ‘Nažalost, sve je bilo čisto! Penal? Intenzitet nije bitan...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/rojc-objasnjava-cip-u-lopti-potvrdio-zaledje-penal-ispravan-martinez-podrzao-var-15724665",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39195669_640.jpg",
+        "title": "FIFA objavila krunski dokaz kojeg je čekala čitava Hrvatska! Tko uopće u ovo vjeruje?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/fifa-heartbeat-connected-ball-matanovic-dodir-veiga-gvardiol-gol-ponisten-15724622",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39195712_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,7 +60,19 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Zelenortski Otoci ostali na pragu čuda, Argentinci u produžecima prelomili jednu od najboljih utakmica SP-a Sidny Lopes Cabral zabio je možda i najbolji gol dosadašnjeg SP-a, ali Argentina je u završnici produžetka ipak pronašla put dalje",
+        "title": "‘To kako smo mi igrali protiv svjetskih prvaka je nevjerojatno!‘; ‘Što sam sve prošao, dođe mi da zaplačem‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/argentina-pobijedila-zelenorske-3-2-nakon-produzetaka-u-miamiju-15724660",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39172635_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Zelenortski Otoci ostali na pragu čuda, Argentinci u produžecima prelomili jednu od najboljih utakmica SP-a",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/zelenortski-otoci-ostali-na-pragu-cuda-argentinci-u-produzecima-prelomili-jednu-od-najboljih-utakmica-sp-a-15724612",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_39199550_640.jpg",
         "w": 640,
@@ -61,7 +97,7 @@
     },
     {
         "title": "Do sada je bio debela rezerva i držao kraj klupe, a onda ušao i poslao Egipćane na svjetske prvake",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hossam-abdelmaguid-odlucujuci-penal-egipat-izbacio-australiju-ide-na-argentinu-15724641",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/junakdana-sp2026/hossam-abdelmaguid-odlucujuci-penal-egipat-izbacio-australiju-ide-na-argentinu-15724641",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39198753_640.jpg",
         "w": 640,
         "h": 640,
@@ -120,7 +156,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Odluka FIFA-e došla pod ‘paljbu‘ Engleza i Meksikanaca pa su odustali: ‘To bi bio udarac u trbuh‘",
+        "title": "Odluka FIFA-e došla pod ‘paljbu‘ Engleza i Meksikanaca pa su odustali: ‘To bi bio udarac u trbuh‘ ‘To mi se uopće ne sviđa. Očito ćemo se pridržavati onoga što FIFA kaže, ali ni meni ni mojim igračima se to ne sviđa‘, rekao je meksički izbornik",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/fifa-odustala-engleska-meksiko-ostaju-u-originalnom-terminu-unatoc-oluji-15724647",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39097198_640.jpg",
         "w": 640,
@@ -156,21 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hrvatska ne da Dalića! Pogledajte rezultate velike ankete SN nakon osam godina Zlatkove vladavine Bitno je brzo razriješiti pitanje izbornika, jer, kao što naši igrači govore uglas prije svake utakmice: iznad svih – Hrvatska! Koju već za nepuna tri mjeseca čekaju novi ispiti",
+        "title": "Hrvatska ne da Dalića! Pogledajte rezultate velike ankete SN nakon osam godina Zlatkove vladavine",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/hrvatska-bez-izbornika-anketa-dalic-bilic-izjednaceni-hns-odluka-15724603",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_39125061_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Gvardiol se oglasio nakon nesretnog ispadanja sa SP-a: ‘Boli jer smo dali sve. Volim te, moja Hrvatska‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/gvardiol-emotivna-poruka-nakon-ponistenog-gola-reakcija-srne-15724621",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_39195766_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -204,33 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Slavko Goluža prozvao Primorca: ‘Neka javno kaže koji ga olimpijci podržavaju‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/hoo/slavko-goluza-prozvao-primorca-trazi-imena-olimpijaca-podrzao-varvodica-uoci-izbora-hoo-15724619",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_36432671_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Hrvatska od danas nema izbornika! Pregovori kreću odmah",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/daliceva-odluka-hrvatska-bez-izbornika-hns-ceka-rasplet-15724509",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_39125293_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Javio se krivac za ispadanje Hrvatske sa SP-a, stiže lavina komentara! ‘Jesam li ga trebao ošišati...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ponisten-gol-hrvatske-frizer-luka-grbac-reakcija-dodir-kose-15724562",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_39195712_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
