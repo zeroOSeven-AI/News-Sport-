@@ -1,8 +1,32 @@
 [
     {
-        "title": "World Cup Daily live: France vs. Paraguay; Canada out; Cape Verde overshadow Taylor Swift-Travis Kelce wedding",
+        "title": "Transfer rumors, news: Premier League clubs on alert over Barcelona and France defender",
+        "link": "https://www.espn.com/soccer/story/_/id/49265988/transfer-rumors-news-premier-league-clubs-alert-barcelona-france-defender",
+        "image_url": "https://a.espncdn.com/photo/2025/1209/r1587360_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "France's Aurélien Tchouaméni (groin injury) out vs. Paraguay, could miss quarterfinals - sources",
+        "link": "https://www.espn.com/soccer/story/_/id/49269592/france-aurelien-tchouameni-groin-injury-vs-paraguay-miss-quarterfinals-sources",
+        "image_url": "https://a.espncdn.com/photo/2026/0625/r1679610_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "World Cup Daily live: Canada vs. Morocco updates, Cape Verde overshadow Taylor Swift-Travis Kelce wedding",
         "link": "https://www.espn.com/soccer/story/_/id/49265379/world-cup-daily-live-cape-verde-overshadow-taylor-swift-travis-kelce-wedding-round-16-begins-canada-morocco-paraguay-france",
-        "image_url": "https://a.espncdn.com/photo/2026/0704/r1684503_1296x729_16-9.jpg",
+        "image_url": "https://a.espncdn.com/photo/2026/0704/r1684419_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -12,21 +36,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Brazil don't have an 'anti-Erling Haaland plan' at World Cup - Carlo Ancelotti",
-        "link": "https://www.espn.com/soccer/story/_/id/49271499/brazil-dont-anti-erling-haaland-plan-world-cup-carlo-ancelotti",
-        "image_url": "https://a.espncdn.com/photo/2026/0626/r1679993_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Morgan Rogers: 'Not sure I'm worth' £130m valuation",
-        "link": "https://www.espn.com/soccer/story/_/id/49271276/morgan-rogers-not-sure-im-worth-130m-valuation",
-        "image_url": "https://a.espncdn.com/photo/2026/0704/r1684551_1296x729_16-9.jpg",
+        "title": "Chelsea sign Manaka Matsukubo from North Carolina Courage",
+        "link": "https://www.espn.com/soccer/story/_/id/49269287/chelsea-sign-manaka-matsukubo-north-carolina-courage",
+        "image_url": "https://a.espncdn.com/photo/2026/0704/r1684413_1296x729_16-9.jpg",
         "w": 1296,
         "h": 728,
         "focus_y": 0.35,
@@ -36,9 +48,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Ounahi's magic lifts Morocco past Canada, who are left to wonder what could have been",
-        "link": "https://www.espn.com/soccer/story/_/id/49270923/morocco-canada-world-cup-analysis-azzedine-ounahi-jesse-marsch-round-16",
-        "image_url": "https://a.espncdn.com/photo/2026/0704/r1684538_1296x729_16-9.jpg",
+        "title": "FIFPRO: World Cup players need protection from racist abuse",
+        "link": "https://www.espn.com/soccer/story/_/id/49269137/fifpro-world-cup-players-need-protection-racist-abuse",
+        "image_url": "https://a.espncdn.com/photo/2026/0630/r1682163_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -48,9 +60,21 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Canada's Jesse Marsch on World Cup exit vs. Morocco: 'We were the better team'",
-        "link": "https://www.espn.com/soccer/story/_/id/49270971/canada-jesse-marsch-world-cup-exit-morocco-were-better-team",
-        "image_url": "https://a.espncdn.com/photo/2026/0704/r1684503_1296x729_16-9.jpg",
+        "title": "2026 World Cup July 4 schedule: Soccer games today",
+        "link": "https://www.espn.com/soccer/story/_/id/49268317/2026-world-cup-july-4-schedule-soccer-games-today",
+        "image_url": "https://a.espncdn.com/photo/2026/0628/r1681087_608x342_16-9.jpg",
+        "w": 608,
+        "h": 342,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Nathan Aké completes move to Fenerbahce after six years at Man City",
+        "link": "https://www.espn.com/soccer/story/_/id/49268581/nathan-ake-completes-move-fenerbahce-six-years-man-city",
+        "image_url": "https://a.espncdn.com/photo/2025/0904/r1540977_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -60,9 +84,33 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Mexico chase 'best game of our lives' as Azteca fortress awaits England",
-        "link": "https://www.espn.com/soccer/story/_/id/49270944/mexico-chase-best-game-our-lives-azteca-fortress-awaits-england",
-        "image_url": "https://a.espncdn.com/photo/2026/0704/r1684525_1296x729_16-9.jpg",
+        "title": "World Cup 2026 Power Rankings before round of 16: Who's No. 1?",
+        "link": "https://www.espn.com/soccer/story/_/id/49251656/fifa-world-cup-power-rankings-spain-brazil-germany-usa-mexico-england-argentina-france",
+        "image_url": "https://a.espncdn.com/photo/2026/0618/soc_wc_power-rankings_16x9.jpg",
+        "w": 1500,
+        "h": 844,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "2026 World Cup: Best bets for the round of 16",
+        "link": "https://www.espn.com/espn/betting/story/_/id/49247972/fifa-world-cup-betting-round-16-best-bets-picks-odds-props-futures-2026",
+        "image_url": "https://a.espncdn.com/photo/2026/0703/r1683770_576x324_16-9.jpg",
+        "w": 576,
+        "h": 324,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "World Cup: Grades for every eliminated team as they exit the tournament",
+        "link": "https://www.espn.com/soccer/story/_/id/49178425/world-cup-grades-every-eliminated-team-rating-exit-tournament",
+        "image_url": "https://a.espncdn.com/photo/2026/0704/r1684092_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -72,9 +120,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "World Cup 2026: Which teams have been eliminated?",
-        "link": "https://www.espn.com/soccer/story/_/id/49152393/world-cup-2026-which-teams-eliminated",
-        "image_url": "https://a.espncdn.com/photo/2026/0703/r1683659_1296x729_16-9.jpg",
+        "title": "Why Ancelotti is key to Brazil winning sixth World Cup title",
+        "link": "https://www.espn.com/soccer/story/_/id/49267524/why-carlo-ancelotti-key-brazil-winning-sixth-world-cup-title",
+        "image_url": "https://a.espncdn.com/photo/2026/0629/r1681530_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -84,9 +132,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Tim Ream: USMNT a 'true representation of what America is'",
-        "link": "https://www.espn.com/soccer/story/_/id/49270695/usmnt-true-representation-america-tim-ream",
-        "image_url": "https://a.espncdn.com/photo/2026/0629/r1681605_1296x729_16-9.jpg",
+        "title": "World Cup: One big question for every round-of-16 team",
+        "link": "https://www.espn.com/soccer/story/_/id/49228332/world-cup-round-16-analysis-brazil-canada-paraguay-morocco-ryan-ohanlon",
+        "image_url": "https://a.espncdn.com/photo/2026/0703/r1684006_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -96,9 +144,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Norway's Stale Solbakken denies disrespecting Brazil's Carlo Ancelotti before World Cup clash",
-        "link": "https://www.espn.com/soccer/story/_/id/49270667/norway-stale-solbakken-denies-disrespecting-brazil-carlo-ancelotti-world-cup-clash",
-        "image_url": "https://a.espncdn.com/photo/2026/0704/r1684512_1296x729_16-9.jpg",
+        "title": "Summer transfer window: Grading big signings in women's soccer",
+        "link": "https://www.espn.com/soccer/story/_/id/48991002/summer-transfer-window-grading-big-signings-womens-soccer",
+        "image_url": "https://a.espncdn.com/photo/2025/0721/r1521738_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -108,11 +156,11 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Morocco's Azzedine Ounahi, Soufiane Rahimi eliminate Canada from World Cup",
-        "link": "https://www.espn.com/soccer/story/_/id/49270266/morocco-defeat-co-hosts-canada-first-team-world-cup-quarterfinals-azzedine-ounahi-soufiane-rahimi",
-        "image_url": "https://a.espncdn.com/photo/2026/0704/r1684491_1296x729_16-9.jpg",
+        "title": "Former Arsenal star Lia Wälti joins Brighton from Juventus",
+        "link": "https://www.espn.com/soccer/story/_/id/49266576/lia-walti-brighton-arsenal-juventus-wsl-swizterland-women",
+        "image_url": "https://a.espncdn.com/photo/2026/0704/r1684286_1296x729_16-9.jpg",
         "w": 1296,
-        "h": 729,
+        "h": 728,
         "focus_y": 0.35,
         "source_title1": "ESPN",
         "source_title2": "FOOTBALL",
@@ -120,57 +168,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "England hotel guarded by riot police in Mexico before World Cup clash",
+        "title": "England receive hostile welcome at Mexico City hotel ahead of World Cup clash",
         "link": "https://www.espn.com/soccer/story/_/id/49266468/england-receive-hostile-welcome-mexico-city-hotel-ahead-world-cup-clash",
         "image_url": "https://a.espncdn.com/photo/2026/0704/r1684282_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Morocco send Canada crashing out of World Cup",
-        "link": "http://www.espn.com/soccer/report/_/gameId/760502",
-        "image_url": "https://a.espncdn.com/photo/2026/0704/r1684436_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Group C at the 2026 World Cup: Teams, records, stats to know",
-        "link": "https://www.espn.com/soccer/story/_/id/48975967/group-c-2026-world-cup-teams-records-stats-know-brazil-morocco-haiti-scotland",
-        "image_url": "https://a.espncdn.com/photo/2026/0608/r1669890_608x342_16-9.jpg",
-        "w": 608,
-        "h": 342,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Group B at the 2026 World Cup: Teams, records, stats to know",
-        "link": "https://www.espn.com/soccer/story/_/id/48975049/group-b-2026-world-cup-teams-records-stats-know-canada-bosnia-herzegovnia-qatar-switzerland",
-        "image_url": "https://a.espncdn.com/photo/2026/0605/r1668582_608x342_16-9.jpg",
-        "w": 608,
-        "h": 342,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Transfer rumors, news: Premier League clubs on alert over Barcelona and France defender",
-        "link": "https://www.espn.com/soccer/story/_/id/49265988/transfer-rumors-news-premier-league-clubs-alert-barcelona-france-defender",
-        "image_url": "https://a.espncdn.com/photo/2025/1209/r1587360_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
