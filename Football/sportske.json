@@ -1,7 +1,31 @@
 [
     {
-        "title": "UŽIVO/VIDEO: Vatreni sletjeli u Zagreb i izlaze pred nekoliko stotina navijača, pjesma se ori",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-video-vatreni-sletjeli-u-zagreb-i-izlaze-pred-nekoliko-stotina-navijaca-pjesma-se-ori-15724725",
+        "title": "Dalić govorio o svom ostanku i naglasio: ‘Da, smetamo im, premali smo im, ali sami smo krivi za ispadanje‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dalic-odgoda-odluke-hns-bilic-povratak-rok-do-srijede-15724753",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39201165_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "ANKETA Je li Hrvatska opljačkana, je li ispala zbog sudaca? Ili smo krivi sami?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-var-sudci-cip-ponisteni-gol-penal-poraz-portugal-15724709",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39196717_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "FOTO/VIDEO: Vatreni sletjeli u Zagreb i izašli pred nekoliko stotina navijača, orile se pjesme",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/video-vatreni-sletjeli-u-zagreb-i-izlaze-pred-nekoliko-stotina-navijaca-pjesma-se-ori-15724725",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39201080_640.jpg",
         "w": 640,
         "h": 640,
@@ -12,9 +36,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hajduk nastavio sukob s Livajom: ‘Odbio je ispričati se i zato ne može trenirati s momčadi!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/livaja-na-poljudu-odbijena-isprika-i-trkacki-trening-sutra-presudan-sastanak-15724745",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_38932525_640.jpg",
+        "title": "Hoće li se Livaković predomisliti? Kreću pregovori, a u Maksimir se vraća i ogromni promašaj bivše uprave Turci imaju zadnju riječ, a Dinamo sprema petogodišnji ugovor uz rekordna primanja i bonuse. Mmaee je, pak, posebna priča",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/tjedan-dominika-livakovica-dinamo-pregovori-fenerbahce-odluka-15724735",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39198369_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,9 +48,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Ekskluzivno doznajemo: HNS je prelomio, Daliću dao rok da objavi svoj plan i već dogovorio nasljednika?!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/slaven-bilic-novi-izbornik-hrvatske-nakon-dalica-hns-odluka-uskoro-15724719",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39197392_640.jpg",
+        "title": "Opet se trese Poljud: Marko Livaja nije se pojavio na jutarnjem treningu!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/livaja-nije-dosao-na-trening-hajduka-poljud-izostanak-15724697",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_38740585_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,9 +60,45 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hrvatska nakon ispadanja sa Svjetskog prvenstva pala i na FIFA-inoj ljestvici! Evo gdje su danas Vatreni Prvo mjesto na ljestvici preuzela je Francuska, koja kao najbolja ide u osminu finala, a iza nje su Argentina, Španjolska, Engleska...",
+        "title": "Hrvatska s +73 srušila rekord Australije i ostvarila najveću pobjeda ikada u kvalifikacijama za SP",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-reprezentacija/hrvatska-s-73-srusila-rekord-australije-i-ostvarila-najvecu-pobjeda-ikada-u-kvalifikacijama-za-sp-15724744",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_34250475_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Sljedeće okupljanje Vatrenih 21. rujna, ždrijeb kvalifikacijskih skupina za Euro 6. prosinca",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sljedece-okupljanje-vatrenih-21-rujna-zdrijeb-kvalifikacijskih-skupina-za-euro-6-prosinca-15724750",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39196498_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Hrvatska nakon ispadanja sa Svjetskog prvenstva pala i na FIFA-inoj ljestvici! Evo gdje su danas Vatreni",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/hrvatska-13-na-fifa-ljestvici-svicarska-moze-preskociti-pobjedom-nad-kolumbijom-15724705",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39196496_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Klopp potvrdio razgovore s Njemačkom: ‘Opet sam pun energije, spreman sam‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/klopp-pregovara-s-dfb-om-o-preuzimanju-njemacke-reprezentacije-15724756",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39196676_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,7 +156,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Plan Engleza propao, dočekao ih ‘pakao Meksika‘ pod pratnjom policije: ‘S vama je gotovo‘",
+        "title": "VIDEO Plan Engleza propao, dočekao ih ‘pakao Meksika‘ pod pratnjom policije: ‘S vama je gotovo‘ U engleskom taboru vlada bojazan da će domaći navijači pokušati ponoviti scenarij koji je prethodio ispadanju Ekvadora.",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/engleska-pod-opsadom-u-ciudad-de-mexicu-uoci-meksika-barijere-i-pojacana-sigurnost-15724713",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39188667_640.jpg",
         "w": 640,
@@ -156,7 +216,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "FIFA objavila krunski dokaz kojeg je čekala čitava Hrvatska! Tko uopće u ovo vjeruje? Ovo nismo mogli vidjeti u prijenosu. A ionako je slaba utjeha za hrvatske navijače i reprezentativce",
+        "title": "FIFA objavila krunski dokaz kojeg je čekala čitava Hrvatska! Tko uopće u ovo vjeruje?",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/fifa-heartbeat-connected-ball-matanovic-dodir-veiga-gvardiol-gol-ponisten-15724622",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39195712_640.jpg",
         "w": 640,
@@ -171,66 +231,6 @@
         "title": "‘To kako smo mi igrali protiv svjetskih prvaka je nevjerojatno!‘; ‘Što sam sve prošao, dođe mi da zaplačem‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/argentina-pobijedila-zelenorske-3-2-nakon-produzetaka-u-miamiju-15724660",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39172635_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Kolektivna sudačka demencija: Je li moguće da FIFA ovako besramno gura Argentince protiv ‘liliputanaca‘?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/argentina-zelenortski-otoci-pauza-za-hidrataciju-produzeci-kontroverza-15724626",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39199534_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Do sada je bio debela rezerva i držao kraj klupe, a onda ušao i poslao Egipćane na svjetske prvake",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/junakdana-sp2026/hossam-abdelmaguid-odlucujuci-penal-egipat-izbacio-australiju-ide-na-argentinu-15724641",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39198753_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO Je li ovo najljepši gol na Svjetskom prvenstvu? Messi nije mogao vjerovati",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/argentina-zelenortski-otoci-3-2-produzeci-drama-messi-autogol-15724629",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39199904_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hoće li on biti novo Dinamovo pojačanje? Modri su u unutarnjim rezervama pronašli kariku koju traže",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/lukas-kacavenda-briljira-na-pripremama-dinama-dva-gola-nova-sansa-15724651",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_39169092_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "UŽIVO: HNS zadao krajnji rok Daliću i pripremio nasljednika, FIFA se oglasila oko poništenog gola Gvardiola",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-hns-zadao-krajnji-rok-dalicu-i-pripremio-nasljednika-fifa-se-oglasila-oko-ponistenog-gola-gvardiola-15724631",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39195857_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
