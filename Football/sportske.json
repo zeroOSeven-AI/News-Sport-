@@ -1,8 +1,8 @@
 [
     {
-        "title": "Dan kojeg se Modrić grozio je, nažalost, stigao. I puno je teži od odluke koja ga čeka sljedećeg ljeta",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/luka-modric-zavrsava-reprezentativnu-karijeru-202-utakmica-tri-medalje-nasljedje-15724637",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_39176917_640.jpg",
+        "title": "Priča se da je Collina potjerao ‘krvnike‘ Hrvatske sa SP-a. Snovi su nam uništeni, ali smo i sami krivi...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/collina-kritizira-sudenje-hrvatska-ispada-nakon-spornog-penala-protiv-portugala-15724654",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39195855_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -12,9 +12,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "FIFA objavila krunski dokaz kojeg je čekala čitava Hrvatska! Tko uopće u ovo vjeruje?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/fifa-heartbeat-connected-ball-matanovic-dodir-veiga-gvardiol-gol-ponisten-15724622",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39195712_640.jpg",
+        "title": "MUNDOCAST Njih dvojica stoje, a Hrvatska prima najnevjerojatniji gol na SP-u! A naivnost Vlašića...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/mundocast-njih-dvojica-stoje-a-hrvatska-prima-najnevjerojatniji-gol-na-sp-u-a-naivnost-vlasica-15724656",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39196718_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,7 +24,19 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Zelenortski Otoci ostali na pragu čuda, Argentinci u produžecima prelomili jednu od najboljih utakmica SP-a",
+        "title": "Naša VAR stručnjakinja detaljno objasnila: ‘Nažalost, sve je bilo čisto! Penal? Intenzitet nije bitan...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/rojc-objasnjava-cip-u-lopti-potvrdio-zaledje-penal-ispravan-martinez-podrzao-var-15724665",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39195669_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Zelenortski Otoci ostali na pragu čuda, Argentinci u produžecima prelomili jednu od najboljih utakmica SP-a Sidny Lopes Cabral zabio je možda i najbolji gol dosadašnjeg SP-a, ali Argentina je u završnici produžetka ipak pronašla put dalje",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/zelenortski-otoci-ostali-na-pragu-cuda-argentinci-u-produzecima-prelomili-jednu-od-najboljih-utakmica-sp-a-15724612",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_39199550_640.jpg",
         "w": 640,
@@ -36,7 +48,79 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Odluka FIFA-e došla pod ‘paljbu‘ Engleza i Meksikanaca pa su odustali: ‘To bi bio udarac u trbuh‘ ‘To mi se uopće ne sviđa. Očito ćemo se pridržavati onoga što FIFA kaže, ali ni meni ni mojim igračima se to ne sviđa‘, rekao je meksički izbornik",
+        "title": "Kolektivna sudačka demencija: Je li moguće da FIFA ovako besramno gura Argentince protiv ‘liliputanaca‘?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/argentina-zelenortski-otoci-pauza-za-hidrataciju-produzeci-kontroverza-15724626",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39199534_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Do sada je bio debela rezerva i držao kraj klupe, a onda ušao i poslao Egipćane na svjetske prvake",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hossam-abdelmaguid-odlucujuci-penal-egipat-izbacio-australiju-ide-na-argentinu-15724641",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39198753_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Je li ovo najljepši gol na Svjetskom prvenstvu? Messi nije mogao vjerovati",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/argentina-zelenortski-otoci-3-2-produzeci-drama-messi-autogol-15724629",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39199904_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Hoće li on biti novo Dinamovo pojačanje? Modri su u unutarnjim rezervama pronašli kariku koju traže",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/lukas-kacavenda-briljira-na-pripremama-dinama-dva-gola-nova-sansa-15724651",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_39169092_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "UŽIVO: Poznati svi parovi osmine finala! FIFA se oglasila oko poništenog gola Gvardiola",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-poznati-svi-parovi-osmine-finala-fifa-se-oglasila-oko-ponistenog-gola-gvardiola-15724631",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39195857_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "UŽIVO: Povratnik u Serie A krenuo po Vatrenog, Klopp preuzima Elf! Bivši Modrićev trener stigao u redove velikog rivala",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-povratnik-u-serie-a-krenuo-po-vatrenog-klopp-preuzima-elf-bivsi-modricev-trener-stigao-u-redove-velikog-rivala-15724655",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_39077128_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Odluka FIFA-e došla pod ‘paljbu‘ Engleza i Meksikanaca pa su odustali: ‘To bi bio udarac u trbuh‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/fifa-odustala-engleska-meksiko-ostaju-u-originalnom-terminu-unatoc-oluji-15724647",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39097198_640.jpg",
         "w": 640,
@@ -72,7 +156,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hrvatska ne da Dalića! Pogledajte rezultate velike ankete SN nakon osam godina Zlatkove vladavine",
+        "title": "Hrvatska ne da Dalića! Pogledajte rezultate velike ankete SN nakon osam godina Zlatkove vladavine Bitno je brzo razriješiti pitanje izbornika, jer, kao što naši igrači govore uglas prije svake utakmice: iznad svih – Hrvatska! Koju već za nepuna tri mjeseca čekaju novi ispiti",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/hrvatska-bez-izbornika-anketa-dalic-bilic-izjednaceni-hns-odluka-15724603",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_39125061_640.jpg",
         "w": 640,
@@ -84,20 +168,8 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Legendarni Collina ne može vjerovati što su napravili Hrvatskoj: ‘Ovo stvara opasan presedan‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/collina-kritizira-var-zbog-penala-protiv-hrvatske-15724613",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_37983894_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Gvardiol se oglasio nakon nesretnog ispadanja sa SP-a: ‘Boli jer smo dali sve. Volim te, moja Hrvatska‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/gvardiol-emotivna-poruka-nakon-ponistenog-gola-reakcija-srne-15724621",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/gvardiol-emotivna-poruka-nakon-ponistenog-gola-reakcija-srne-15724621",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_39195766_640.jpg",
         "w": 640,
         "h": 640,
@@ -132,19 +204,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Završava li najveća priča? Njegove suze su simbol svega, a takav igrač treba Vatrenima u novoj eri",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/skupinal-sp2026/modric-202-nastupa-kovacic-preuzima-vodenje-nove-hrvatske-15724616",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_39196717_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Slavko Goluža prozvao Primorca: ‘Neka javno kaže koji ga olimpijci podržavaju‘ i stao uz Varvodića",
+        "title": "Slavko Goluža prozvao Primorca: ‘Neka javno kaže koji ga olimpijci podržavaju‘",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/hoo/slavko-goluza-prozvao-primorca-trazi-imena-olimpijaca-podrzao-varvodica-uoci-izbora-hoo-15724619",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_36432671_640.jpg",
         "w": 640,
@@ -156,7 +216,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hrvatska od danas nema izbornika! Pregovori kreću odmah Objavu iz Hrvatskog nogometnog saveza očekujemo vrlo brzo",
+        "title": "Hrvatska od danas nema izbornika! Pregovori kreću odmah",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/daliceva-odluka-hrvatska-bez-izbornika-hns-ceka-rasplet-15724509",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_39125293_640.jpg",
         "w": 640,
@@ -171,66 +231,6 @@
         "title": "Javio se krivac za ispadanje Hrvatske sa SP-a, stiže lavina komentara! ‘Jesam li ga trebao ošišati...‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ponisten-gol-hrvatske-frizer-luka-grbac-reakcija-dodir-kose-15724562",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_39195712_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Dalić je nadmudrio svog prijatelja, ali ga je koštala stara boljka. Ide li sad i on na bal zvijezda?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/portugal-izbacio-hrvatsku-prekidi-var-odlucili-ispadanje-15724608",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_39195275_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hladan tuš sa sjevera Europe: Čisti penal! Mnogi su propustili ono što je Vlašić napravio prije toga",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/referee-channel-tri-prekrsaja-vlasica-objasnili-penal-portugalu-15724538",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_39196889_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Igor Štimac zagrmio: ‘Nema nikakve urote protiv Hrvatske! Očito su ćelavi ljudi u prednosti...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/modric-kritizira-var-dalic-nezadovoljan-sucenjem-stimac-odbacuje-urotu-15724532",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_38483116_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hrvatska izjednačila povijesnu rekordnu pobjedu, Hezonja četvrti Hrvat s triple-doubleom!",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-reprezentacija/hrvatska-razbila-cipar-123-50-ostala-prva-u-skupini-e-15724593",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_38463016_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Ugledni hrvatski menadžer: ‘Ovo je fenomenalan posao! Zaradili su pet puta više nego što su ga platili Hajduku‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/brighton-dovodi-luku-vuskovica-za-rekordnih-53-milijuna-eura-15724579",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/02/k_39134350_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
