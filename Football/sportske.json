@@ -1,8 +1,20 @@
 [
     {
-        "title": "Hrvatska razbila Srbiju, preskočila Italiju i na spektakularan način izborila polufinale Eura!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hrvatska-razbila-srbiju-preskocila-italiju-i-na-spektakularan-nacin-izborila-polufinale-eura-15724964",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/05/k_38653878_640.jpg",
+        "title": "UŽIVO Brazil - Norveška: Spektakularan početak! Već u 3. minuti poništen gol Haalandu i društvu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/uzivo-brazil-norveska-spektakularan-pocetak-vec-u-3-minuti-ponisten-gol-haalandu-i-drustvu-15725011",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/05/k_39190642_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Stiže nova generacija za eksploziju hrvatskog nogometa? Oni su uvijek davali proslavljene Vatrene",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hrvatska-u20-svjetsko-prvenstvo-orescanin-euro-u19-azerbajdzan-uzbekistan-15725016",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/05/k_37884922_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,9 +36,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Modrić i Dalić uskoro objavljuju veliku odluku, u novoj reprezentaciji svatko mora znati gdje mu je mjesto!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/vatreni-nakon-modrica-tranzicija-veterani-i-povratak-slavena-bilica-15724967",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39195758_640.jpg",
+        "title": "Gol stoljeća i Božja ruka! Engleska se vraća na mjesto najtežeg iskušenja i Maradonine čarolije Engleska želi biti svjetski prvak. Na tom putu moguće je da će upravo Azteca, težina domaćeg sastava, ali i izazov \"kisika\" biti važna provjera koliko su te ambicije realne...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/engleska-meksiko-azteca-povratak-maradone-test-nadmorske-visine-15725022",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39056462_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,7 +48,55 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Pukštas seli u Serie A? Real Madrid stao u red za Vatrenog koji je zablistao na SP-u Pratimo najnovija događanja na svjetskoj i domaćoj nogometnoj tržnici",
+        "title": "Zabio spektakularan gol za rušenje Srbije pa poručio: ‘Idemo sad to osvojiti!‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/hrvatska-u19-polufinale-eura-3-0-srbija-slijedi-spanjolska-15725005",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/05/k_38671937_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Razbila nas Hrvatska, nije Mundijalito za Srbiju!; Potop Orlića, oštećeni smo i za penal...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hrvatska-u-19-srbija-3-0-reakcije-srpskih-medija-mundijalito-15724996",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/05/k_39219783_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Zaokret na Poljudu! Hajduk i Livaja odradili novu rundu razgovora: Ikona pristala na uvjete Bijelih",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/livaja-potpisao-disciplinski-pravilnik-vraca-se-treninzima-hajduka-15724949",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/05/k_38565546_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Messi prišao novinarki s kojom navodno ima aferu i rekao: ‘Kad te pogledam, pitaju zašto...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/messi-javno-demantirao-glasine-o-sofi-martinez-nakon-pobjede-u-miamiju-15724975",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/05/k_39214971_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "UŽIVO: Pukštas seli u Serie A? Real Madrid stao u red za Vatrenog koji je zablistao na SP-u",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-hajdukovac-seli-u-serie-a-real-madrid-stao-u-red-za-vatrenog-koji-je-zablistao-na-sp-u-15724868",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/05/k_39077128_640.jpg",
         "w": 640,
@@ -96,7 +156,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Đoković nadmašio Federera: Rekord Wimbledona sa 106 pobjeda i korak bliže 25. Grand Slamu",
+        "title": "Đoković nadmašio Federera: Rekord Wimbledona sa 106 pobjeda i korak bliže 25. Grand Slamu Nakon trijumfa nad Safjulinom, Nole ušao u 17. wimbledonsko četvrtfinale",
         "link": "https://sportske.jutarnji.hr/sportske/tenis/grand-slam/djokovic-rekord-wimbledona-106-pobjeda-cetvrtfinale-lov-na-25-grand-slam-15724983",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/05/k_39213060_640.jpg",
         "w": 640,
@@ -132,6 +192,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "UŽIVO: Njemačka ima novog izbornika, poznat prvi par četvrtine finala, Francuzi kritizirali suparnika",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-njemacka-ima-novog-izbornika-poznat-prvi-par-cetvrtine-finala-francuzi-kritizirali-suparnika-15724863",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/05/k_39204014_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Klopp razbuktao euforiju: slijedi čistka, riješit će se najveće zablude pa vratiti Nijemce na krov svijeta",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/klopp-preuzima-njemacku-pocinje-nova-era-elfa-15724980",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/05/k_39196685_640.jpg",
@@ -156,81 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘U Hajduku se očito boje Torcide ili nekoga, ovo je vrhunac cirkusa, sada je jasno da je priča s Livajom gotova‘ Sukob kapetana Hajduka Marka Livaje i trenera Gonzala Garcije eskalira, a klub odugovlači s rješenjem",
+        "title": "‘U Hajduku se očito boje Torcide ili nekoga, ovo je vrhunac cirkusa, sada je jasno da je priča s Livajom gotova‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/hajduk-raskol-livaje-i-garcije-pred-zilinu-15724942",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/05/k_39205974_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "MUNDOCAST: ‘To je neozbiljno od Saveza! Vatrenima treba novi čovjek, neka on bude kao Dalić i sve će biti izvanredno‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/mundocast-izbornik-hrvatske-dalic-bilic-olic-liga-nacija-15724877",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/05/k_39201187_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Mijatović uoči novog okršaja Hrvatske: Ne smijemo se prilagođavati protivniku, nego igrati našu košarku",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-reprezentacija/mijatovic-uoci-novog-okrsaja-hrvatske-ne-smijemo-se-prilagodavati-protivniku-nego-igrati-nasu-kosarku-15724974",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/05/k_37967744_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "UŽIVO: Njemačka ima novog izbornika, poznat prvi par četvrtine finala, Francuzi kritizirali suparnika",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-njemacka-ima-novog-izbornika-poznat-prvi-par-cetvrtine-finala-francuzi-kritizirali-suparnika-15724863",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/05/k_39204014_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hoćete li se provesti kao Potter ili promarširati kao Deschamps? Pred vama je novi SP-test",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/kviz-svjetsko-prvenstvo-nogomet-provjera-znanja-15724768",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_38806688_640.gif",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Šokirali svijet svojim ponašanjem: ‘Ovo je apsolutna sramota, da su u mojoj momčadi, odvukao bih ih s terena‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/francuska-mbappe-penal-paragvaj-bez-zutih-kartona-cetvrtfinale-15724875",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/05/k_39204063_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "On je budućnost Vatrenih: Ponude pljušte, spominje se i Real, ali ništa ispod 80 milijuna eura!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/baturina-como-80-milijuna-bayern-tottenham-odbijeni-sp-rekordi-15724862",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/02/k_39022000_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
