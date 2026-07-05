@@ -1,8 +1,8 @@
 [
     {
-        "title": "Nach Formel-1-Drama: Mercedes prüft Widerstand gegen Antonelli-Strafe",
-        "link": "https://www.motorsport-magazin.com/formel1/news-299276-nach-formel-1-drama-mercedes-toto-wolff-prueft-widerstand-gegen-antonelli-strafe/",
-        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1125683.jpg",
+        "title": "Warum endete Silverstone unter Safety Car? Formel-1-System löst fast illegalen Restart aus",
+        "link": "https://www.motorsport-magazin.com/formel1/news-299278-warum-endete-silverstone-hinter-safety-car-formel-1-system-loest-fast-illegalen-restart-aus/",
+        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1125686.jpg",
         "w": 1200,
         "h": 627,
         "focus_y": 0.35,
@@ -12,9 +12,33 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Formel 1 Liveticker: Leclerc-Sieg aber Hamilton-Ärger! Podium in Gefahr? News aus Silverstone",
+        "title": "Formel 1 Liveticker: Hamilton freigesprochen! Silverstone-Podium bleibt - News & Stimmen",
         "link": "https://www.motorsport-magazin.com/formel1/news-299272-formel-1-liveticker-f1-heute-live-silverstone-das-rennen-start-news-aktuell-2026-grossbritannien-pole-sieger-reaktionen-startaufstellung/",
         "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1125611.jpg",
+        "w": 1200,
+        "h": 627,
+        "focus_y": 0.35,
+        "source_title1": "MOTORSPORT MAGAZIN",
+        "source_title2": "F1",
+        "source_color": "#FFD300",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Lewis Hamilton entgeht finalem Silverstone-Fiasko: Keine Strafe nach dem Rennen!",
+        "link": "https://www.motorsport-magazin.com/formel1/news-299277-formel-1-lewis-hamilton-entgeht-finaler-strafe-bei-silverstone-fiasko/",
+        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1125684.jpg",
+        "w": 1200,
+        "h": 627,
+        "focus_y": 0.35,
+        "source_title1": "MOTORSPORT MAGAZIN",
+        "source_title2": "F1",
+        "source_color": "#FFD300",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Nach Formel-1-Drama: Mercedes prüft Widerstand gegen Antonelli-Strafe",
+        "link": "https://www.motorsport-magazin.com/formel1/news-299276-nach-formel-1-drama-mercedes-toto-wolff-prueft-widerstand-gegen-antonelli-strafe/",
+        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1125683.jpg",
         "w": 1200,
         "h": 627,
         "focus_y": 0.35,
@@ -567,30 +591,6 @@
         "title": "Kimi Antonelli rettet in Silverstone die Mercedes-Ehre: Ferrari reif für Revanche",
         "link": "https://www.motorsport-magazin.com/formel1/news-299238-formel-1-silverstone-antonelli-rettet-mercedes-ehre/",
         "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1125548.jpg",
-        "w": 1200,
-        "h": 627,
-        "focus_y": 0.35,
-        "source_title1": "MOTORSPORT MAGAZIN",
-        "source_title2": "F1",
-        "source_color": "#FFD300",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Formel 1 Silverstone: Lewis Hamilton entreißt Kimi Antonelli die Sprint-Pole",
-        "link": "https://www.motorsport-magazin.com/formel1/news-299236-formel-1-silverstone-lewis-hamilton-entreisst-kimi-antonelli-die-sprint-pole/",
-        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1125555.jpg",
-        "w": 1200,
-        "h": 627,
-        "focus_y": 0.35,
-        "source_title1": "MOTORSPORT MAGAZIN",
-        "source_title2": "F1",
-        "source_color": "#FFD300",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Ergebnisse: Großbritannien GP - Sprint Qualifying",
-        "link": "https://www.motorsport-magazin.com/formel1/ergebnisse/2026/session/grossbritannien-gp-sprint-qualifying-41596.html",
-        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1125555.jpg",
         "w": 1200,
         "h": 627,
         "focus_y": 0.35,
