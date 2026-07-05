@@ -1,5 +1,17 @@
 [
     {
+        "title": "Zaokret na Poljudu! Hajduk i Livaja odradili novu rundu razgovora: Ikona pristala na uvjete Bijelih",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/livaja-potpisao-disciplinski-pravilnik-vraca-se-treninzima-hajduka-15724949",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/05/k_38565546_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Ostao zaboravljen na klupi, čeka li Vatrene još jedan oproštaj? Prvo slijedi operacija, a onda pada odluka",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/kramaric-izmedu-hat-tricka-i-klupe-u-reprezentaciji-15724935",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/05/k_39052244_640.jpg",
@@ -24,9 +36,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "FOTO Detalj koji je mnogima promakao! Bijesni Hrvati zasuli teren, a onda je na scenu stupio Ivan Perišić",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/ponisteni-gol-kaos-tribine-perisicev-viralni-potez-hrvatska-portugal-15724907",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/05/k_39195735_640.jpg",
+        "title": "Šokirali svijet svojim ponašanjem: ‘Ovo je apsolutna sramota, da su u mojoj momčadi, odvukao bih ih s terena‘ ‘Sudac nije pomogao ni u kojim okolnostima. Činjenica da nijedan Paragvajac nije dobio žuti karton unutar 90 minuta je nevjerojatna‘, dodao je Hart",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/francuska-mbappe-penal-paragvaj-bez-zutih-kartona-cetvrtfinale-15724875",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/05/k_39204063_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,9 +48,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Samovojska zgrožen u studiju HRT-a: ‘Nevjerojatno i šokantno! Ovo još nitko nije objasnio‘ Studijski trio HRT-a komentirao sporne trenutke, hrabru igru i poruku o ponosu nakon dramatičnog ispadanja",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hrvatska-ispala-portugal-var-kontroverze-anliza-hrt-15724817",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_27215693_640.jpg",
+        "title": "On je budućnost Vatrenih: Ponude pljušte, spominje se i Real, ali ništa ispod 80 milijuna eura!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/baturina-como-80-milijuna-bayern-tottenham-odbijeni-sp-rekordi-15724862",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/02/k_39022000_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -60,9 +72,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Životna drama slavnog sportaša: ‘Zamalo sam umro zbog malo sira, prošao sam trenutke terora‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/aldo-montano-anafilakticki-sok-kazein-rimski-restoran-15724931",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/05/k_39206748_640.jpg",
+        "title": "Samovojska zgrožen u studiju HRT-a: ‘Nevjerojatno i šokantno! Ovo još nitko nije objasnio‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hrvatska-ispala-portugal-var-kontroverze-anliza-hrt-15724817",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_27215693_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -72,9 +84,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Riješeno pitanje Kloppove budućnosti, sutra kreće ‘tjedan Dominika Livakovića‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-sutra-krece-tjedan-dominika-livakovica-bennacer-napustio-milan-majera-zele-talijani-15724868",
+        "title": "UŽIVO: Real Madrid stao u red za Vatrenog koji je zablistao na SP-u, Klopp ima novi posao",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-real-madrid-stao-u-red-za-vatrenog-koji-je-zablistao-na-sp-u-klopp-ima-novi-posao-15724868",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/05/k_39077128_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Životna drama slavnog sportaša: ‘Zamalo sam umro zbog malo sira, prošao sam trenutke terora‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/aldo-montano-anafilakticki-sok-kazein-rimski-restoran-15724931",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/05/k_39206748_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -120,6 +144,30 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Maroko ne planira stati protiv Francuske: ‘Možemo ići do kraja, danas više nismo iznenađenje‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/maroko-ne-planira-stati-protiv-francuske-mozemo-ici-do-kraja-danas-vise-nismo-iznenadenje-15724947",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/05/k_39202918_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Moćna Francuska pronašla je rješenje i za paragvajsku destrukciju koja je bila sklona prljavim potezima Iako nogomet nerijetko ponudi iznenađujuće rasplete, na kraju je ipak sve završilo onako kako je i trebalo završiti i bolja je momčad otišla u četvrtfinale",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/francuska-paragvaj-1-0-mbappe-penal-var-cetvrtfinale-maroko-15724905",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/05/k_39203906_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Kralj osigurao sve, ispisali povijest, igra im nema manu i uvjereni su da mogu dobiti - svakoga!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/maroko-kanada-3-0-cetvrtfinale-svjetsko-prvenstvo-ouahbi-hakimi-ounahi-15724901",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39202895_640.jpg",
@@ -156,7 +204,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Evo zašto Dalić toliko odugovlači s velikom odlukom! U pitanju nisu ni novac, ni status... Iz današnje perspektive Dalića je lakše zamisliti kako od jeseni režira neke nove senzacije u Arabiji ili UAE-u nego na klupi Hrvatske",
+        "title": "Evo zašto Dalić toliko odugovlači s velikom odlukom! U pitanju nisu ni novac, ni status...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/dalic-na-raskrizju-hns-priprema-bilica-olic-u-igri-za-klupu-15724799",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39140013_640.jpg",
         "w": 640,
@@ -183,54 +231,6 @@
         "title": "VIDEO: Muka Francuza, ali ništa od novog čuda! Mbappe s bijele točke izbacio Paragvajce",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/video-muka-francuza-ali-nista-od-novog-cuda-mbappe-s-bijele-tocke-izbacio-paragvajce-15724829",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39203756_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Nakon debakla na SP-u otkrivena skandalozna priča! Osam reprezentativaca pod sumnjom za doping",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/tunis-klenbuterol-atipicni-nalazi-sp-meksiko-kontaminirano-meso-15724811",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39202152_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Sreća da se ne preziva Vlašić‘. Ljutiti Mbappe tražio penal, sudac ga potpuno ignorirao",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/mbappe-trazio-penal-paragvaj-francuska-tantasev-var-caseres-15724846",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39203516_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Klasična pljačka u režiji Argentine!‘ Najveća senzacija na nogama, navijači dijele ove tri snimke",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/zelenortski-otoci-optuzuju-suca-pristranost-prema-argentini-i-messiju-15724786",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/04/k_39200094_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hrvatska je imala sve osim - obrane! Evo kakav je igrač najviše nedostajao Vatrenima na SP-u",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/vatreni-ispali-obrana-sedam-primljenih-golova-problemi-na-prekidima-15724820",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/03/k_39195160_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
