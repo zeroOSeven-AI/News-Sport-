@@ -1,17 +1,5 @@
 [
     {
-        "title": "World Cup Daily live: Spain knock out Portugal; Kane loses voice; USMNT prepares for Belgium",
-        "link": "https://www.espn.com/soccer/story/_/id/49284373/world-cup-daily-live-usmnt-belgium-spain-portugal-cristiano-ronaldo-round-16",
-        "image_url": "https://a.espncdn.com/photo/2026/0706/r1685538_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
         "title": "Group H at the 2026 World Cup: Teams, records, stats to know",
         "link": "https://www.espn.com/soccer/story/_/id/49072408/group-h-2026-world-cup-teams-records-stats-know-spain-cape-verde-uruguay-saudi-arabia",
         "image_url": "https://a.espncdn.com/photo/2026/0615/r1673599_608x342_16-9.jpg",
@@ -72,9 +60,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Spain beat Portugal, as Ronaldo's World Cup career ends",
+        "title": "Spain beat Portugal, reach 1st World Cup quarters since 2010",
         "link": "https://www.espn.com/soccer/story/_/id/49288829/spain-beat-portugal-world-cup-quarters-2010",
-        "image_url": "https://a.espncdn.com/photo/2026/0706/r1685556_1296x729_16-9.jpg",
+        "image_url": "https://a.espncdn.com/photo/2026/0706/r1685532_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -84,7 +72,19 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Cristiano Ronaldo's World Cup career ends as Spain beat Portugal",
+        "title": "World Cup Daily live: Spain knock out Portugal; Kane loses voice; USMNT prepares for Belgium",
+        "link": "https://www.espn.com/soccer/story/_/id/49284373/world-cup-daily-live-usmnt-belgium-spain-portugal-cristiano-ronaldo-round-16",
+        "image_url": "https://a.espncdn.com/photo/2026/0706/r1685538_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Portugal_Spain_Cristiano Ronaldo's World Cup career ends as Spain beat Portugalrecap",
         "link": "http://www.espn.com/soccer/report/_/gameId/760506",
         "image_url": "https://a.espncdn.com/photo/2026/0706/r1685471_1296x729_16-9.jpg",
         "w": 1296,
