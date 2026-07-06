@@ -1,5 +1,29 @@
 [
     {
+        "title": "World Cup: Grades for every eliminated team as they exit the tournament",
+        "link": "https://www.espn.com/soccer/story/_/id/49178425/world-cup-grades-every-eliminated-team-rating-exit-tournament",
+        "image_url": "https://a.espncdn.com/photo/2026/0706/r1685284_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Mexico's World Cup knockout 'hurts deeply,' says captain Edson Álvarez",
+        "link": "https://www.espn.com/soccer/story/_/id/49285203/mexicos-world-cup-knockout-hurts-deeply-says-captain-edson-alvarez",
+        "image_url": "https://a.espncdn.com/photo/2026/0706/r1685262_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
         "title": "Brazil's Football Confederation set to keep faith in Carlo Ancelotti despite World Cup exit to Norway",
         "link": "https://www.espn.com/soccer/story/_/id/49285245/brazil-world-cup-exit-carlo-ancelotti-norway",
         "image_url": "https://a.espncdn.com/photo/2026/0706/r1685257_1296x729_16-9.jpg",
@@ -147,30 +171,6 @@
         "title": "World Cup: One big question for every round-of-16 team",
         "link": "https://www.espn.com/soccer/story/_/id/49228332/world-cup-round-16-analysis-brazil-canada-paraguay-morocco-ryan-ohanlon",
         "image_url": "https://a.espncdn.com/photo/2026/0703/r1683748_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Opposition scouting: Former USMNT boss Bruce Arena breaks down Belgium",
-        "link": "https://www.espn.com/soccer/story/_/id/49281763/former-usmnt-boss-bruce-arena-breaks-belgium",
-        "image_url": "https://a.espncdn.com/photo/2026/0706/r1685085_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Imps, Saints and Vikings: 2026-27 Champions League kicks off",
-        "link": "https://www.espn.com/soccer/story/_/id/49254165/imps-saints-vikings-action-2026-27-champions-league-kicks-off",
-        "image_url": "https://a.espncdn.com/photo/2025/1106/r1571752_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
