@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-07-06T06:12:15.738804+00:00",
+  "created_at": "2026-07-06T11:18:20.228552+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
     {
@@ -17,11 +17,39 @@
       "flag": "🇭🇷"
     },
     {
+      "title": "Leclerc: Prije vikenda mislili smo da ćemo gubiti pola sekunde po krugu, a pobijedili smo",
+      "link": "https://www.gp1.hr/2026/07/leclerc-prije-vikenda-mislili-smo-da-cemo-gubiti-pola-sekunde-po-krugu-a-pobijedili-smo/",
+      "author": "Igor Šestak",
+      "published_at": "2026-07-06T07:07:09+00:00",
+      "image_url": "",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
+    {
       "title": "Za kaos sa sigurnosnim automobilom FIA okrivila grešku softwarea",
       "link": "https://www.gp1.hr/2026/07/za-kaos-sa-sigurnosnim-automobilom-fia-okrivila-gresku-softwarea/",
       "author": "Igor Šestak",
       "published_at": "2026-07-05T17:18:50+00:00",
       "image_url": "",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
+    {
+      "title": "MXGP: Južna Afrika u znaku Lucasa Coenena i Guillema Farresa",
+      "link": "https://www.gp1.hr/2026/07/mxgp-juzna-afrika-u-znaku-lucasa-coenena-i-guillema-farresa/",
+      "author": "GeaGP",
+      "published_at": "2026-07-05T16:34:00+00:00",
+      "image_url": "https://www.gp1.hr/wp-content/uploads/2026/07/MXGP-LUCAS-COENEN-SOUTH-AFRICA-2026.jpg",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
@@ -106,34 +134,6 @@
       "author": "Igor Šestak",
       "published_at": "2026-07-02T19:11:43+00:00",
       "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/2b06.png",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "MXGP: Veliki transferi na pomolu? Paddock već bruji o 2027.",
-      "link": "https://www.gp1.hr/2026/07/mxgp-veliki-transferi-na-pomolu-paddock-vec-bruji-o-2027/",
-      "author": "GeaGP",
-      "published_at": "2026-07-02T13:31:17+00:00",
-      "image_url": "https://www.gp1.hr/wp-content/uploads/2026/07/RENAUX-MOTOCROSS-GP-9-ITA-2026.jpg",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "OSV Nagrada Grada Jastrebarskog: Jurnjava oko čunjeva u Gymkhana stilu",
-      "link": "https://www.gp1.hr/2026/07/osv-nagrada-grada-jastrebarskog-jurnjava-oko-cunjeva-u-gymkhana-stilu/",
-      "author": "GP1_hr",
-      "published_at": "2026-07-01T13:38:00+00:00",
-      "image_url": "https://www.gp1.hr/wp-content/uploads/2026/07/OSV-Jastrebarsko-2026-plakat.jpg",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
