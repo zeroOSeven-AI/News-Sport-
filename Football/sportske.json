@@ -12,9 +12,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: GOL! Dinamo zabio dvaput na otvaranju nastavka, Stojković ekspresno zatresao mrežu nakon ulaska",
+        "title": "Šest golova u drugom dijelu i pobjeda Dinama! Stojković briljirao po ulasku s klupe, zabio i Beljo",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-dinamo-igra-prvu-utakmicu-sezone-na-maksimiru-evo-za-kojih-se-11-odlucio-kovacevic-15726054",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/08/k_39253299_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Dalićevog nasljednika ne čeka lagan posao. Mnogo toga otkrilo je Svjetsko prvenstvo",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/slaven-bilic-ponovno-izbornik-hrvatske-hns-presedan-povratak-nakon-14-godina-15726099",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/08/k_39195158_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,9 +48,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Težak poraz mladih Vatrenih na Euru. Ništa od finala, Španjolci se pokazali prejakima",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/tezak-poraz-mladih-vatrenih-na-euru-nista-od-finala-spanjolci-se-pokazali-prejakima-15726016",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/08/k_39249985_640.jpg",
+        "title": "Kovačević nakon pobjede progovorio o Daliću: ‘Svaka mu čast na svemu, sad je prilika za drugog‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-tri-pobjede-162-pripreme-thun-kvalifikacije-liga-prvaka-15726101",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/08/k_39122003_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,9 +60,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Nastavak gnjusne drame, Mbappé opet na udaru: ‘Ovime si pokazao da si gad!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/celeste-amarilla-vrijeda-mbappea-prijeti-tuzbom-paragvaj-francuska-15726082",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/08/k_39241625_640.jpg",
+        "title": "Hajduk naciljao novo pojačanje, i to s Otoka? Kontakt je uspostavljen, ali cijena bi mogla biti problem",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-naciljao-novo-pojacanje-i-to-s-otoka-kontakt-je-uspostavljen-ali-cijena-bi-mogla-biti-problem-15726088",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/08/k_39059913_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Težak poraz mladih Vatrenih na Euru. Ništa od finala, Španjolci se pokazali prejakima",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/tezak-poraz-mladih-vatrenih-na-euru-nista-od-finala-spanjolci-se-pokazali-prejakima-15726016",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/08/k_39249985_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -72,6 +96,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Nastavak gnjusne drame, Mbappé opet na udaru: ‘Ovime si pokazao da si gad!‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/celeste-amarilla-vrijeda-mbappea-prijeti-tuzbom-paragvaj-francuska-15726082",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/08/k_39241625_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "HNS otkrio što je Dalić rekao Vatrenima u najbolnijem trenutku: ‘Šutnja, tuga, razočaranje...‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/dalic-odlazi-hns-otkrio-tisinu-medalje-naslijede-vatreni-15726067",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/08/k_39176827_640.jpg",
@@ -84,7 +120,43 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Veliki povratak, skijaški savez dobio pojačanje! Legendarna Janica Kostelić ima novu ulogu",
+        "title": "Bila je to Hrvatska naših snova! Daliću kapa do poda, prije ili kasnije dobit će spomenik",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/zlatko-dalic-odlazi-najveci-era-uspjeha-hrvatska-vatreni-15726040",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/08/k_29714731_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Perišić i Rakitić poslali tople poruke Daliću, oglasila se još jedna legenda: ‘Dosegao si vrh i ostao isti‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/zlatko-dalic-odlazi-hrvatska-bez-izbornika-bilic-olic-corluka-kandidati-15726015",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/08/k_39201179_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Bijesni izbornik je pretjerao, ali u zraku se osjeća zadah posebnog tretmana za Messija i Argentince",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/argentina-preokret-od-0-2-do-3-2-protiv-egipta-messi-scaloni-var-15726091",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/08/k_39249518_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Veliki povratak, skijaški savez dobio pojačanje! Legendarna Janica Kostelić ima novu ulogu Nakon potresa, uhićenja i brojnih promjena u vrhu saveza, naša najuspješnija sportašica pronašla je svoju ulogu",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/skijanje/janica-kostelic-nova-uloga-hss-izborna-skupstina-glavic-15726060",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/08/k_38089542_640.jpg",
         "w": 640,
@@ -120,9 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Bila je to Hrvatska naših snova! Daliću kapa do poda, prije ili kasnije dobit će spomenik",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/zlatko-dalic-odlazi-najveci-era-uspjeha-hrvatska-vatreni-15726040",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/08/k_29714731_640.jpg",
+        "title": "Za državu poput Hrvatske trajalo je jako dugo, a s rezultatima koje je napravio ne može se mjeriti nitko",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/zlatko-dalic-odlazi-rekordi-mundijalske-medalje-111-utakmica-15726010",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/08/k_39195752_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -132,31 +204,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Perišić i Rakitić poslali tople poruke Daliću, oglasila se još jedna legenda: ‘Dosegao si vrh i ostao isti‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/zlatko-dalic-odlazi-hrvatska-bez-izbornika-bilic-olic-corluka-kandidati-15726015",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/08/k_39201179_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Pljušte reakcije nakon Dalićeva odlaska: ‘Hvala ti, nikad više takvog izbornika!; Mnogi su sada sretni...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/zlatko-dalic-napustio-izbornicku-funkciju-nakon-devet-godina-oprostaj-navijaca-15725953",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/08/k_39197392_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Marcelo Brozović pred povratkom u Europu? Velikan poručuje: ‘Nije tajna, želimo jednog od najboljih!‘ Olympiakos ga je želio u siječnju, kada je bilo nemoguće išta učiniti. I čini se da će pokušati ponovno. Njegovo ime ponovno je stavljeno na stol",
+        "title": "Marcelo Brozović pred povratkom u Europu? Velikan poručuje: ‘Nije tajna, želimo jednog od najboljih!‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/brozovic-olympiakos-pregovori-transfer-al-nassr-grcka-15726043",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/08/k_38907653_640.jpg",
         "w": 640,
@@ -180,56 +228,8 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Ako treba, osobno ću otići po Luku Modrića! Već smo dva puta razgovarali...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/amorim-zeli-modrica-u-milanu-sljedece-sezone-15726021",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/08/k_38990341_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Strani mediji o Dalićevom oproštaju od Vatrenih: ‘Odlazi čovjek koji je mučio Englesku i ispisao povijest‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/odlazak-zlatka-dalica-svjetske-reakcije-i-bilic-kao-nasljednik-15725977",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/08/k_39195752_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "MUNDOCAST Dalić je sve ovo napravio, što god mislili! Ali ovim riječima omalovažava i svoje uspjehe",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/mundocast-dalic-je-sve-ovo-napravio-sto-god-mislili-ali-ovim-rijecima-omalovazava-i-svoje-uspjehe-15725829",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/08/k_39195015_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "UŽIVO Gradonačelnik New Yorka: ‘Bila je to argentinska pljačka!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/uzivo-gradonacelnik-new-yorka-bila-je-to-argentinska-pljacka-15725805",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/07/k_39249058_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "UŽIVO: Dva igrača odlaze iz Dinama, Modri odbili ponudu za Bakrara",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/uzivo-dva-igraca-odlaze-iz-dinama-modri-odbili-ponudu-za-bakrara-15725827",
+        "title": "Dva igrača odlaze iz Dinama, Modri odbili ponudu za Bakrara",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/dva-igraca-odlaze-iz-dinama-modri-odbili-ponudu-za-bakrara-15725827",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/07/k_39077128_640.jpg",
         "w": 640,
         "h": 640,
