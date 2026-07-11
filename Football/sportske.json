@@ -1,8 +1,20 @@
 [
     {
-        "title": "MUNDOCAST ‘Modrić je sigurno odigrao posljednju utakmicu! Nadam se još samo jednoj... Biliću je lakše nego 2006.‘ Španjolska pobjedu do rekorda Italije, ali Francuska je jača. Ni Argentina, ako dođe do finala, neće imati šanse s Francuzima",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/mundocast-modric-je-sigurno-odigrao-posljednju-utakmicu-nadam-se-jos-samo-jednoj-bilicu-je-lakse-nego-2006-15726882",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/11/k_39226233_640.jpg",
+        "title": "Bivši Vatreni izludio Messija: ‘Pitao me jesam li normalan, odgovorio sam mu ‘Ne, lud sam!‘ ‘Kad igrate ‘flastera‘ lakše je obrambenom igraču, jer suparnika iritira i živcira, to sam i ja učinio Messiju. I na kraju smo pobijedili Argentinu‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/tokic-flaster-na-messija-svicarci-recept-protiv-argentine-kansas-city-15726925",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/10/k_39253435_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Neuer se zbog ovog suigrača nije htio vratiti u reprezentaciju? Iza povratka legende leži ozbiljan skandal",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/neuer-se-vraca-na-gol-njemacke-podjele-nagelsmann-nubel-baumann-urbig-15726943",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/11/k_39215046_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,6 +36,30 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "‘Ozračje oko hrvatske košarke se mijenja, Simon je pun pogodak, a pred nama je najviša razina Europe‘",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-reprezentacija/petar-babic-hrvatska-u20-europsko-prvenstvo-slovenija-povratak-a-divizija-15726942",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/10/k_38289160_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "MUNDOCAST ‘Modrić je sigurno odigrao posljednju utakmicu! Nadam se još samo jednoj... Biliću je lakše nego 2006.‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/mundocast-modric-je-sigurno-odigrao-posljednju-utakmicu-nadam-se-jos-samo-jednoj-bilicu-je-lakse-nego-2006-15726882",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/11/k_39226233_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Legenda se ozljedom i u suzama oprostila od reprezentacije? ‘Želio bih uzeti pauzu, možda je ovo bio kraj‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/spanjolska-belgija-merino-gol-lammens-pogreska-courtois-ozljeda-polufinale-15726918",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/11/k_39266895_640.jpg",
@@ -36,9 +72,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Infantina stižu posljedice, afera s Trumpom skupo će ga koštati: ‘Izoliran je, moć mu je presušila!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/infantino-gubi-podrsku-nakon-odluke-o-balogunu-i-trumpova-poziva-15726891",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/11/k_39223916_640.jpg",
+        "title": "FIFA-inoj pohlepi nema kraja, pogledajte čega su se dosjetili da ‘izmuzu‘ i zadnji euro od SP-a",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/fifa-prodaje-komade-finalnog-travnjaka-metlife-cijene-do-3000-dolara-15726904",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/11/k_39149627_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,9 +84,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "FIFA-inoj pohlepi nema kraja, pogledajte čega su se dosjetili da ‘izmuzu‘ i zadnji euro od SP-a",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/fifa-prodaje-komade-finalnog-travnjaka-metlife-cijene-do-3000-dolara-15726904",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/11/k_39149627_640.jpg",
+        "title": "Infantina stižu posljedice, afera s Trumpom skupo će ga koštati: ‘Izoliran je, moć mu je presušila!‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/infantino-gubi-podrsku-nakon-odluke-o-balogunu-i-trumpova-poziva-15726891",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/11/k_39223916_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,7 +120,43 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Zvijezda Barcelone usred SP-a dogovorila transfer u PSG! Mourinho odobrio Brozovića",
+        "title": "Nogomet je nestao, sad ga trebaju naći oni koji su ga izmislili i razvili - Europljani!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/fifa-bieber-finale-sp-skandali-politicki-pritisci-europa-uefa-15726936",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/09/k_39242398_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Yamal prepun optimizma: ‘Francuzi nas se trebaju bojati! Moja igra? Pa i na Euru sam zabio samo jedan gol...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/spanjolska-francuska-polufinale-sudar-napada-i-kontrole-15726931",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/11/k_39269382_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Formula koja ruši velikane: Dio taktike je i bivši dinamovac, ali status apsolutnog junaka je - neupitan",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/junakdana-sp2026/merino-kasnim-golom-vodi-spanjolsku-u-polufinale-belgija-15726895",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/11/k_39268560_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "UŽIVO: Zvijezda Barcelone usred SP-a dogovorila transfer u PSG! Mourinho odobrio Brozovića Sve najvažnije vijesti s nogometne tržnice pratite na portalu Sportskih novosti",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/uzivo-jakirovic-dovodi-srbina-kao-zamjenu-za-vatrenog-dinamo-zeli-talenta-psg-a-barca-sprema-rekordnu-ponudu-15726877",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/10/k_39077128_640.jpg",
         "w": 640,
@@ -120,43 +192,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Formula koja ruši velikane: Dio taktike je i bivši dinamovac, ali status apsolutnog junaka je - neupitan",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/junakdana-sp2026/merino-kasnim-golom-vodi-spanjolsku-u-polufinale-belgija-15726895",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/11/k_39268985_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Može li Engleska zaustaviti Haalanda? Legenda upozorava: ‘On uvijek pronađe način‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/engleska-norveska-cetvrtfinale-sp-miami-haaland-kane-rice-ozljede-15726901",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/10/k_39256182_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Španjolska izborila spektakularni polufinale s Francuskom, Belgijci ostali bez ključnog igrača!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/video-spanjolska-izborila-spektakularni-polufinale-s-francuskom-belgijci-ostali-bez-kljucnog-igraca-15726789",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/10/k_39267159_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Uoči spektakla otkrivena nevjerojatna priča! Zvijezda Engleska družila se s Trumpom, spojila ih ista ljubav \"Bilo je nevjerojatno iskustvo samo ga upoznati, kamoli igrati golf s njim\", kaže 32-godišnji Harry Kane",
+        "title": "Uoči spektakla otkrivena nevjerojatna priča! Zvijezda Engleska družila se s Trumpom, spojila ih ista ljubav",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/norveska-engleska-spektakl-za-polufinale-harry-kane-u-formi-15726875",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/11/k_39268983_640.jpg",
         "w": 640,
@@ -168,7 +204,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Wembanyama potpisao najbogatiji ugovor u povijesti franšize: ‘Obitelji, ostajem ovdje!‘",
+        "title": "Wembanyama potpisao najbogatiji ugovor u povijesti kluba: ‘Obitelji, ostajem ovdje!‘",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/spursi-potpisali-visegodisnje-produljenje-s-victorom-wembanyamom-15726888",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/11/k_39107164_640.jpg",
         "w": 640,
@@ -195,42 +231,6 @@
         "title": "FOTO Prizor koji slama srca, legenda doživjela najgori mogući kraj!? Nije mogao suspregnuti suze",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/spanjolska-belgija-21-courtois-ozljeda-merino-polufinale-15726842",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/10/k_39266891_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Izbornik Španjolske: Francuzi, budite zabrinuti! Belgijci: Sve je išlo protiv nas...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/spanjolska-belgija-2-1-merino-gol-de-la-fuente-najava-francuska-polufinale-15726853",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/10/k_39265711_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Ispao iz prve momčadi Dinama, a sada i raskrstio s Andyjem Barom! Velika objava dragulja Modrih",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/cardoso-varela-pod-pini-zahavijem-napusta-andyju-baru-dinamo-b-15726830",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/10/k_37811205_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Francuzi otkrivaju senzacionalnu priču: Dinamo želi igrača europskog prvaka PSG-a!?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/dinamo-psg-noah-nsoki-mlado-krilo-transfer-maksimir-15726829",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/10/k_39266553_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
