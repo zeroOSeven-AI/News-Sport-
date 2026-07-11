@@ -1,5 +1,41 @@
 [
     {
+        "title": "England given World Cup boost as Marc Guéhi, Declan Rice return to training ahead of Norway clash",
+        "link": "https://www.espn.com/soccer/story/_/id/49328075/england-marc-guehi-declan-rice-back-training-ahead-norway-world-cup-clash",
+        "image_url": "https://a.espncdn.com/photo/2026/0710/r1687230_1296x729_16-9.jpg",
+        "w": 1295,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "FIFA selling 2026 World Cup final pitch in $450 pieces",
+        "link": "https://www.espn.com/soccer/story/_/id/49328942/fifa-2026-world-cup-final-pitch-sale-piece",
+        "image_url": "https://a.espncdn.com/photo/2026/0710/r1687578_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Belgium ran out of 'lady luck' in World Cup exit, Garcia says",
+        "link": "https://www.espn.com/soccer/story/_/id/49328835/belgium-ran-lady-luck-world-cup-exit-garcia-says",
+        "image_url": "https://a.espncdn.com/photo/2026/0710/r1687571_1024x576_16-9.jpg",
+        "w": 1024,
+        "h": 576,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
         "title": "2026 FIFA World Cup match schedule: Fixtures, results, features",
         "link": "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket",
         "image_url": "https://a.espncdn.com/photo/2025/1204/r1584809_2_1296x729_16-9.jpg",
@@ -84,18 +120,6 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "England given World Cup boost as Marc Guéhi, Declan Rice return to training ahead of Norway clash",
-        "link": "https://www.espn.com/soccer/story/_/id/49328075/england-marc-guehi-declan-rice-back-training-ahead-norway-world-cup-clash",
-        "image_url": "https://a.espncdn.com/photo/2026/0710/r1687230_1296x729_16-9.jpg",
-        "w": 1295,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
         "title": "World Cup quarterfinals: How we got here, predictions, odds",
         "link": "https://www.espn.com/soccer/story/_/id/49294844/fifa-world-cup-quarterfinal-preview-predictions-odds-argentina-belgium-england-france-morocco-norway-spain-switzerland",
         "image_url": "https://a.espncdn.com/photo/2026/0709/r1686747_1296x729_16-9.jpg",
@@ -149,30 +173,6 @@
         "image_url": "https://a.espncdn.com/photo/2026/0615/r1673632_608x342_16-9.jpg",
         "w": 608,
         "h": 342,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Spain at the men's World Cup: All-time results and stats",
-        "link": "https://www.espn.com/soccer/story/_/id/49073399/spain-men-world-cup-all-results-stats",
-        "image_url": "https://a.espncdn.com/photo/2026/0615/r1673639_608x342_16-9.jpg",
-        "w": 608,
-        "h": 342,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "World Cup recap: Merino scores winner for Spain vs. Belgium to advance to last four",
-        "link": "https://www.espn.com/soccer/story/_/id/49320409/world-cup-updates-spain-take-belgium-second-quarterfinal",
-        "image_url": "https://a.espncdn.com/photo/2026/0710/r1687509_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 728,
         "focus_y": 0.35,
         "source_title1": "ESPN",
         "source_title2": "FOOTBALL",
