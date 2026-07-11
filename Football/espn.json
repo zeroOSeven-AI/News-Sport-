@@ -1,8 +1,20 @@
 [
     {
-        "title": "World Cup live updates: Second half underway as England and Norway are level",
+        "title": "World Cup live updates: Bellingham's brace sends England to last four past Norway",
         "link": "https://www.espn.com/soccer/story/_/id/49329265/world-cup-live-updates-norway-take-england-quarterfinal-clash",
         "image_url": "https://a.espncdn.com/photo/2026/0711/r1687924_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "How to watch FIFA World Cup 2026: Fixtures, results, all you need to know",
+        "link": "https://www.espn.com/soccer/story/_/id/48820641/fifa-world-cup-2026-how-watch-socceroos-fixtures-results",
+        "image_url": "https://a.espncdn.com/photo/2026/0220/r1617770_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -159,18 +171,6 @@
         "title": "World Cup kit ranking: Which teams will look best in 2026?",
         "link": "https://www.espn.com/soccer/story/_/id/48352807/world-cup-2026-kit-ranking-canada-mexico-united-states-argentina-australia-brazil-england-france-germany-portugal-spain",
         "image_url": "https://a.espncdn.com/photo/2026/0401/r1637137_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Former Chelsea chairman Ken Bates dies aged 94",
-        "link": "https://www.espn.com/soccer/story/_/id/49333624/former-chelsea-chairman-ken-bates-dies-aged-94",
-        "image_url": "https://a.espncdn.com/photo/2026/0711/r1687747_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
