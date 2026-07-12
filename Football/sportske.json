@@ -1,6 +1,42 @@
 [
     {
-        "title": "To što čeka Bilića još nije viđeno, ali ujedno može postati šansa za novu veliku hrvatsku priču Raspored Lige nacija je bez milosti, realan je cilj ostanak u eliti, a hvatanje četvrtfinala samo želja ako se otvori prilika",
+        "title": "‘Čovjek jako dobro zna što radi, on je rođen da bude izbornik! Neće zajedništvo kod njega biti ništa manje‘ Bivši Vatreni govori o odlasku Zlatka Dalića, povratku Slavena Bilića i novom licu reprezentacije",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/vukojevic-dalicevo-cudo-biliceva-nova-hrvatska-plan-za-euro-2028-15727134",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/11/k_35626364_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Najtužnija priča Mundijala: Nogomet ga je izbavio iz siromaštva i ralja uličnih bandi, pratile su ga tragedije...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/smrt-jaydena-adamsa-istraga-u-tijeku-tragedija-mamelodi-sundownsa-15727149",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/12/k_39270507_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Jeste li spremni za finalni tjedan turnira ili vas je prvih 100 utakmica previše umorilo? Testirajte se u novom kvizu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/kviz-svjetsko-prvenstvo-nogomet-provjera-znanja-15726963",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/11/k_38806688_640.gif",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "To što čeka Bilića još nije viđeno, ali ujedno može postati šansa za novu veliku hrvatsku priču",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/slaven-bilic-pakleni-start-ceska-spanjolska-engleska-najtezji-niz-15727097",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/11/k_39070027_640.jpg",
         "w": 640,
@@ -12,7 +48,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "MUNDOCAST UŽIVO OD 9.30 Sudačke kontroverze pomogle da svijet dobije polufinala koja je priželjkivao",
+        "title": "MUNDOCAST ‘Messi je igrač manje, a Embolo prevarant! Biliću je ovo idealan početak‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/mundocast-polufinala-sp-var-kontroverze-spanjolska-francuska-argentina-engleska-hns-dalic-15727109",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/12/k_39275363_640.jpg",
         "w": 640,
@@ -84,7 +120,43 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Englezi u drami produžetaka slomili Norvežane i izborili polufinale SP-a",
+        "title": "‘U životu nisam vidio tako jednostrano suđenje. U prvih 90 minuta nisu dobili niti jedan žuti karton...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/argentina-svladala-svicarsku-3-1-nakon-produzetaka-ide-na-englesku-15727114",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/12/k_39276403_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Engleski junak je još kao dijete zavolio velike pozornice, a ovog ljeta blista na najvećoj mogućoj",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/bellingham-dva-gola-engleska-polufinale-lov-na-zlatnu-kopacku-15727124",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/12/k_39276267_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Zvijezda Reala šokirala čitavu naciju! Ne prihvate li zahtjev, odlazi iz reprezentacije: ‘Ne znam hoće li pristati‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/courtois-trazi-godinu-pauze-od-belgije-ultimatum-za-euro-2028-15727004",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/11/k_39267556_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Englezi u drami produžetaka slomili Norvežane i izborili polufinale SP-a Gordi Albion u polufinalu čeka boljeg iz ogleda između Švicarske i Argentine",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/video-englezi-u-drami-produzetaka-slomili-norvezane-i-izborili-polufinale-sp-a-15727048",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/11/k_39274273_640.jpg",
         "w": 640,
@@ -120,43 +192,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘U životu nisam vidio tako jednostrano suđenje. U prvih 90 minuta nisu dobili niti jedan žuti karton...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/argentina-svladala-svicarsku-3-1-nakon-produzetaka-ide-na-englesku-15727114",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/12/k_39276403_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Zvijezda Reala šokirala čitavu naciju! Ne prihvate li zahtjev, odlazi iz reprezentacije: ‘Ne znam hoće li pristati‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/courtois-trazi-godinu-pauze-od-belgije-ultimatum-za-euro-2028-15727004",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/11/k_39267556_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Zvjezdani trojac poput Ronalda, Rivalda i Ronaldinha, ali bez naslova neće biti nikakve rasprave",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/francuski-trolist-mbappe-dembele-olise-rekord-sp-2026-15727101",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/11/k_39270292_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Teška artiljerija Zlatana Ibrahimovića, sve je šokirao svojim izjavama: ‘To je sramota! Treba ga biti sram‘ Šveđanin prozvao Rudija Garciju zbog uvođenja Lammensa umjesto Pendersa nakon ozljede Thibauta Courtoisa",
+        "title": "Teška artiljerija Zlatana Ibrahimovića, sve je šokirao svojim izjavama: ‘To je sramota! Treba ga biti sram‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ibrahimovic-kritizira-garciju-zbog-lammensa-belgija-ispala-od-spanjolske-15727039",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/11/k_39261442_640.jpg",
         "w": 640,
@@ -195,42 +231,6 @@
         "title": "Dinamo ostaje bez još jednog igrača, a evo kad je zakazan ključni sastanak oko Livakovića",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/livakovic-fenerbahce-istanbul-kljucni-razgovori-dinamo-transfer-15727056",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/11/k_39195498_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Što čeka Dalića nakon oproštaja od Vatrenih? Na stolu mu je pravo bogatstvo",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bilic-preuzima-hrvatsku-dalic-na-pragu-uea-uz-milijunsku-ponudu-15727047",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/11/k_39201187_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO Hrvatski dragulj dobio priliku i odmah pokazao što može! Pogledajte prvi gol Jagušića u dresu Panathinaikosa",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/jagusic-prvijenac-panathinaikos-neestrup-grasshoppers-pripreme-kvalifikacije-15727054",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/11/k_39028975_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Legenda najavila novog izbornika pa se svom silom obrušila na Ronalda: ‘Vrijeme je da ode, ovo je već previše‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/shearer-porucio-ronaldu-vrijeme-za-oprostaj-od-portugala-15727034",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/11/k_39243303_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
