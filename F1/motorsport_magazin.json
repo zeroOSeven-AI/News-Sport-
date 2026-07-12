@@ -1,5 +1,17 @@
 [
     {
+        "title": "Bilderserie: Red Bull fährt erstmals mit dem RB17 in Goodwood",
+        "link": "https://www.motorsport-magazin.com/formel1/bilderserie/red-bull-faehrt-newey-hypercar-rb17-erstmals-in-goodwood,23853.html",
+        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1126147.jpg",
+        "w": 1200,
+        "h": 627,
+        "focus_y": 0.35,
+        "source_title1": "MOTORSPORT MAGAZIN",
+        "source_title2": "F1",
+        "source_color": "#FFD300",
+        "flag": "🇩🇪"
+    },
+    {
         "title": "Bilderserie: Lando Norris feiert seine Weltmeisterschaft in Goodwood",
         "link": "https://www.motorsport-magazin.com/formel1/bilderserie/lando-norris-feiert-seine-weltmeisterschaft-in-goodwood-2026,23852.html",
         "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1126116.jpg",
@@ -579,18 +591,6 @@
         "title": "Lewis Hamilton entgeht finalem Silverstone-Fiasko: Keine Strafe nach dem Rennen!",
         "link": "https://www.motorsport-magazin.com/formel1/news-299277-formel-1-lewis-hamilton-entgeht-finaler-strafe-bei-silverstone-fiasko/",
         "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1125684.jpg",
-        "w": 1200,
-        "h": 627,
-        "focus_y": 0.35,
-        "source_title1": "MOTORSPORT MAGAZIN",
-        "source_title2": "F1",
-        "source_color": "#FFD300",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Nach Formel-1-Drama: Mercedes prüft Widerstand gegen Antonelli-Strafe",
-        "link": "https://www.motorsport-magazin.com/formel1/news-299276-nach-formel-1-drama-mercedes-toto-wolff-prueft-widerstand-gegen-antonelli-strafe/",
-        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1125683.jpg",
         "w": 1200,
         "h": 627,
         "focus_y": 0.35,
