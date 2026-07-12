@@ -1,6 +1,30 @@
 [
     {
-        "title": "Nastavak bizarne priče koju su osjetili i Vatreni! Stiglo je novo objašnjenje: ‘Lopta je dirala kabel, ali...‘ Jedna vrsta slijepe točke na stadionu ono je što bi moglo objasniti stvari koje druge teorije ne mogu, ovako nešto ne bi bilo prvi put da se dogodilo",
+        "title": "‘On će biti igrač za prvu momčad Dinama, ja nikad s njim nisam imao problema!‘ Mladi Modri startaju 22. kolovoza protiv BSK-a, bez mogućnosti ulaska ili ispadanja, fokus isključivo na napretku.",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-b-povratak-prva-nl-jerko-leko-razvoj-mladih-cardoso-varela-bsk-15727251",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/12/k_39194209_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Sinner u četiri seta srušio Zvereva u velikom finalu Wimbledona i obranio naslov",
+        "link": "https://sportske.jutarnji.hr/sportske/tenis/grand-slam/sinner-u-cetiri-seta-srusio-zvereva-u-velikom-finalu-wimbledona-i-obranio-naslov-15727254",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/12/k_39278827_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Nastavak bizarne priče koju su osjetili i Vatreni! Stiglo je novo objašnjenje: ‘Lopta je dirala kabel, ali...‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/kontroverza-senzor-u-lopti-kabel-pauk-kamera-norveska-engleska-fifa-var-15727240",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/12/k_39273987_640.jpg",
         "w": 640,
@@ -24,9 +48,33 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Dolazi nova era! Oglasili se iz HNS-a, poznato je kada Slaven Bilić i službeno preuzima klubu Vatrenih",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/slaven-bilic-novi-izbornik-hns-odluka-ponedjeljak-nakon-dalicevog-odlaska-15727253",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/12/k_31694411_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "FOTO: Šuker u Las Vegasu uhvaćen s ‘opasnim likovima‘! Mnogi ne bi prišli blizu, a legenda ih je obojicu zagrlila",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/davor-suker-ufc-329-las-vegas-khabib-islam-makhachev-mcgregor-15727229",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/12/k_34385249_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "UŽIVO: Chelsea dovodi vratara koji je briljirao protiv Vatrenih? Real uskoro odlučuje o budućnosti ponajveće zvijezde",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-chelsea-dovodi-vratara-koji-je-briljirao-protiv-vatrenih-real-uskoro-odlucuje-o-buducnosti-ponajvece-zvijezde-15727162",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/11/k_39077128_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -72,54 +120,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Chelsea dovodi vratara koji je briljirao protiv Vatrenih? Real uskoro odlučuje o budućnosti ponajveće zvijezde",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-chelsea-dovodi-vratara-koji-je-briljirao-protiv-vatrenih-real-uskoro-odlucuje-o-buducnosti-ponajvece-zvijezde-15727162",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/11/k_39077128_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "U odnosima Hajduka i Dinama očito su zapuhali neki novi vjetrovi! Bijeli se vraćaju na Maksimir nakon 13 godina",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajdukovi-juniori-povratak-memorijal-mladena-ramljaka-dinamo-boban-15727222",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/12/k_38739019_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Utučene Norvežane čeka nešto spektakularno, stiže i kralj: ‘Bilo je mnogo suza, teško ih je bilo gledati‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/norveska-miamiju-poraz-2-1-sporni-pogodak-nyland-greska-haaland-sansa-15727216",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/12/k_39274923_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Daliću su svjetsku slavu donijeli baš Bilić boysi! Što on sad ostavlja Biliću?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dalicev-oprostaj-naslijede-vatreni-srebro-bronca-finala-lige-nacija-15727204",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/09/k_39251857_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Yamal poslao poruku Francuzima uoči spektakla, brzo mu je stigao odgovor: ‘Ma neka priča što god hoće‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/spanjolska-francuska-polufinale-yamal-konate-mbappe-merino-att-stadion-15727249",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/12/k_39269378_640.jpg",
@@ -156,7 +156,43 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Vatreni je na Mundijalu bio senzacionalan, ali veliki transfer u ovom bi trenutku bila ogromna pogreška Baturina je krenuo sa teškoćama u prilagodbi Comu i talijanskoj ligi. Mudro vođen sezone je zaključio trijumfalno. Ponude su logične, ali bilo bi nelogično prihvatiti ih jer u Comu ima sve da dalje iskoračuje",
+        "title": "U odnosima Hajduka i Dinama očito su zapuhali neki novi vjetrovi! Bijeli se vraćaju na Maksimir nakon 13 godina Od 2013. nije Hajduk nastupao na Memorijalu, nakon nezadovoljstva odnosima u hrvatskom nogometu, situacijom u Dinamu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajdukovi-juniori-povratak-memorijal-mladena-ramljaka-dinamo-boban-15727222",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/12/k_38739019_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Utučene Norvežane čeka nešto spektakularno, stiže i kralj: ‘Bilo je mnogo suza, teško ih je bilo gledati‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/norveska-miamiju-poraz-2-1-sporni-pogodak-nyland-greska-haaland-sansa-15727216",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/12/k_39274923_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Daliću su svjetsku slavu donijeli baš Bilić boysi! Što on sad ostavlja Biliću?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dalicev-oprostaj-naslijede-vatreni-srebro-bronca-finala-lige-nacija-15727204",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/09/k_39251857_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Vatreni je na Mundijalu bio senzacionalan, ali veliki transfer u ovom bi trenutku bila ogromna pogreška",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/baturina-pod-fabregasom-od-klupe-do-lidera-coma-i-lige-prvaka-15727174",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/11/k_39195754_640.jpg",
         "w": 640,
@@ -195,42 +231,6 @@
         "title": "Cibona završila dva velika posla, no je li klub propustio priliku prečacem stići do NBA Europe?",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-reprezentacija/cibona-vraca-roka-badzima-ambiciozna-sezona-nba-europe-liga-prvaka-15727208",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/12/k_37947747_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Haalandov otac opleo po sucu nakon ispadanja Norveške: ‘Osjećam da su nas pokrali!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/haaland-emotivno-nakon-engleske-norveska-ispala-uz-sudacke-kontroverze-15727165",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/12/k_39274079_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Čovjek jako dobro zna što radi, on je rođen da bude izbornik! Neće zajedništvo kod njega biti ništa manje‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/vukojevic-dalicevo-cudo-biliceva-nova-hrvatska-plan-za-euro-2028-15727134",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/11/k_35626364_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "MUNDOCAST ‘Messi je igrač manje, a Embolo prevarant! Biliću je ovo idealan početak‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/mundocast-polufinala-sp-var-kontroverze-spanjolska-francuska-argentina-engleska-hns-dalic-15727109",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/12/k_39275363_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
