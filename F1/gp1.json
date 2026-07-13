@@ -1,7 +1,21 @@
 {
-  "created_at": "2026-07-13T18:24:02.325545+00:00",
+  "created_at": "2026-07-13T20:03:48.310547+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
+    {
+      "title": "WEC 6 sati São Paula: Prva pobjeda Kevina Magnussena",
+      "link": "https://www.gp1.hr/2026/07/wec-6-sati-sao-paula-prva-pobjeda-kevina-magnussena/",
+      "author": "Igor Vukajlovic",
+      "published_at": "2026-07-13T19:57:32+00:00",
+      "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f1e7-1f1f7.png",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
     {
       "title": "Webber: Priča da Piastri forsira odlazak iz McLarena je besmislena",
       "link": "https://www.gp1.hr/2026/07/webber-prica-da-piastri-forsira-odlazak-iz-mclarena-je-besmislena/",
@@ -120,20 +134,6 @@
       "author": "Igor Šestak",
       "published_at": "2026-07-06T07:07:09+00:00",
       "image_url": "",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "MXGP: Južna Afrika u znaku Lucasa Coenena i Guillema Farresa",
-      "link": "https://www.gp1.hr/2026/07/mxgp-juzna-afrika-u-znaku-lucasa-coenena-i-guillema-farresa/",
-      "author": "GeaGP",
-      "published_at": "2026-07-06T06:34:00+00:00",
-      "image_url": "https://www.gp1.hr/wp-content/uploads/2026/07/MXGP-LUCAS-COENEN-SOUTH-AFRICA-2026.jpg",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
