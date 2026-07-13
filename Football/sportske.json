@@ -12,9 +12,33 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Legendarni Vatreni: ‘Bilić ima bolju situaciju nego prije 20 godina. Evo što mu je velika kvaliteta‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/simic-podrzava-bilica-pravi-izbor-zrelija-hrvatska-od-2006-15727614",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/13/k_24958753_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Bilić nagovijestio kako će igrati njegova Hrvatska: Zvale su me četiri reprezentacije, sudionice SP-a...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/bilic-otkriva-ponude-sa-sp-a-i-plan-za-vatrene-15727601",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/13/k_39278724_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Bivši hrvatski nogometaš bori se za život, i dalje je u komi, obitelj moli za pomoć",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kreso-kovacec-u-induciranoj-komi-pokrenuta-humanitarna-akcija-15727618",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/13/k_39283404_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,30 +120,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "U jednom Bilić sigurno može preskočiti Dalića, a ponovi li svoju priču, Hrvatska će biti svjetski hit",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bilic-preuzima-vatrene-tranzicija-elitni-rivali-euro-2028-15727517",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/12/k_39270386_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Slaven Bilić: ‘Želim da Modrić ostane, a na SP-u smo pokradeni! Ako ja nisam dovoljno desno...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/slaven-bilic-ponovno-izbornik-hrvatske-nakon-daliceva-razdoblja-15727475",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/13/k_39281893_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Mbappe je izrastao u snažnijeg lidera od Messija, ali Španjolci mogu obojici pokvariti planove",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/mbappe-je-izrastao-u-snaznijeg-lidera-od-messija-ali-spanjolci-mogu-obojici-pokvariti-planove-15727579",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/12/k_39276330_640.jpg",
@@ -144,9 +144,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Bivši premijer šokirao Francuze, ali i vlastitu naciju: ‘Iznenađen sam! Još uvijek ima ovakvih?‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/rajoy-izazvao-optuzbe-za-rasizam-zbog-komentara-o-francuskoj-reprezentaciji-15727524",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/13/k_39077321_640.jpg",
+        "title": "Treće uzastopno rušenje Francuza najboljem dribleru Mundijala bio bi najljepši dar za rođendan",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/lamine-yamal-prijetnja-francuskoj-nova-bitka-i-cuvar-u-polufinalu-15727610",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/13/k_39267410_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -156,7 +156,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Ne ide bez drame! Mladi rukometaši režirali novu senzaciju, za pobjedu zabili u zadnjoj sekundi Nakon preokreta i Lasanova pogotka uz zvuk sirene, momčad Denisa Špoljarića uhvatila ključne bodove za prolaz",
+        "title": "U jednom Bilić sigurno može preskočiti Dalića, a ponovi li svoju priču, Hrvatska će biti svjetski hit Pred njim su dueli s elitom, a Hrvatska je u tranziciji te nisu potrebne nerealne usporedbe s Dalićevom erom",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bilic-preuzima-vatrene-tranzicija-elitni-rivali-euro-2028-15727517",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/12/k_39270386_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Slaven Bilić: ‘Želim da Modrić ostane, a na SP-u smo pokradeni! Ako ja nisam dovoljno desno...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/slaven-bilic-ponovno-izbornik-hrvatske-nakon-daliceva-razdoblja-15727475",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/13/k_39281893_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Ne ide bez drame! Mladi rukometaši režirali novu senzaciju, za pobjedu zabili u zadnjoj sekundi",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/hrvatska-juniori-rukomet-pobjeda-island-gol-zadnja-sekunda-ep-15727555",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/13/k_36131761_640.jpg",
         "w": 640,
@@ -204,33 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Najbizarniji oproštaj od igrača u povijesti, klub za kraj objavio snimke njegovih kikseva!?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/amazonas-video-gresaka-leo-coelho-tuzba-raskid-81-milijun-reala-kriza-15727540",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/13/k_39281434_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "‘Jedan igrač Dinama bi izvrsno odgovarao Biliću! Brzo bi se uklopio, a dobit ćemo agresivniju Hrvatsku‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/slaven-bilic-preuzima-hrvatsku-agresivniji-stil-i-nova-imena-15727327",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/13/k_39282003_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Velika promjena, evo gdje gledati europske utakmice Dinama! Donna stiže u stožer Modrih",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-thun-prijenos-rtl-kvalifikacije-lige-prvaka-povratak-orsica-15727461",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/13/k_39253299_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
