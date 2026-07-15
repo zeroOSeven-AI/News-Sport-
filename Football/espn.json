@@ -1,5 +1,29 @@
 [
     {
+        "title": "How Harry Kane became one of England's great captains",
+        "link": "https://www.espn.com/soccer/story/_/id/49360500/how-harry-kane-changed-role-england-captain-world-cup-semifinal-argentina",
+        "image_url": "https://a.espncdn.com/photo/2026/0714/r1689322_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "England vs. Argentina: Dan Burn relishing chance to play in match that inspired love for football",
+        "link": "https://www.espn.com/soccer/story/_/id/49361909/england-vs-argentina-world-cup-2026-dan-burn-relishing-chance-play-match-inspired-love-football",
+        "image_url": "https://a.espncdn.com/photo/2026/0706/r1685517_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
         "title": "Argentina not playing as bad as people say, according to Scaloni",
         "link": "https://www.espn.com/soccer/story/_/id/49363588/argentina-playing-bad-people-say",
         "image_url": "https://a.espncdn.com/photo/2025/1205/r1585095_1296x729_16-9.jpg",
@@ -24,8 +48,8 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "England's Guehi says pressure on Argentina in World Cup semifinal",
-        "link": "https://www.espn.com/soccer/story/_/id/49363259/england-guehi-pressure-argentina-world-cup-semifinal",
+        "title": "England's Marc Guéhi says pressure on Argentina in World Cup semifinal",
+        "link": "https://www.espn.com/soccer/story/_/id/49363259/england-marc-guehi-pressure-argentina-world-cup-semifinal",
         "image_url": "https://a.espncdn.com/photo/2026/0520/r1660867_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
@@ -147,30 +171,6 @@
         "title": "De la Fuente hails 'best team in the world' after Spain sink France",
         "link": "https://www.espn.com/soccer/story/_/id/49362211/de-la-fuente-hails-best-team-world-spain-sink-france-world-cup",
         "image_url": "https://a.espncdn.com/photo/2026/0714/r1689312_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "France-Spain player ratings: Porro, Rodri earn high marks",
-        "link": "https://www.espn.com/soccer/story/_/id/49361775/france-spain-player-ratings-porro-rodri-earn-high-marks-mbappe-fails-make-impact-2026-world-cup",
-        "image_url": "https://a.espncdn.com/photo/2026/0714/r1689292_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "France vs. Spain player ratings as La Roja reach World Cup final after Rodri silences Mbappé and Co.",
-        "link": "https://www.espn.com/soccer/story/_/id/49360792/france-vs-spain-player-ratings-la-roja-reach-world-cup-final-rodri-silences-mbappe-co",
-        "image_url": "https://a.espncdn.com/photo/2026/0714/r1689221_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
