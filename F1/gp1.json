@@ -1,7 +1,21 @@
 {
-  "created_at": "2026-07-16T16:57:06.651657+00:00",
+  "created_at": "2026-07-16T18:06:20.458643+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
+    {
+      "title": "Ferrari je na stazi Spa pobjeđivao 14 puta, Hamilton pet – mogu li ovoga puta zajedno?",
+      "link": "https://www.gp1.hr/2026/07/ferrari-je-na-stazi-spa-pobjedivao-14-puta-hamilton-pet-mogu-li-ovoga-puta-zajedno/",
+      "author": "Igor Šestak",
+      "published_at": "2026-07-16T17:22:31+00:00",
+      "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f44f.png",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
     {
       "title": "Formula Driver na Platku: Talijan Marco Tessari treći put pobjednik",
       "link": "https://www.gp1.hr/2026/07/formula-driver-na-platku-talijan-marco-tessari-treci-put-pobjednik/",
@@ -119,20 +133,6 @@
       "link": "https://www.gp1.hr/2026/07/antonelli-dva-odustajanja-u-tri-utrke-tesko-je-prihvatiti/",
       "author": "Igor Šestak",
       "published_at": "2026-07-08T06:38:09+00:00",
-      "image_url": "",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Verstappen: Veselim se samo odlasku kući i ne razmišljanju o F1",
-      "link": "https://www.gp1.hr/2026/07/verstappen-veselim-se-samo-odlasku-kuci-i-ne-razmisljanju-o-f1/",
-      "author": "Igor Šestak",
-      "published_at": "2026-07-06T12:28:27+00:00",
       "image_url": "",
       "w": 0,
       "h": 0,
