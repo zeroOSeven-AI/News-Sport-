@@ -1,7 +1,21 @@
 {
-  "created_at": "2026-07-16T07:11:06.423863+00:00",
+  "created_at": "2026-07-16T09:50:34.110188+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
+    {
+      "title": "Formula Driver na Platku: Talijan Marco Tessari treći put pobjednik",
+      "link": "https://www.gp1.hr/2026/07/formula-driver-na-platku-talijan-marco-tessari-treci-put-pobjednik/",
+      "author": "GP1_hr",
+      "published_at": "2026-07-15T07:20:27+00:00",
+      "image_url": "https://www.gp1.hr/wp-content/uploads/2026/07/VJEKOSLAV-CICKO-2026-snimio-M.Krpan_.jpg",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
     {
       "title": "WEC 6 sati São Paula: Prva pobjeda Kevina Magnussena",
       "link": "https://www.gp1.hr/2026/07/wec-6-sati-sao-paula-prva-pobjeda-kevina-magnussena/",
@@ -119,20 +133,6 @@
       "link": "https://www.gp1.hr/2026/07/verstappen-veselim-se-samo-odlasku-kuci-i-ne-razmisljanju-o-f1/",
       "author": "Igor Šestak",
       "published_at": "2026-07-06T12:28:27+00:00",
-      "image_url": "",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Leclerc: Prije vikenda mislili smo da ćemo gubiti pola sekunde po krugu, a pobijedili smo",
-      "link": "https://www.gp1.hr/2026/07/leclerc-prije-vikenda-mislili-smo-da-cemo-gubiti-pola-sekunde-po-krugu-a-pobijedili-smo/",
-      "author": "Igor Šestak",
-      "published_at": "2026-07-06T07:07:09+00:00",
       "image_url": "",
       "w": 0,
       "h": 0,
