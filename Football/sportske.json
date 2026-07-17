@@ -1,6 +1,18 @@
 [
     {
-        "title": "Hajduk je preživio, ali alarm već zvoni! Samo jedan igrač bio dobar, protiv Pafosa ovo - ne prolazi Ukupan dojam Hajdukove igre bio je ispod razine koju bi momčad s europskim ambicijama trebala pokazati protiv suparnika poput Žiline",
+        "title": "Hajduk je opet pokazao luzerštinu, ali ovo je korak naprijed. On bi mogao biti dobitak za cijelu sezonu Brzo se prilagodio na novu sredinu, govorom tijela iskazuje liderske osobine i nameće se kao predvodnik mlađim suigračima",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/van-hoorenbeeck-gol-i-liderska-igra-u-zilini-15728739",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/16/k_39301218_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Hajduk je preživio, ali alarm već zvoni! Samo jedan igrač bio dobar, protiv Pafosa ovo - ne prolazi",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-prezivio-zilinu-drama-pred-pafosom-oscilacije-mlade-momcadi-15728717",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/16/k_39301217_640.jpg",
         "w": 640,
@@ -72,9 +84,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Stajao je kao Hitler i huškao ljude da me ubiju! Bili smo zaključani, netko me mogao probosti nožem!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ostalo/stajao-je-kao-hitler-i-huskao-ljude-da-me-ubiju-bili-smo-zakljucani-netko-me-mogao-probosti-nozem-15728724",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/16/k_39301682_640.jpg",
+        "title": "‘Stajao je kao turski Hitler i huškao ljude da me ubiju! Ne možete ni zamisliti kroz što smo prošli!‘",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ostalo/stajao-je-kao-turski-hitler-i-huskao-ljude-da-me-ubiju-ne-mozete-ni-zamisliti-kroz-sto-smo-prosli-15728724",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/16/k_39301622_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -99,18 +111,6 @@
         "title": "Bivša zvijezda Dinama nakon pada Engleske: ‘Slavi se kao da smo prvaci svijeta, još od prošle utakmice‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/luis-ibanez-vjerovao-u-2-1-protiv-engleske-messi-scaloni-tuchel-reakcije-15728688",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/16/k_39296277_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Bilić najavio dosad neviđeno pojačanje u stožeru i odmah rješava (po)najveći problem Vatrenih?!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bilic-specijalist-za-prekide-trendovi-hrvatska-arsenal-jover-15728642",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/15/k_39282089_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -156,7 +156,19 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hajdukov europski ‘krvnik‘ iz prošle sezone velikim povratkom ponovno iznenadio u kvalifikacijama U posljednjih jedanaest godina jednom su bili u grupnoj fazi Lige prvaka, tri puta Europske lige i dva puta Konferencijske lige, nisu ovo očekivali...",
+        "title": "Bilić najavio dosad neviđeno pojačanje u stožeru i odmah rješava (po)najveći problem Vatrenih?! Arsenal ga je ‘uzeo‘ Niki Kovaču, a tko su ti ljudi koje imaju i Portugal, Njemačka, Aston Villa..., kako se to postaje i kolika im je važnost?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bilic-specijalist-za-prekide-trendovi-hrvatska-arsenal-jover-15728642",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/15/k_39282089_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Hajdukov europski ‘krvnik‘ iz prošle sezone velikim povratkom ponovno iznenadio u kvalifikacijama",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-city-sokirao-astanu-4-1-u-produzecima-za-prolaz-15728694",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/16/k_37319472_640.jpg",
         "w": 640,
@@ -183,18 +195,6 @@
         "title": "Zekić otkrio zbog čega je Sarajevo palo na prvoj europskoj prepreci: ‘Možda je sada lakše razumjeti‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/inter-turku-izbacio-sarajevo-kasni-gol-87-minuta-zekic-reakcija-15728704",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/16/k_39260388_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hezonja: ‘Bio sam neprofesionalan, u tom ratu ja sam izgubio! A u reprezentaciji su postojali klanovi...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-reprezentacija/mario-hezonja-iskreno-o-eurobasketu-ozljedi-riju-i-mogucem-povratku-u-nba-15728707",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/16/k_39198246_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
