@@ -1,7 +1,7 @@
 [
     {
-        "title": "UŽIVO Francuska - Engleska: Francuzi kao na odmoru! Rice zabio golčinu, Englezima poništen drugi pogodak Izbornici Thomas Tuchel i Didier Deschamps na teren su izveli niz igrača koji inače stanuju u drugoj postavi",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/uzivo-francuska-engleska-goool-sok-za-francuze-golcina-ricea-nevjerojatan-sastav-u-borbi-za-broncu-15729309",
+        "title": "UŽIVO/VIDEO Francuska - Engleska: GOOOL! Englezi do poluvremena utrpali četiri komada, Mbappe u nastavku ublažio sramotu Tricolora U tijeku je potpuna blamaža na oproštaju velikog Didiera Deschampsa, koji je na poluvremenu napravio četiri promjene",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/uzivo-video-francuska-engleska-goool-englezi-do-poluvremena-utrpali-cetiri-komada-mbappe-u-nastavku-ublazio-sramotu-tricolora-15729309",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/18/k_39310604_640.jpg",
         "w": 640,
         "h": 640,
@@ -48,8 +48,8 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO Francuzi: Talent PSG-a izabrao Dinamo! Pao najveći transfer u povijesti Chelseaja",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-francuzi-talent-psg-a-izabrao-dinamo-pao-najveci-transfer-u-povijesti-chelseaja-15729107",
+        "title": "Francuzi: Talent PSG-a izabrao Dinamo! Pao najveći transfer u povijesti Chelseaja",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/francuzi-talent-psg-a-izabrao-dinamo-pao-najveci-transfer-u-povijesti-chelseaja-15729107",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/17/k_39077128_640.jpg",
         "w": 640,
         "h": 640,
@@ -120,33 +120,33 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "UŽIVO: Kaos u Americi, Španjolcima odgođen trening dan prije finala!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/uzivo-kaos-u-americi-spanjolcima-odgoden-trening-dva-dana-prije-finala-15729124",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/17/k_39308816_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "ANKETA: Španjolska je favorit, a za koga ćete vi navijati u finalu, Messija ili Olma?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/argentina-spanjolska-finale-messi-olmo-obrana-naslova-15729210",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/17/k_39303080_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Mbappe nije zaslužio Zlatnu loptu: Evo tko je sada glavni kandidat za najboljeg igrača Mundijala",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/fifa-nagrade-messi-yamal-argentina-spanjolska-zlatna-lopta-15729240",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/16/k_39301034_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Poznato koliko će Slovenac zaraditi za nastup u finalu Svjetskog prvenstva. Cifra je nevjerojatna",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/slavko-vincic-sudi-finale-spa-argentinu-collina-urucio-dres-visoki-honorari-15729115",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/18/k_39106971_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Roštilji, šetnja po plaži i Maradonina prognoza: ‘Plačljivac‘ je prekrojio nogometnu povijest",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/scaloni-od-privremenog-izbornika-do-tvorca-argentinskog-preporoda-15729231",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/17/k_39121643_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -171,18 +171,6 @@
         "title": "Zlatan Ibrahimović nema dileme: ‘Evo tko će osvojiti SP! Dominirat će terenom‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/ibrahimovic-spanjolska-osvaja-protiv-argentine-owen-terry-navas-messi-15729280",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/18/k_39261442_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "UŽIVO: Kaos u Americi, Španjolcima odgođen trening dan prije finala!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/uzivo-kaos-u-americi-spanjolcima-odgoden-trening-dva-dana-prije-finala-15729124",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/17/k_39308816_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -231,6 +219,18 @@
         "title": "Fantastični Britanac srušio svjetski rekord star gotovo 30 godina!",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/atletika/josh-kerr-srusio-rekord-na-milju-34266-dijamantna-liga-london-15729271",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/18/k_39309064_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Bronca nije primarni fokus, pričaju samo o izborniku: ‘Nitko to ne želi čuti, ali polufinale je uspjeh‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/tuchel-pod-pritiskom-engleska-protiv-francuske-za-trece-mjesto-15728986",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/17/k_39301504_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
