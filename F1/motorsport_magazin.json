@@ -1,8 +1,8 @@
 [
     {
-        "title": "Formel 1, Spa: Hamilton crasht im 3. Training und bangt um Qualifying-Teilnahme",
-        "link": "https://www.motorsport-magazin.com/formel1/news-299450-formel-1-spa-hamilton-crasht-im-3-training-und-bangt-um-qualifying-teilnahme-fp3-ergebnis-bericht/",
-        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1126560.jpg",
+        "title": "Formel 1 2026: Stand Power Units und Motoren",
+        "link": "https://www.motorsport-magazin.com/formel1/news-297562-formel-1-2026-stand-power-units-und-motoren/",
+        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1118564.jpg",
         "w": 1200,
         "h": 627,
         "focus_y": 0.35,
@@ -12,9 +12,21 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Formel 1 Liveticker: Das Qualifying in Spa - Alle F1-News heute aus Belgien",
+        "title": "Formel 1 Liveticker: JETZT das Qualifying in Spa - Alle F1-News heute aus Belgien",
         "link": "https://www.motorsport-magazin.com/formel1/news-299405-formel-1-liveticker-das-qualifying-in-spa-alle-f1-news-heute-belgien/",
         "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1126523.jpg",
+        "w": 1200,
+        "h": 627,
+        "focus_y": 0.35,
+        "source_title1": "MOTORSPORT MAGAZIN",
+        "source_title2": "F1",
+        "source_color": "#FFD300",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Formel 1, Spa: Hamilton crasht im 3. Training und bangt um Qualifying-Teilnahme",
+        "link": "https://www.motorsport-magazin.com/formel1/news-299450-formel-1-spa-hamilton-crasht-im-3-training-und-bangt-um-qualifying-teilnahme-fp3-ergebnis-bericht/",
+        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1126560.jpg",
         "w": 1200,
         "h": 627,
         "focus_y": 0.35,
@@ -267,18 +279,6 @@
         "title": "Ergebnisse: Belgien GP - 1. Training",
         "link": "https://www.motorsport-magazin.com/formel1/ergebnisse/2026/session/belgien-gp-1-training-41487.html",
         "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1126478.jpg",
-        "w": 1200,
-        "h": 627,
-        "focus_y": 0.35,
-        "source_title1": "MOTORSPORT MAGAZIN",
-        "source_title2": "F1",
-        "source_color": "#FFD300",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Formel 1 2026: Stand Power Units und Motoren",
-        "link": "https://www.motorsport-magazin.com/formel1/news-297562-formel-1-2026-stand-power-units-und-motoren/",
-        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1118564.jpg",
         "w": 1200,
         "h": 627,
         "focus_y": 0.35,
