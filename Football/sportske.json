@@ -1,8 +1,8 @@
 [
     {
-        "title": "UŽIVO: Engleska bez Kanea i Bellinghama, Tuchel i Deschamps odabrali nevjerojatne postave! Čini se da je izbornik reprezentacije Tri lava bio u pravu kada je kazao da ‘nitko ne želi igrati ovaj susret‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/uzivo-engleska-bez-kanea-i-bellinghama-tuchel-i-deschamps-odabrali-nevjerojatne-postave-15729309",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/18/k_39296211_640.jpg",
+        "title": "UŽIVO Francuska - Engleska: Francuzi kao na odmoru! Rice zabio golčinu, Englezima poništen drugi pogodak Izbornici Thomas Tuchel i Didier Deschamps na teren su izveli niz igrača koji inače stanuju u drugoj postavi",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/uzivo-francuska-engleska-goool-sok-za-francuze-golcina-ricea-nevjerojatan-sastav-u-borbi-za-broncu-15729309",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/18/k_39310604_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,9 +24,45 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Alen Halilović pred iznenađujućim transferom! Oglasio se Romano, dogovor sve bliže",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/halilovic-transfer-persepolis-besplatno-iran-fortuna-sittard-15729315",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/18/k_32132863_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Englezi u apsolutnoj nevjerici: ‘Što taj čovjek radi, odmah mu dajte otkaz‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/tuchel-kritike-saka-rice-startaju-kane-bellingham-klupa-francuska-15729322",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/18/k_39310406_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "UŽIVO Francuzi: Talent PSG-a izabrao Dinamo! Pao najveći transfer u povijesti Chelseaja",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-francuzi-talent-psg-a-izabrao-dinamo-pao-najveci-transfer-u-povijesti-chelseaja-15729107",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/17/k_39077128_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Legendarni Argentinac malo se zaigrao: ‘On je kao porno glumac, sve ih je** na terenu‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/aguero-brani-messija-nakon-engleske-i-najavljuje-finale-argentina-spanjolska-15729318",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/18/k_39304768_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,7 +120,43 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Mbappe se uoči utakmice emotivno oprostio od legende: ‘Neki te nisu cijenili...‘",
+        "title": "Mbappe nije zaslužio Zlatnu loptu: Evo tko je sada glavni kandidat za najboljeg igrača Mundijala",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/fifa-nagrade-messi-yamal-argentina-spanjolska-zlatna-lopta-15729240",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/16/k_39301034_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Poznato koliko će Slovenac zaraditi za nastup u finalu Svjetskog prvenstva. Cifra je nevjerojatna",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/slavko-vincic-sudi-finale-spa-argentinu-collina-urucio-dres-visoki-honorari-15729115",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/18/k_39106971_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Roštilji, šetnja po plaži i Maradonina prognoza: ‘Plačljivac‘ je prekrojio nogometnu povijest",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/scaloni-od-privremenog-izbornika-do-tvorca-argentinskog-preporoda-15729231",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/17/k_39121643_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Mbappe se uoči utakmice emotivno oprostio od legende: ‘Neki te nisu cijenili...‘ ‘Osjećam se privilegirano što sam mogao biti uz jednu od najvećih legendi naše zemlje‘, poručio je Mbappe u poruci posvećenoj izborniku Francuske Didieru Deschampsu",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/mbappe-oprostaj-deschamps-francuska-bronca-protiv-engleske-15729297",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/18/k_39306667_640.jpg",
         "w": 640,
@@ -120,43 +192,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Poznato koliko će Slovenac zaraditi za nastup u finalu Svjetskog prvenstva. Cifra je nevjerojatna",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/slavko-vincic-sudi-finale-spa-argentinu-collina-urucio-dres-visoki-honorari-15729115",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/18/k_39106971_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Roštilji, šetnja po plaži i Maradonina prognoza: ‘Plačljivac‘ je prekrojio nogometnu povijest",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/scaloni-od-privremenog-izbornika-do-tvorca-argentinskog-preporoda-15729231",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/17/k_39121643_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Zvuči bogohulno, ali nikada ne bih napravio to što je učinio Deschamps! Ovo će ga pratiti do kraja života",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/komentator-sp2026/deschamps-tuchel-analiza-taktike-spanjolska-argentina-polufinale-15729099",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/17/k_39290622_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "FOTO Otkriveno tko je uništavao grafite Torcide diljem Dalmacije! Krivci su se sami ‘pohvalili‘ ‘Prijatelj našeg neprijatelja je naš neprijatelj‘, napisali su navijači poljskog kluba na društvenim mrežama",
+        "title": "FOTO Otkriveno tko je uništavao grafite Torcide diljem Dalmacije! Krivci su se sami ‘pohvalili‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/wisla-prefarbala-torcidine-grafite-u-dalmaciji-navijacko-rivalstvo-15729263",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/18/k_39309238_640.jpg",
         "w": 640,
@@ -180,18 +216,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Englezi ne prestaju ‘plakati‘: ‘Smiješno i besmisleno, ukinite utakmicu i pošaljite igrače kući!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/shearer-ukidanje-utakmice-za-trece-mjesto-fifa-miami-vrucina-engleska-francuska-15729272",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/18/k_39295760_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Bolna istina o prijelaznom roku HNL-a",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl-minimalna-potrosnja-dva-placena-transfera-rijeka-osijek-balelo-cubelic-15729254",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/18/k_38788623_640.jpg",
@@ -204,33 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Mbappe nije zaslužio Zlatnu loptu: Evo tko je sada glavni kandidat za najboljeg igrača Mundijala",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/fifa-nagrade-messi-yamal-argentina-spanjolska-zlatna-lopta-15729240",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/16/k_39301034_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Fantastični Britanac srušio svjetski rekord star gotovo 30 godina!",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/atletika/josh-kerr-srusio-rekord-na-milju-34266-dijamantna-liga-london-15729271",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/18/k_39309064_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Ni Barca, ni PSG, ni Bayern. Ovaj klub imat će daleko najviše igrača u finalu, njih čak deset",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/atletico-deset-igraca-finale-spanjolska-argentina-simeone-propustene-pripreme-15729188",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/18/k_39178036_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
