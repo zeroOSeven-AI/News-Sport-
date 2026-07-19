@@ -1,8 +1,8 @@
 [
     {
-        "title": "UŽIVO Španjolska - Argentina: Vinčić isključio Enza Fernandeza! Stanka na poluvremenu trajala je deset minuta duže od predviđene, koja je ionako izlazila okvira \"standarnog\"",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/uzivo-spanjolska-argentina-furija-sve-jace-pritisce-messiju-i-drustvu-prijeti-povijesna-sramota-15729483",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/19/k_39315029_640.jpg",
+        "title": "UŽIVO: Španjolska osvojila Svjetsko prvenstvo! Furija je drugi put u povijesti na vrhu svijeta. Potpuno zasluženo",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/uzivo-spanjolska-argentina-goooool-ferran-torres-u-106-minuti-dovodi-furiju-u-vodstvo-15729483",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/19/k_39316205_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,9 +36,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Ne samo da je lagao, ‘alpinist‘ Infantino svjesno je prekršio propis! Evo što stoji u pravilima igre",
+        "title": "Ne samo da je lagao, ‘alpinist‘ Infantino svjesno je izigrao propis! Evo što stoji u pravilima igre",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/fifa-produljila-poluvrijeme-prekrsila-pravila-show-27-minuta-15729556",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/19/k_39313500_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Argentinci, pa kako ste mislili osvojiti naslov prvaka? Ovo se nije dogodilo nikada u povijesti",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/finale-sp-argentina-bez-udarca-spanjolska-rekordno-jalovo-15729570",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/19/k_39316185_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -72,6 +84,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "‘Najdraži dio showa bio mi je kad je završio. Volim ih sve, ali ovo je s*anje!‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/poluvrijeme-finala-sp-trajalo-27-minuta-rooney-kritizira-show-15729558",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/19/k_39315332_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Dinamo i Hajduk mogu i na Crvenu zvezdu i Partizan! Plavi su u Ligi prvaka nositelji, u Europskoj ligi nisu!?",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/zdrijeb-nyon-hrvatski-klubovi-dinamo-hajduk-rijeka-varazdin-trece-pretkolo-15729525",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/19/k_39306163_640.jpg",
@@ -96,18 +120,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dinamo neće platiti milijun eura, ali hit iz prošle sezone stiže na Maksimir! ‘To mu je kruna karijere‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-prevljak-ponuda-500-tisuca-istra-trazi-milijun-transfer-pregovori-15729460",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/18/k_38374695_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Detalj sa SP-a rasplamsao špekulacije: ‘Glasine o sukobu zvijezda Reala sve su glasnije‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/bellingham-mbappe-bez-pozdrava-nakon-6-4-mourinho-pred-izazovom-u-realu-15729496",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/19/k_39311997_640.jpg",
@@ -120,9 +132,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Apsolutna kontrola protiv savršenog kaosa u finalu: Je li jača najbolja obrana ili najbolji napad na Mundijalu?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/spanjolska-argentina-obrana-protiv-napada-za-svjetsku-krunu-15729510",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/18/k_39307961_640.jpg",
+        "title": "Stigao je kraj čudesne priče, odlazi najuspješniji izbornik u povijesti! Pred Zidaneom je sada ogroman izazov",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/deschamps-odlazi-zidane-preuzima-francusku-nakon-4-6-15729544",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/19/k_39301059_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -144,21 +156,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Nogomet je tiho prodan bogatima, evo koliko su novca svojim klubovima donijeli hrvatski igrači",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/finale-sp-2026-nogomet-prodaja-bogatima-milijarde-isplate-15729512",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/18/k_39195766_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Stigao je kraj čudesne priče, odlazi najuspješniji izbornik u povijesti! Pred Zidaneom je sada ogroman izazov Nakon 14 godina vladavine Didiera Deschampsa, pet godina od odlaska iz Real Madrida na klupu se vraća Zinedine Zidane. Eru će otvoriti na jesen u Ligi nacija protiv Turske, Belgije i Italije",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/deschamps-odlazi-zidane-preuzima-francusku-nakon-4-6-15729544",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/19/k_39301059_640.jpg",
+        "title": "Dinamo neće platiti milijun eura, ali hit iz prošle sezone stiže na Maksimir! ‘To mu je kruna karijere‘ ‘Ako ne sada, uzeti ćemo ga u zimskom prijelaznom roku, mi smo se s njim, odnosno njegovim agentima dogovorili‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-prevljak-ponuda-500-tisuca-istra-trazi-milijun-transfer-pregovori-15729460",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/18/k_38374695_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,8 +192,8 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Garcia na Poljud dovodi bivšeg igrača Istre? Fruk na odlasku iz Rijeke",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-hajduk-pred-realizacijom-transfera-svedanina-vraca-u-hrvatsku-premierligasi-naciljali-fruka-15729356",
+        "title": "Još jedan engleski velikan bi Baturinu, Garcia na Poljud dovodi bivšeg igrača Istre?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/jos-jedan-engleski-velikan-bi-baturinu-garcia-na-poljud-dovodi-bivseg-igraca-istre-15729356",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/18/k_39077128_640.jpg",
         "w": 640,
         "h": 640,
