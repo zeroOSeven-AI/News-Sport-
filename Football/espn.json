@@ -1,8 +1,20 @@
 [
     {
-        "title": "World Cup final LIVE: Spain, Argentina face off in New Jersey",
+        "title": "World Cup final LIVE: Spain lead 10-man Argentina in New Jersey",
         "link": "https://www.espn.com/soccer/story/_/id/49397462/world-cup-daily-live-final-countdown-spain-argentina-get-ready-take-new-york-messi-yamal",
         "image_url": "https://a.espncdn.com/photo/2026/0719/r1691404_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "World Cup final halftime show: Rating every performer as Madonna, BTS, Justin Bieber and Shakira star",
+        "link": "https://www.espn.com/soccer/story/_/id/49402540/world-cup-final-half-show-2026-rating-every-performer-madonna-bts-justin-bieber-shakira-headline-argentina-spain",
+        "image_url": "https://a.espncdn.com/photo/2026/0719/r1691427_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -36,7 +48,7 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Argentina's Lisandro Martínez forced off injured in World Cup final vs. Spain",
+        "title": "Argentina lose Martínez, Romero to injury in World Cup final vs. Spain",
         "link": "https://www.espn.com/soccer/story/_/id/49402754/argentina-lisandro-martinez-forced-injured-world-cup-final-vs-spain",
         "image_url": "https://a.espncdn.com/photo/2026/0719/r1691390_1296x729_16-9.jpg",
         "w": 1296,
@@ -159,18 +171,6 @@
         "title": "England should sack Thomas Tuchel after World Cup third place - Danny Murphy",
         "link": "https://www.espn.com/soccer/story/_/id/49398261/danny-murphy-england-pundits-thomas-tuchel-sacked-fifa-world-cup-third-place",
         "image_url": "https://a.espncdn.com/photo/2026/0719/r1691172_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Goalkeeper Radek Vitek ready to leave Man United in search of No. 1 role",
-        "link": "https://www.espn.com/soccer/story/_/id/49397847/radek-vitek-manchester-united-leave-game-preseason-wrexham-starter",
-        "image_url": "https://a.espncdn.com/photo/2026/0719/r1691162_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
