@@ -1,5 +1,17 @@
 [
     {
+        "title": "What time is the World Cup final? July 19 soccer schedule",
+        "link": "https://www.espn.com/soccer/story/_/id/49398680/what-world-cup-final-july-19-soccer-schedule",
+        "image_url": "https://a.espncdn.com/photo/2026/0609/r1670191_608x342_16-9.jpg",
+        "w": 608,
+        "h": 342,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
         "title": "World Cup Daily live: Final countdown as Spain-Argentina get ready to take New York",
         "link": "https://www.espn.com/soccer/story/_/id/49397462/world-cup-daily-live-final-countdown-spain-argentina-get-ready-take-new-york-messi-yamal",
         "image_url": "https://a.espncdn.com/photo/2026/0719/r1691151_1296x729_16-9.jpg",
@@ -162,18 +174,6 @@
         "w": 608,
         "h": 342,
         "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Gotham FC HC Juan Carlos Amorós departs for 5-week paternity leave",
-        "link": "https://www.espn.com/soccer/story/_/id/49396057/gotham-fc-coach-juan-carlos-amoros-departs-5-week-paternity-leave",
-        "image_url": "https://a.espncdn.com/photo/2026/0719/r1691110_600x400_3-2.jpg",
-        "w": 600,
-        "h": 400,
-        "focus_y": 0.5,
         "source_title1": "ESPN",
         "source_title2": "FOOTBALL",
         "source_color": "#ff0021",
