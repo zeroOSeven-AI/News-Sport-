@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-07-20T05:24:05.900487+00:00",
+  "created_at": "2026-07-20T08:30:20.504039+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
     {
@@ -8,6 +8,20 @@
       "author": "Igor Šestak",
       "published_at": "2026-07-19T14:31:31+00:00",
       "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f4aa.png",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
+    {
+      "title": "Vasseur i Hamilton: Bio je to trkaći incident",
+      "link": "https://www.gp1.hr/2026/07/vasseur-i-hamilton-bio-je-to-trkaci-incident/",
+      "author": "Igor Šestak",
+      "published_at": "2026-07-20T06:42:54+00:00",
+      "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f440.png",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
@@ -120,20 +134,6 @@
       "author": "GP1_hr",
       "published_at": "2026-07-17T12:06:54+00:00",
       "image_url": "",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Ferrari je na stazi Spa pobjeđivao 14 puta, Hamilton pet – mogu li ovoga puta zajedno?",
-      "link": "https://www.gp1.hr/2026/07/ferrari-je-na-stazi-spa-pobjedivao-14-puta-hamilton-pet-mogu-li-ovoga-puta-zajedno/",
-      "author": "Igor Šestak",
-      "published_at": "2026-07-16T17:22:31+00:00",
-      "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f44f.png",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
