@@ -1,5 +1,17 @@
 [
     {
+        "title": "Sources: Messi, De Paul on hiatus for next 2 Miami games",
+        "link": "https://www.espn.com/soccer/story/_/id/49410927/messi-de-paul-hiatus-next-2-miami-games",
+        "image_url": "https://a.espncdn.com/photo/2026/0719/r1691309_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
         "title": "Spain celebrate World Cup triumph with open-top bus parade in Madrid",
         "link": "https://www.espn.com/soccer/story/_/id/49411172/spain-celebrate-world-cup-triumph-open-top-bus-parade-madrid",
         "image_url": "https://a.espncdn.com/photo/2026/0720/r1691891_1296x729_16-9.jpg",
@@ -12,8 +24,8 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "FIFA to investigate violent clash beween Spain and Argentina after World Cup final",
-        "link": "https://www.espn.com/soccer/story/_/id/49412098/fifa-investigate-violent-clash-beween-spain-argentina-world-cup-final",
+        "title": "FIFA to investigate violent clash between Spain and Argentina after World Cup final",
+        "link": "https://www.espn.com/soccer/story/_/id/49412098/fifa-investigate-violent-clash-spain-argentina-world-cup-final",
         "image_url": "https://a.espncdn.com/photo/2026/0720/r1691847_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
@@ -159,18 +171,6 @@
         "title": "Not even Messi's magic could will Argentina to back-to-back World Cups",
         "link": "https://www.espn.com/soccer/story/_/id/49409980/not-even-lionel-messi-magic-argentina-back-back-fifa-world-cup",
         "image_url": "https://a.espncdn.com/photo/2026/0720/r1691746_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Spain open as betting favorite to repeat at 2030 World Cup",
-        "link": "https://www.espn.com/soccer/story/_/id/49410201/spain-open-betting-favorite-repeat-2030-world-cup",
-        "image_url": "https://a.espncdn.com/photo/2026/0720/r1691755_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
