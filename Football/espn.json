@@ -1,5 +1,17 @@
 [
     {
+        "title": "World Cup final peaks at 60M viewers in North America",
+        "link": "https://www.espn.com/soccer/story/_/id/49420870/world-cup-final-peaks-60m-viewers-north-america",
+        "image_url": "https://a.espncdn.com/photo/2026/0721/r1692263_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
         "title": "Hugo Ekitike, Conor Bradley 'way off' from Liverpool return",
         "link": "https://www.espn.com/soccer/story/_/id/49420447/hugo-ekitike-conor-bradley-way-liverpool-return",
         "image_url": "https://a.espncdn.com/photo/2026/0129/r1607270_1296x729_16-9.jpg",
@@ -159,18 +171,6 @@
         "title": "ESPN's pick of preseason friendlies -- when are the biggest ties of the summer?",
         "link": "https://www.espn.com/soccer/story/_/id/49417788/espn-pick-preseason-friendlies-biggest-ties-summer-liverpool-chelsea-manchester-united-manchester-city-arseanal-tottenham",
         "image_url": "https://a.espncdn.com/photo/2026/0619/r1675965_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "CSKA Sofia fined for fans' Nazi salutes at Europa League game",
-        "link": "https://www.espn.com/soccer/story/_/id/49417608/cska-sofia-fined-fans-nazi-salutes-europa-league-game",
-        "image_url": "https://a.espncdn.com/photo/2025/0519/r1495382_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
