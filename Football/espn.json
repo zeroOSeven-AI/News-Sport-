@@ -1,5 +1,29 @@
 [
     {
+        "title": "World Cup betting in U.S. equivalent of '10 Super Bowls'",
+        "link": "https://www.espn.com/soccer/story/_/id/49426841/world-cup-betting-us-equivalent-10-super-bowls",
+        "image_url": "https://a.espncdn.com/photo/2026/0720/r1691652_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Wrexham Women secure historic win in Champions League debut",
+        "link": "https://www.espn.com/soccer/story/_/id/49426891/wrexham-women-secure-historic-win-champions-league-debut",
+        "image_url": "https://a.espncdn.com/photo/2026/0722/r1692537_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
         "title": "Arsenal's William Saliba to miss extended period with back injury, avoids surgery",
         "link": "https://www.espn.com/soccer/story/_/id/49426845/arsenal-william-saliba-miss-extended-period-back-injury-avoids-surgery",
         "image_url": "https://a.espncdn.com/photo/2026/0630/r1682289_1296x729_16-9.jpg",
@@ -147,30 +171,6 @@
         "title": "Barcelona reach agreement with Club Brugge for Jesse Bisiwu, 18 - sources",
         "link": "https://www.espn.com/soccer/story/_/id/49423842/barcelona-reach-agreement-club-brugge-belgian-winger-jesse-bisiwu",
         "image_url": "https://a.espncdn.com/photo/2026/0722/r1692350_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "The players who played no minutes at the World Cup -- who were the unlucky few?",
-        "link": "https://www.espn.com/soccer/story/_/id/49416547/the-players-played-no-minutes-world-cup-were-unlucky-ngolo-kante-kobbie-mainoo-david-raya-victor-munoz",
-        "image_url": "https://a.espncdn.com/photo/2026/0204/r1610211_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Southampton manager Tonda Eckert charged by FA over 'Spygate' scandal",
-        "link": "https://www.espn.com/soccer/story/_/id/49423434/southampton-manager-tonda-eckert-charged-fa-spygate-scandal",
-        "image_url": "https://a.espncdn.com/photo/2026/0602/r1667045_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
