@@ -1,7 +1,21 @@
 {
-  "created_at": "2026-07-23T20:04:15.919530+00:00",
+  "created_at": "2026-07-23T21:50:39.012558+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
+    {
+      "title": "Norris: Ove su nadogradnje najveće ove godine, ali ostajem strpljiv",
+      "link": "https://www.gp1.hr/2026/07/norris-ove-su-nadogradnje-najvece-ove-godine-ali-ostajem-strpljiv/",
+      "author": "GP1_hr",
+      "published_at": "2026-07-23T20:24:28+00:00",
+      "image_url": "",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
     {
       "title": "Novi Suzuki GSX-R1000R i SV-7GX stižu u Novema Nova",
       "link": "https://www.gp1.hr/2026/07/novi-suzuki-gsx-r1000r-i-sv-7gx-stizu-u-novema-nova/",
@@ -120,20 +134,6 @@
       "author": "Igor Vukajlovic",
       "published_at": "2026-07-18T11:35:25+00:00",
       "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f60d.png",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Antonelliju pripao drugi trening u Belgiji, Gasly izazvao crvenu zastavu",
-      "link": "https://www.gp1.hr/2026/07/antonelliju-pripao-drugi-trening-u-belgiji-gasly-izazvao-crvenu-zastavu/",
-      "author": "Igor Šestak",
-      "published_at": "2026-07-17T16:07:44+00:00",
-      "image_url": "https://www.gp1.hr/wp-content/uploads/2026/07/HNcRjWeWEAAHnyH.jpeg",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
