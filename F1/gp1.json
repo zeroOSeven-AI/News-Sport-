@@ -1,7 +1,21 @@
 {
-  "created_at": "2026-07-24T14:29:16.075607+00:00",
+  "created_at": "2026-07-24T18:07:49.719494+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
+    {
+      "title": "Lewis Hamilton najbrži na drugom treningu za VN Mađarske",
+      "link": "https://www.gp1.hr/2026/07/lewis-hamilton-najbrzi-na-drugom-treningu-za-vn-madarske/",
+      "author": "Tomislav Radić",
+      "published_at": "2026-07-24T16:05:49+00:00",
+      "image_url": "https://www.gp1.hr/wp-content/uploads/2026/07/hungaroring-fp2-poredak-2026.jpg",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
     {
       "title": "Leclerc najbrži na otvaranju vikenda u Mađarskoj",
       "link": "https://www.gp1.hr/2026/07/leclerc-najbrzi-na-otvaranju-vikenda-u-madarskoj/",
@@ -120,20 +134,6 @@
       "author": "Igor Šestak",
       "published_at": "2026-07-19T14:31:31+00:00",
       "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f4aa.png",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Sainz: Ova se pravila nikad nisu trebala dogoditi",
-      "link": "https://www.gp1.hr/2026/07/sainz-ova-se-pravila-nikad-nisu-trebala-dogoditi/",
-      "author": "Igor Šestak",
-      "published_at": "2026-07-19T07:19:16+00:00",
-      "image_url": "",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
