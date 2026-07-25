@@ -1,7 +1,21 @@
 {
-  "created_at": "2026-07-25T14:23:14.915217+00:00",
+  "created_at": "2026-07-25T15:51:45.947433+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
+    {
+      "title": "Landu Norrisu prva startna pozicija u Mađarskoj!",
+      "link": "https://www.gp1.hr/2026/07/landu-norrisu-prva-startna-pozicija-u-madarskoj/",
+      "author": "Igor Vukajlovic",
+      "published_at": "2026-07-25T15:08:01+00:00",
+      "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f7e2.png",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
     {
       "title": "Norris najbrži uoči kvalifikacija u Mađarskoj!",
       "link": "https://www.gp1.hr/2026/07/norris-najbrzi-uoci-kvalifikacija-u-madarskoj-2/",
@@ -120,20 +134,6 @@
       "author": "GP1_hr",
       "published_at": "2026-07-21T12:01:02+00:00",
       "image_url": "https://www.gp1.hr/wp-content/uploads/2026/07/SV7Suzuki.jpg",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Antonelli: Važno je iskoristiti svaku priliku",
-      "link": "https://www.gp1.hr/2026/07/antonelli-vazno-je-iskoristiti-svaku-priliku/",
-      "author": "Igor Šestak",
-      "published_at": "2026-07-21T06:24:56+00:00",
-      "image_url": "",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
