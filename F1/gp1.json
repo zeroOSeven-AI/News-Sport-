@@ -1,7 +1,21 @@
 {
-  "created_at": "2026-07-25T17:44:51.245553+00:00",
+  "created_at": "2026-07-25T18:43:43.804161+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
+    {
+      "title": "Kimi Antonelli kažnjen s tri mjesta kazne na startu VN Mađarske!",
+      "link": "https://www.gp1.hr/2026/07/kimi-antonelli-kaznjen-s-tri-mjesta-kazne-za-vn-madarske/",
+      "author": "Igor Vukajlovic",
+      "published_at": "2026-07-25T18:32:45+00:00",
+      "image_url": "",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
     {
       "title": "Lewis Hamilton kažnjen s tri mjesta kazne na gridu za VN Mađarske!",
       "link": "https://www.gp1.hr/2026/07/lewis-hamilton-kaznjen-s-tri-mjesta-kazne-na-gridu-za-vn-madarske/",
@@ -119,20 +133,6 @@
       "link": "https://www.gp1.hr/2026/07/russell-sto-te-ne-ubije-ojaca-te/",
       "author": "GP1_hr",
       "published_at": "2026-07-24T05:28:37+00:00",
-      "image_url": "",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Norris: Ove su nadogradnje najveće ove godine, ali ostajem strpljiv",
-      "link": "https://www.gp1.hr/2026/07/norris-ove-su-nadogradnje-najvece-ove-godine-ali-ostajem-strpljiv/",
-      "author": "GP1_hr",
-      "published_at": "2026-07-23T20:24:28+00:00",
       "image_url": "",
       "w": 0,
       "h": 0,
