@@ -1,6 +1,30 @@
 [
     {
-        "title": "Albanski teškaš šokirao svijet i dva puta rušio Joshuu, a onda je proradila šampionska klasa! ‘AJ‘ je preživio dva nokdauna u prvoj rundi pa razornom desnicom nokautirao hrabrog Kristiana Prengu",
+        "title": "‘Garcia zaslužuje velike čestitke. Da pitaš deset trenera, svi bi rekli isto, a on radi drugačije‘ Hajduk je protiv Pafosa odigrao jednu od najboljih utakmica u Europi te s optimizmom ide na uzvrat na Cipar",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/janko-jankovic-hajduk-dominacija-protiv-pafosa-odluka-na-cipru-15731423",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/24/k_39333768_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Skandal iza kulisa, ‘ljudi iz sjene‘ vuku konce i slažu popis reprezentacije: ‘On mora biti tu!‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/sponzori-traze-jamesa-rodrigueza-za-rujanske-utakmice-kolumbije-u-sad-u-15731410",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_39345286_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Albanski teškaš šokirao svijet i dva puta rušio Joshuu, a onda je proradila šampionska klasa!",
         "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/albanski-teskas-sokirao-svijet-i-dva-puta-rusio-joshuu-a-onda-je-proradila-sampionska-klasa-15731367",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/25/k_39343636_640.jpg",
         "w": 640,
@@ -12,9 +36,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hajdukov talent po afirmaciju stigao u Podravinu: ‘Uzbuđenje je veliko, to je cilj svakom mladom igraču‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/lovre-loncar-potpisao-slaven-belupo-hajduk-uskok-10-golova-15731382",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/25/k_39340772_640.webp",
+        "title": "VIDEO Strašne scene, nakon pada ostao nepomično ležati, s terena ga odvezla hitna. Sve gledala legenda",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/inter-miami-pobijedio-montreal-berterame-tesko-ozlijeden-suarez-penal-sesta-pobjeda-15731404",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_39345269_640.png",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,9 +60,33 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Messi ‘uhvaćen‘ prvi puta nakon poraza u finalu, pogledajte koga je došao podržati",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/messi-u-arroyo-secu-podrzao-leones-fc-prvi-put-nakon-sp-2026-15731383",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_39345127_640.png",
+        "title": "VIDEO Boksački velikan vratio se nakon duge pauze, a zatim se i umirovio: ‘Vrijeme je za novi život‘",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/video-boksacki-velikan-vratio-se-nakon-duge-pauze-a-zatim-se-i-umirovio-vrijeme-je-za-novi-zivot-15731417",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_39345341_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Tko je zabio Dinamu, a tko Pafosu? Vrijeme je za povratak u normalu nakon mundijalskih napora",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/kviz/tko-je-zabio-dinamu-a-tko-pafosu-vrijeme-je-za-povratak-u-normalu-nakon-mundijalskih-napora-15731369",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/25/k_38806688_640.gif",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Drama na početku, brutalan nokaut na kraju! Pogledajte sažetke Joshuinog povratka",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/video-drama-na-pocetku-brutalan-nokaut-na-kraju-pogledajte-sazetke-joshuinog-povratka-15731384",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_39345191_640.png",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -60,8 +108,8 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Srebrni Vatreni ima novi klub? Arsenal želi Viniciusa, Real blizu novog pojačanja",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/srebrni-vatreni-ima-novi-klub-arsenal-zeli-viniciusa-real-blizu-novog-pojacanja-15731361",
+        "title": "UŽIVO: Galatasaray naciljao Hrvata, srebrni Vatreni ima novi klub. Propada senzacionalan transfer u SHNL",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/uzivo-srebrni-vatreni-ima-novi-klub-hrvat-spas-karijere-trazi-u-turskoj-propada-spektakularan-transfer-u-shnl-15731361",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/25/k_39077128_640.jpg",
         "w": 640,
         "h": 640,
@@ -72,9 +120,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Thun preokretom slavio na otvaranju prvenstva i poslao upozorenje Dinamu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/thun-3-1-luzern-preokret-najava-uzvrata-dinamo-maksimir-15731359",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/25/k_39343069_640.jpg",
+        "title": "Hajdukov talent po afirmaciju stigao u Podravinu: ‘Uzbuđenje je veliko, to je cilj svakom mladom igraču‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/lovre-loncar-potpisao-slaven-belupo-hajduk-uskok-10-golova-15731382",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/25/k_39340772_640.webp",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,9 +132,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Bivši HNL-ovac (38) poginuo u prometnoj nesreći",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kalilou-traore-poginuo-prometna-nesreca-bivsi-igrac-istre-1961-15731308",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/25/k_39341749_640.jpg",
+        "title": "Evo kakve šanse kladionice daju hrvatskim klubovima za uzvrate u Europi",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sva-cetiri-hrvatska-kluba-favoriti-kladionica-za-prolaz-u-trece-pretkolo-15731393",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/25/k_39333446_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,9 +144,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Realov transfer od 120 milijuna eura propada zbog ‘grijeha‘ iz prošlosti?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/real-madrid-blizu-yana-diomandea-stare-kritike-sudenja-ponovno-isplivale-15731353",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/25/k_38192453_640.jpg",
+        "title": "VIDEO Joshua jedva suspregnuo suze nakon meča: ‘Moja braća, ne želim govoriti o tome‘",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/video-joshua-jedva-suspregnuo-suze-nakon-meca-moja-braca-ne-zelim-govoriti-o-tome-15731402",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_39345225_640.png",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -108,7 +156,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Otišao je iz HNL-a za tri milijuna eura, sad bi se mogao vratiti. I preokrenuti karijeru...",
+        "title": "Otišao je iz HNL-a za tri milijuna eura, sad bi se mogao vratiti. I preokrenuti karijeru... Posudba s mogućnošću otkupa djeluje kao gotovo idealan posao, pod uvjetom da otkup bude realan, a ne samo broj koji će dobro izgledati u objavi",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/rijeka-posudba-marina-soticeka-pravo-krilo-bazel-rujevica-15731289",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/25/k_36690056_640.jpg",
         "w": 640,
@@ -156,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Samo je jedan razlog zašto je LeBron izabrao Philadelphiju. Ključni trenutak dogodio se prije tri tjedna Embiid, Brown i Maxey jako su aktivno sudjelovali u nagovaranju Jamesa da dođe u Philadelphiju. Priključio bi im se i Edgecombe, ali on je još klinac",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/lebron-james-philadelphia-76ers-supertim-embiid-brown-maxey-edgecombe-naslov-15731314",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/25/k_39340490_640.jpg",
+        "title": "‘Dinamo će proći dalje, siguran sam, a najbolji će biti točno pred ulazak u kraljevsku klasu!‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-thun-abramovic-maksimir-uzvrat-prolaz-liga-prvaka-15731325",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/23/k_39253198_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -168,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Na vidiku nova nogometna zvijezda! 16-godišnji brat najboljeg igrača Lige prvaka oduševio u europskom debiju",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/tornike-kvaratskhelia-debi-dinamo-tbilisi-mladi-brat-kvaradona-15731280",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/25/k_39341116_640.jpg",
+        "title": "Fenerbahçe se oglasio o Dominiku Livakoviću",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/fenerbahce-demantira-ponude-za-dominika-livakovica-dinamo-ceka-15731294",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/25/k_39226332_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,57 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Norris prekinuo vladavinu Mercedesa",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/automoto/formula1/norris-prekinuo-vladavinu-mercedesa-15731321",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/25/k_39341593_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Mladi hrvatski košarkaši prebacili ‘stotku‘ i pregazili Norvežane s +47",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-reprezentacija/hrvatska-u18-norveska-107-60-eurobasket-b-rijeka-15731297",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/25/k_39341405_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Bayern izgubio protiv trećeligaša, Kompany dao priliku četvorici Hrvata",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bayern-poraz-wiesbaden-mladi-hrvati-kompany-pripreme-15731309",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/25/k_38901250_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hrvatski napadač nakon SP-a radi veliki transfer? Mogao bi završiti na neočekivanoj lokaciji",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/tigres-zeli-petara-musu-top-strijelac-mls-a-na-radaru-15731256",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/25/k_39125456_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Nogometna revolucija: Talijanski prvoligaš zabranio udarce glavom!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/como-zabranjuje-udarce-glavom-djeci-postupno-uvodi-tehniku-15731283",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/25/k_32904955_640.jpg",
+        "title": "Preokret u slučaju stravičnog ubojstva sportskog novinara. Muškarac otkrio zašto ga je zapalio",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/uhicen-osumnjiceni-za-ubojstvo-novinara-luigi-esposito-u-eboliju-15731296",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/25/k_39341529_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
