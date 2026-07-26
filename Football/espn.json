@@ -1,5 +1,29 @@
 [
     {
+        "title": "Lionel Messi escapes another suspension for skipping MLS All-Star Game",
+        "link": "https://www.espn.com/soccer/story/_/id/49455683/lionel-messi-skips-mls-all-star-game-escapes-another-suspension",
+        "image_url": "https://a.espncdn.com/photo/2026/0726/r1693944_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Liverpool's Federico Chiesa eager for 'fresh start' under Andoni Iraola",
+        "link": "https://www.espn.com/soccer/story/_/id/49455051/liverpool-federico-chiesa-eager-fresh-start-andoni-iraola",
+        "image_url": "https://a.espncdn.com/photo/2026/0726/r1693915_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
         "title": "Tottenham ease into preseason tour with victory over Auckland FC",
         "link": "https://www.espn.com/soccer/story/_/id/49453768/tottenham-hotspur-preseason-friendlies-premier-league-auckland-fc-football",
         "image_url": "https://a.espncdn.com/photo/2026/0726/r1693869_1296x729_16-9.jpg",
@@ -149,30 +173,6 @@
         "image_url": "https://a.espncdn.com/media/motion/wsc/2026/0726/cd8542f2-ad51-4d90-9571-2b33fdd9fbd1/cd8542f2-ad51-4d90-9571-2b33fdd9fbd1.jpg",
         "w": 1280,
         "h": 720,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Gavin Lee warns Singapore not to underestimate Timor-Leste in quest for second win at ASEAN Championship",
-        "link": "https://www.espn.com/soccer/story/_/id/49453446/gavin-lee-warns-singapore-not-underestimate-timor-leste-quest-second-win-asean-championship",
-        "image_url": "https://a.espncdn.com/photo/2026/0726/r1693857_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Ranking every FIFA World Cup from 1930 to 2026",
-        "link": "https://www.espn.com/soccer/story/_/id/49441430/world-cup-ranking-2026-bill-connelly-james-tyler-analysis-best-world-cups-ever",
-        "image_url": "https://a.espncdn.com/photo/2026/0719/r1691518_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
         "focus_y": 0.35,
         "source_title1": "ESPN",
         "source_title2": "FOOTBALL",
