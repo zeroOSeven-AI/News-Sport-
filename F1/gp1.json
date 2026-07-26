@@ -1,7 +1,21 @@
 {
-  "created_at": "2026-07-26T14:19:55.522903+00:00",
+  "created_at": "2026-07-26T15:49:55.881549+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
+    {
+      "title": "Lando Norris pobjednik VN Mađarske!",
+      "link": "https://www.gp1.hr/2026/07/lando-norris-pobjednik-vn-madarske-2/",
+      "author": "Tomislav Radić",
+      "published_at": "2026-07-26T14:51:00+00:00",
+      "image_url": "https://www.gp1.hr/wp-content/uploads/2026/07/madarska-2026-top10.jpg",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
     {
       "title": "SLUŽBENO: Formula 1 se vraća u Maleziju!",
       "link": "https://www.gp1.hr/2026/07/sluzbeno-formula-1-se-vraca-u-maleziju/",
@@ -120,20 +134,6 @@
       "author": "GP1",
       "published_at": "2026-07-24T12:34:37+00:00",
       "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f7e2.png",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Verstappen: Sve više ljudi shvaća kakva su ova pravila, a govorili su mi da se prestanem žaliti",
-      "link": "https://www.gp1.hr/2026/07/verstappen-sve-vise-ljudi-shvaca-kakva-su-ova-pravila-a-govorili-su-mi-da-se-prestanem-zaliti/",
-      "author": "GP1_hr",
-      "published_at": "2026-07-24T05:54:20+00:00",
-      "image_url": "",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
