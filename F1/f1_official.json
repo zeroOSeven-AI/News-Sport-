@@ -1,5 +1,20 @@
 [
     {
+        "title": "Norris beats Verstappen and Antonelli to victory in Hungary",
+        "link": "https://www.formula1.com/en/latest/article/norris-beats-verstappen-and-antonelli-to-victory-in-dramatic-hungarian-gp.5JQmohRAKABD2asRsMWogj",
+        "image_url": "https://media.formula1.com/image/upload/t_16by9South/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_Hungary/2287719188.webp",
+        "w": 2048,
+        "h": 1152,
+        "focus_y": 0.35,
+        "published_at": "2026-07-26T14:54:41.131Z",
+        "author": null,
+        "description": "Lando Norris claimed his and McLaren’s first Grand Prix victory of 2026 in Sunday’s Hungarian Grand Prix, taking the chequered flag ahead of Red Bull’s Max Verstappen and Mercedes’ Kimi Antonelli – after mid-race drama and a late retirement for team mate Oscar Piastri.",
+        "source_title1": "FORMULA 1",
+        "source_title2": "F1",
+        "source_color": "#E10600",
+        "flag": "🇬🇧"
+    },
+    {
         "title": "Albon reflects on journey to 100 races with Williams",
         "link": "https://www.formula1.com/en/latest/article/theres-still-so-much-more-i-want-to-achieve-albon-reflects-on-journey-to-100-races-with-williams.7MbSE5N2P3oWL5HWjrsEuN",
         "image_url": "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_Hungary___Practice/2287438295.webp",
@@ -45,7 +60,7 @@
         "flag": "🇬🇧"
     },
     {
-        "title": "LIVE COVERAGE: Norris leads the Hungarian GP for McLaren",
+        "title": "LIVE COVERAGE: Norris takes first Grand Prix win of the season",
         "link": "https://www.formula1.com/en/latest/article/live-coverage-formula-1-aws-hungarian-grand-prix-2026.1pvyUggVg5sAiLHzsAyWMM",
         "image_url": "https://media.formula1.com/image/upload/t_16by9North/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Hungary/GettyImages-2287479411.webp",
         "w": 2048,
@@ -129,21 +144,6 @@
         "published_at": "2026-07-26T08:41:51.507Z",
         "author": null,
         "description": "Our expert betting writers bring you their final predictions and latest odds before the Hungarian Grand Prix.",
-        "source_title1": "FORMULA 1",
-        "source_title2": "F1",
-        "source_color": "#E10600",
-        "flag": "🇬🇧"
-    },
-    {
-        "title": "Antonelli admits Mercedes losing ground in development race",
-        "link": "https://www.formula1.com/en/latest/article/antonelli-admits-mercedes-losing-ground-to-mclaren-and-ferrari-in-development-race.1X8zJJGtJ7z4ym6ncULzow",
-        "image_url": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_Hungary___Qualifying/2287582222.webp",
-        "w": 2048,
-        "h": 1152,
-        "focus_y": 0.35,
-        "published_at": "2026-07-26T08:10:04.847Z",
-        "author": null,
-        "description": "Kimi Antonelli believes Mercedes have been overtaken in F1's latest development race, with McLaren and Ferrari making significant gains through recent upgrades ahead of the Hungarian Grand Prix.",
         "source_title1": "FORMULA 1",
         "source_title2": "F1",
         "source_color": "#E10600",
