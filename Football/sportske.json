@@ -1,6 +1,18 @@
 [
     {
-        "title": "Razarač sa sjevera bliži se Splitu i otvara brojna pitanja. Što će biti sa Šegom, a kamoli Livajom?! Hajduk u ovom trenutku glavni kandidat za potpis Malijca, a prema pojedinim navodima, u Splitu ga se očekuje već početkom tjedna",
+        "title": "Mario Hezonja vratio se u NBA, potpisao je za pretendenta na naslov prvaka! Evo koliko će zaraditi Jedanaest godina nakon što je prvi put kročio na terene najjače košarkaške lige na svijetu, sve je spremno za njegov veliki povratak",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/mario-hezonja-potpisao-cleveland-cavaliers-nba-povratak-15731565",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_35148571_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Razarač sa sjevera bliži se Splitu i otvara brojna pitanja. Što će biti sa Šegom, a kamoli Livajom?!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-sory-diarra-transfer-haugesund-bodo-glimt-poljud-15731532",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_39345976_640.jpg",
         "w": 640,
@@ -12,9 +24,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Perišić je čekao poziv Intera, a onda je stigao odgovor: ‘Ne, ne, ne. Apsolutno ne‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/inter-odbacio-povratak-ivana-perisica-trazi-novog-desnog-beka-15731505",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_38889929_640.jpg",
+        "title": "Debakl potencijalnog Hajdukova europskog protivnika, trećeligaš ih izbacio iz kupa",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-pafos-uzvrat-cipar-rb-salzburg-dinamo-tbilisi-europske-kvalifikacije-15731558",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_39333913_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -27,6 +39,18 @@
         "title": "VIDEO: Nogometašica zbog divljačkog udaranja suparnice nogom u glavu suspendirana na pet godina",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/petogodisnja-suspenzija-izbacivanje-kluba-nakon-napada-u-eusebiu-15731541",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_39347319_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Perišić je čekao poziv Intera, a onda je stigao odgovor: ‘Ne, ne, ne. Apsolutno ne‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/inter-odbacio-povratak-ivana-perisica-trazi-novog-desnog-beka-15731505",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_38889929_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -132,30 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Moć kakva nije viđena desetljećima! Za čudesnog Slovenaca ne postoje granice",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/poga-car-peti-tour-rekord-alpe-dhueza-18-dana-u-zutom-lov-na-vueltu-15731517",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_39313225_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Čini se kako je Hezonja pronašao klub u NBA-u. Uloga koja ga čeka nadmašit će sva očekivanja?",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-reprezentacija/mario-hezonja-aktivirao-nba-izlaz-i-dolazi-u-cleveland-cavaliers-15731509",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_38880707_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Agent ‘prijetio‘ odlaskom s Maksimira, ali 15 milijuna eura sad zvuči nestvarno",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamov-desni-bok-lisica-i-valincic-sezona-dokazivanja-15731349",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/25/k_37559664_640.jpg",
@@ -168,7 +168,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Neymarov šou, zabio dvaput pa odgovorio kritičarima nakon što je ‘uhvaćen‘ na poker turniru Neymar je pokazao prema svojim ušima, pokazavši kako ga kritike ne diraju, a potom gestom dijeljenja karata dodatno bocnuo kritičare",
+        "title": "Velika rekonstrukcija Osijeka: Nižu se odlasci, navijači zazivaju povratak dva poznata imena Prijelazni rok na Opus Areni daleko je od gotovog, a svako daljnje snaženje kadra i više je nego potrebno",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/osijek-bessone-ljetni-rezovi-neizvjestan-start-velika-gorica-15731480",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/24/k_39332297_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Skandal iza kulisa, ‘ljudi iz sjene‘ vuku konce i slažu popis reprezentacije: ‘On mora biti tu!‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/sponzori-traze-jamesa-rodrigueza-za-rujanske-utakmice-kolumbije-u-sad-u-15731410",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_39345286_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Neymarov šou, zabio dvaput pa odgovorio kritičarima nakon što je ‘uhvaćen‘ na poker turniru",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/neymar-dva-gola-gesta-dijeljenja-karata-odgovor-na-kritike-santos-chapecoense-15731464",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_39345823_640.jpg",
         "w": 640,
@@ -207,30 +231,6 @@
         "title": "Legenda Italije na udaru, propada mu posao karijere? ‘U službi je normalizacije Putinovog režima‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/pirlo-izbornik-figc-provjere-fonbet-ruski-sponzor-politicki-pritisci-15731447",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_33691447_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Tko je zabio Dinamu, a tko Pafosu? Vrijeme je za povratak u normalu nakon mundijalskih napora",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/kviz/tko-je-zabio-dinamu-a-tko-pafosu-vrijeme-je-za-povratak-u-normalu-nakon-mundijalskih-napora-15731369",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/25/k_38806688_640.gif",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO Strašne scene, nakon pada ostao nepomično ležati, s terena ga odvezla hitna. Sve gledala legenda",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/inter-miami-pobijedio-montreal-berterame-tesko-ozlijeden-suarez-penal-sesta-pobjeda-15731404",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_39345269_640.png",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
