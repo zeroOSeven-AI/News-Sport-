@@ -1,6 +1,18 @@
 [
     {
-        "title": "Dinamo poslao službenu ponudu u Pariz, evo i koliku! Čeka se odgovor prvaka Europe Za vjerovati jest da bogati PSG neće cjepidlačiti, da im nekoliko stotina tisuća eura neće predstavljati neki ogromni problem",
+        "title": "Čovjek iza majstorije na Poljudu: ‘Kontaktirao me, vidio je da nitko u Hajduku nije na toj razini...‘ ‘Bavim se ovim već 8 godina. Radio sam 3 godine u Gorici, a onda i s danskim Vejleom pod trenerom Prelecom‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/filip-borak-sego-slobodnjak-hajduk-specijalist-tehnike-udarca-15731487",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_39333634_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Dinamo poslao službenu ponudu u Pariz, evo i koliku! Čeka se odgovor prvaka Europe",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-ponuda-noah-nsoki-psg-transfer-700-tisuca-10-posto-15731458",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_39345806_640.jpg",
         "w": 640,
@@ -12,9 +24,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Garcia zaslužuje velike čestitke. Da pitaš deset trenera, svi bi rekli isto, a on radi drugačije‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/janko-jankovic-hajduk-dominacija-protiv-pafosa-odluka-na-cipru-15731423",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/24/k_39333768_640.jpg",
+        "title": "Perišić je čekao poziv Intera, a onda je stigao odgovor: ‘Ne, ne, ne. Apsolutno ne‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/inter-odbacio-povratak-ivana-perisica-trazi-novog-desnog-beka-15731505",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_38889929_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Bivši reprezentativac u bizarnom izdanju, snimio se polugol i poručio: ‘J***te se i vi i oni‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/jermaine-jenas-kuhinjski-video-ostrom-porukom-podijelio-javnost-15731490",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_39346329_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,9 +60,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Skandal iza kulisa, ‘ljudi iz sjene‘ vuku konce i slažu popis reprezentacije: ‘On mora biti tu!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/sponzori-traze-jamesa-rodrigueza-za-rujanske-utakmice-kolumbije-u-sad-u-15731410",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_39345286_640.jpg",
+        "title": "‘Garcia zaslužuje velike čestitke. Da pitaš deset trenera, svi bi rekli isto, a on radi drugačije‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/janko-jankovic-hajduk-dominacija-protiv-pafosa-odluka-na-cipru-15731423",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/24/k_39333768_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -51,6 +75,18 @@
         "title": "Velika rekonstrukcija Osijeka: Nižu se odlasci, navijači zazivaju povratak dva poznata imena",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/osijek-bessone-ljetni-rezovi-neizvjestan-start-velika-gorica-15731480",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/24/k_39332297_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Skandal iza kulisa, ‘ljudi iz sjene‘ vuku konce i slažu popis reprezentacije: ‘On mora biti tu!‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/sponzori-traze-jamesa-rodrigueza-za-rujanske-utakmice-kolumbije-u-sad-u-15731410",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_39345286_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,9 +120,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Legenda Italije na udaru, propada mu posao karijere? ‘U službi je normalizacije Putinovog režima‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/pirlo-izbornik-figc-provjere-fonbet-ruski-sponzor-politicki-pritisci-15731447",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_33691447_640.jpg",
+        "title": "Svjetski prvak o svojoj najvećoj boli: ‘Volio bih da nemam ni novčića. samo da je on zdrav‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/cucurella-emotivna-ispovijest-suza-prica-o-sinu-autizam-pau-brunet-15731429",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_39345316_640.png",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -108,45 +144,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Svjetski prvak o svojoj najvećoj boli: ‘Volio bih da nemam ni novčića. samo da je on zdrav‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/cucurella-emotivna-ispovijest-suza-prica-o-sinu-autizam-pau-brunet-15731429",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_39345316_640.png",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO Strašne scene, nakon pada ostao nepomično ležati, s terena ga odvezla hitna. Sve gledala legenda",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/inter-miami-pobijedio-montreal-berterame-tesko-ozlijeden-suarez-penal-sesta-pobjeda-15731404",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_39345269_640.png",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Žutima stiže prvo pojačanje: Dijete kluba pred povratkom na Gripe",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/hrvatska-liga/lovre-runjic-povratak-u-split-prvo-pojacanje-damira-rancica-15731476",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_35953804_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Tko je zabio Dinamu, a tko Pafosu? Vrijeme je za povratak u normalu nakon mundijalskih napora",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/kviz/tko-je-zabio-dinamu-a-tko-pafosu-vrijeme-je-za-povratak-u-normalu-nakon-mundijalskih-napora-15731369",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/25/k_38806688_640.gif",
+        "title": "Legenda Italije na udaru, propada mu posao karijere? ‘U službi je normalizacije Putinovog režima‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/pirlo-izbornik-figc-provjere-fonbet-ruski-sponzor-politicki-pritisci-15731447",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_33691447_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -168,7 +168,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Olmo o Argentincu koji ga je udario: ‘Laže! Zato mi njegova isprika nije potrebna‘ Španjolski as otkrio recept uspjeha, komentirao incident s Argentinom i poručio da s Barçom cilja na sve trofeje",
+        "title": "FOTO: Hrvatski nogometaš i kći ikone HNL-a izrekli sudbonosno ‘da‘, na svadbu stigli Gvardiol, Jakić... Za Vatrene je upisao 22 nastupa i postigao dva pogotka, a posljednji je put igrao 24. lipnja 2024. protiv Italije na EP-u",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/vjencanje-luke-ivanuseca-i-tije-vugrinec-u-varazdinu-crkva-sv-nikole-15731356",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/25/k_33437299_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Albanski teškaš šokirao svijet i dva puta rušio Joshuu, a onda je proradila šampionska klasa!",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/albanski-teskas-sokirao-svijet-i-dva-puta-rusio-joshuu-a-onda-je-proradila-sampionska-klasa-15731367",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/25/k_39343636_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Olmo o Argentincu koji ga je udario: ‘Laže! Zato mi njegova isprika nije potrebna‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/dani-olmo-otkriva-tajnu-zlata-nevidljivi-trening-poruka-nakon-finala-15731332",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/25/k_39253756_640.jpg",
         "w": 640,
@@ -207,30 +231,6 @@
         "title": "Evo kakve šanse kladionice daju hrvatskim klubovima za uzvrate u Europi",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sva-cetiri-hrvatska-kluba-favoriti-kladionica-za-prolaz-u-trece-pretkolo-15731393",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/25/k_39333446_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO Joshua jedva suspregnuo suze nakon meča: ‘Moja braća, ne želim govoriti o tome‘",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/video-joshua-jedva-suspregnuo-suze-nakon-meca-moja-braca-ne-zelim-govoriti-o-tome-15731402",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_39345225_640.png",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO Messi ‘uhvaćen‘ prvi puta nakon poraza u finalu, pogledajte koga je došao podržati",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/messi-u-arroyo-secu-podrzao-leones-fc-prvi-put-nakon-sp-2026-15731383",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_39345127_640.png",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
