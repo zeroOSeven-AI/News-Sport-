@@ -1,8 +1,32 @@
 [
     {
-        "title": "Hajduk ima veliku želju, u pitanju je dinamovac! Bijeli se uključili u utrku za mladog reprezentativca Model posla vjerojatno bi imao bi izgled posudbe s mogućim otkupom, ali financijski zahtjevi Švicaraca su potencijalna prepreka i Hajduku i Rijeci",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-u-utrci-s-rijekom-za-marina-soticeka-iz-basela-15731729",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/27/k_36690057_640.jpg",
+        "title": "‘Bomba‘ s Poljuda: Dvojac raskinuo ugovor s Hajdukom! Otkrivamo gdje Krovinović nastavlja karijeru Kako nam je potvrđeno, Krovinović će karijeru nastaviti u brazilskom Gremiju. Liječnički pregled zakazan je već za četvrtak",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/hajduk-raskinuo-ugovore-krovinovic-guillamon-odlazak-sporting-gijon-gremio-15731823",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/27/k_38517377_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Odgođena je objava koju čeka ‘pola‘ Europe! Evo kada će City otkriti veliku vijest o Gvardiolu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/gvardiol-produzuje-s-manchester-cityjem-do-2031-nova-era-15731819",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/27/k_39195678_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Obistinila se loša proročanstva, Hajduk potvrdio izostanak važnog igrača na duže vrijeme!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/roko-brajkovic-ozljeda-koljeno-sumnja-acl-hajduk-pafos-15731811",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/27/k_39333128_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,9 +48,57 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Hajduk ima veliku želju, u pitanju je dinamovac! Bijeli se uključili u utrku za mladog reprezentativca",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-u-utrci-s-rijekom-za-marina-soticeka-iz-basela-15731729",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/27/k_36690057_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Ugašena nogometna zvijezda! Trebao je biti ‘taj‘, a sada će završiti čitavu priču bez velikog traga",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/rafael-leao-odlazak-iz-milana-transfer-fenerbahce-galatasaray-15731737",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/27/k_39195413_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Garciji neće biti lako, Hajduk čeka paklen raspored. A izbaci li Pafos, niz će se još produljiti...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-2-0-pafos-maraton-sest-utakmica-18-dana-uzvrat-na-cipru-15731795",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/25/k_39337621_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Promijenjena je vizura lige, danas na Istoku stanuje više kandidata za naslov prvaka",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/promijenjena-je-vizura-lige-danas-na-istoku-stanuje-vise-kandidata-za-naslov-prvaka-15731826",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/27/k_39350573_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Niko Kovač još uvijek na čekanju! Obavljeni su prvi razgovori, ali još uvijek se čeka konačna potvrda",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kovac-odgadja-potpis-u-borussiji-trazi-pojacanja-za-napad-na-bayern-15731777",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/27/k_38848332_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,9 +120,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Uz odluku LeBrona Jamesa! Nemoguće je stati kad je najbolje, najbolje sve govore suze Messija i očaj Modrića",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/uz-odluku-lebrona-jamesa-nemoguce-je-stati-kad-je-najbolje-najbolje-sve-govore-suze-messija-i-ocaj-modrica-15731756",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_39337173_640.jpg",
+        "title": "UŽIVO: Hajdukovac odlazi u Španjolsku, Liverpool želi zvijezdu PSG-a, Real doveo napadača",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-kraljevski-klub-doveo-napadaca-za-vise-od-100-milijuna-eura-dinamo-poslao-ponudu-za-francuza-15731636",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_39077128_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -72,9 +144,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Nikad žešći predsjednik Fife! Rafalna paljba Giannija Infantina: ‘Širite mržnju i lažne glasine...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/infantino-napao-kriticare-nakon-sp-2026-slavi-turnir-unatoc-kontroverzama-15731674",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/27/k_39317458_640.jpg",
+        "title": "Uz odluku LeBrona Jamesa! Nemoguće je stati kad je najbolje, najbolje sve govore suze Messija i očaj Modrića",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/uz-odluku-lebrona-jamesa-nemoguce-je-stati-kad-je-najbolje-najbolje-sve-govore-suze-messija-i-ocaj-modrica-15731756",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_39337173_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,9 +156,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Hajdukovac odlazi u Španjolsku, Liverpool želi zvijezdu PSG-a, Real doveo napadača",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-kraljevski-klub-doveo-napadaca-za-vise-od-100-milijuna-eura-dinamo-poslao-ponudu-za-francuza-15731636",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_39077128_640.jpg",
+        "title": "‘Bomba‘ s Poljuda: Dvojac raskinuo ugovor s Hajdukom! Otkrivamo gdje Krovinović nastavlja karijeru",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/hajduk-raskinuo-ugovore-krovinovic-guillamon-odlazak-sporting-gijon-gremio-15731823",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/27/k_38517377_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,43 +168,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Sukob titana, u Parizu zavladao totalni bijes! Real ‘podmuklim‘ potezom šokirao PSG, Francuzi krenuli u osvetu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/real-psg-sukob-diomande-rodri-rb-leipzig-transfer-100-mil-eura-15731693",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/27/k_39144414_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Dobivam prijetnje smrću nakon prihvaćanja tog meča. Ne znam kakvi to idioti navijaju za njega‘",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/dobivam-prijetnje-smrcu-nakon-prihvacanja-tog-meca-ne-znam-kakvi-to-idioti-navijaju-za-njega-15731739",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/27/k_39351008_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Veliko ljetno čišćenje! Zovu ga ‘Mourinho nemilosrdni‘: Za ove zvijezde više nema mjesta u Real Madridu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/real-madrid-diomande-100-miliona-odlasci-vinicius-mourinho-rekonstrukcija-15731672",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/27/k_39337611_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Trener Thuna uoči uzvrata protiv Dinama na Maksimiru povukao potez koji je iznenadio Švicarce",
+        "title": "Trener Thuna uoči uzvrata protiv Dinama na Maksimiru povukao potez koji je iznenadio Švicarce Gian-Luca Privitelli je dao priliku igračima iz ‘trećeg‘ plana kako bi ih odmorio uoči dvoboja s Dinamom, a to je izazvalo čudenje u dijelu švicarskih medija",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/thun-izveo-c-momcad-protiv-luzerna-zbog-uzvrata-s-dinamom-na-maksimiru-15731704",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/27/k_39326025_640.jpg",
         "w": 640,
@@ -156,9 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Agent ‘prijetio‘ odlaskom s Maksimira, ali 15 milijuna eura sad zvuči nestvarno",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamov-desni-bok-lisica-i-valincic-sezona-dokazivanja-15731349",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/25/k_37559664_640.jpg",
+        "title": "Otkrivamo pravu istinu iza Kovačevićevog poteza: ‘Nitko iz kluba mu to nije rekao!‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bakrar-odlazi-dinamo-protiv-thuna-isti-sastav-kovacevic-razbija-dileme-15731627",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_37559710_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -168,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Neymar ponovno u središtu skandala! Suigrača nazvao ‘gov**m‘, ostali ga ne vole, a neki ga se i boje ‘Intervjuirani su rekli da su kritike upućene mladim igračima nadišle ono što se smatra normalnim u nogometnim svlačionicama‘, navode Brazilci",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/neymar-santos-sukob-svlacionica-gol-geste-istraga-15731634",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_38939102_640.jpg",
+        "title": "Uefa donijela konačnu odluku, došlo je do promjene rasporeda! Priča koja direktno utječe na Hajduk",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-pafos-uzvrat-salzburg-promjena-domacinstva-poljud-superkup-15731655",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/27/k_39333911_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dinamo je već prošao ovu lekciju, a sad mora pokazati tko je gazda! U protivnom, može biti kobno...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-thun-maksimir-uzvrat-remi-opomena-liga-prvaka-15731603",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_39253441_640.jpg",
+        "title": "Nakon 57 godina gasi se hrvatski klub: ‘Kraj jedne priče‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/rk-polet-stancic-gasenje-nakon-57-godina-15731609",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_39348662_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,45 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "FOTO: Zavirite u jelovnik Luke Modrića",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/modric-jelovnik-chef-gordon-lenni-prehrana-dugovjecnost-uzitak-15731588",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_38369251_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Mario Hezonja vratio se u NBA, potpisao je za pretendenta na naslov prvaka! Evo koliko će zaraditi",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/mario-hezonja-potpisao-cleveland-cavaliers-nba-povratak-15731565",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_35148571_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Nova senzacija stiže u Madrid! Real za više od 100 milijuna dogovorio posao koji nadmašuje i transfer Vatrenog",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/yan-diomande-real-madrid-transfer-100-milijuna-rb-leipzig-15731593",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_38999494_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Važna karika Hajduka otpala za gostovanje na Cipru, ozlijedio se na nedjeljnom treningu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-bez-rokija-brajkovica-ozljeda-uoci-uzvrata-s-pafosom-na-cipru-15731597",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_39258794_640.jpg",
+        "title": "‘On je klasa, daleko iznad hrvatske lige i vjerujem da će uskoro otići! Morat ćemo pronaći neko rješenje...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/prskalo-kekova-disciplina-rijeka-derry-uzvrat-fruk-15731631",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/26/k_39333841_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
