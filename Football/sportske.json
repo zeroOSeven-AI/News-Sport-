@@ -1,7 +1,43 @@
 [
     {
-        "title": "UŽIVO/VIDEO Jablonec - Varaždin: Dva prekida, dva gola! Varaždinci zabili sami sebi, na rubu su ispadanja",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-jablonec-varazdin-stigli-su-sastavi-varazdinci-s-golom-prednosti-love-trece-pretkolo-15732756",
+        "title": "UŽIVO Pafos - Hajduk: Šokovi za Splićane na Cipru! Domaćini zabili novi gol, sve preokrenuli i sad oni imaju prolaz Dvije minute dijelile su Bijele od prolaza na Cipru, a onda je sve krenulo nizbrdo. Sada im prijeti - debakl",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-pafos-hajduk-sokovi-za-splicane-na-cipru-domacini-zabili-novi-gol-sve-preokrenuli-i-sad-oni-imaju-prolaz-15732774",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/30/k_39367234_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "UŽIVO/VIDEO Derry - Rijeka: Riječani sve bliže prolazu u treće pretkolo, pogledajte gol koji bi mogao presuditi",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-video-derry-rijeka-rijecani-sve-blize-prolazu-u-trece-pretkolo-pogledajte-gol-koji-bi-mogao-presuditi-15732783",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/30/k_38877630_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Kakva drama! Varaždinci zabili u zadnjim sekundama, već su počeli slaviti, a onda se oglasio sudac",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/jablonec-2-0-varazdin-autogol-zaledje-ispadanje-konferencijska-liga-15732806",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/30/k_39367336_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Pogledajte kako su Varaždinci ispali iz Europe! Imali prednost pa zabili sami sebi i pali iz dva prekida",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/jablonec-varazdin-2-0-prekidi-odlucili-prolaz-4-3-15732756",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/30/k_39366884_640.jpg",
         "w": 640,
         "h": 640,
@@ -24,9 +60,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO Derry - Rijeka: GOOOL! Riječani poveli nakon jako lošeg starta, Todorović spasio mrežu, a zabio Adu-Adjei",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-derry-rijeka-goool-rijecani-poveli-nakon-jako-loseg-starta-todorovic-spasio-mrezu-a-zabio-adu-adjei-15732783",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/30/k_38877630_640.jpg",
+        "title": "Ako Rijeka prođe odgađa se derbi s Dinamom na Rujevici, a evo kakvo je pravilo za stanku u HNL-u",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/shnl-odgoda-rijeka-dinamo-poticaji-za-mlade-pravila-toplinski-val-15732760",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/29/k_39359561_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,9 +72,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Ako Rijeka prođe odgađa se derbi s Dinamom na Rujevici, a evo kakvo je pravilo za stanku u HNL-u",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/shnl-odgoda-rijeka-dinamo-poticaji-za-mlade-pravila-toplinski-val-15732760",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/29/k_39359561_640.jpg",
+        "title": "Poražavajuć podatak uoči početka SHNL-a: Ovako loše brojke ne pamte se od doba korone",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/shnl-pocinje-dominacija-dinama-rijeke-i-hajduka-pad-vrijednosti-klubova-15732814",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/29/k_39312598_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Oduševio svijet na Mundijalu, ponude su pljuštale, a na kraju ga je legenda iz susjedstva ‘povukla‘ u Torino",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/alajbegovic-izabrao-juventus-ispred-chelseaja-rekordan-u-19-transfer-bundeslige-15732801",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/30/k_39159181_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -108,30 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Niko Kovač uveo rigorozne mjere svojim igračima: Na spavanje tek u dva u noći, doručak je u 13...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/kovac-plan-pakleni-tokio-dortmund-mijenja-ritam-nocni-jet-lag-15732755",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/30/k_38733163_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Granata mi je ubila prijatelje, preživio sam jer nisam znao igrati biljar. A ovo vjerojatno ne znate...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/ilija-majstorovic-jablonec-adela-sochorova-varazdin-transfer-price-15732697",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/29/k_39360635_640.png",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Evo tko vodi prve utakmice nove sezone HNL-a, Hajduku sudi Patrik Kolarić",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/dinamo-slaven-belupo-otvara-hnl-suci-i-termini-prvog-kola-15732789",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/30/k_38792421_640.jpg",
@@ -144,7 +168,43 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Sopić izborio sudar s Modrima pa otpustio kočnice! Uslijedila je luda fešta: ‘Umrijet ću kao navijač Dinama‘ Prva utakmica između Dinama i Kauno Žalgirisa igra se u utorak na Maksimiru, dok je uzvrat na rasporedu 11. kolovoza u Litvi",
+        "title": "Novi izazov za prvaka Europe! U domovini su ga zapamtili kao velikog izdajnika, sad je u misiji iskupljenja Italija je nakon turbulentnog razdoblja u četvrtom pokušaja konačno imenovala izbornika, reprezentaciju tri godine po odlasku u Saudijsku Arabiju ponovo preuzima Roberto Mancini",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/roberto-mancini-ponovno-izbornik-italije-isprika-i-povratak-azzurra-15732723",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/30/k_39361110_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "UŽIVO: Hrvatski napadač na meti Španjolaca, Dinamov junak želja Francuza! Real nastavlja rasprodaju",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/uzivo-vukovar-odbio-prodati-svoju-zvijezdu-city-nasao-zamjenu-za-rodrija-majer-potpisao-za-novi-klub-15732550",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/29/k_39077128_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Nije nitko zbog sudaca ispao iz lige, postao prvak ili ušao u Europu! Ali, suci su izgubili hrabrost‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sportcast-maric-loncarevic-hnl-suci-var-layec-dinamo-thun-15732638",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/29/k_32464099_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Sopić izborio sudar s Modrima pa otpustio kočnice! Uslijedila je luda fešta: ‘Umrijet ću kao navijač Dinama‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-kauno-zalgiris-sopic-trece-pretkolo-lige-prvaka-maksimir-15732645",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/30/k_39364758_640.png",
         "w": 640,
@@ -168,69 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Hrvatski napadač na meti Španjolaca, Dinamov junak želja Francuza! Real nastavlja rasprodaju",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/uzivo-vukovar-odbio-prodati-svoju-zvijezdu-city-nasao-zamjenu-za-rodrija-majer-potpisao-za-novi-klub-15732550",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/29/k_39077128_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Pobjeda koja će se dugo pamtiti, srušen je rekord! Hrvatice se raspucale i napunile mrežu protivnica do samog vrha",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hrvatska-mlade-juniorke-razbile-fidzi-67-4-rekord-pred-francusku-15732673",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/30/k_39360144_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Totalna nevjerica u Engleskoj! Kultni klub u šoku, uoči početka nove sezone neočekivano ostali bez trenera",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/eddie-howe-napustio-newcastle-favorit-matthias-jaissle-15732657",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/07/30/k_39364417_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Ovo se u Maksimiru ne pamti čak 21 godinu! Evo kako će izgledati novi Dinamov gostujući dres",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/video-ovo-se-u-maksimiru-ne-pamti-cak-21-godinu-evo-kako-ce-izgledati-novi-dinamov-gostujuci-dres-15732605",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/30/k_39357524_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Kao da je u zemlju propao! Produljili mu ugovor i od tada mu se gubi svaki trag, nitko u Italji ne zna gdje je nestao",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/lameck-banda-nestao-lecce-ugovor-serie-a-15732592",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/30/k_26035009_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Šest godina nakon borbe za titulu u UFC-u, Gaethje i Habib ponovno na suprotnim stranama kaveza!",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/sest-godina-nakon-borbe-za-titulu-u-ufc-u-gaethje-i-habib-ponovno-na-suprotnim-stranama-kaveza-15732768",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/30/k_39366337_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
