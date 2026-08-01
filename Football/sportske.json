@@ -1,7 +1,7 @@
 [
     {
-        "title": "UŽIVO/VIDEO Gorica - Osijek: Uraganski Osijek i dalje napada, vratar drži domaćine na životu Gosti su u svim segmentima nadigrali Goricu, a Omerović je uz pogodak zatresao i vratnicu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/uzivo-video-gorica-osijek-uraganski-osijek-i-dalje-napada-vratar-drzi-domacine-na-zivotu-15733370",
+        "title": "VIDEO: Fantastičan start sezone za Osječane, na pogon povratnika u SHNL i Omerovića ‘srušili‘ Goricu! Dolček je otvorio utakmicu krasnim pogotkom, Omerović zabio iz penala, a Goricu od težeg poraza spasio vratar",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/video-fantastican-start-sezone-za-osjecane-na-pogon-povratnika-u-shnl-i-omerovica-srusili-goricu-15733370",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39376418_640.jpg",
         "w": 640,
         "h": 640,
@@ -12,9 +12,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Rapsodija golova i VAR drama u Puli, Lokomotiva u samom finišu odnijela pobjedu!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/video-rapsodija-golova-i-var-drama-u-puli-lokomotiva-u-samom-finisu-odnijela-pobjedu-15733330",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39375979_640.jpg",
+        "title": "Emotivna priča Rijekine zvijezde: ‘Majka se prva javila, nije mogla biti s nama jer je trenutačno u Gani‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/adu-adjei-gol-u-derryju-rijeka-prolaz-podrska-obitelji-fokus-na-rudes-i-ilves-15733387",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/31/k_39301359_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -27,6 +27,18 @@
         "title": "FOTO: Luka Modrić u ‘odabranom‘ društvu, pogledajte s kim provodi ljetni odmor",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/modric-lovren-padel-mec-hrvoje-cale-instagram-ljeto-15733342",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39375854_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Rapsodija golova i VAR drama u Puli, Lokomotiva u samom finišu odnijela pobjedu!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/video-rapsodija-golova-i-var-drama-u-puli-lokomotiva-u-samom-finisu-odnijela-pobjedu-15733330",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39375979_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -60,6 +72,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Bila je čudo, zvijezda, najbolja tenisačica svijeta, a danas grca u dugovima: ‘Jedva uzdržavam djecu‘",
+        "link": "https://sportske.jutarnji.hr/sportske/tenis/tenis-mix/arantxa-sanchez-vicario-uvjetna-kazna-dugovi-luksemburg-porazi-nakon-slave-15733310",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_30421985_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "VIDEO: Kaos na Drosini, čaše letjele u teren! Pogledajte ‘provokativan‘ potez igrača Lokomotive",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/var-drama-drosina-katicev-gol-priznat-kaos-tribine-zuti-karton-15733369",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39376290_640.png",
@@ -84,18 +108,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Aleksandar Rakić se vratio pobjedama! Izdominirao je Tyburu i najavio novo karijerno poglavlje!",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/aleksandar-rakic-se-vratio-pobjedama-izdominirao-je-tyburu-i-najavio-novo-karijerno-poglavlje-15733367",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_38848886_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Skandal u Beogradu: Srbin u kavez ušao uz velikosrpsku pjesmu, spominju se i dva hrvatska grada",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/nikolic-ufc-debi-pobjeda-ali-kontroverzna-ulazna-pjesma-u-beogradu-15733352",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39375973_640.jpg",
@@ -108,9 +120,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Bila je čudo, zvijezda, najbolja tenisačica svijeta, a danas grca u dugovima: ‘Jedva uzdržavam djecu‘",
-        "link": "https://sportske.jutarnji.hr/sportske/tenis/tenis-mix/arantxa-sanchez-vicario-uvjetna-kazna-dugovi-luksemburg-porazi-nakon-slave-15733310",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_30421985_640.jpg",
+        "title": "Aleksandar Rakić se vratio pobjedama! Izdominirao je Tyburu i najavio novo karijerno poglavlje!",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/aleksandar-rakic-se-vratio-pobjedama-izdominirao-je-tyburu-i-najavio-novo-karijerno-poglavlje-15733367",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_38848886_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -144,20 +156,8 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Veliki šok u Beogradu! Miloš Janičić prisiljen na predaju u prvoj rundi svog UFC debija!",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/veliki-sok-u-beogradu-milos-janicic-prisiljen-na-predaju-u-prvoj-rundi-svog-ufc-debija-15733349",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_38502541_640.png",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "UŽIVO/VIDEO Gorica - Osijek: Uraganski Osijek i dalje napada, vratar drži domaćine na životu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/uzivo-video-gorica-osijek-uraganski-osijek-i-dalje-napada-vratar-drzi-domacine-na-zivotu-15733370",
+        "title": "VIDEO: Fantastičan start sezone za Osječane, na pogon povratnika u SHNL i Omerovića ‘srušili‘ Goricu!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/video-fantastican-start-sezone-za-osjecane-na-pogon-povratnika-u-shnl-i-omerovica-srusili-goricu-15733370",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39376418_640.jpg",
         "w": 640,
         "h": 640,
@@ -168,7 +168,19 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Poraz mladih košarkaša u velikom trileru, u posljednjim sekundama promašena trica za pobjedu Gaspar je presudio u Rijeci, a Vučkoviću nije ušla trica za preokret pet sekundi prije sirene za kraj susreta",
+        "title": "Kakva izvedba Borislava Nikolića! Preživio nokdaun pa demolirao Rusa i pobjedom debitirao u UFC-u! Mnogi su analitičari najavljivali da upravo na ovu borbu treba obratiti posebnu pozornost - i nisu pogriješili",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/kakva-izvedba-borislava-nikolica-prezivio-nokdaun-pa-demolirao-rusa-i-pobjedom-debitirao-u-ufc-u-15733338",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39375337_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Poraz mladih košarkaša u velikom trileru, u posljednjim sekundama promašena trica za pobjedu",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-reprezentacija/hrvatska-u-18-poraz-madarska-75-73-rijeka-zamet-gaspar-kos-u-zavrsnici-15733329",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39371813_640.jpg",
         "w": 640,
@@ -219,18 +231,6 @@
         "title": "UEFA ide do kraja, na rušenje velikog šefa!? ‘Nije ispunio niti jedno obećanje! Nečasni, zaklulisni...‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/uefa-povlacenje-fifa-plana-gubitak-povjerenja-u-infantina-15733273",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39374375_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "UŽIVO: Varaždin potvrdio pojačanje, Hrvat na pragu Premiershipa, Arsenal doveo veznjaka za 80 milijuna eura",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/uzivo-varazdin-potvrdio-pojacanje-hrvat-na-pragu-premiershipa-arsenal-doveo-veznjaka-za-80-milijuna-eura-15733207",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/31/k_39077128_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
