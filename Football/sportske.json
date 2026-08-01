@@ -1,8 +1,8 @@
 [
     {
-        "title": "UŽIVO/VIDEO Istra - Lokomotiva: GOOOL!! Frederiksen opet junak Drosine, Šaranić slalomom razbio obranu Lokosa Lokosi su dvaput vodili, ali Puljani su oba puta pronašli odgovor preko Frederiksena",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/uzivo-video-istra-lokomotiva-goool-frederiksen-opet-junak-drosine-saranic-slalomom-razbio-obranu-lokosa-15733330",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39375912_640.jpg",
+        "title": "UŽIVO Gorica - Osijek: Uraganski početak gostiju, nakon povratnika u SHNL zabio i Omerović Utakmicu između Gorice i Osijeka pratimo i komentiramo iz minute u minutu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/uzivo-gorica-osijek-uraganski-pocetak-gostiju-nakon-povratnika-u-shnl-zabio-i-omerovic-15733370",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39376418_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -12,9 +12,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Skandal u Beogradu: Srbin u kavez ušao uz velikosrpsku pjesmu, spominju se i dva hrvatska grada",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/nikolic-ufc-debi-pobjeda-ali-kontroverzna-ulazna-pjesma-u-beogradu-15733352",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39375973_640.jpg",
+        "title": "VIDEO: Rapsodija golova i VAR drama u Puli, Lokomotiva u samom finišu odnijela pobjedu!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/video-rapsodija-golova-i-var-drama-u-puli-lokomotiva-u-samom-finisu-odnijela-pobjedu-15733330",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39375979_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,9 +36,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Pogledajte zašto je VAR poništio majstoriju mladog Vatrenog i prvijenac u SHNL-u",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/var-ponistio-gol-nike-skafara-zuzica-istri-1961-na-debiju-15733354",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39375911_640.jpg",
+        "title": "Skandal u Beogradu: Srbin u kavez ušao uz velikosrpsku pjesmu, spominju se i dva hrvatska grada",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/nikolic-ufc-debi-pobjeda-ali-kontroverzna-ulazna-pjesma-u-beogradu-15733352",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39375973_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,9 +48,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Veliki šok u Beogradu! Miloš Janičić prisiljen na predaju u prvoj rundi svog UFC debija!",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/veliki-sok-u-beogradu-milos-janicic-prisiljen-na-predaju-u-prvoj-rundi-svog-ufc-debija-15733349",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_38502541_640.png",
+        "title": "VIDEO: Kaos na Drosini, čaše letjele u teren! Pogledajte ‘provokativan‘ potez igrača Lokomotive",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/var-drama-drosina-katicev-gol-priznat-kaos-tribine-zuti-karton-15733369",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39376290_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Aleksandar Rakić se vratio pobjedama! Izdominirao je Tyburu i najavio novo karijerno poglavlje!",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/aleksandar-rakic-se-vratio-pobjedama-izdominirao-je-tyburu-i-najavio-novo-karijerno-poglavlje-15733367",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_38848886_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,6 +96,54 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Hrvatska već 30 godina ne može skinuti prokletstvo, a ovaj poraz je probudio ‘PTSP‘ svih ljubitelja košarke",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/hrvatska-vec-30-godina-ne-moze-skinuti-prokletstvo-a-ovaj-poraz-je-probudio-ptsp-svih-ljubitelja-kosarke-15733376",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39371812_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Ovo je ključan datum bitke za nogomet: Infantino pokušava ugasiti požar, ali čeka ga scenarij koji nije očekivao",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/infantino-pred-padom-savezi-protiv-sefa-fife-rabat-odlucuje-15733360",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39374384_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Veliki šok u Beogradu! Miloš Janičić prisiljen na predaju u prvoj rundi svog UFC debija!",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/veliki-sok-u-beogradu-milos-janicic-prisiljen-na-predaju-u-prvoj-rundi-svog-ufc-debija-15733349",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_38502541_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Pogledajte zašto je VAR poništio majstoriju mladog Vatrenog i prvijenac u SHNL-u",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/var-ponistio-gol-nike-skafara-zuzica-istri-1961-na-debiju-15733354",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39375911_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Životna drama talenta (17): Napravio transfer karijere, pa u pet dana izgubio pet kila. Otkrivena mu je dijagnoza",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/kennet-eichhorn-leverkusen-metabolicki-poremecaj-pauza-lijecenje-15733340",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39375515_640.jpg",
@@ -96,9 +156,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Cijela ‘reprezentacija’ hrvatskih trenera je - bez posla: ‘Lako za Europu, ali neka klubovi odgovore na ovo pitanje‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hrvatski-treneri-bez-posla-brend-percepcija-i-trziste-15733320",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/29/k_38589295_640.jpg",
+        "title": "UŽIVO Gorica - Osijek: Uraganski početak gostiju, nakon povratnika u SHNL zabio i Omerović",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/uzivo-gorica-osijek-uraganski-pocetak-gostiju-nakon-povratnika-u-shnl-zabio-i-omerovic-15733370",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39376418_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -108,43 +168,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Kakva izvedba Borislava Nikolića! Preživio nokdaun pa demolirao Rusa i pobjedom debitirao u UFC-u!",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/kakva-izvedba-borislava-nikolica-prezivio-nokdaun-pa-demolirao-rusa-i-pobjedom-debitirao-u-ufc-u-15733338",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39375337_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Poraz mladih košarkaša u velikom trileru, u posljednjim sekundama promašena trica za pobjedu",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-reprezentacija/hrvatska-u-18-poraz-madarska-75-73-rijeka-zamet-gaspar-kos-u-zavrsnici-15733329",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39371813_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Garcia govorio o Livaji i novom igraču: ‘J***ga, što ja mogu ako ljudi tako misle? Šotiček? Igrat će‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-trazi-pobjedu-u-varazdinu-nakon-pafosa-garcia-dize-momcad-15733290",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39374831_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Najmlađi Dinamov prvotimac odmah najavio sjajnu sezonu! Pretvara se u kandidata za ozbiljan transfer",
+        "title": "Najmlađi Dinamov prvotimac odmah najavio sjajnu sezonu! Pretvara se u kandidata za ozbiljan transfer Bivši \"učenik\" Bayernove nogometne škole, u kojoj je bio od 16. do 18. godine, jednom je čak i nastupio za prvu momčad u Bundesligi",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/perez-vinlof-projektil-iza-crte-asistencija-uzlet-dinamo-15733271",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39253641_640.jpg",
         "w": 640,
@@ -156,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO/VIDEO Istra - Lokomotiva: GOOOL!! Frederiksen opet junak Drosine, Šaranić slalomom razbio obranu Lokosa",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/uzivo-video-istra-lokomotiva-goool-frederiksen-opet-junak-drosine-saranic-slalomom-razbio-obranu-lokosa-15733330",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39375912_640.jpg",
+        "title": "Beograd je u ekstazi! Jovan Leka razornim udarcem ‘presjekao‘ iskusnog Nijemca i slavio u prvoj rundi!",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/beograd-je-u-ekstazi-jovan-leka-razornim-udarcem-presjekao-iskusnog-nijemca-i-slavio-u-prvoj-rundi-15733315",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39374913_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -168,69 +192,45 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Nevjerojatne scene u Japanu, monsunska kiša prekinula zadnju pripremnu utakmicu Kovačeve Borussije Njemački velikan je pobjedom (1:0 protiv FC Tokyja) zaključio pripreme u dvoboju koji je prekinut na 15 minuta zbog velikog pljuska",
+        "title": "UEFA ide do kraja, na rušenje velikog šefa!? ‘Nije ispunio niti jedno obećanje! Nečasni, zaklulisni...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/uefa-povlacenje-fifa-plana-gubitak-povjerenja-u-infantina-15733273",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39374375_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "UŽIVO: Vatreni na pragu Premiershipa! Arsenal doveo veznjaka za 80 milijuna eura, PSG krenuo po Barcelonina napadača",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/uzivo-vatreni-na-pragu-premiershipa-arsenal-doveo-veznjaka-za-80-milijuna-eura-psg-krenuo-po-barcelonina-napadaca-15733207",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/31/k_39077128_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Bivši strateg Dinama: ‘Nemam ništa protiv stranih trenera, ovo je jedini ispravan kriterij za odabir‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/zeljko-kopic-stranac-bez-predrasuda-domaci-pod-javnim-pritiskom-15733301",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/29/k_37522263_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Nevjerojatne scene u Japanu, monsunska kiša prekinula zadnju pripremnu utakmicu Kovačeve Borussije",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/borussia-dortmund-pobijedila-fc-tokyo-1-0-fabio-silva-strijelac-15733305",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39375084_640.png",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Varaždin dočekuje Hajduk nakon ispadanja iz Europe: ‘Treba nam pobjeda da zaboravimo Jablonec‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/canjuga-povratak-varazdin-zadnji-vezni-hajduk-europa-15733307",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39332909_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Matjaž Kek nakon Europe najavio promjene u prvoj momčadi: ‘Moramo biti moćni, ipak smo mi Rijeka!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kek-rijeka-razvija-agresiju-fokus-na-rudes-todorovic-briljira-derbi-odgoden-15733289",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39333957_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Braća Sinković i hrvatski četverac osvojili bronce na Europskom prvenstvu, Srbi novi europski prvaci",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/sinkovici-bronca-varese-dvojac-na-parice-europsko-prvenstvo-15733254",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39374336_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Sopić ‘svom‘ Dinamu sprema iznenađenje iz - Hrvatske!? ‘Dinamo je razina iznad nas. Ali.... Muhammad Ali‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sopic-zalgiris-dinamo-maksimir-htio-sam-samo-dinamo-15733241",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/31/k_38619134_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Modrima se otvara put u nogometnu elitu, evo s kime bi mogli igrati ako izbore Ligu prvaka",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-kauno-zalgiris-nakon-thuna-put-prema-play-offu-lige-prvaka-15733253",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39357523_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
