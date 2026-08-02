@@ -1,6 +1,30 @@
 [
     {
-        "title": "Rijeka dovodi reprezentativca, a evo kakva je situacija s Frukom! Za dragulja stigla ponuda iz Serie A I Tiago Dantas (25) nalazi se u ozbiljnim planovima jednog ruskog kluba. Rijeka je spremna razgovarati o njegovu transferu",
+        "title": "Livaja se vraća u udarnih 11, veliko pojačanje na klupi? Evo što Garcia sprema za Varaždin Marko Livaja gotovo sigurno će dobiti veću minutažu. To se dalo iščitati iz trenerovih riječi uoči utakmice, a zaigrat će i Marin Šotiček",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-varazdin-livaja-prvih-11-soticek-debi-garcia-rotacije-15733445",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39333769_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Senzacija u Slavoniji, bivši Vatreni potpisao za šestoligaša. Ispunio je obećanje prijatelju",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/mile-skoric-potpisao-za-slogu-iz-starih-mikanovaca-povratak-kuci-15733431",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/02/k_35732772_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Rijeka dovodi reprezentativca, a evo kakva je situacija s Frukom! Za dragulja stigla ponuda iz Serie A",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-preoteo-soticeka-rijeka-dogovara-vekica-i-trazi-novo-krilo-15733409",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39333532_640.jpg",
         "w": 640,
@@ -12,9 +36,45 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Fantastičan start sezone za Osječane, na pogon povratnika u SHNL i Omerovića ‘srušili‘ Goricu!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/video-fantastican-start-sezone-za-osjecane-na-pogon-povratnika-u-shnl-i-omerovica-srusili-goricu-15733370",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39376418_640.jpg",
+        "title": "Dana White komentirao UFC u Beogradu: ‘Nadam se da to više nikad neću vidjeti‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/borilacki-sportovi/borilackisportovi-ostalo/ufc-beograd-rekordi-bonusi-white-kritika-baklji-15733440",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/02/k_39378221_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Nakon Dinama uslijedio još teži šamar, švicarski prvak kod kuće ‘popio‘ šest komada",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/young-boysi-deklasirali-thun-6-0-nakon-sloma-protiv-dinama-15733416",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/02/k_39357142_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Ovo je neki novi Osijek, navijači napokon imaju razloga za osmijeh nakon silnih trauma",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/osijek-dominira-na-gostovanju-bessonov-tim-uvjerljivo-otvara-sezonu-15733427",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39376728_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "HNL je opet tu! Provjeri u kakvoj si formi kada je u pitanju najpopularnije natjecanje u Hrvatskoj",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl-kviz-16-pitanja-povratak-sezone-domaci-nogomet-15733433",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_38806688_640.gif",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,9 +96,33 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "VIDEO: Fantastičan start sezone za Osječane, na pogon povratnika u SHNL i Omerovića ‘srušili‘ Goricu!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/video-fantastican-start-sezone-za-osjecane-na-pogon-povratnika-u-shnl-i-omerovica-srusili-goricu-15733370",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39376418_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "UŽIVO: Varaždin potvrdio pojačanje, Hrvat na pragu Premiershipa, Arsenal doveo veznjaka za 80 milijuna eura",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/uzivo-varazdin-potvrdio-pojacanje-hrvat-na-pragu-premiershipa-arsenal-doveo-veznjaka-za-80-milijuna-eura-15733413",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39077128_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Ispovijest nogometne zvijezde koja je prošla kalvariju na SP-u: ‘Nisam se mogao pomaknuti...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/jeremy-doku-otkriva-bolnicu-hitni-let-i-rodenje-sina-usred-sp-2026-15733418",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39376131_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -72,55 +156,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Apsolutna ludnica u Beogradu! Uroš Medić brutalno nokautirao Rodrigueza nakon samo 30 sekundi!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/apsolutna-ludnica-u-beogradu-uros-medic-brutalno-nokautirao-rodrigueza-nakon-samo-30-sekundi-15733374",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39375482_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Otkrivena skrivena poruka iza izjave Talijana, kuha se žestok obračun: ‘To je pogrešna odluka‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/spalletti-prozvao-mancinija-i-figc-maldini-umjesto-cetvrte-ubacena-druga-15733379",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39371724_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Bila je čudo, zvijezda, najbolja tenisačica svijeta, a danas grca u dugovima: ‘Jedva uzdržavam djecu‘",
-        "link": "https://sportske.jutarnji.hr/sportske/tenis/tenis-mix/arantxa-sanchez-vicario-uvjetna-kazna-dugovi-luksemburg-porazi-nakon-slave-15733310",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_30421985_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Kaos na Drosini, čaše letjele u teren! Pogledajte ‘provokativan‘ potez igrača Lokomotive",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/var-drama-drosina-katicev-gol-priznat-kaos-tribine-zuti-karton-15733369",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39376290_640.png",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Saga oko Hrvata, Barca zamalo sve preokrenula, a onda je odjeknulo: Na pragu je Premier lige!",
+        "title": "Saga oko Hrvata, Barca zamalo sve preokrenula, a onda je odjeknulo: Na pragu je Premier lige! Iz Portugala je stigla vijest koja bi mogla u potpunosti promijeniti cijelu priču. Dva su kluba navodno pred dogovorom",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/barcelona-cilja-pavlidisa-benfica-trazi-veliku-odstetu-ivanovic-prilika-15733326",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_37653193_640.jpg",
         "w": 640,
@@ -156,9 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Životna drama talenta (17): Napravio transfer karijere, pa u pet dana izgubio pet kila. Otkrivena mu je dijagnoza Sedamnaestogodišnji veznjak završio je u klinici nakon naglog gubitka kilograma i čeka neizvjestan povratak",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kennet-eichhorn-leverkusen-metabolicki-poremecaj-pauza-lijecenje-15733340",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39375515_640.jpg",
+        "title": "Hrvatska već 30 godina ne može skinuti prokletstvo, a ovaj poraz je probudio ‘PTSP‘ svih ljubitelja košarke",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/hrvatska-vec-30-godina-ne-moze-skinuti-prokletstvo-a-ovaj-poraz-je-probudio-ptsp-svih-ljubitelja-kosarke-15733376",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39371812_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -168,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Cijela ‘reprezentacija’ hrvatskih trenera je - bez posla: ‘Lako za Europu, ali neka klubovi odgovore na ovo pitanje‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hrvatski-treneri-bez-posla-brend-percepcija-i-trziste-15733320",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/29/k_38589295_640.jpg",
+        "title": "Ovo je ključan datum bitke za nogomet: Infantino pokušava ugasiti požar, ali čeka ga scenarij koji nije očekivao",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/infantino-pred-padom-savezi-protiv-sefa-fife-rabat-odlucuje-15733360",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39374384_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Kakva izvedba Borislava Nikolića! Preživio nokdaun pa demolirao Rusa i pobjedom debitirao u UFC-u!",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/kakva-izvedba-borislava-nikolica-prezivio-nokdaun-pa-demolirao-rusa-i-pobjedom-debitirao-u-ufc-u-15733338",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39375337_640.jpg",
+        "title": "Veliki šok u Beogradu! Miloš Janičić prisiljen na predaju u prvoj rundi svog UFC debija!",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/veliki-sok-u-beogradu-milos-janicic-prisiljen-na-predaju-u-prvoj-rundi-svog-ufc-debija-15733349",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_38502541_640.png",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,45 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Poraz mladih košarkaša u velikom trileru, u posljednjim sekundama promašena trica za pobjedu",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-reprezentacija/hrvatska-u-18-poraz-madarska-75-73-rijeka-zamet-gaspar-kos-u-zavrsnici-15733329",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39371813_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Garcia govorio o Livaji i novom igraču: ‘J***ga, što ja mogu ako ljudi tako misle? Šotiček? Igrat će‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-trazi-pobjedu-u-varazdinu-nakon-pafosa-garcia-dize-momcad-15733290",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39374831_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Najmlađi Dinamov prvotimac odmah najavio sjajnu sezonu! Pretvara se u kandidata za ozbiljan transfer",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/perez-vinlof-projektil-iza-crte-asistencija-uzlet-dinamo-15733271",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39253641_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Beograd je u ekstazi! Jovan Leka razornim udarcem ‘presjekao‘ iskusnog Nijemca i slavio u prvoj rundi!",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/beograd-je-u-ekstazi-jovan-leka-razornim-udarcem-presjekao-iskusnog-nijemca-i-slavio-u-prvoj-rundi-15733315",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39374913_640.jpg",
+        "title": "VIDEO: Pogledajte zašto je VAR poništio majstoriju mladog Vatrenog i prvijenac u SHNL-u",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/var-ponistio-gol-nike-skafara-zuzica-istri-1961-na-debiju-15733354",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/01/k_39375911_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
