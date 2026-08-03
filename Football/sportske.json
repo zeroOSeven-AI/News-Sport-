@@ -1,8 +1,68 @@
 [
     {
-        "title": "‘Garcia drži Hajduk u šaci, tko mu je ovo dozvolio? Što vodstvo kluba uopće radi...‘ ‘Hajduk nema momčad, a ni svlačionicu. Zašto? Vjerojatno zbog nereda unutar i oko kluba‘, pretpostavlja Ilija Lončarević",
+        "title": "Sopić na Maksimiru: ‘Kao da me pitate koje dijete više volim... Želite da ovo kažem pred svima?‘ ‘Htio sam izvući Dinamo, htio sam doći doma i igrati protiv Dinama. Nemojte misliti da sam bedast i da ne razumijem kvalitetu Modrih‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sopic-u-svome-stilu-odrzao-presicu-uoci-dinama-to-je-kao-da-me-pitate-koje-dijete-vise-volim-15733887",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39383426_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Garcia drži Hajduk u šaci, tko mu je ovo dozvolio? Što vodstvo kluba uopće radi...‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/var-soba-analiza-1-kola-hnl-hajduk-kriza-dinamo-rotacije-istra-spektakl-15733854",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39374833_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Dinamo ga je već otpisao, bio je na pragu rivala, a onda je Kovačević rekao - ne, mora ostati!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/var-soba-dinamo-rotacije-kacavenda-rijeka-istra-lokomotiva-analiza-prvo-kolo-15733878",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39357162_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Objava svjetskog prvaka šokirala Španjolsku: ‘Jadni gade, prokleti štakore! Nemaš trunke srama‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/borja-iglesias-proziva-fifu-trpi-prijetnje-aktivizam-ceuta-15733885",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39383342_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "UŽIVO: Sopić dobio veliko pojačanje, stigao donedavni ‘ratnik‘ Poljuda!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-odbijena-ponuda-za-dinamovca-veznjak-istre-ide-u-portugal-ivanovic-izabrao-novi-klub-15733652",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/02/k_39077128_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Dinamo dan uoči europskog susreta objavio veliku vijest: ‘Upravo smo srušili rekord!‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-rekord-clanova-150-dana-ranije-uoci-zalgirisa-15733871",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_38780055_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,21 +84,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hajduk i Rijeka saznali protivnike u play-offu Konferencijske lige, bit će jako teško!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-rijeka-zdrijeb-nyon-konferencijska-liga-play-off-zalgiris-ilves-15733674",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39333898_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Nevjerojatan gaf UEFA-e: Hajduku pripisali krivog suparnika u Europi",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uefa-gaf-hajduk-pogresan-zalgiris-moguc-rakow-ili-hammarby-15733830",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39374897_640.jpg",
+        "title": "Infantino u očaju zvao Bijelu kuću, Trump mu odbija pozive! ‘Svi znamo o čemu se radi‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/infantino-trazi-pomoc-u-washingtonu-nakon-propale-prodaje-prava-i-prijetnji-bojkotom-15733865",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39321397_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -60,9 +108,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Srbija okrenula leđa velikom gazdi! Stiže poruka koja će ga šokirati: ‘Morali smo ovo napraviti‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/fss-povlaci-podrsku-infantinu-tajna-prodaja-prava-fifa-uefa-wales-15733809",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_37881075_640.jpg",
+        "title": "Nevjerojatan gaf UEFA-e: Hajduku pripisali krivog suparnika u Europi",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uefa-gaf-hajduk-pogresan-zalgiris-moguc-rakow-ili-hammarby-15733830",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39374897_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -72,9 +120,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Moglo je i bolje: Dinamo konačno saznao protivnika u play-offu Lige prvaka, ali i Europske lige!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/zdrijeb-playoffa-dinamo-hajduk-rijeka-nyon-europa-15733665",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39382413_640.jpg",
+        "title": "Hajduk i Rijeka saznali protivnike u play-offu Konferencijske lige, bit će jako teško!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-rijeka-zdrijeb-nyon-konferencijska-liga-play-off-zalgiris-ilves-15733674",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39333898_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,9 +132,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Čudo od djeteta stiže kod Nike Kovača! Poznata i sudbina Edina Džeke",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-odbijena-ponuda-za-dinamovca-veznjak-istre-ide-u-portugal-ivanovic-izabrao-novi-klub-15733652",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/02/k_39077128_640.jpg",
+        "title": "Hajdukov dragulj javio se iz bolnice",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/roko-brajkovic-poruka-nakon-operacije-koljena-devet-mjeseci-oporavka-15733881",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39262951_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,9 +144,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "FOTO: Strašne scene iz Varaždina! Stigao odgovor na palež i divljanje Torcide: Zato su, gospodo, cijene ovakve!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/varazdin-odgovorio-torcidi-nakon-zapaljenih-sjedala-i-stete-na-tribini-15733749",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39380284_640.jpg",
+        "title": "VIDEO: Pogledajte što brončani Vatreni radi u crkvi u Londonu. Objava prikupila tisuće reakcija",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/borna-sosa-pjeva-s-hrvatskim-zborom-u-londonskoj-crkvi-reakcije-15733868",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39382162_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -120,7 +168,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Mladi Hrvati pale svjetla nade u Beogradu. Stvaraju se novi reprezentativci koji vraćaju vjeru u rukomet",
+        "title": "Mladi Hrvati pale svjetla nade u Beogradu. Stvaraju se novi reprezentativci koji vraćaju vjeru u rukomet Generacija U-18 s Kutnjakom nosi dvije pobjede i prenesene bodove, dok Pitt i Bajan predvode napad",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/hrvatska-u18-rukomet-ep-beograd-pobjede-lucas-pitt-david-bajan-15733835",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39382771_640.jpg",
         "w": 640,
@@ -156,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Propada jedan od najvećih poslova ljeta? Real je pregovarao s ‘krivim‘ agentima, sve koči FIFA Real Madrid i Diomande su na čekanju i samo se mogu nadati da će sukob između agenata uskoro biti riješen jer je sve ostalo spremno",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/spor-agenata-odgada-transfer-yana-diomandea-u-real-madrid-15733713",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39381948_640.jpg",
+        "title": "Novaka Đokovića pitali koje bi kontroverzno mišljenje branio do smrti. Sve je iznenadio odgovorom",
+        "link": "https://sportske.jutarnji.hr/sportske/tenis/tenis-mix/djokovic-predlaze-setove-do-cetiri-gema-bez-prednosti-i-brze-meceve-15733793",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39382584_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -168,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Veliki jubilej: Na današnji dan osnovan je prvi nogometni klub u Hrvata",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/backa-1901-prvi-hrvatski-nogometni-klub-subotica-povijest-15733704",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/31/k_39375079_640.jpg",
+        "title": "FOTO: HNS sve drži u tajnosti, a novi dres Vatrenih već je u prodaji na drugoj strani svijeta!?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/hns-adidas-novi-dresovi-hrvatske-reprezentacije-curenje-tokio-prednarudzbe-15733754",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39382196_640.png",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,57 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Neće valjda!? Hajduku prijeti crni scenarij kakav čak ni on još nije uspio napraviti istoga ljeta",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-posrce-varazdin-razotkrio-krizu-vilnius-odlucuje-sezonu-15733639",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/02/k_39380008_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Prva napadačka opcija Vukova dolazi iz Italije, igrao je na četiri ozbiljna koledža",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/aba-liga/prva-napadacka-opcija-vukova-dolazi-iz-italije-igrao-je-na-cetiri-ozbiljna-koledza-15733750",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39382388_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Veliku istinu o Hajduku i njegovim problemima rekla je nakon utakmice - Valentina Miletić",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/varazdin-razbio-iluzije-novi-kiks-produbio-krizu-hajduka-15733640",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/02/k_39380739_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Olimpijac nakon 44 dana pronađen živ, prepoznao ga slučajni prolaznik. Preživljavao je na šećernoj trsci",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/atletika/danielzinho-pronaden-ziv-44-dana-370-km-sao-paulo-15733658",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39381725_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Bivšem nogometašu dijagnosticirali bolest zbog koje nije mogao pričati. ‘Četiri tjedna nisam ustao...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/andy-morrison-povratak-komentiranju-nakon-sindroma-ramsay-hunt-15733654",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/02/k_39378310_640.png",
+        "title": "Kreće lavina kakvu Infantino nije ni sanjao: UEFA priprema tužbu, leđa mu okrenuli i - Englezi!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uefa-prijeti-tuzbom-i-bojkotom-zbog-ffe-plana-raste-pritisak-na-infantina-15733729",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39374384_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
