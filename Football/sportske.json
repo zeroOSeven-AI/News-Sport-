@@ -1,8 +1,8 @@
 [
     {
-        "title": "Doznajemo: Vatreni je velika želja jednog od najbogatijih klubova Premier lige! Promjena trenera rezultirala je snažnim interesom za našeg veznjaka, no u Španjolskoj ga vide kao ‘vuka predvodnika‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/jaissle-newcastle-luka-sucic-transfer-real-sociedad-15733981",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/04/k_33964667_640.jpg",
+        "title": "Skandal u Sloveniji! Hrvat proživljava kaos: ‘Nazivaju me ustašom, prijete, spominju i obitelj‘ ‘Nisam ovo zaslužio. Oni koji misle da je u redu ovako vrijeđati, ne trebaju ni podržavati klub. Sve se može riješiti na ljepši način‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/fran-tomek-govor-mrznje-uvrede-prijetnje-tifozi-kosera-15734082",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/04/k_39385600_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -12,9 +12,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Luka Modrić izazvao delirij na drugoj strani svijeta! Hrvatska pjesma orila se dvoranom",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/modric-ovacije-hrvati-perth-burswood-milan-australija-15734002",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/04/k_39379105_640.png",
+        "title": "Odrekao se oca i Porschea i postao ‘duh‘, ima bazen u obliku križa, a nesretna obitelj doživotno pati",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/atletika/oscar-pistorius-zivot-nakon-zatvora-waterkloof-pudla-sigurnost-15734069",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/04/k_39385529_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,9 +24,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Mirko Filipović zgrožen scenama u Beogradu: ‘Jezivo, strava! Što ljudi rade za sitnu lovu...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/borilacki-sportovi/borilackisportovi-ostalo/ufc-beograd-rekordni-prekidi-cro-cop-kritizira-power-slap-15734012",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/04/k_38355199_640.jpg",
+        "title": "Hrgović boksa za naslov svjetskog prvaka!",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/boks/hrgovic-boksa-za-naslov-svjetskog-prvaka-15734035",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/04/k_39127342_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,9 +48,81 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Mirko Filipović zgrožen scenama u Beogradu: ‘Jezivo, strava! Što ljudi rade za sitnu lovu...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/borilacki-sportovi/borilackisportovi-ostalo/ufc-beograd-rekordni-prekidi-cro-cop-kritizira-power-slap-15734012",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/04/k_38355199_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Već ga otpisuju, uvjereni su u ‘novog Tysona‘, ali Hrgović može pokvariti veliki engleski plan!",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/englezi-sanjaju-novog-kralja-teske-kategorije-ali-hrgovic-bi-im-sve-mogao-unistiti-15734062",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/04/k_39385443_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Doznajemo: Vatreni je velika želja jednog od najbogatijih klubova Premier lige!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/jaissle-newcastle-luka-sucic-transfer-real-sociedad-15733981",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/04/k_33964667_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "City donio odluku o Kovačiću? Hrvatski veznjak otkrio što su mu poručili",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kovacic-city-racuna-na-mene-bez-novog-ugovora-juventus-inter-zainteresirani-15734042",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/04/k_38137325_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "UŽIVO: Hrvatski reprezentativac na meti velikana, nova senzacija Andyja Bare, City kreće po vratara",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-sopic-dobio-veliko-pojacanje-stigao-donedavni-ratnik-poljuda-zlocesti-decko-seli-u-arabiju-15733982",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39077128_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Kek pronašao nasljednika Tonija Fruka. Jedna stvar na Rujevici i dalje nikome nije jasna",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/kek-vraca-jankovica-i-otkljucava-rukavinu-rijeka-raste-i-nize-pobjede-15733972",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39380260_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Luka Modrić izazvao delirij na drugoj strani svijeta! Hrvatska pjesma orila se dvoranom",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/modric-ovacije-hrvati-perth-burswood-milan-australija-15734002",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/04/k_39379105_640.png",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,9 +156,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Jučer je stigao, a već danas ide u akciju na Maksimir? Sopić registrirao donedavnog hajdukovca",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kauno-zalgiris-registrirao-anthonyja-kalika-ispred-dinama-debeljuh-u-kadru-15733992",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/04/k_31666061_640.jpg",
+        "title": "Doznajemo: Senzacionalna vijest s Maksimira, Dinamo besplatno dovodi mladu zvijezdu prvaka Europe!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-noah-nsoki-psg-transfer-bez-odstete-ugovor-2031-5050-15733679",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39267125_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,43 +168,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Gdje gledati Dinamo - Kauno Žalgiris? Litavski klubovi Modrima do sada nisu pravili probleme",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-protiv-zalgirisa-dominacija-maksimir-beljo-sopic-15733958",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39357518_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Borilački svijet zavijen u crno: Preminuo je UFC-ov borac Allan Nascimento",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/mma-svijet-zavijen-u-crno-preminuo-je-ufc-ov-borac-allan-nascimento-15733974",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/04/k_39384920_640.png",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Klela se da to nije istina, a sada sve otkrila! Šokantno priznanje bivše ministrice Francuske",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/buffet-priznanje-obustava-dopinskih-testova-sp-1998-zidane-francuska-hrvatska-15733967",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39384896_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Dinamu ogromne šanse, crni scenarij za Hajduk i Rijeku: Ovo je prognoza superračunala",
+        "title": "Dinamu ogromne šanse, crni scenarij za Hajduk i Rijeku: Ovo je prognoza superračunala Projekcija Football Meets Data daje Modrima 85% protiv Kauno Žalgirisa, Hajduku 81 posto, a Rijeci 76 posto šansi za prolazak",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/superracunalo-dinamo-liga-prvaka-hajduk-rijeka-ispadaju-football-meets-data-15733969",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39357568_640.jpg",
         "w": 640,
@@ -156,9 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Doznajemo: Senzacionalna vijest s Maksimira, Dinamo besplatno dovodi mladu zvijezdu prvaka Europe!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-noah-nsoki-psg-transfer-bez-odstete-ugovor-2031-5050-15733679",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39267125_640.jpg",
+        "title": "Otkriven pakleni plan Viniciusa Juniora: Želi ‘prevariti‘ sustav i zgrnuti milijune od Reala",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/vinicius-megabonus-ekspluzivna-prava-na-imidz-real-madrid-ugovor-15733938",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39346412_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -168,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Dinamo ga je već otpisao, bio je na pragu rivala, a onda je Kovačević rekao - ne, mora ostati! Trener Ilija Lončarević i novinar Sportskih novosti Davorin Olivari prokomentirali su otvorenje HNL-a",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/var-soba-dinamo-rotacije-kacavenda-rijeka-istra-lokomotiva-analiza-prvo-kolo-15733878",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39357162_640.jpg",
+        "title": "Bivši Vatreni udario po Garciji: ‘Ovo je sramota! Uvijek mu je sve dobro, mora biti realniji‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/vejic-kritizira-hajduk-hvali-stojkovica-dinamo-rijeka-varazdin-shnl-15733919",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39333891_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Skandal u kultnom klubu: Gazdi zbog optužbi za seksualno nasilje poručili da ne dolazi na utakmice",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sullivan-odbija-izostanak-s-tribina-nakon-optuzbi-u-west-hamu-15733941",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_37516416_640.jpg",
+        "title": "Objava svjetskog prvaka šokirala Španjolsku: ‘Jadni gade, prokleti štakore! Nemaš trunke srama‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/borja-iglesias-proziva-fifu-trpi-prijetnje-aktivizam-ceuta-15733885",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39383342_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,45 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Emotivan oproštaj zvijezde Hajduka: ‘Danima već smišljam što reći... Tako je sudbina htjela‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/burke-oprostaj-hajduk-poruka-navijacima-192-nastupa-2-kupa-15733901",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_37303208_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Ispao s Dalićevog popisa, a sada je pred velikom odlukom: ‘Hell City‘ ili Heliopolis",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/prvi-strijelac-momcadi-koja-ispada-iz-lige-ivanovic-radije-bira-drugu-vrstu-pakla-15733928",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_38562181_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Tko prijeti Dinamu na zadnjoj stepenici do sna? Za renesansu je zaslužan i Hrvat",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/europska-liga/trenerski-dvojac-vratio-naslov-vikingu-nakon-34-godine-posta-15733930",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39382553_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Garcia drži Hajduk u šaci, tko mu je ovo dozvolio? Što vodstvo kluba uopće radi...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/var-soba-analiza-1-kola-hnl-hajduk-kriza-dinamo-rotacije-istra-spektakl-15733854",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39374833_640.jpg",
+        "title": "Evo s kim Kovačević napada Sopića! Trener Modrih ovog se igrača ipak neće odreći",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-kauno-zalgiris-postava-rotacije-perez-vinlof-kacavenda-zajc-15733905",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/02/k_39372091_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
