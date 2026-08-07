@@ -1,6 +1,18 @@
 [
     {
-        "title": "U povijesnoj večeri Hajduka rodio se ‘ŠŠŠ‘ trozubac! Navijači su oduševljeni, a sada je na redu Gonzalo Garcia Pet golova, četiri strijelca, a Michele Šego, Marin Šotiček i Anđelo Šutalo glavna su tema hajdučkoga puka",
+        "title": "‘Dinamo je najveći hrvatski klub, on je za mog sina sve! Oduševilo ga je to ‘nikad ne odustaj, nema predaje...‘ Miguel Olmo otkriva kako je zagrebački klub oblikovao Danija i zašto hrvatski nogomet cijeni natjecateljski duh bez predaje.",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/miguel-olmo-dinamo-je-za-danija-sve-od-maksimira-do-barcelone-15734861",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/05/k_39393291_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "U povijesnoj večeri Hajduka rodio se ‘ŠŠŠ‘ trozubac! Navijači su oduševljeni, a sada je na redu Gonzalo Garcia",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-razbio-zalgiris-trozubac-sego-soticek-sutalo-petarda-15734838",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/06/k_39333640_640.jpg",
         "w": 640,
@@ -24,6 +36,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "‘Razbacuju‘ se novcem, još jedan Hrvat iskoristio ‘rupu‘ u pravilima! S 24 godine postao student",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/jos-jedan-kadetski-prvak-europe-iskoristio-rupu-u-pravilima-i-s-24-godine-postao-student-15734871",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/07/k_38251159_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Preokret u životnoj drami Luke Dončića. Anamaria traži 50 milijuna dolara i zabranu koja bi mogla shrvati zvijezdu",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/goltes-tuzi-u-sloveniji-trazi-50-milijuna-od-luke-doncica-15734828",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/06/k_38898117_640.jpg",
@@ -36,9 +60,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Slijede drame i padaju rekordi: Ljetni kaos tek počinje, a ovo je deset zvijezdi koje će obilježiti priču",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/real-madrid-rekord-diomande-ljetni-transferi-rodri-vinicius-barcola-15734840",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/06/k_39366295_640.jpg",
+        "title": "Malo je onih koje će ovo iznenaditi, evo tko čvrsto stoji uz Infantina! Dok svijet kipti od bijesa, oni su oduševljeni",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/afa-podrzava-giannija-infantina-nakon-povlacenja-plana-o-prodaji-sp-a-15734848",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/07/k_39374382_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -60,6 +84,66 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Dvojica Vatrenih mijenjaju klubove: Jedan ima tri ponude, drugog klub pušta bez odštete?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sutalo-ajax-tri-ponude-benfica-premier-liga-odlazak-15-milijuna-bonusi-15734849",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/06/k_39189558_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Važne pobjede Rijeke i Hajduka! Sjajan europski tjedan Hrvatskoj donio novi rast, evo gdje se sada nalazimo",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hrvatska-napredovala-uefina-ljestvica-pobjede-dinama-hajduka-rijeke-15734862",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/07/k_39395478_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Kek nezadovoljan unatoč pobjedi: ‘Umjesto da odmah sve riješimo, ostavili smo upitnike za uzvrat!‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rijeka-ilves-1-0-kek-nezadovoljan-realizacijom-i-energijom-uzvrat-finska-15734864",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/07/k_39395861_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Garcia je u Litvi morao zamijeniti stopera, stigle su prve informacije o njegovoj ozljedi",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-razbio-zalgiris-5-2-u-vilniusu-prekinuo-gostujuci-europski-post-15734853",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/07/k_39379630_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Slijede drame i padaju rekordi: Ljetni kaos tek počinje, a ovo je deset zvijezdi koje će obilježiti priču",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/real-madrid-rekord-diomande-ljetni-transferi-rodri-vinicius-barcola-15734840",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/06/k_39366295_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Dinamo im je radio što je htio: Slaven će u nedjelju ipak morati pokazati znatno više nego na Maksimiru",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/slaven-belupo-varazdin-trazi-reakciju-nakon-poraza-od-dinama-15734843",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/06/k_39372595_640.jpg",
@@ -72,9 +156,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "U Hrvatskoj ćete teško pronaći čovjeka poput njega! Rijeka više nije samo Fruk, na potezu je - Damir Mišković",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kek-rijeka-cetiri-pobjede-nova-hijerarhija-bez-ovisnosti-o-fruku-15734816",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/06/k_39395678_640.jpg",
+        "title": "Doznajemo: Senzacionalna vijest s Maksimira, Dinamo besplatno dovodi mladu zvijezdu prvaka Europe!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-noah-nsoki-psg-transfer-bez-odstete-ugovor-2031-5050-15733679",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39267125_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,43 +168,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Ovakav Hajduk se dugo ne pamti, kao da je u Litvu stigao Real! Sada je ovo najvažnije pitanje sezone",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-razbio-zalgiris-5-2-u-vilniusu-dominacija-i-put-prema-play-offu-15734794",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/06/k_38975154_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Sjajna partija Jankovića, statično izdanje napadača, a talent jednog asa ostao je ‘u ladici‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rijeka-ilves-1-0-ocjene-igraca-jankovic-gol-kvalifikacije-konferencijska-liga-15734821",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/06/k_39395801_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Heroj Rijeke odgovorio na pitanje o Keku i zavapio: ‘Nisam zadovoljan, trebalo je to biti više razlike‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rijeka-ilves-jankovic-gol-krkalic-rujevica-konferencijska-liga-15734826",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/06/k_39395477_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Rijeka do pobjede spektakularnim pogotkom Jankovića, konačna odluka ipak pada u Finskoj",
+        "title": "VIDEO: Rijeka do pobjede spektakularnim pogotkom Jankovića, konačna odluka ipak pada u Finskoj Riječani su dvoboj zaključili s 23 udarca prema vratima, dok su Finci imali samo tri",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-rijeka-ilves-15734770",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/06/k_39395480_640.jpg",
         "w": 640,
@@ -156,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Doznajemo: Senzacionalna vijest s Maksimira, Dinamo besplatno dovodi mladu zvijezdu prvaka Europe!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-noah-nsoki-psg-transfer-bez-odstete-ugovor-2031-5050-15733679",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39267125_640.jpg",
+        "title": "DOZNAJEMO Senzacionalno pojačanje stiglo u Zagreb, evo kad potpisuje za Dinamo! Neočekivani problem za Rusa",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-noah-nsoki-besplatni-transfer-iz-psg-ugovor-2031-kravcov-viza-15734790",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/06/k_39387193_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -168,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hrvat dobio odgovor, spominje se i kriminal, u sve upletena i zvijezda iz susjedstva: ‘Vrijeđali smo ga, ali...‘ Navijači Kopera tvrde da nemaju ništa protiv Tomeka, već da je on samo ‘točka na i‘ kampanji blaćenja koju režiraju Josip Iličić i Josip Vidović",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sukob-u-koperu-fran-tomek-uvrede-navijaci-odgovor-prozivke-josip-ilicic-15734809",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/06/k_39394588_640.jpg",
+        "title": "Bivši hajdukovac bio u čudu zbog navijača, Šego otkrio tajnu: ‘Dosta smo pričali ovih dana...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-razbio-zalgiris-52-vilnius-sego-dva-gola-slobodnjak-play-off-15734813",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/06/k_39333634_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,57 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Evo kolika zarada čeka Hajduk ako se ne dogodi kataklizma! Tek onda kreće lov na ‘jackpot‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-razbio-zalgiris-5-2-nadomak-play-offa-konferencijske-lige-15734800",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/06/k_39333290_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Prolaz Hajduka samo je pitanje formalnosti! Bijeli raspucani u Litvi, mrežu Žalgirisa napunili su do vrha",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-zalgiris-vilnius-hajduk-garcia-promijesao-karte-prvi-start-sezone-za-povratnika-sa-sp-a-i-veliko-pojacanje-15734743",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/06/k_39333636_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Poraz Dinama u drami protiv Juvea! Modri primili tri gola u prvih pola sata, legenda dirigirala s klupe",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-juventus-2-3-mladen-ramljak-maksimir-urbano-ban-zirdum-15734797",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/06/k_39395357_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Majstorija Pjace, momčad zabila i više od Hajduka! Bivši dinamovac prekinuo sušu nakon pola godine",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/pjaca-prekida-susu-golom-za-20-twente-dac-1904-konferencijska-liga-15734783",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/06/k_39395277_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Pojačanje na koračić od Dinama, Vinicius prelomio o nastavku karijere, preokret oko Hrvata",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-propao-transfer-vatrenog-u-premier-ligu-sergej-jakirovic-dobio-najskuplje-pojacanje-u-povijesti-kluba-15734498",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/05/k_39077128_640.jpg",
+        "title": "FOTO Jedan od najvećih sa suprugom stigao na ljetovanje u Hrvatsku: ‘Ovamo se uvijek rado vraćam‘",
+        "link": "https://sportske.jutarnji.hr/sportske/tenis/tenis-mix/roger-federer-mali-losinj-cikat-matsunoki-jahta-ivan-ljubicic-15734780",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/06/k_39395203_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
