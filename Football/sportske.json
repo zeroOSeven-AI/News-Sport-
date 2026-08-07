@@ -1,8 +1,44 @@
 [
     {
-        "title": "Konačno u eliti! Ne samo da je najplaćeniji Hrvat u povijesti, evo gdje je Dalić na svjetskoj listi Odmah iza njega su Fabio Cannavaro (Uzbekistan) s plaćom od 4,08 milijuna i argentinski izbornik Lionel Scaloni s 3,04 milijuna eura godišnje",
+        "title": "‘Obitelj mu je za Dinamo, a on je postao gorljivi hajdukovac. Rekao sam - budi bezobrazniji!‘ Nekadašnji nogometaš i dopisnik Sportskih novosti objašnjava zašto Šotiček nije uspio u Baselu i kako će se uklopiti u splitski klub",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/maricic-otkriva-zasto-je-soticek-procvjetao-u-hajduku-nakon-basela-15735036",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/07/k_39398210_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Konačno u eliti! Ne samo da je najplaćeniji Hrvat u povijesti, evo gdje je Dalić na svjetskoj listi",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/dalic-preuzima-uae-rekordna-placa-5-milijuna-najplaceniji-hrvatski-trener-15734994",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/06/k_39125342_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Veliko priznanje, Hrvat na klupi Barcelone! ‘Osjećam veliki ponos, ovo je za mene ispunjenje sna‘",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/basket-euroliga/slovenskom-izborniku-na-klupi-barcelone-asistirat-ce-hrvatski-strucnjak-15735029",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/07/k_39398568_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Težak skandal trese savez: Sucima plaćali seksualne usluge i masaže sa ‘sretnim završetkom‘?!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/tezak-skandal-trese-savez-sucima-placali-seksualne-usluge-i-masaze-sa-sretnim-zavrsetkom-15735042",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/07/k_38053588_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -120,42 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Na šahovskom turniru pravni spor nakon kontroverze, a igrači polomili sedam stolaca!",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/chess/spektakularni-mars-kraljeva-u-splitu-i-pravni-spor-nakon-kontroverze-15734995",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/06/k_39393725_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Kaos po povratku s Mundijala! Policija upala u prostorije saveza reprezentacije koja je lovila i Zlatka Dalića",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/policija-upala-u-juznokorejski-nogometni-savez-istraga-imenovanja-honga-myung-boa-15734981",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/06/k_39394552_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "HNS oštro osudio napad na suca u Osijeku: ‘Ne postoji opravdanje za fizički napad‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hns-osuduje-napad-na-suca-tihomira-pejina-u-osijeku-15734976",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/07/k_36423955_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Doznajemo: Senzacionalna vijest s Maksimira, Dinamo besplatno dovodi mladu zvijezdu prvaka Europe!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-noah-nsoki-psg-transfer-bez-odstete-ugovor-2031-5050-15733679",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39267125_640.jpg",
@@ -168,7 +168,43 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Kraj jedne ere: Krajač više nije glavni tajnik, razriješeni svi direktori Mi ćemo sada postaviti vršitelje dužnosti koji će voditi Hrvatski olimpijski odbor, a ubrzo ćemo raspisati javne natječaje za glavnog tajnika i izabrati nove direktore - rekao je Varvodić",
+        "title": "‘Dinamo je najveći hrvatski klub, on je za mog sina sve! Oduševilo ga je to ‘nikad ne odustaj, nema predaje...‘ Miguel Olmo otkriva kako je zagrebački klub oblikovao Danija i zašto hrvatski nogomet cijeni natjecateljski duh bez predaje.",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/miguel-olmo-dinamo-je-za-danija-sve-od-maksimira-do-barcelone-15734861",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/05/k_39393291_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Mladi hajdukovci imali pobjedu protiv Ajaxa pa primili gol u posljednjoj minuti",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-ajax-mladena-ramljaka-ruso-bralic-de-baat-22-15734959",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/07/k_39393865_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Poništeni izbori u jednom od najtrofejnijih klubova Hrvatske! Modrićev kum izgubio, utvrđen nevjerojatan propust",
+        "link": "https://sportske.jutarnji.hr/sportske/tenis/tenis-mix/ponisten-izbor-htk-zagreb-14-spornih-glasova-nepravilnosti-15734879",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/07/k_35577119_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Kraj jedne ere: Krajač više nije glavni tajnik, razriješeni svi direktori",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/hoo/kraj-jedne-ere-krajac-vise-nije-glavni-tajnik-iz-hoo-a-odlaze-i-direktori-15734914",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/07/k_38966240_640.jpg",
         "w": 640,
@@ -192,45 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Razbacuju‘ se novcem, još jedan Hrvat iskoristio ‘rupu‘ u pravilima! S 24 godine postao student",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/jos-jedan-kadetski-prvak-europe-iskoristio-rupu-u-pravilima-i-s-24-godine-postao-student-15734871",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/07/k_38251159_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "U povijesnoj večeri Hajduka rodio se ‘ŠŠŠ‘ trozubac! Navijači su oduševljeni, a sada je na redu Gonzalo Garcia",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-razbio-zalgiris-trozubac-sego-soticek-sutalo-petarda-15734838",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/06/k_39333640_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Preokret u životnoj drami Luke Dončića. Anamaria traži 50 milijuna dolara i zabranu koja bi mogla shrvati zvijezdu",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/goltes-tuzi-u-sloveniji-trazi-50-milijuna-od-luke-doncica-15734828",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/06/k_38898117_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Malo je onih koje će ovo iznenaditi, evo tko čvrsto stoji uz Infantina! Dok svijet kipti od bijesa, oni su oduševljeni",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/afa-podrzava-giannija-infantina-nakon-povlacenja-plana-o-prodaji-sp-a-15734848",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/07/k_39374382_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
