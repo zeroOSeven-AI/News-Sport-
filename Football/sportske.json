@@ -1,8 +1,32 @@
 [
     {
-        "title": "Ovo je jedina mrlja u povijesnoj večeri Hajduka! Garcia mladog aduta šalje na posudbu? Alec Van Hoorenbeeck se uhvatio za stražnju ložu, a zamijenio ga je Ron Raci, dok Marino Skelin uopće nije bio u zapisniku za utakmicu",
+        "title": "Hrvatska dobila ‘jednog od najvećih talenata ikad‘! Već sa šesnaest godina zaigrat će Bundesligu za Bayern Trener Bayerna Vincent Kompany smatra da je Pavić najveći stoperski talent koji je vidio",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/filip-pavic-16-godisnji-stoper-prema-prvoj-momcadi-bayerna-15735109",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/07/k_38979454_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Ovo je jedina mrlja u povijesnoj večeri Hajduka! Garcia mladog aduta šalje na posudbu?",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/garcia-radi-rekonstrukciju-obrane-raci-u-prvom-planu-van-hoorenbeeck-ozlijeden-skelin-posudba-15735092",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/07/k_39304634_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Nacija u zanosu, slični su Kovačevićevom Dinamu, a već su ponizili hit-momčad! Modrima neće biti lako",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/liga-prvaka/i-dinamo-i-viking-nadahnuce-traze-u-bodo-glimtu-15735116",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/06/k_39387611_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -132,30 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Težak skandal trese savez: Sucima plaćali seksualne usluge i masaže sa ‘sretnim završetkom‘?!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/tezak-skandal-trese-savez-sucima-placali-seksualne-usluge-i-masaze-sa-sretnim-zavrsetkom-15735042",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/07/k_38053588_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Ulaznice za najveći sportski spektakl lete i po rekordnim cijenama! Tribine će gorjeti od navale",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/la-2028-ulaznice-rekordne-cijene-rasprodano-tribine-pune-15735053",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/05/k_34887263_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Doznajemo: Senzacionalna vijest s Maksimira, Dinamo besplatno dovodi mladu zvijezdu prvaka Europe!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-noah-nsoki-psg-transfer-bez-odstete-ugovor-2031-5050-15733679",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39267125_640.jpg",
@@ -168,7 +168,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Brutalno pretučen poznati nogometni sudac! Udarali ga palicama, pronađen je kako leži na cesti Dvojica maskiranih napadača presrela su ga na trčanju i pretukla teleskopskim palicama, policija istražuje pozadinu",
+        "title": "Drama u Sarajevu, ‘krivac‘ ipak nije Dino Merlin. Navijači bijesni: ‘Ovo nećemo tolerirati!‘ Odbora za natjecanje NS/FS BiH odlučio je kako FK Sarajevo ne može igrati domaće utakmice na Koševu zato što teren ne ispunjava minimalne uvjete natjecanja",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sarajevo-igra-u-mostaru-kosevo-ne-prolazi-kriterije-horde-zla-bojkot-15735007",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/07/k_35396321_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Mene veseli Hezonjin povratak u NBA, nadomjestit ćemo ga i onda svi zajedno ići na SP‘",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-reprezentacija/mene-veseli-hezonjin-povratak-u-nba-nadomjestit-cemo-ga-i-onda-svi-zajedno-ici-na-sp-15735025",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/07/k_39149492_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Brutalno pretučen poznati nogometni sudac! Udarali ga palicama, pronađen je kako leži na cesti",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/var-sudac-tihomir-pejin-napadnut-u-osijeku-wilsonova-ulica-15734925",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/07/k_34894105_640.jpg",
         "w": 640,
@@ -207,30 +231,6 @@
         "title": "Skandal u Engleskoj: Reprezentativac ‘divljao‘ u noćnom klubu i prebio čovjeka? ‘Šokiran je‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/ivan-toney-optuzen-za-napad-u-sohou-rociste-u-rujnu-15734986",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/07/k_39236840_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Kaos po povratku s Mundijala! Policija upala u prostorije saveza reprezentacije koja je lovila i Zlatka Dalića",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/policija-upala-u-juznokorejski-nogometni-savez-istraga-imenovanja-honga-myung-boa-15734981",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/06/k_39394552_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Dinamo je malo pao, imao je financijskih problema, a transfer je velika stvar i za cijeli ruski nogomet‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-dovodi-kiril-kravcov-skaut-hvali-potez-i-najavljuje-brzu-prilagodbu-15734895",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/06/k_39370534_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
