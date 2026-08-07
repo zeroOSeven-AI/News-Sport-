@@ -1,6 +1,18 @@
 [
     {
-        "title": "‘Obitelj mu je za Dinamo, a on je postao gorljivi hajdukovac. Rekao sam - budi bezobrazniji!‘ Nekadašnji nogometaš i dopisnik Sportskih novosti objašnjava zašto Šotiček nije uspio u Baselu i kako će se uklopiti u splitski klub",
+        "title": "Nije samo Zlatko Dalić! Pao prvi službeni potpis u najezdi Hrvata, evo tko je stigao na klupu Emiraćana Dogovor postignut: Bišćan vodi U-23 i gradi vertikalu s A selekcijom do Svjetskog prvenstva 2030.",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/igor-biscan-preuzima-u-23-reprezentaciju-uae-dalic-projekt-vertikala-15735063",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/07/k_30107905_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Obitelj mu je za Dinamo, a on je postao gorljivi hajdukovac. Rekao sam - budi bezobrazniji!‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/maricic-otkriva-zasto-je-soticek-procvjetao-u-hajduku-nakon-basela-15735036",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/07/k_39398210_640.jpg",
         "w": 640,
@@ -72,6 +84,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "UŽIVO: Hajdukovac napustio Poljud, čeka se velika vijest s Maksimira. Turci krenuli po zvijezdu Arsenala",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-mladi-hrvat-potpisao-za-talijanskog-prvoligasa-pojacanje-na-koracic-od-dinama-15734846",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/06/k_39077128_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Hrvatski dragulj zablistao u Europi: ‘Jednog dana može postati najveći transfer u povijesti kluba‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/adriano-jagusic-panathinaikos-golovi-desetka-nestrup-rekordni-transfer-15735014",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/07/k_39028975_640.jpg",
@@ -87,18 +111,6 @@
         "title": "Oglasio se pretučeni sudac Tihomir Pejin",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/napad-na-tihomira-pejina-u-osijeku-var-sudac-direktor-zracne-luke-15734943",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/07/k_34892599_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "UŽIVO: Dinamo na pragu novog transfera, bliži se potvrda! City odbio ponudu Barcelone za Rodrija",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-mladi-hrvat-potpisao-za-talijanskog-prvoligasa-pojacanje-na-koracic-od-dinama-15734846",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/06/k_39077128_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -144,18 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Infantino se posuo pepelom pa odmah zaprijetio: Neću trpjeti napade na integritet Fife!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/infantino-se-posuo-pepelom-pa-odmah-zaprijetio-necu-trpjeti-napade-na-integritet-fife-15735020",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/06/k_39392888_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Doznajemo: Senzacionalna vijest s Maksimira, Dinamo besplatno dovodi mladu zvijezdu prvaka Europe!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-noah-nsoki-psg-transfer-bez-odstete-ugovor-2031-5050-15733679",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/03/k_39267125_640.jpg",
@@ -168,7 +168,19 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "HNS oštro osudio napad na suca u Osijeku: ‘Ne postoji opravdanje za fizički napad‘ HNS izražava punu podršku Tihomiru Pejinu te poziva nadležne institucije da utvrde sve okolnosti ovog događaja, identificiraju počinitelje i poduzmu odgovarajuće zakonske mjere",
+        "title": "Kaos po povratku s Mundijala! Policija upala u prostorije saveza reprezentacije koja je lovila i Zlatka Dalića Istraga cilja navodne nepravilnosti i financijski kriminal pri izboru izbornika nakon neuspjeha na Mundijalu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sp2026/ostalo-sp2026/policija-upala-u-juznokorejski-nogometni-savez-istraga-imenovanja-honga-myung-boa-15734981",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/06/k_39394552_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "HNS oštro osudio napad na suca u Osijeku: ‘Ne postoji opravdanje za fizički napad‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hns-osuduje-napad-na-suca-tihomira-pejina-u-osijeku-15734976",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/07/k_36423955_640.jpg",
         "w": 640,
@@ -219,18 +231,6 @@
         "title": "Poništeni izbori u jednom od najtrofejnijih klubova Hrvatske! Modrićev kum izgubio, utvrđen nevjerojatan propust",
         "link": "https://sportske.jutarnji.hr/sportske/tenis/tenis-mix/ponisten-izbor-htk-zagreb-14-spornih-glasova-nepravilnosti-15734879",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/07/k_35577119_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Madrid na nogama nakon epske ‘izdaje‘: ‘S Modrića smo došli na ovo? Florentino, trebamo objašnjenje!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rodri-bira-barcelonu-real-madrid-ostaje-bez-pivota-perez-okrivljen-15734839",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/06/k_39346412_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
