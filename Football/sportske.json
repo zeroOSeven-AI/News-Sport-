@@ -1,6 +1,18 @@
 [
     {
-        "title": "Pretučeni Tihomir Pejin nije tražio poštedu! Iz HNS-a potvrdili, već sutra se vraća na dužnost i kreće u akciju Možda bi netko drugi zamolio da ga se poštedi te obveze, ali on to nije napravio, očito nema potrebe što se tiče ozljeda",
+        "title": "VIDEO: Crnogorci u totalnom šoku! U znak protesta spustli glave tijekom himne u Zagrebu, evo što se krije iza svega Crnogorci su na nepravdu odgovorili spuštanjem glave prilikom intoniranja himne, a još uoči utakmice upućena je žalba",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vaterpolo/crna-gora-u16-ispala-zbog-tpi-formule-unatoc-vise-pobjeda-15735289",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/08/k_39402317_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Pretučeni Tihomir Pejin nije tražio poštedu! Iz HNS-a potvrdili, već sutra se vraća na dužnost i kreće u akciju",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/pejin-ostaje-var-u-koprivnici-nakon-napada-15735279",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/08/k_36788941_640.jpg",
         "w": 640,
@@ -48,6 +60,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "UŽIVO: Ivanović bira između Talijana i Francuza, Fener lovi Lukakua, Liverpool doveo kapetana Barcelone",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-senzacionalan-posao-liverpool-niotkud-doveo-zvijezdu-barcelone-hajdukovac-napustio-poljud-15735139",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/08/k_39077128_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "‘Mi nemamo 30 igrača kao Dinamo, a Garcijina pozitiva je napokon urodila plodom! Penali? Najbolje je imati mangupa‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-petarda-u-vilniusu-soticek-blista-busic-upozorava-playoff-15735278",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/08/k_37988459_640.jpg",
@@ -63,18 +87,6 @@
         "title": "VIDEO Velika tučnjava BBB-a i Torcide u Zagrebu, sudjelovalo 50-ak huligana",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/sukob-bbb-a-i-torcide-parkiraliste-zracne-luke-franjo-tudman-zagreb-15735208",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/08/k_39401674_640.png",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "UŽIVO: Ivanović bira između Talijana i Francuza, Fener lovi Lukakua, Liverpool doveo kapetana Barcelone",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-senzacionalan-posao-liverpool-niotkud-doveo-zvijezdu-barcelone-hajdukovac-napustio-poljud-15735139",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/08/k_39077128_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -144,9 +156,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Rijeka strepi, a pravo stanje još se ne zna: Evo kakva je situacija s ozljedama Fruka i Dantasa",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rijeka-fruk-dantas-uzvrat-ilves-ozljeda-gleznja-matjaz-kek-15735254",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/08/k_39395522_640.jpg",
+        "title": "Bivši trener Dinama bijesan: ‘Zašto dajete krive informacije o meni?! Nemate hrabrosti‘ Odbio medijske tvrdnje da zarađuje četiri milijuna eura godišnje kao izbornik te dodao da osobno pokriva dio troškova stranih stručnjaka u stožeru",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/cannavaro-uzvratio-kriticima-rotacije-vratari-placa-uzbekistan-15735193",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/08/k_36523421_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -156,7 +168,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Strašan udarac! Pogledajte kako je ruski gorostas brutalno nokautirao protivnika za 52 sekunde Bio je to njegov povratak na pobjednički kolosijek nakon poraza od Coreya Andersona u srpnju 2025. godine",
+        "title": "VIDEO Strašan udarac! Pogledajte kako je ruski gorostas brutalno nokautirao protivnika za 52 sekunde",
         "link": "https://sportske.jutarnji.hr/sportske/fightsite/ostalo/video-strasan-udarac-pogledajte-kako-je-ruski-gorostas-brutalno-nokautirao-svog-protivnika-15735198",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/08/k_39401536_640.png",
         "w": 640,
@@ -219,18 +231,6 @@
         "title": "Otkriven uzrok iznenadne smrti NBA košarkaša",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/obdukcija-brandona-clarkea-uzrok-smrti-heroin-kokain-lijekovi-nesretan-slucaj-15735173",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/08/k_39401382_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Rodri im zabio nož u leđa, a Real je sada pronašao novu metu! Ovo će baš svih iznenaditi",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/real-madrid-locatelli-juventus-transfer-nakon-propusta-s-rodrijem-15735152",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/08/k_38449903_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
