@@ -1,8 +1,44 @@
 [
     {
-        "title": "UŽIVO Hajduk - Istra: GOOOL! Pušktas zabio, komentator u šoku: ‘Ovo je doista nevjerojatna pogreška!‘ Utakmicu drugog kola SHNL-a između Hajduka i Istre pratimo i komentiramo iz minute u minutu",
+        "title": "UŽIVO Hajduk - Istra: GOOOL! Istra u prvom udarcu na gol šokirala Bijele i sve vratila na početak Utakmicu drugog kola SHNL-a između Hajduka i Istre pratimo i komentiramo iz minute u minutu",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-hajduk-istra-bijeli-nakon-velike-europske-pobjede-traze-prve-prvu-u-domacem-prvenstvu-15735532",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/09/k_39408257_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Hrvatska je prvak svijeta, nakon drame protiv Srbije u finalu pala Španjolska!",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vaterpolo/najbolje-vaterpoliste-na-svijetu-do-16-godina-ima-hrvatska-15735553",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/09/k_39404513_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Hajduk ekspresno zabio, komentator u šoku: ‘Ovo je doista nevjerojatno!‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rokas-pukstas-treci-zaredom-vodi-hajduk-protiv-istre-1961-15735556",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/09/k_39408294_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Dinamova kapetana tješila i legenda, Badelj nakon ‘debija‘ u Maksimiru poručio: ‘Naježio sam se...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/benkotic-rasplakao-maksimir-badelj-ponosan-na-dinamove-juniore-ajax-slavio-15735551",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/09/k_39395358_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -120,18 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Čovjek je imao slomljenu orbitalnu kost! Zašto ste mu to učinili, ovo je užasan propust!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/covjek-je-imao-slomljenu-orbitalnu-kost-zasto-ste-mu-to-ucinili-ovo-je-strasan-propust-15735520",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/09/k_39099902_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Dragulj Hajduka oduševio skauta: ‘Iznenađen sam što već ne igra u Bundesligi!‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/rokas-pukstas-bundesliga-skaut-antonio-mango-hajduk-ugovor-transfer-15735522",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/09/k_39328434_640.jpg",
@@ -144,9 +168,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Bjelovar dobio organizaciju juniorskog EP u plivanju 2027. godine: ‘Ovo je povijesni trenutak...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vodeni-sportovi/plivanje/bjelovar-dobio-organizaciju-juniorskog-ep-u-plivanju-2027-godine-15735528",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/09/k_37603711_640.jpg",
+        "title": "UŽIVO: Nada Vatrenih ujutro leti za Pariz i potpisuje ugovor! Igor Bišćan ima novi posao Sve najvažnije vijesti s nogometne tržnice pratite na portalu Sportskih novosti",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-ivanovic-odabrao-novi-klub-city-odbio-ponudu-barcelone-argentinac-sprema-izdaju-15735372",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/08/k_39077128_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -156,7 +180,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Neviđena scena! Zabio gol, preskočio ogradu, pao u rupu, a onda je doživio najveći šok Maranhão je zbog ozljede napustio teren početkom drugog poluvremena, a da stvar bude još i gora za njega pobrinuo se VAR koji mu je poništio pogodak zbog zaleđa",
+        "title": "VIDEO: Niko Kovač i društvo srušili Arsenal usred Londona u spektaklu sa pet golova",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/dortmund-pobijedio-arsenal-3-2-osvojio-emirates-kup-penali-5-4-15735517",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/09/k_39406914_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Generalka‘ prije nove ere i pobjeda: Vatreni igrali od prve minute, a Pepov nasljednik ima još otvorenih pitanja",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/city-pobijedio-atletico-3-1-u-seoulu-maresca-najavljuje-promjene-gvardiol-kovacic-15735494",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/09/k_39406994_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Neviđena scena! Zabio gol, preskočio ogradu, pao u rupu, a onda je doživio najveći šok",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/maranhao-slavlje-pad-u-tunel-var-ponistio-gol-coritiba-21-15735501",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/09/k_39407148_640.jpg",
         "w": 640,
@@ -183,54 +231,6 @@
         "title": "Nema više šale, stigao je kraj slobode na Bernabeu! Jose Mourinho uvodi red: Ovo su tri ‘zlatna‘ pravila",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/mourinho-uvodi-tri-stroga-pravila-u-realu-prehrana-tocnost-oporavak-15735456",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/08/k_39337611_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "FOTO: Spektakularne scene u Dubrovniku! Igra Goran Višnjić, navija Zrinka Cvitešić, a pehare dijeli Prkačin",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vaterpolo/igra-goran-visnjic-i-dubrovacki-zupan-navija-zrinka-cvitesic-snima-11-kamera-plus-dron-pehare-dijeli-prkacin-perrone-15735464",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/09/k_39399475_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Pognute glave i ‘smrt sporta‘ u Zagrebu! Razočarana lica prepuna tuge, a sve se znalo mjesecima unaprijed",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vaterpolo/skandal-zagreb-bodovni-sustav-world-aquatics-sp-u16-15735398",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/08/k_39406190_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "FOTO: Engleska zvijezda uživa kao nikad do sada! Šest djevojaka, luksuzna jahta i odmor iz snova",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/rashford-saint-tropez-jahta-hublot-sest-zena-transfer-neizvjesnost-15735424",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/09/k_39125615_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "U Osijeku nisu zaboravili igrati nogomet, bilo je jačih generacija, ali ovoga nije bilo već 30 godina",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/osijek-uvjerljiv-start-omerovic-hat-trick-opus-arena-lokomotiva-15735479",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/09/k_39376418_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
