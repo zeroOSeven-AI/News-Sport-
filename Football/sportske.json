@@ -1,6 +1,30 @@
 [
     {
-        "title": "Greške Hajdukovog dvojca nemoguće je sakriti. Nikome nije jasno što su radili Hajduk koji je još jednom potvrdio onu staru tezu da je najveći neprijatelj sam seb, rollercoster emocija počinje nabijati histeriju",
+        "title": "‘Oni su potpuno zbunjeni! Izgledaju kritično, Hajduk se već oprašta od utrke za titulu‘ \"Govori se: ‘U Europi smo bili dobri‘. Ispao si od Pafosa s 0:4, ma gdje ste bili dobri?! Žalgiris nije bolji od Rudeša\"",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kriza-hajduka-obrana-na-staklenim-nogama-poljud-pod-pritiskom-15735768",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39408259_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Hrvat bi opet mogao biti hit u Engleskoj! Navijači oduševljeni: ‘Klasa, najbolji igrač momčadi‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/segecic-gol-west-hamu-poraz-portsmoutha-navijaci-ovacije-championship-15735741",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39402536_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Greške Hajdukovog dvojca nemoguće je sakriti. Nikome nije jasno što su radili",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-remi-s-istrom-panika-u-obrani-sego-priznao-gresku-garcia-prozvao-neorganiziranost-15735697",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39380008_640.jpg",
         "w": 640,
@@ -24,9 +48,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "FOTO Messi viđen u javnosti prvi put nakon očeve smrti. Antonella ga tješi, pogledajte emotivne kadrove",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/messi-oprostaj-jorge-rosario-intimni-ispracaj-argentina-15735717",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39410551_640.jpg",
+        "title": "Bivši izbornik Hrvatske preuzeo prvake: ‘Da u rosteru imam igrača kakav je bio moj otac, gdje bi mi bio kraj?!‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/horvat-rk-zagreb-obrana-5-1-pojacanja-rogla-liga-prvaka-iskorak-15735778",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/08/k_39394305_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,9 +72,57 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Cibona u neobičnoj situaciji, potpisali ugovor s Amerikancem, ali on ipak ne želi u Zagreb?!",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/aba-liga/pripreme-s-vukovima-zapoceo-i-vukovic-mcgill-sad-ne-bi-u-zagreb-15735756",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39327344_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "FOTO Messi viđen u javnosti prvi put nakon očeve smrti. Antonella ga tješi, pogledajte emotivne kadrove",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/messi-oprostaj-jorge-rosario-intimni-ispracaj-argentina-15735717",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39410551_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Istra se oglasila nakon utakmice s Hajdukom: ‘Oštećeni smo, teško je ostati ravnodušan‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/istra-1961-trazi-jednak-sudacki-kriterij-nakon-hajduka-15735652",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39408785_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Hrvatski reprezentativac i dugogodišnji kapetan Cibone pred potpisom za novi klub",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-reprezentacija/radovcic-prema-becu-15735761",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39090843_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Golmani strahuju, navijači se raduju, novitet u Njemačkoj već izaziva kontroverze",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nova-adidasova-lopta-u-bundesligi-brza-tvrda-izazov-za-vratare-15735746",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/09/k_39408778_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,9 +156,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Ni kriv ni dužan dobio ‘pedalu‘, nije rekao ni riječi, a sada je odveo Hrvatsku na svjetski tron",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vaterpolo/hrvatska-dva-svjetska-zlata-vaterpolo-mladi-u16-u18-15735681",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39409516_640.jpg",
+        "title": "Dragulj Hajduka oduševio skauta: ‘Iznenađen sam što već ne igra u Bundesligi!‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/rokas-pukstas-bundesliga-skaut-antonio-mango-hajduk-ugovor-transfer-15735522",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/09/k_39328434_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,43 +168,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Sjajno otvaranje u Birminghamu, hrvatski rekorder rutinski odradio kvalifikacije",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/atletika/sjajno-otvaranje-u-birminghamu-hrvatski-rekorder-rutinski-odradio-kvalifikacije-15735690",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39410552_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Ogorčenje u Istri, objavili kadar s Poljuda na kojem se sve jasno vidi! ‘Što se događa?‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/istra-1961-video-sporne-odluke-protiv-lokomotive-i-hajduka-15735593",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39408834_640.png",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hajduk izgleda zabrinjavajuće: Garcia će teško riješiti ovaj problem, sve bi moglo potonuti prije rujna",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-garcia-umor-rotacije-ritam-cetvrtak-nedjelja-porazan-start-15735578",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/09/k_39408680_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Zastrašujuća scena, zabio gol pa ‘nestao s lica zemlje‘! A onda je stigao završni udarac",
+        "title": "VIDEO: Zastrašujuća scena, zabio gol pa ‘nestao s lica zemlje‘! A onda je stigao završni udarac Izdržao je svega dvije minute u drugom poluvremenu prije nego što je zbog bolova morao napustiti igru...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/jacy-pao-u-tunel-nakon-slavlja-var-ponistio-gol-coritibe-15735646",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39407148_640.jpg",
         "w": 640,
@@ -156,9 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dragulj Hajduka oduševio skauta: ‘Iznenađen sam što već ne igra u Bundesligi!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/rokas-pukstas-bundesliga-skaut-antonio-mango-hajduk-ugovor-transfer-15735522",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/09/k_39328434_640.jpg",
+        "title": "Damir Mišković progovorio o novom pojačanju i Daliću pa otkrio: ‘Imam dogovor s Frukom‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/miskovic-rijeka-prijelazni-rok-kabadayi-novo-krilo-status-tonija-fruka-15735638",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_37986778_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -168,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Zajamčeni spektakl: Hrvatska bez Sandre, evo tko su naši najjači aduti u Birminghamu Već prvog dana natjecanja u Birminghamu u kvalifikacijama će nastupiti dva naša jaka aduta - Marino Bloudek na 800 metara (11.45) i Filip Pravdica u skoku u dalj (12.30)",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/atletika/hrvatska-u-elitnom-drustvu-europske-kraljice-sportova-i-bez-sandre-nece-biti-tek-prolaznik-15735628",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/08/k_38623062_640.jpg",
+        "title": "Nazvao ju je ‘kur**nom kćeri‘ i sipao niz uvreda, 11 godina kasnije progovorio je o skandalu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/mourinho-u-netflixovu-serijalu-odbija-ispriku-evi-carneiro-i-brani-svoj-postupak-15735605",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_24622435_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hrvatska ima novu zvijezdu, samo nebo joj je granica",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/atletika/zaljubila-se-u-disk-gledajuci-veliku-sandru-ali-koplje-je-bilo-bolji-izbor-i-od-klarineta-15735592",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39149531_640.jpg",
+        "title": "VIDEO: Sramotni transparent i pokliči na Poljudu, a sve je završilo skandiranjem - Uprava, odlazi!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/skandal-na-poljudu-transparent-i-povici-zasjenili-remi-hajduka-istra-15735566",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/09/k_39408542_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,45 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Garciji zabranili odgovoriti na pitanje o povicima! ‘Opet smo primili glupe golove, samo puknemo...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-istra-22-ahmeti-gol-zadnja-sekunda-garcia-kritika-cabello-zadovoljan-15735572",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/09/k_39374835_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Nova drama Hajduka! Livaja ušao, zabio za vodstvo, a Bijeli u zadnjim sekundama primili gol",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-hajduk-istra-bijeli-nakon-velike-europske-pobjede-traze-prve-prvu-u-domacem-prvenstvu-15735532",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/09/k_39408786_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Kakav sam ja idiot bio. To nije ono što radi sportaš, nogometaš, odrastao muškarac...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/brandon-williams-trenira-s-rotherhamom-nakon-uvjetne-kazne-i-pauze-15735582",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/09/k_36533759_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hajduk nije bio dobar, ovaj je igrač bio potpuno van utakmice, ali Pukštasa - pun teren!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/pukstasa-je-pun-teren-a-ovaj-je-hajdukovac-bio-potpuno-van-utakmice-livaja-napokon-zabio-15735569",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/09/k_39408304_640.jpg",
+        "title": "UŽIVO Novi igrač Rijeke: ‘Pričao sam s Vidovićem, očekujte vatromet!‘ Modri šalju ‘pehista‘ na posudbu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-nada-vatrenih-leti-za-pariz-i-potpisuje-ugovor-igor-biscan-ima-novi-posao-15735613",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/09/k_39077128_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
