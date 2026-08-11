@@ -1,8 +1,32 @@
 [
     {
-        "title": "‘Treneru sam spašavao stolicu, a on me prekrižio! Vratit ću se kad njega neće biti‘ ‘Sportski direktor Rozić rekao mi je da me Rudež ne želi. Onda je Rudež kazao da me ne želi sportski direktor. Priča baš i ne pije vodu...‘",
+        "title": "Zbog čega je Dinamo toliko uspješan? U Maksimiru imaju savršeni recept, ali postoji ozbiljan problem Dinamo je godinama dobro živio od UEFA-inih nagrada, te od transfera vlastitih mladih igrača, odnosno nogometaša koji su u tinejdžerskim danima došli u Maksimir",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uefa-kvote-skratile-dinamov-a-popis-manjak-domacih-igraca-15736105",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/09/k_39356858_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Treneru sam spašavao stolicu, a on me prekrižio! Vratit ću se kad njega neće biti‘",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-reprezentacija/rudezu-sam-vise-puta-tijekom-sezone-spasavao-stolicu-kad-ga-se-zeljelo-smijeniti-a-na-koncu-me-prekrizio-15736070",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_39090843_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Drama poznatog novinara, izvijestio o transferu Bayerna pa ga uhitila policija! ‘Ne priznajem optužbe...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uhicenje-novinara-objava-o-musiali-galatasaray-policija-transfer-15736110",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_38505879_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -27,6 +51,30 @@
         "title": "VIDEO Nova snimka velike tučnjave u zračnoj luci! Boysa duplo više no Torcide, prolaznici u nevjerici",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nova-snimka-sukoba-bad-blue-boys-torcide-zracna-luka-franjo-tudman-zagreb-15736039",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_39414088_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Zagrijavanje motora za bitku sezone: Dinamo u Litvi želi probuditi krila, a ovo je razdoblje i idealna prilika",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-kaunas-zelgiris-rudes-viking-liga-prvaka-uigravanje-15736100",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39387725_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "UŽIVO: Šokantan transfer Romelua Lukakua! Bivši igrač Rijeke u Leicesteru",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-liverpool-i-city-pred-velikim-potpisima-rijeka-predstavila-novog-igraca-15735926",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39077128_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -108,18 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Mladi talent odlazi s Poljuda: Slavio gol Hajduka na Rujevici i postao hit, sada ide u Italiju",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/toni-vukovic-iz-hajduka-potpisao-za-torino-do-2029-transfer-15735994",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_36557362_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Kovačeviću bi jednu zvijezdu bilo pametno ostaviti na klupi. Ovo je 11-orka za novu europsku bitku",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-kaunas-bez-stresa-priprema-za-play-off-lige-prvaka-protiv-vikinga-15735907",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39372595_640.jpg",
@@ -132,9 +168,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Červar detektirao veliki problem i poručio: ‘Reprezentacija? Mi očito ne možemo bez igrača iz Hercegovine‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/lino-cervar-preuzeo-eurofarm-pelister-vraca-se-u-makedoniju-i-gradi-mlade-15735929",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_37854238_640.jpg",
+        "title": "UEFA dovodi VAR u red, vraća se autoritet - sucima! ‘Ovo je nogomet, a ne PlayStation‘ Sudac mora voditi utakmicu, a tehnologija se treba uključivati samo kod očitih i nedvojbenih pogrešaka, rekao je šef UEFA-inih sudaca Roberto Rosseti",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uefa-smanjuje-var-brze-provjere-clear-line-roberto-rosetti-15736005",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_39367729_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -144,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Kaos u klubu, na udaru i Hrvat! Novac curi, uredi prazni, novinari dobivaju pozive, nemaju ni za dres?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kaos-u-klubu-hrvata-novac-curi-na-sve-strane-uredi-prazni-novinari-dobivaju-pozive-nemaju-ni-za-dres-15735948",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_39351784_640.jpg",
+        "title": "Ogorčena zvijezda sve dalje od Barcelone, Katalonci našli ‘zamjenu‘ od 120 milijuna eura!?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/alvarez-zeli-barcelonu-atletico-trazi-500-milijuna-lautaro-kao-rezerva-15735988",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_39178036_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -156,7 +192,19 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Ne želim ni u ludilu ikoga vrijeđati, ali mi Hrvati kao da u sportu imamo mrvicu više sportske inteligencije‘ Drugog dana EP u Parizu u kvalifikacije kreću i sprinteri na 100 slobodno",
+        "title": "Evo gdje gledati Kauno Žalgiris - Dinamo! ‘Plavi‘ su posao odradili, ali moraju ga i završiti",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-potvrda-moci-u-kaunasu-nakon-velikih-50-15735909",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39387580_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Ne želim ni u ludilu ikoga vrijeđati, ali mi Hrvati kao da u sportu imamo mrvicu više sportske inteligencije‘",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vodeni-sportovi/plivanje/nenadic-stotka-slobodno-hrvatski-sprinteri-pariz-hribar-saint-denis-15735913",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39398807_640.jpg",
         "w": 640,
@@ -183,54 +231,6 @@
         "title": "Hribar u polufinalu s hrvatskim rekordom i drugim vremenom kvalifikacija, zajedno s Nenadićem",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vodeni-sportovi/plivanje/hribar-s-hrvatskim-rekordom-i-drugim-vremenom-kvalifikacija-usao-u-polufinale-a-u-koje-se-plasirao-i-nenadic-15735965",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_39411376_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Nakon posljednjih scena na Poljudu sasvim je jasno - HNL (p)ostaje liga za bedake",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/istra-1961-layec-priznao-pogresku-dva-penala-ignorirana-u-splitu-15735872",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39408780_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Trump: On je fantastičan! Ako ga potjerate, Svjetsko prvenstvo više nikad neće biti uspješno i profitabilno",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/trump-brani-infantina-uefa-afc-i-concacaf-traze-ostavku-fifa-15735923",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_39321397_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Može li Dinamo ‘skinuti‘ rekord? Još se pamti drama u avionu: ‘Ćiro je rekao pilotu - moraš sletjeti!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-razbio-zalgiris-5-0-lovi-povijesni-europski-rekord-15735920",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39387171_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Mašina za megatransfere! Na Gvardiolu i Olmu zaradili bogatstvo, a sada su izveli najveći posao u svojoj povijesti",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/diomande-rekordna-prodaja-rb-leipzig-real-madrid-125-milijuna-15735891",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_30082845_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
