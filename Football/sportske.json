@@ -1,6 +1,18 @@
 [
     {
-        "title": "Tuga u Maksimiru, Dinamo potvrdio najgore moguće vijesti! Teške ozljede dvojice dragulja, čeka ih duga pauza U četiri dana razmaka, dva \"klinca\" su možda i završila sezonu već na njenom početku, a imaju samo 18 godina...",
+        "title": "UŽIVO Kauno Žalgiris - Dinamo: Mišić majstorijom povećao vodstvo, Modri ostali s igračem manje! Ivan Filipović isključen je nakon velike pogreške i igranja rukom van Dinamova šesnaesterca",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-kauno-zalgiris-dinamo-stigli-su-sastavi-evo-sto-je-skuhao-kovacevic-mddri-traze-potvrdu-prolaza-15736126",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_39357153_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Tuga u Maksimiru, Dinamo potvrdio najgore moguće vijesti! Teške ozljede dvojice dragulja, čeka ih duga pauza",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-dvostruki-sok-horvat-jurcic-teske-ozljede-koljena-ramljak-15736120",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_38492094_640.jpg",
         "w": 640,
@@ -12,9 +24,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO Kauno Žalgiris - Dinamo: Stigli su sastavi, Modri s najjačim snagama, evo što je ‘skuhao‘ Kovačević!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-kauno-zalgiris-dinamo-stigli-su-sastavi-evo-sto-je-skuhao-kovacevic-mddri-traze-potvrdu-prolaza-15736126",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_39387578_640.jpg",
+        "title": "Pojačanje pred vratima Osijeka, stiže bivši Vatreni? Pola godine bio je bez kluba, a sada bi mogao na Opus Arenu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/osijek-matej-mitrovic-proba-stoper-bessone-15736163",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_32509279_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,6 +60,30 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Sara Kolak: ‘Nakupilo se u meni već dosta iskustva, a najvažniju lekciju sam odavno naučila‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/atletika/nakupilo-se-u-meni-vec-dosta-iskustva-dok-sa-najvazniju-lekciju-odavno-naucila-15736156",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_38788153_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "UŽIVO: Reprezentativac BiH pred transferom karijere, seli u Premier ligu? Lukaku uskoro u Turskoj",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-liverpool-i-city-pred-velikim-potpisima-rijeka-predstavila-novog-igraca-15735926",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39077128_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Poznato je koliko će Hrgović zaraditi u najvećem meču svoje karijere! Pobjedom bi širom otvorio vrata još većoj priči",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/boks/hrgovic-itauma-ibf-naslov-zarada-o2-arena-london-frank-sanchez-15736116",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_39390078_640.jpg",
@@ -63,18 +99,6 @@
         "title": "Drama poznatog novinara, izvijestio o transferu Bayerna pa ga uhitila policija! ‘Ne priznajem optužbe...‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uhicenje-novinara-objava-o-musiali-galatasaray-policija-transfer-15736110",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_38505879_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "UŽIVO: Reprezentativac BiH pred transferom karijere, seli u Premier ligu? Lukaku uskoro u Turskoj",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-liverpool-i-city-pred-velikim-potpisima-rijeka-predstavila-novog-igraca-15735926",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39077128_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -132,30 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Zagrijavanje motora za bitku sezone: Dinamo u Litvi želi probuditi krila, a ovo je razdoblje i idealna prilika",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-kaunas-zelgiris-rudes-viking-liga-prvaka-uigravanje-15736100",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39387725_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Dovest ću Nikolu Jokića, samo se vi smijte! Sanjam ga, ne odlazim nigdje dok ga ne dovedem‘",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/giannakopoulos-dovodim-nikolu-jokica-panathinaikos-denver-rekordni-ugovor-350-milijuna-15736085",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_38833996_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Kovačeviću bi jednu zvijezdu bilo pametno ostaviti na klupi. Ovo je 11-orka za novu europsku bitku",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-kaunas-bez-stresa-priprema-za-play-off-lige-prvaka-protiv-vikinga-15735907",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39372595_640.jpg",
@@ -168,7 +168,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Čovječe, kako ga VAR nije pozvao na pregled?; Suci se trebaju uozbiljiti, dosta je ove lakrdije‘ \"Erceg nije položio ispit, a nije ni VAR soba. Onaj skok i udarac laktom, naravno da je to jedanaesterac. Čak negdje bi to bio i crveni karton\"",
+        "title": "Carević ‘jadikovao‘, klub povukao potez! Stiže sjajan veznjak kojeg je ‘odgajao‘ i Jerko Leko I u sezonama u Prvoj NL bilo je vidljivo da Jakov Pranjić zaslužuje hrvatsku nogometnu elitu, do koje je ipak stigao okolnim putem",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/gorica-dovela-jakova-pranjica-posudba-iz-celja-pojacanje-vezni-red-15736063",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_38142610_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Vušković nakon debija za Brighton: Veselim se igranju Premier lige, ali to nije bio moj najveći san",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/luka-vuskovic-debi-brighton-roma-poljud-transfer-premier-liga-15736042",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_39403197_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Čovječe, kako ga VAR nije pozvao na pregled?; Suci se trebaju uozbiljiti, dosta je ove lakrdije‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/kontroverze-var-kritike-sudenja-remi-hajduk-istra-2-2-poljud-15735954",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39408343_640.jpg",
         "w": 640,
@@ -207,30 +231,6 @@
         "title": "Kaos u klubu, na udaru i Hrvat! Novac curi, uredi prazni, novinari dobivaju pozive, nemaju ni za dres?",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/kaos-u-klubu-hrvata-novac-curi-na-sve-strane-uredi-prazni-novinari-dobivaju-pozive-nemaju-ni-za-dres-15735948",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_39351784_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "UEFA dovodi VAR u red, vraća se autoritet - sucima! ‘Ovo je nogomet, a ne PlayStation‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uefa-smanjuje-var-brze-provjere-clear-line-roberto-rosetti-15736005",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_39367729_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Ogorčena zvijezda sve dalje od Barcelone, Katalonci našli ‘zamjenu‘ od 120 milijuna eura!?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/alvarez-zeli-barcelonu-atletico-trazi-500-milijuna-lautaro-kao-rezerva-15735988",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_39178036_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
