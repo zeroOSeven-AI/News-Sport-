@@ -1,6 +1,30 @@
 [
     {
-        "title": "‘Čovječe, kako ga VAR nije pozvao na pregled?; Suci se trebaju uozbiljiti, dosta je ove lakrdije‘ \"Erceg nije položio ispit, a nije ni VAR soba. Onaj skok i udarac laktom, naravno da je to jedanaesterac. Čak negdje bi to bio i crveni karton\"",
+        "title": "Tko to kaže - evo vam Ćaće? Pa zar trener zaista toliko malo vjeruje Livaji da mu pretpostavlja ovu dvojicu? Rasprodaja svlačionice, novi direktor i stare rane guraju trenera u najteži ispit mandata.",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-garcia-pod-pritiskom-livaja-dzoker-kriza-poljud-15736023",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_39333092_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Nova snimka velike tučnjave u zračnoj luci! Boysa duplo više no Torcide, prolaznici u nevjerici",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nova-snimka-sukoba-bad-blue-boys-torcide-zracna-luka-franjo-tudman-zagreb-15736039",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_39414088_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Čovječe, kako ga VAR nije pozvao na pregled?; Suci se trebaju uozbiljiti, dosta je ove lakrdije‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/kontroverze-var-kritike-sudenja-remi-hajduk-istra-2-2-poljud-15735954",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39408343_640.jpg",
         "w": 640,
@@ -15,6 +39,18 @@
         "title": "Mladi talent odlazi s Poljuda: Slavio gol Hajduka na Rujevici i postao hit, sada ide u Italiju",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/toni-vukovic-iz-hajduka-potpisao-za-torino-do-2029-transfer-15735994",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_36557362_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Kovačeviću bi jednu zvijezdu bilo pametno ostaviti na klupi. Ovo je 11-orka za novu europsku bitku",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-kaunas-bez-stresa-priprema-za-play-off-lige-prvaka-protiv-vikinga-15735907",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39372595_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,7 +84,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Šokantan transfer Romelua Lukakua! Napušta Peticu i odlazi za ‘siću‘",
+        "title": "UŽIVO: Šokantan transfer Romelua Lukakua! Bivši igrač Rijeke u Leicesteru",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-liverpool-i-city-pred-velikim-potpisima-rijeka-predstavila-novog-igraca-15735926",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39077128_640.jpg",
         "w": 640,
@@ -63,18 +99,6 @@
         "title": "UEFA dovodi VAR u red, vraća se autoritet - sucima! ‘Ovo je nogomet, a ne PlayStation‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uefa-smanjuje-var-brze-provjere-clear-line-roberto-rosetti-15736005",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_39367729_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Kovačeviću bi jednu zvijezdu bilo pametno ostaviti na klupi. Ovo je 11-orka za novu europsku bitku",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-kaunas-bez-stresa-priprema-za-play-off-lige-prvaka-protiv-vikinga-15735907",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39372595_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -132,9 +156,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hribar u polufinalu s hrvatskim rekordom i drugim vremenom kvalifikacija, zajedno s Nenadićem",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vodeni-sportovi/plivanje/hribar-s-hrvatskim-rekordom-i-drugim-vremenom-kvalifikacija-usao-u-polufinale-a-u-koje-se-plasirao-i-nenadic-15735965",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_39411376_640.jpg",
+        "title": "Mašina za megatransfere! Na Gvardiolu i Olmu zaradili bogatstvo, a sada su izveli najveći posao u svojoj povijesti Real Madrid platio je 125 milijuna eura i nadmašio sve prijašnje izlazne poslove ovog njemačkog kluba",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/diomande-rekordna-prodaja-rb-leipzig-real-madrid-125-milijuna-15735891",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_30082845_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -144,9 +168,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Nakon posljednjih scena na Poljudu sasvim je jasno - HNL (p)ostaje liga za bedake",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/istra-1961-layec-priznao-pogresku-dva-penala-ignorirana-u-splitu-15735872",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39408780_640.jpg",
+        "title": "VIDEO Haaland odmarao na jahti, a onda ga je ‘snimila‘ ekipa u prolazu: ‘Nikad nisam vidio ništa slično...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/haaland-sicilija-turisticka-atrakcija-jahta-manchester-city-community-shield-15735880",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39411509_640.png",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -156,7 +180,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Spektakl u najavi, kuha se posao koji bi zatresao svijet nogometa! U centru čitave priče je Neymar Brazilac bi nakon Santosa mogao stići u MLS i ponovno ujediniti slavni tercet u završnici karijera",
+        "title": "Spektakl u najavi, kuha se posao koji bi zatresao svijet nogometa! U centru čitave priče je Neymar",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/neymar-inter-miami-2027-messi-suarez-povratak-msn-transfer-mls-15735887",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39411838_640.jpg",
         "w": 640,
@@ -171,18 +195,6 @@
         "title": "Bivši dinamovac i hajdukovac šokirani događajima na Poljudu: ‘Ne znam što se tu trebalo gledati...‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/kontroverze-na-poljudu-istra-ostecena-za-penal-var-bez-reakcije-15735866",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39412154_640.png",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Skupa pogreška Rebecce: Trebala je ljubiti zvijezdu na SP-u, a sada prodaje njegov dres za ‘siću‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rebecca-cooke-prodaje-prepravljene-dresove-engleske-na-vintedu-15735876",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/09/k_39407172_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -219,18 +231,6 @@
         "title": "Hajdukovac impresionirao, poznati skaut oduševljen draguljem: ‘Čini se da mu je ovo jako koristilo‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/david-nachbar-hajduk-junior-odusevio-na-memorijalu-mladena-ramljaka-15735862",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39393856_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Nakon novog posrtaja i bijesa s tribina, stigla je nova objava s Poljuda! Evo što kažu u Hajduku",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-poljud-reakcija-protiv-zalgirisa-potvrda-prolaza-15735854",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39408680_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
