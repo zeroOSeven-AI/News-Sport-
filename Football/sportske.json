@@ -12,7 +12,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Baturina zabio fantastičan gol, jedan od najljepših u karijeri! Pogledajte kakvu je majstoriju izveo",
+        "title": "VIDEO: Baturina zabio fantastičan gol, jedan od najljepših u karijeri, a drugi Hrvat ispao tragičar!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/baturina-gol-za-como-protiv-arsenala-solo-akcija-prijateljska-15736493",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/12/k_39419970_640.jpg",
         "w": 640,
@@ -36,7 +36,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO/VIDEO PSG - Aston Villa: Villa pritiskala, a onda je Doue šokirao Engleze",
+        "title": "VIDEO: Goropadni PSG uzeo prvi trofej sezone! Doue presudio Englezima nakon VAR drame",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/uzivo-psg-aston-villa-englezi-protiv-mocnih-parizana-obje-momcadi-love-drugi-naslov-15736472",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/12/k_39420508_640.jpg",
         "w": 640,
@@ -51,6 +51,18 @@
         "title": "Kamo to Dalić dolazi po novi uspjeh i najveće novce u karijeri? Za svaki gol ide Rolls-Royce...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/zlatko-dalic-najuspjesniji-hrvatski-izbornik-i-sluzbeno-je-postavljen-na-klupu-ujedinjenih-arapskih-emirata-sp-2030-glavni-cilj-invazija-hrvatskih-suradnika-tek-slijedi-15736474",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/12/k_39418998_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Na Stamford Bridgeu slave dolazak ‘gurua mrtve lopte‘! Chelsea u velikom poslu doveo ‘rock-zvijezdu‘ iz sjene",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/chelsea-austin-macphee-strucnjak-za-prekide-revolucija-kornera-15736513",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_39415059_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -144,18 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Garcia najavio promjene u sastavu i poručio: ‘Teško je ovako igrati bilo koji sport, a kamoli nogomet‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-potvrda-prolaza-protiv-zalgirisa-poljud-garcia-silic-15736454",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/12/k_39374835_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Kovačeviću bi jednu zvijezdu bilo pametno ostaviti na klupi. Ovo je 11-orka za novu europsku bitku",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-kaunas-bez-stresa-priprema-za-play-off-lige-prvaka-protiv-vikinga-15735907",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39372595_640.jpg",
@@ -168,9 +168,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Rekao sam sucu da će se obrukati ako barem ne pogleda na snimci tu akciju. Bio sam u pravu‘ Nakon svakog udarca u glavu, neovisno o odluci je li bio prekršaj ili ne, sudac mora istog trenutka prekinuti utakmicu i mi nije jasno zašto to Erceg nije napravio, kaže Hamza Jaganjac",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/komisija-hns-propusten-penal-za-istru-var-trebao-reagirati-15736431",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/12/k_39376050_640.jpg",
+        "title": "UŽIVO: Senzacionalni posao Dinama i najveći transfer Hajduka ovog ljeta! Zvezda nakon debakla ostala bez trenera Sve najvažnije vijesti s nogometne tržnice pratite na portalu Sportskih novosti",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-premierligas-otvorio-pregovore-za-reprezentativca-bih-veliki-transfer-fenerbahcea-15736238",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_39077128_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +180,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Senzacionalni posao Dinama i najveći transfer Hajduka ovog ljeta! Zvezda nakon debakla ostala bez trenera",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-premierligas-otvorio-pregovore-za-reprezentativca-bih-veliki-transfer-fenerbahcea-15736238",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_39077128_640.jpg",
+        "title": "Rakitić se u suzama oprostio od Splita: ‘Ostao sam dužan ‘kantu‘, ali Hajduk živi vječno‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rakitic-oprostaj-split-sevilla-hajduk-zivi-vjecno-15736444",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/12/k_36729198_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Rekao sam sucu da će se obrukati ako barem ne pogleda na snimci tu akciju. Bio sam u pravu‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/komisija-hns-propusten-penal-za-istru-var-trebao-reagirati-15736431",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/12/k_39376050_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -219,18 +231,6 @@
         "title": "Pod Bjelicom je eksplodirao, izgledao kao igrač budućnosti, a sad napušta Dinamo na stražnja vrata",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/procvjetao-u-mandatu-nenada-bjelice-ugasio-se-nakon-teske-ozljede-na-poljudu-15736322",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_35442111_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Skandal u Ligi prvaka! Igrač nakon poraza u tunelu udario zaposlenika protivničkog kluba?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bodo-glimt-union-sg-6-5-incident-u-tunelu-play-off-lige-prvaka-15736392",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/12/k_39418263_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
