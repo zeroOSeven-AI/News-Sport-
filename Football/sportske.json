@@ -1,6 +1,18 @@
 [
     {
-        "title": "Dalić potpisao najbogatiji ugovor u karijeri, pogledajte spektakularno predstavljanje! Sama činjenica da je prilikom predstavljanja posebno istaknuta 2030. godina pokazuje da se ne radi o kratkoročnom angažmanu",
+        "title": "Slavni trener želi Hajdukovog dragulja, na pomolu najveći transfer Bijelih ovoga ljeta! Mladi Kanađanin opet je na listi želja prvaka Škotske, a pregovori bi se mogli otvoriti već ovih dana",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/celtic-otvara-pregovore-za-niku-sigura-iz-hajduka-15736447",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/12/k_35827948_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Dalić potpisao najbogatiji ugovor u karijeri, pogledajte spektakularno predstavljanje!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/zlatko-dalic-novi-izbornik-uae-do-2030-rekordni-ugovor-subasic-ivankovic-15736421",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/12/k_39195275_640.jpg",
         "w": 640,
@@ -12,9 +24,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Slavni trener želi Hajdukovog dragulja, na pomolu najveći transfer Bijelih ovoga ljeta!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/celtic-otvara-pregovore-za-niku-sigura-iz-hajduka-15736447",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/12/k_35827948_640.jpg",
+        "title": "Garcia najavio promjene u sastavu i poručio: ‘Teško je ovako igrati bilo koji sport, a kamoli nogomet‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-potvrda-prolaza-protiv-zalgirisa-poljud-garcia-silic-15736454",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/12/k_39374835_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -27,6 +39,18 @@
         "title": "Pao najveći posao u povijesti sporta, a glavni akter je brat Trumpovog zeta!",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/kushner-iger-kupili-los-angeles-lakerse-rekordnih-12-milijardi-dolara-15736436",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/12/k_39418657_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Skandal trese kultni klub: Policija u službenom autobusu pronašla ogromnu količinu marihuane",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/bolivijska-policija-zaplijenila-86-5-kg-marihuane-u-autobusu-sao-paula-15736461",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/12/k_39418637_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -132,30 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Ozbiljan udarac i žestoka opomena: ‘Neprihvatljivo je izgubiti na ovakav način, ali nema panike...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/baci-nakon-1-4-vjerujemo-u-stozer-i-mlade-najavljuje-poboljsanja-15736411",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_39408051_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Tek sad kreće pravi potres u Zvezdi! Direktor najavio veliki potez: ‘Ako možete bolje, izvolite‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/terzic-prijevremeni-izbori-novi-trener-nakon-poraza-crvene-zvezde-15736372",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/12/k_35973110_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Kovačeviću bi jednu zvijezdu bilo pametno ostaviti na klupi. Ovo je 11-orka za novu europsku bitku",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-kaunas-bez-stresa-priprema-za-play-off-lige-prvaka-protiv-vikinga-15735907",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39372595_640.jpg",
@@ -168,7 +168,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Srbi krivca za debakl Zvezde pronašli u ikoni: ‘Najskuplji, a loš! Čovjek nije ni sjena onog igrača‘ Očekivali su da će praviti razliku i biti vođa momčadi, ali Marko Arnautović zasad nije zadovolji na marakani",
+        "title": "Alen Babić: ‘Hrgović i ja ćemo se boriti! Upisat ću nekoliko dobrih pobjeda i opet ga izazvati‘ Ponajbolji hrvatski boksač koji je van ringa više od dvije godine najavljuje veliki povratak i oživljavanje ideje o borbi s Hrgovićem.",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/alen-babic-hrgovic-i-ja-cemo-se-boriti-upisat-cu-nekoliko-dobrih-pobjeda-i-opet-ga-izazvati-15736403",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/12/k_39418254_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Napravili čudo, izbacili velikana, a Hrvata uspoređuju s Busquetsom: ‘Govorili su to i kad sam igrao za Hajduk‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nejasmic-nec-nijmegen-play-off-lige-prvaka-srusili-olympiacos-slijedi-bodo-glimt-15736266",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/12/k_39417280_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Srbi krivca za debakl Zvezde pronašli u ikoni: ‘Najskuplji, a loš! Čovjek nije ni sjena onog igrača‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/arnautovic-kritike-poraz-crvene-zvezde-hapoel-beer-sheva-stankovic-ostavka-15736353",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/12/k_39417884_640.jpg",
         "w": 640,
@@ -207,30 +231,6 @@
         "title": "Ovo im je jedna od najslabijih generacija otkad su u HNL-u. Ostaje samo utjeha da ima i gorih",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/devetu-sezonu-su-u-hnl-u-a-ovo-im-je-jedna-od-najslabijih-generacija-15736337",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/12/k_39404015_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Praznina u domu Nike Kovača! Hrvat inzistira, Borussia ruši rekord za ‘zvijezdu kakva se rijetko viđa‘?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/borussia-dortmund-55-milijuna-said-el-mala-kovac-karetsas-transfer-15736306",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_26000625_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Kaos na Marakani! Stanković se svađao s tribinama pa dao ostavku, Srbiju šokirao i sramotan potez igrača",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/stankovic-ostavka-zvezda-poraz-od-beer-sheve-europska-liga-15736226",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/12/k_39415941_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
