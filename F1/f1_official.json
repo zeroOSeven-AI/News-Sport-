@@ -1,5 +1,20 @@
 [
     {
+        "title": "Inside the F1 driver’s bubble: The race engineer",
+        "link": "https://www.formula1.com/en/latest/article/inside-the-f1-drivers-bubble-what-does-a-race-engineer-actually-do.QyLxjYSE3cy4ZEoZVSd7W",
+        "image_url": "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Miscellaneous/Driver%20Bubble/Race_engineers_illustration.webp",
+        "w": 2048,
+        "h": 1146,
+        "focus_y": 0.35,
+        "published_at": "2025-08-13T11:33:21.526Z",
+        "author": null,
+        "description": "In our series of features, Formula 1.com is delving into the F1 driver bubble to gain a greater understanding of the lives of those who work closely with the stars of Grand Prix racing. In this piece, Aston Martin Head of Performance Optimisation Ben Michell explains how the key relationship between driver and race engineer works...",
+        "source_title1": "FORMULA 1",
+        "source_title2": "F1",
+        "source_color": "#E10600",
+        "flag": "🇬🇧"
+    },
+    {
         "title": "Damon Hill's 1996 title-winning season remembered",
         "link": "https://www.formula1.com/en/latest/article/remembering-damon-hills-1996-title-part-1-the-making-of-a-unique-f1-champion.3MM6pXjTHOo5ldYdq2NK7A",
         "image_url": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Damon%20Hill%20Feature%201996/1_MELBOURNE%20WIN_AW.webp",
@@ -129,21 +144,6 @@
         "published_at": "2026-08-10T13:59:37.055Z",
         "author": null,
         "description": "At the halfway point of the season, Mercedes lead the Teams' Championship by 72 points, with Kimi Antonelli topping the Drivers' Championship by 50 points.\n",
-        "source_title1": "FORMULA 1",
-        "source_title2": "F1",
-        "source_color": "#E10600",
-        "flag": "🇬🇧"
-    },
-    {
-        "title": "Inside the F1 driver's bubble: The sports psychologist",
-        "link": "https://www.formula1.com/en/latest/article/inside-the-f1-drivers-bubble-the-sports-psychologist.67pP4UmJEJhadvZq5eaM0q",
-        "image_url": "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Miscellaneous/Driver%20Bubble/sports_psychologist_illustration.webp",
-        "w": 2048,
-        "h": 1154,
-        "focus_y": 0.35,
-        "published_at": "2026-08-10T11:29:51.035Z",
-        "author": null,
-        "description": "In this series of features Formula 1.com is delving into the inner circle to gain a greater understanding of those who work closely with the stars of F1. This week, Robbie Anderson of Hintsa Performance explains the role of the sports psychologist.",
         "source_title1": "FORMULA 1",
         "source_title2": "F1",
         "source_color": "#E10600",
