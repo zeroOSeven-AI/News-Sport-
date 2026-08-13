@@ -1,8 +1,20 @@
 [
     {
-        "title": "UŽIVO Ilves - Rijeka: Bijeli propustili najbolju priliku, Devetak iz blizine promašio cijeli gol Momčad Matjaža Keka u prvom je susretu odigranom na Rujevici pobijedila s 1:0, a prednost je to koju će pokušati obraniti u Finskoj",
+        "title": "VIDEO: Rijeka je u play-offu Konferencijske lige! Pogledajte kako se Kekova družina spasila u Finskoj Nakon izjednačenja Lasickasa domaćin je pojačao pritisak, no Todorović je s dvije velike obrane sačuvao riječku prednost",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-ilves-rijeka-stigli-su-sastavi-okrsaj-na-sjeveru-europe-rijeka-brani-minimalnu-prednost-u-borbi-za-play-off-15736768",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39395478_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "UŽIVO Hajduk - Žalgiris: Stigli su sastavi! Bijeli s Markom Livajom brane ogromnu prednost iz Litve",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-hajduk-zalgiris-stigli-su-sastavi-bijeli-s-markom-livajom-brane-ogromnu-prednost-iz-litve-15736815",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39333640_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -108,6 +120,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Gdje gledati Hajduk - Žalgiris? Prijenos nije dostupan za sve",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-protiv-zalgirisa-na-poljudu-potvrda-play-offa-konferencijske-lige-15736552",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39398293_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Oštra poruka Hajduka: ‘Ne čude nas dezinformacije Ivice Pirića, spremni smo javno objaviti ponudu!‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-prekida-sutnju-razotkrivene-dezinformacije-i-objava-whitebit-ponude-15736731",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39252135_640.jpg",
@@ -132,9 +156,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘On je najveće Dinamovo pojačanje ovoga ljeta! Već na startu karijere je dobio pažnju velikih klubova‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-viking-kacavenda-stojkovic-lokomotiva-stavanger-liga-prvaka-15736579",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/12/k_38030548_640.jpg",
+        "title": "U dva kola primili osam golova, a sada ih čeka najteži mogući protivnik, starta i veliki talent Hajduka?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/rudes-na-maksimiru-rotirani-dinamo-ilecic-i-skoko-traze-minute-15736811",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39403674_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -144,19 +168,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hajduk krenuo po reprezentativca Bosne i Hercegovine, na Poljud može stići potpuno besplatno!?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/hajduk-pregovara-denis-hadzikadunic-besplatni-stoper-za-play-off-15736765",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_26399625_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Istra je iznenadila sve, a jedan je igrač posebno eksplodirao i našao se na radaru inozemnih klubova",
+        "title": "Istra je iznenadila sve, a jedan je igrač posebno eksplodirao i našao se na radaru inozemnih klubova Unatoč odlascima i skromnim pojačanjima, mlada momčad pod Španjolcem diže ritam i dobiva jasan identitet",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/istra-1961-cabello-frederiksen-mladost-odlasci-lijep-nogomet-15736766",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_39408261_640.jpg",
         "w": 640,
@@ -168,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hrvatskoj se danas možda smiješi prva medalja! Popravljen rekord, evo u koliko sati je finale Hrvatska muška plivačka štafeta pojavila se u sastavu Vlaho Nenadić, Jere Hribar, Vili Sivec i Toni Dragoja",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vodeni-sportovi/plivanje/hrvatski-plivaci-popravili-rekord-za-vise-od-sest-i-pol-sekundi-i-plasirali-se-u-finale-stafete-4x100-15736629",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39414843_640.jpg",
+        "title": "FOTO Još jedan velikan ljetuje u Hrvatskoj: Uživao u Primoštenu, fanovi ga molili za fotografije",
+        "link": "https://sportske.jutarnji.hr/sportske/tenis/rafael-nadal-u-primostenu-opustena-vecer-setnja-i-fotografije-s-fanovima-15736651",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39040339_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Gdje gledati Hajduk - Žalgiris? Prijenos nije dostupan za sve",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-protiv-zalgirisa-na-poljudu-potvrda-play-offa-konferencijske-lige-15736552",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39398293_640.jpg",
+        "title": "Hrvatskoj se danas možda smiješi prva medalja! Popravljen rekord, evo u koliko sati je finale",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vodeni-sportovi/plivanje/hrvatski-plivaci-popravili-rekord-za-vise-od-sest-i-pol-sekundi-i-plasirali-se-u-finale-stafete-4x100-15736629",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39414843_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -219,18 +231,6 @@
         "title": "Prvo obraćanje Zlatka Dalića: ‘Ovo je moj drugi dom, a novac mi je bio zadnji na pameti‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/zlatko-dalic-novi-izbornik-uae-cilj-sp-2030-nisam-ovdje-zbog-novca-15736640",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39191407_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Obogatio se kao nitko do sada: U 14 mjeseci zaradio 2,5 milijarde dolara!",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/nba-liga-ima-pravog-mvp-ija-njegovo-ime-je-mark-walter-15736612",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39422722_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
