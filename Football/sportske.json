@@ -1,6 +1,42 @@
 [
     {
-        "title": "VIDEO: Rijeka je u play-offu Konferencijske lige! Pogledajte kako se Kekova družina spasila u Finskoj Nakon izjednačenja Lasickasa domaćin je pojačao pritisak, no Todorović je s dvije velike obrane sačuvao riječku prednost",
+        "title": "UŽIVO Hajduk - Žalgiris: Bijeli dominiraju od prve minute, ali jedva su izbjegli novi šok Splićani su u prvom susretu u Vilniusu slavili s 5:2 te bi uzvrat na Poljudu trebala biti čista formalnost potvrde prolaska",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-hajduk-zalgiris-stigli-su-sastavi-bijeli-s-markom-livajom-brane-ogromnu-prednost-iz-litve-15736815",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39425432_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Bit će teško: Hajduk i Rijeka saznali protivnike u play-offu Konferencijske lige!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-rakow-rijeka-midtjylland-play-off-konferencijska-liga-termini-15736837",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39425342_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Nema opravdanja za ono što je Rijeka pokazala u Finskoj, a jasno je tko snosi najveću odgovornost",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rijeka-prezivjela-ilves-ali-protiv-midtjyllanda-mora-bolje-15736842",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39395797_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Rijeka je u play-offu Konferencijske lige! Pogledajte kako se Kekova družina spasila u Finskoj",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-ilves-rijeka-stigli-su-sastavi-okrsaj-na-sjeveru-europe-rijeka-brani-minimalnu-prednost-u-borbi-za-play-off-15736768",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39395478_640.jpg",
         "w": 640,
@@ -12,9 +48,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO Hajduk - Žalgiris: Stigli su sastavi! Bijeli s Markom Livajom brane ogromnu prednost iz Litve",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-hajduk-zalgiris-stigli-su-sastavi-bijeli-s-markom-livajom-brane-ogromnu-prednost-iz-litve-15736815",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39333640_640.jpg",
+        "title": "Mladi hajdukovac prvi put startao i dobio najveći pljesak Poljuda uz Marka Livaju! Garcija opet izviždan",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/split-pratio-dramu-u-svedskoj-livaji-pljesak-a-garciji-zvizduci-15736844",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39425299_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,6 +72,30 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "VIDEO: Pogledajte novi gol Marka Pjace u Europi, ušao u igru i odmah smjestio loptu u mrežu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/pjaca-zabio-protiv-dac-a-twente-s-8-0-u-play-off-konferencijske-lige-15736843",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39395320_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Zlatko Dalić otvorio dušu u Dubaiju: ‘Bilo mi je jako teško. Ali nisam ja Vatrenima rekao zbogom...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dalic-izbornik-uae-cetverogodisnji-projekt-sp-2030-dubai-15736839",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39197392_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Pogledajte ocjene: Peruanac izravni krivac za dramu Rijeke, Kekova momčad se doslovno provukla",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/rijeka-ilves-lasickas-gol-pobjeda-kek-barco-ocjene-15736824",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39380744_640.jpg",
@@ -48,7 +108,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Vratar Rijeke heroj u Finskoj: Opet ćemo na sjever Europe u play-offu, no nikome se ne pokoravamo!",
+        "title": "Heroj Rijeke: ‘Nikome se ne pokoravamo!‘; Kek samokritičan: ‘Ovo što se dogodilo teško prolazi...‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/todorovic-herojski-brani-u-finskoj-rijeka-ide-u-play-off-konferencijske-lige-15736833",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39380719_640.jpg",
         "w": 640,
@@ -96,66 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Jedan od glavnih igrača Dinama preskače prvenstveni okršaj, ovo je vjerojatni sastav: Bit će dosta promjena!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-rotira-protiv-rudesa-uoci-vikinga-kovacevic-smiruje-vratarsku-situaciju-15736773",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39372092_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Preminuo legendarni sudac koji je vodio tri europska finala: ‘Velikan koji je oblikovao nogomet‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/preminuo-adolf-prokop-legendarni-nogometni-sudac-iz-tiringije-15736782",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39424088_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Sa sjevera Europe stigla obećavajuća vijest za Dinamo: Je li ovo potvrda da stiže Dominik Kotarski?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-kotarski-ramaj-kopenhagen-transfer-povratak-maksimir-15736780",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39188169_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hrvati došli u smještaj u Parizu, a onda - šok: ‘Znate li što to znači? Bili smo malo degradirani‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vodeni-sportovi/plivanje/hribar-rekord-100-slobodno-stafeta-4x100-finale-pariz-carapovic-50-ledno-15736795",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_38008247_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Kako će izgledati Hrvatska? Bilić slaže Vatrene za Ligu nacija: Novi stožer, stara jezgra i jedna velika dvojba",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bilic-popis-liga-nacija-modric-perisic-misic-hns-15736721",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39282003_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "U dva kola primili osam golova, a sada ih čeka najteži mogući protivnik, starta i veliki talent Hajduka?",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/rudes-na-maksimiru-rotirani-dinamo-ilecic-i-skoko-traze-minute-15736811",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39403674_640.jpg",
@@ -168,9 +168,57 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Gattuso krenuo po hrvatskog reprezentativca! Evo koliko bi ga posao mogao koštati Sve najvažnije vijesti, glasine i potvrđene poslove s nogometne tržnice pratite na portalu Sportskih novosti",
+        "title": "Gdje gledati Hajduk - Žalgiris? Prijenos nije dostupan za sve Hajduk večeras na Poljudu traži potvrdu plasmana u play-off Konferencijske lige",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-protiv-zalgirisa-na-poljudu-potvrda-play-offa-konferencijske-lige-15736552",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39398293_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Oštra poruka Hajduka: ‘Ne čude nas dezinformacije Ivice Pirića, spremni smo javno objaviti ponudu!‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-prekida-sutnju-razotkrivene-dezinformacije-i-objava-whitebit-ponude-15736731",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39252135_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "UŽIVO: Gattuso krenuo po hrvatskog reprezentativca! Evo koliko bi ga posao mogao koštati",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/senzacionalni-posao-dinama-i-najveci-transfer-hajduka-ovog-ljeta-zvezda-nakon-debakla-ostala-bez-trenera-15736570",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39077128_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Urušava se posao Hajduka, ništa od velikog povratka u HNL? ‘Ne vidim baš nikakvu mogućnost!‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-selahi-widzew-odbijen-odlazak-placa-maslowski-15736678",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_32060757_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘On je najveće Dinamovo pojačanje ovoga ljeta! Već na startu karijere je dobio pažnju velikih klubova‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-viking-kacavenda-stojkovic-lokomotiva-stavanger-liga-prvaka-15736579",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/12/k_38030548_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -183,54 +231,6 @@
         "title": "Hajduk krenuo po reprezentativca Bosne i Hercegovine, na Poljud može stići potpuno besplatno!?",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/hajduk-pregovara-denis-hadzikadunic-besplatni-stoper-za-play-off-15736765",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_26399625_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hajduk ‘papreno‘ kažnjen zbog rasizma i diskriminacije, evo koliko s Poljuda moraju platiti",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-papreno-kaznjen-zbog-rasizma-i-diskriminacije-evo-koliko-s-poljuda-moraju-platiti-15736745",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_38744572_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Istra je iznenadila sve, a jedan je igrač posebno eksplodirao i našao se na radaru inozemnih klubova",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/istra-1961-cabello-frederiksen-mladost-odlasci-lijep-nogomet-15736766",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/11/k_39408261_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "FOTO Još jedan velikan ljetuje u Hrvatskoj: Uživao u Primoštenu, fanovi ga molili za fotografije",
-        "link": "https://sportske.jutarnji.hr/sportske/tenis/rafael-nadal-u-primostenu-opustena-vecer-setnja-i-fotografije-s-fanovima-15736651",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39040339_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "I u Srbiji se ‘naklonili‘ Vatrenom, hvalospjevi stižu za svih strana: ‘I Ronaldinho bi mu pozavidio‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/baturina-magija-rolica-gol-arsenal-emirates-como-15736623",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39419971_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
