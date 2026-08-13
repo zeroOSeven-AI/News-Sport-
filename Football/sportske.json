@@ -1,8 +1,20 @@
 [
     {
-        "title": "UŽIVO Hajduk - Žalgiris: Bijeli dominiraju od prve minute, ali jedva su izbjegli novi šok Splićani su u prvom susretu u Vilniusu slavili s 5:2 te bi uzvrat na Poljudu trebala biti čista formalnost potvrde prolaska",
+        "title": "UŽIVO/VIDEO Hajduk - Žalgiris: GOOOL! Hajduk povećao prednost, veliki talent zabio samo devet minuta nakon ulaska Splićani su u prvom susretu u Vilniusu slavili s 5:2 te bi uzvrat na Poljudu trebala biti čista formalnost potvrde prolaska",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-hajduk-zalgiris-stigli-su-sastavi-bijeli-s-markom-livajom-brane-ogromnu-prednost-iz-litve-15736815",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39425432_640.jpg",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39425813_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Livaja opasno zaprijetio pa nestao, Šotiček zatvoren na krilu, a Marešić je doslovno spasio Bijele",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/ocjene-igraca-cvrsta-obrana-neefikasan-napad-protiv-litavaca-15736850",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39425615_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -27,6 +39,18 @@
         "title": "Nema opravdanja za ono što je Rijeka pokazala u Finskoj, a jasno je tko snosi najveću odgovornost",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/rijeka-prezivjela-ilves-ali-protiv-midtjyllanda-mora-bolje-15736842",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39395797_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Brončani hrvatski junaci: ‘Stvarno smo plivali bolesno dobro!; ‘On je bio briljantan, najviše je napredovao‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vodeni-sportovi/plivanje/vjerovali-smo-da-je-medalja-dohvatljiva-15736859",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39425090_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -72,7 +96,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Pogledajte novi gol Marka Pjace u Europi, ušao u igru i odmah smjestio loptu u mrežu",
+        "title": "VIDEO: Pogledajte nove golove Marka Pjace u Europi, ušao u igru i odmah smjestio loptu u mrežu",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/pjaca-zabio-protiv-dac-a-twente-s-8-0-u-play-off-konferencijske-lige-15736843",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39395320_640.jpg",
         "w": 640,
@@ -132,30 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hajduk ima nevjerojatne brojke, a već danas može doći tamo gdje nije bio još od Dambrauskasa!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-zalgiris-poljud-konferencijska-liga-playoff-split-15736761",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/12/k_39408255_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hrvatska slavila s 13 razlike i u četvrfinalu čeka Srbiju! Srbi pretukli - njemačkog Srbina",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vaterpolo/hrvatska-u-petak-u-cetvrfinalu-protiv-srbije-15736799",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39202776_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "U dva kola primili osam golova, a sada ih čeka najteži mogući protivnik, starta i veliki talent Hajduka?",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/rudes-na-maksimiru-rotirani-dinamo-ilecic-i-skoko-traze-minute-15736811",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39403674_640.jpg",
@@ -168,9 +168,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Gdje gledati Hajduk - Žalgiris? Prijenos nije dostupan za sve Hajduk večeras na Poljudu traži potvrdu plasmana u play-off Konferencijske lige",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-protiv-zalgirisa-na-poljudu-potvrda-play-offa-konferencijske-lige-15736552",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39398293_640.jpg",
+        "title": "Sa sjevera Europe stigla obećavajuća vijest za Dinamo: Je li ovo potvrda da stiže Dominik Kotarski? Danski Bold piše kako klubovi dogovaraju posudbu s otkupom ugovora u visini od pet milijuna eura...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-kotarski-ramaj-kopenhagen-transfer-povratak-maksimir-15736780",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39188169_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Kako će izgledati Hrvatska? Bilić slaže Vatrene za Ligu nacija: Novi stožer, stara jezgra i jedna velika dvojba",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bilic-popis-liga-nacija-modric-perisic-misic-hns-15736721",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/10/k_39282003_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -219,18 +231,6 @@
         "title": "‘On je najveće Dinamovo pojačanje ovoga ljeta! Već na startu karijere je dobio pažnju velikih klubova‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-viking-kacavenda-stojkovic-lokomotiva-stavanger-liga-prvaka-15736579",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/12/k_38030548_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hajduk krenuo po reprezentativca Bosne i Hercegovine, na Poljud može stići potpuno besplatno!?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/hajduk-pregovara-denis-hadzikadunic-besplatni-stoper-za-play-off-15736765",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_26399625_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
