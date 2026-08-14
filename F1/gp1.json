@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-08-14T08:52:30.051367+00:00",
+  "created_at": "2026-08-14T09:47:31.004322+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
     {
@@ -7,6 +7,20 @@
       "link": "https://www.gp1.hr/2026/08/sainz-i-williams-na-raskrizju-ceka-se-odluka-spanjolskog-vozaca/",
       "author": "GP1_hr",
       "published_at": "2026-08-14T08:25:38+00:00",
+      "image_url": "",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
+    {
+      "title": "Lindblad o debitantskoj sezoni u F1: Živim svoj san",
+      "link": "https://www.gp1.hr/2026/08/lindblad-o-debitantskoj-sezoni-u-f1-zivim-svoj-san/",
+      "author": "GP1_hr",
+      "published_at": "2026-08-14T09:20:52+00:00",
       "image_url": "",
       "w": 0,
       "h": 0,
@@ -120,20 +134,6 @@
       "author": "Igor Vukajlovic",
       "published_at": "2026-07-25T18:32:45+00:00",
       "image_url": "",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Lewis Hamilton kažnjen s tri mjesta kazne na gridu za VN Mađarske!",
-      "link": "https://www.gp1.hr/2026/07/lewis-hamilton-kaznjen-s-tri-mjesta-kazne-na-gridu-za-vn-madarske/",
-      "author": "fermen",
-      "published_at": "2026-07-25T16:49:49+00:00",
-      "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f440.png",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
