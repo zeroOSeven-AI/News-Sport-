@@ -1,8 +1,8 @@
 [
     {
-        "title": "UŽIVO/VIDEO Dinamo - Rudeš: GOOOL! Potop gostiju, Beljo zabio ‘škaricama‘, Mudražija asistirao Dinamo je odmah zagospodario terenom te rano poveo pa je nastavio nizati prilike, a samim time i promašaje",
+        "title": "VIDEO: Dinamo razbio Rudeš uoči Europe! Beljo ‘škaricama‘ otvorio paljbu, asistencija Mudražije Dinamo je odmah zagospodario terenom te rano poveo pa nastavio nizati prilike, a u nastavku igre je apsolutno potvrdio dominaciju",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-dinamo-rudes-modri-u-akciji-uoci-europske-utakmice-sezone-gosti-traze-iskupljenje-nakon-teskog-poraza-15737130",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/14/k_39431294_640.jpg",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/14/k_39430959_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -12,9 +12,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Bomba s Maksimira: Odlazi Gabriel Vidović! Nije mogao odoljeti ponudi, Dinamu stižu milijuni",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/gabriel-vidovic-iz-dinama-u-paderborn-transfer-3-milijuna-eura-15737116",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/14/k_37293628_640.jpg",
+        "title": "FOTO Pogledajte usporedbu Belje i Brune Petkovića. Rezultati bi vas mogli iznenaditi",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/beljo-59-golova-hnl-brzi-od-petkovica-dinamo-rekord-15737174",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/14/k_39357536_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Šok uoči dolaska na Maksimir! Dinamov europski protivnik u 95. minuti izgubio od velikog rivala",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rosenborg-sokirao-viking-u-95-minuti-ranjeni-stizu-na-maksimir-protiv-dinama-15737170",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/14/k_39431375_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,9 +48,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Fantazija u režiji ‘plavog devet‘! Pogledajte spektakularan pogodak Belje na Maksimiru",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/beljo-skaricama-dinamo-rudes-shnl-maksimir-gol-15737149",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/14/k_39430960_640.jpg",
+        "title": "Bomba s Maksimira: Odlazi Gabriel Vidović! Nije mogao odoljeti ponudi, Dinamu stižu milijuni",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/gabriel-vidovic-iz-dinama-u-paderborn-transfer-3-milijuna-eura-15737116",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/14/k_37293628_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -51,6 +63,18 @@
         "title": "Evo koliko će Ronaldo plaćati Georgini u slučaju razvoda. Procurili detalji, poseban dogovor oko vile",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/ronaldo-georgina-brak-bracni-ugovor-razdvojena-imovina-dozivotna-renta-15737155",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/14/k_39417270_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Fantazija u režiji ‘plavog devet‘! Pogledajte spektakularan pogodak Belje",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/beljo-skaricama-dinamo-rudes-shnl-maksimir-gol-15737149",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/14/k_39430960_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -132,9 +156,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Pravo osvježenje u zagrebačkoj Areni: Ovacije dobili svi, ne samo naše predstavnice",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/gimnastika/ep-gimnastika-arena-zagreb-ovacije-juniorke-ruskinje-zlato-15737151",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/14/k_39430879_640.jpg",
+        "title": "Klub i legenda Vatrenih oduševit će sto tisuća Ukrajinaca? Još uvijek se čeka rasplet u Londonu Ukrajinci pregovaraju s Chelseajem; veća tribina i dijaspora prevagnuli, čeka se zeleno svjetlo UEFA-e i vijeća",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sahtar-liga-prvaka-stamford-bridge-chelsea-london-uefa-15737113",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/14/k_37101486_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -144,9 +168,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Trener usred ogromne krize: ‘Sram me uopće pričati o nogometu, vidite li vi što se događa!?‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/ceuta-masovni-prelasci-migranata-dezinformacije-romero-nogomet-u-drugi-plan-15737091",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/14/k_39382134_640.jpg",
+        "title": "Sprema se veliki povratak brutalno kažnjenog Hrvata! Nijemci uvjereni: ‘To će biti invazija‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/hsv-razmatra-volksparkstadion-za-prvi-trening-marija-vuskovica-uz-velik-interes-navijaca-15737080",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/14/k_28546981_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -156,7 +180,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "U Hrvatskoj su debelo podcijenjeni, ali u svijetu su - sila! Na Euru ‘pomeli‘ Francuze i potvrdili dominaciju Iz Châteaurouxa reprezentacija donijela 23 odličja i potvrdila svjetsku streljačku vrijednost",
+        "title": "U Hrvatskoj su debelo podcijenjeni, ali u svijetu su - sila! Na Euru ‘pomeli‘ Francuze i potvrdili dominaciju",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/hrvatska-23-medalje-ep-field-streljastvo-chateauroux-matchplay-classic-15737105",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/14/k_39429528_640.jpg",
         "w": 640,
@@ -207,30 +231,6 @@
         "title": "Dobre vijesti za Hajduk, Poljacima stigao ozbiljan udarac! Uefa ih drastično kaznila",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uefa-kaznila-rakow-bez-ultrasa-protiv-hajduka-djelomicno-zatvaranje-tribina-15737058",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/14/k_39429365_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Veliki insajderski izvještaj - Kovačević protiv dvojice odjednom! ‘Apsolutni raritet, ali funkcionira‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-vs-viking-skandinavski-sustav-protiv-europskog-iskustva-15736992",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39372087_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Napustio Dinamo i ekspresno postao ljubimac Poljuda: ‘Odugovlačio je s odgovorom, vidjelo se da ima neku opciju...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/andelo-sutalo-asistencija-hajduk-zalgiris-4-0-play-off-konferencijska-liga-15736941",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/14/k_39425485_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
