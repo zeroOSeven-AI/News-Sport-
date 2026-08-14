@@ -24,18 +24,6 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Video: Formel-1-Startampel erklärt: Warum die Startlichter 2026 plötzlich blau blinken?",
-        "link": "https://www.motorsport-magazin.com/formel1/video-14746-formel-1-startampel-erklaert-warum-die-startlichter-2026-ploetzlich-blau-blinken.html",
-        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1127866.jpg",
-        "w": 1200,
-        "h": 627,
-        "focus_y": 0.35,
-        "source_title1": "MOTORSPORT MAGAZIN",
-        "source_title2": "F1",
-        "source_color": "#FFD300",
-        "flag": "🇩🇪"
-    },
-    {
         "title": "Neue Generation-F1-Autos: Bortoleto widerspricht Fahrstil-Mythos - \"Müssen uns anpassen können\"",
         "link": "https://www.motorsport-magazin.com/formel1/news-299688-gabriel-bortoleto-erklaert-so-anders-fahren-sich-die-neuen-f1-autos-2026-wirklich/",
         "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1124168.jpg",
@@ -591,6 +579,18 @@
         "title": "Wieder Cadillac-Doppel-DNF! Bottas-Bremsen fackeln trotz Zuverlässigkeits-Update ab",
         "link": "https://www.motorsport-magazin.com/formel1/news-299582-perez-und-bottas-fallen-bei-f1-rennen-in-ungarn-aus-cadillac-bremse-brennt-schon-wieder/",
         "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1127148.jpg",
+        "w": 1200,
+        "h": 627,
+        "focus_y": 0.35,
+        "source_title1": "MOTORSPORT MAGAZIN",
+        "source_title2": "F1",
+        "source_color": "#FFD300",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Aston Martin lebt! So lief das erste Formel-1-Rennen nach dem Rekord-Update von Ungarn",
+        "link": "https://www.motorsport-magazin.com/formel1/news-299581-aston-martin-lebt-so-lief-das-erste-formel-1-rennen-nach-dem-rekord-update-von-ungarn/",
+        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1127162.jpg",
         "w": 1200,
         "h": 627,
         "focus_y": 0.35,
