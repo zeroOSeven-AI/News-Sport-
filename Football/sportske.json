@@ -1,20 +1,8 @@
 [
     {
-        "title": "Hajduk naciljao novo pojačanje, s Poljuda poslali službenu ponudu - Feyenoordu! Riječ je o 24-godišnjem braniču koji može igrati na više pozicija u zadnjoj liniji. Primarno je stoper, ali može pokriti i desnu i lijevu stranu",
+        "title": "Hajduk u ogromnoj ofenzivi, s Poljuda poslali službenu ponudu - Feyenoordu! Riječ je o 24-godišnjem braniču koji može igrati na više pozicija u zadnjoj liniji. Primarno je stoper, ali može pokriti i desnu i lijevu stranu",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-ponuda-feyenoord-neraysh-kasanwirjo-transfer-obrana-15737364",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39435708_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Neka pobijedi Hajduk! Jednog bivšeg dinamovca su otjerali, Emreli je prvi napadač, a sve se vrti oko ovog igrača",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-rakow-doigravanje-konferencijska-liga-poljud-uzvrat-czestochowa-15737328",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/14/k_38586397_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,9 +24,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO BiH reprezenativac oduševio Englesku! Spektatkularnim ‘škaricama‘ predstavio se u novom klubu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/tarik-muharemovic-prvijenac-skaricama-za-leeds-protiv-augsburga-15737346",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39435587_640.jpg",
+        "title": "Neka pobijedi Hajduk! Jednog bivšeg dinamovca su otjerali, Emreli je prvi napadač, a sve se vrti oko ovog igrača",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-rakow-doigravanje-konferencijska-liga-poljud-uzvrat-czestochowa-15737328",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/14/k_38586397_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,9 +36,33 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hajdukova ponuda je na stolu reprezentativca! Nude mu maksimimalnu plaću, mora se riješiti kritična točka",
+        "title": "UŽIVO Istra - Slaven: GOL! Veliki talent Puljana pogodio za vodstvo! Gostima u 3. minuti isključen igrač",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-istra-slaven-puljani-i-farmaceuti-love-prvu-pobjedu-u-prvenstvu-15737356",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_38854552_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Hajdukova ponuda je na stolu reprezentativca! Nude mu maksimalnu plaću, mora se riješiti kritična točka",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-hadzikadunic-dvogodisnji-ugovor-maksimalna-placa-transfer-obrana-15737298",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_26399623_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Reprezenativac BiH oduševio Englesku! Spektakularnim ‘škaricama‘ predstavio se u novom klubu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/tarik-muharemovic-prvijenac-skaricama-za-leeds-protiv-augsburga-15737346",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39435587_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -108,6 +120,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "‘Kraljica razvoda‘ spasila basnoslovno bogatstvo Luki Dončiću i riješila ga najveće životne brige",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-mix/kalifornijski-sud-odbacio-zahtjev-za-alimentaciju-protiv-luke-doncica-15737239",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_30510021_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Đoković iznenadio priznanjem: ‘Ovo mi se nije dogodilo više od dvije godine‘",
         "link": "https://sportske.jutarnji.hr/sportske/tenis/tenis-mix/novak-dokovic-vraca-se-u-cincinnati-zdrav-i-spreman-za-us-open-15737345",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39366594_640.jpg",
@@ -120,33 +144,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO Istra - Slaven: Stigli su sastavi u okršaju bez prava na kiks. Trener Farmaceuta iznenadio odlukama",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-istra-slaven-puljani-i-farmaceuti-love-prvu-pobjedu-u-prvenstvu-15737356",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_38854552_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Najavljen je kao nositelj i zaštitno lice Dinama: Nije trebao biti Baturina, ali očekivalo se malo više",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-trazi-novog-nositelja-desetke-vidovic-otisao-u-paderborn-15737258",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_38517655_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Carević ozbiljno želi poremetiti planove Hajduku: Ne treba nam dodatna motivacija!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/gorica-hajduk-carevic-pranjic-hnl-vruca-noc-turopolje-15737313",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39404015_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
