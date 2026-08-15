@@ -1,8 +1,20 @@
 [
     {
-        "title": "UŽIVO Osijek - Lokomotiva: Bijelo-plavi dominiraju i sve su bliže pogotku, Lokomotiva odolijeva pritisku Osječani imaju veći posjed i češće napadaju, no gosti su nakon početnog pritiska pronašli prostor i počeli prijetiti",
+        "title": "UŽIVO Osijek - Lokomotiva: Nevjerojatno što sve Osijek promašuje, Lokose spasio i okvir gola Osječani imaju veći posjed i češće napadaju, no gosti su nakon početnog pritiska pronašli prostor i počeli prijetiti",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-osijek-lokomotiva-preporodeni-domacin-docekuje-lokose-obje-momcadi-love-trecu-pobjedu-15737389",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39437468_640.jpg",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39437627_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Što će Garcia s motorom ekipe: Do sada je jedini igrao sve, može li si priuštiti odmor uoči utakmice sezone?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-gorica-garcia-pajaziti-odluka-rakow-turopolje-15737422",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39425618_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,6 +36,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Jesmo li već vidjeli gol sezone? ‘Zlatno dijete‘ zabilo pogodak o kojem će se još dugo pričati",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/joao-felix-tunel-raketa-al-nassr-al-fateh-3-0-saudijska-pro-liga-15737426",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39437621_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Ozljede su iza njih, a sada kreću u novu eru! Vatreni otvaraju sezonu spektaklom u Cardiffu",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/community-shield-cardiff-arsenal-manchester-city-gvardiol-kovacic-15737418",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_36811993_640.jpg",
@@ -36,9 +60,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Šokantne scene: Zvijezda Bayerna kolabirala pred punom Allianz Arenom, igrači panično zvali pomoć",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bayern-leipzig-3-1-telekom-cup-musiala-se-srusio-na-vrucini-stanje-stabilno-15737373",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39435804_640.jpg",
+        "title": "Istra srušila Slaven i upisala prvu pobjedu sezone, gosti od 3. minute igrali s igračem manje",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-istra-slaven-puljani-i-farmaceuti-love-prvu-pobjedu-u-prvenstvu-15737356",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39435942_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,9 +72,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Istra srušila Slaven i upisala prvu pobjedu sezone, gosti od 3. minute igrali s igračem manje",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-istra-slaven-puljani-i-farmaceuti-love-prvu-pobjedu-u-prvenstvu-15737356",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39435942_640.jpg",
+        "title": "Šokantne scene: Zvijezda Bayerna kolabirala pred punom Allianz Arenom, igrači panično zvali pomoć",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bayern-leipzig-3-1-telekom-cup-musiala-se-srusio-na-vrucini-stanje-stabilno-15737373",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39435804_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -132,30 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Hrvatski dragulj nastavlja oduševljavati u Njemačkoj, zabio je drugu utakmicu u nizu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/jakov-dedic-opet-zabija-za-hoffenheim-ii-pobjeda-20-u-dusseldorfu-15737355",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39435654_640.png",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Neka pobijedi Hajduk! Jednog bivšeg dinamovca su otjerali, Emreli je prvi napadač, a sve se vrti oko ovog igrača",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-rakow-doigravanje-konferencijska-liga-poljud-uzvrat-czestochowa-15737328",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/14/k_38586397_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Istra dočekuje Slaven u utakmici u kojoj nitko nema pravo na novi kiks",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/istra-1961-slaven-belupo-drosina-lov-na-prve-bodove-15737226",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39375930_640.jpg",
@@ -168,7 +168,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Legende šute, navijači se otvoreno protive ulasku jednog od najbogatijih ljudi na svijetu u ‘radnički klub‘! Za mnoge od navijača, dolazak čovjeka koji simbolizira najsuroviji oblik modernog kapitalizma izravan je udarac u samu srž i identitet kluba",
+        "title": "UŽIVO Hajduk ga prodao za više od 8 mil. eura, sad je ostao bez kluba! Ferran Torres stigao u PSG Sve najvažnije vijesti, glasine i potvrđene poslove s nogometne tržnice pratite na portalu Sportskih novosti",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-dinamo-dogovorio-veliku-prodaju-vatreni-na-meti-engleskih-velikana-barcelona-u-akciji-15737229",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/14/k_39077128_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Hribar sjajno krenuo pa ostao bez finala, plasman mu izmaknuo za pet stotinki",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vodeni-sportovi/plivanje/jere-hribar-bez-finala-50-slobodno-pariz-deseti-osobni-rekord-15737384",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_35895222_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Legende šute, navijači se otvoreno protive ulasku jednog od najbogatijih ljudi na svijetu u ‘radnički klub‘!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/bezos-konzorcij-ulaze-u-liverpool-30-posto-sos-trazi-odgovore-15737333",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39152860_640.jpg",
         "w": 640,
@@ -207,30 +231,6 @@
         "title": "Sve što ima krenulo je od - Milijunaša. U Hrvatskoj za njim tuguju, a sada sprema ‘doktorsku disertaciju‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sabah-razbio-agf-4-0-dambrauskas-izborio-play-off-lige-prvaka-15737305",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39422309_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Đoković iznenadio priznanjem: ‘Ovo mi se nije dogodilo više od dvije godine‘",
-        "link": "https://sportske.jutarnji.hr/sportske/tenis/tenis-mix/novak-dokovic-vraca-se-u-cincinnati-zdrav-i-spreman-za-us-open-15737345",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39366594_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Najavljen je kao nositelj i zaštitno lice Dinama: Nije trebao biti Baturina, ali očekivalo se malo više",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-trazi-novog-nositelja-desetke-vidovic-otisao-u-paderborn-15737258",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_38517655_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
