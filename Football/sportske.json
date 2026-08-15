@@ -24,9 +24,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO Istra - Slaven: GOL! Novi pogodak Puljana, Farmaceuti na koljenima s igračem manje",
+        "title": "UŽIVO Istra - Slaven: Puljani udvostručili vodstvo, zabio veliki talent. Gosti s igračem manje od 3. minute",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-istra-slaven-puljani-i-farmaceuti-love-prvu-pobjedu-u-prvenstvu-15737356",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_38854552_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Mister 100%‘ na djelu, Modrić savršen u pobjedi protiv Uniteda. Pripala mu i posebna čast",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/modric-23-od-23-dodavanja-milan-pobijedio-united-4-2-i-trofej-u-wroclawu-15737386",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39436034_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,33 +108,21 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Hribar sjajno krenuo pa ostao bez finala, plasman mu izmaknuo za pet stotinki",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vodeni-sportovi/plivanje/jere-hribar-bez-finala-50-slobodno-pariz-deseti-osobni-rekord-15737384",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39414843_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Legende šute, navijači se otvoreno protive ulasku jednog od najbogatijih ljudi na svijetu u ‘radnički klub‘!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/bezos-konzorcij-ulaze-u-liverpool-30-posto-sos-trazi-odgovore-15737333",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39152860_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO Brekalo trkom od 90 metara do asistencije! Pogledajte sjajnu reakciju Hrvata",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hertha-razbila-heidenheim-4-1-brekalo-asistirao-za-drugu-pobjedu-15737341",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_38474174_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Sve što ima krenulo je od - Milijunaša. U Hrvatskoj za njim tuguju, a sada sprema ‘doktorsku disertaciju‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sabah-razbio-agf-4-0-dambrauskas-izborio-play-off-lige-prvaka-15737305",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39422309_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -144,9 +144,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Đoković iznenadio priznanjem: ‘Ovo mi se nije dogodilo više od dvije godine‘",
-        "link": "https://sportske.jutarnji.hr/sportske/tenis/tenis-mix/novak-dokovic-vraca-se-u-cincinnati-zdrav-i-spreman-za-us-open-15737345",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39366594_640.jpg",
+        "title": "VIDEO Brekalo trkom od 90 metara do asistencije! Pogledajte sjajnu reakciju Hrvata",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hertha-razbila-heidenheim-4-1-brekalo-asistirao-za-drugu-pobjedu-15737341",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_38474174_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -168,7 +168,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Nema kraja agoniji nekad velike zvijezde, na optužbe reagirala i supruga: ‘Imamo novca, ne brinite‘ Nakon povratka sa suspenzije, Paul Pogba nije uspio uspostaviti kontinuitet igara, već konstantno muku muči s ozljedama",
+        "title": "Mladi Vatreni prešao u Italiju i - oborio rekord! Danas bi mogao debitirati protiv Kulenovića i Vlašića David Vujević je stigao u redove drugoligaša Carraresea u transferu vrijednom 1,5 milijuna eura",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/david-vujevic-rekordni-transfer-u-carrarese-15-milijuna-eura-ugovor-do-2030-15737292",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39050129_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Garcia objasnio zašto Hajduk igra lude utakmice, a nakon 9 golova poručuje: ‘Želim isto protiv Gorice!‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/garcia-najavio-goricu-rotacije-strpljenje-agresivniji-hajduk-15737278",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39425447_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Nema kraja agoniji nekad velike zvijezde, na optužbe reagirala i supruga: ‘Imamo novca, ne brinite‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/monaco-ponudio-raskid-ugovora-paul-pogba-suoruga-maria-zulay-brani-ga-15737323",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/14/k_39430640_640.jpg",
         "w": 640,
@@ -207,30 +231,6 @@
         "title": "‘Ne žalim što sam podržao studente u Srbiji. I ja sam o Titu mislio isto što i oni o Vučiću‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/moja-prica-sn/veselin-vujovic-hrvatska-sreca-danska-nedodirljiva-katar-medalja-15737227",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/14/k_32451655_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Nisam rekao zbogom Dinamu! Zaboravlja se što je taj igrač dao klubu, a Bobanova gesta je jako lijepa‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kulenovic-7-golova-torino-pripreme-nadmasio-dybalu-zaccagnija-15737221",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/14/k_39429330_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Uopće ne trebamo razmišljati na taj način. Pa mi smo igrali Europu, ispali, a onda pobijedili Hajduk‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/varazdin-rijeka-najava-safaric-marina-hrabra-igra-doma-15737320",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39407435_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
