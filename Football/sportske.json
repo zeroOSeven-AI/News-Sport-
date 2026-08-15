@@ -12,9 +12,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO Istra - Slaven: Puljani pred velikim trijumfom i prvom pobjedom sezone, Farmaceuti na koljenima",
+        "title": "Istra srušila Slaven i upisala prvu pobjedu sezone, gosti od 3. minute igrali s igračem manje",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-istra-slaven-puljani-i-farmaceuti-love-prvu-pobjedu-u-prvenstvu-15737356",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_38854552_640.jpg",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39435942_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,9 +48,33 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "UŽIVO Osijek - Lokomotiva: Stigli su sastavi! Bijelo-plavi love novu pobjedu u okršaju ‘stopostotnih‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-osijek-lokomotiva-preporodeni-domacin-docekuje-lokose-obje-momcadi-love-trecu-pobjedu-15737389",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39312598_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Hrvatska ‘raznijela‘ Italiju i izborila finale sa Španjolskom!",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vaterpolo/mladi-hrvatski-vaterpolisti-izborili-i-trece-finale-velikih-nadmetanja-u-mjesec-i-pol-dana-15737391",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39436300_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Čudesni Nijemac isplivao najbolje vrijeme svih vremena, rekord oborio za skoro četiri sekunde!",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vodeni-sportovi/plivanje/liebmann-rekord-1500-slobodno-pariz-marchand-wasick-15737399",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39436513_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,18 +120,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO Osijek - Lokomotiva: Stigli su sastavi! Bijelo-plavi love novu pobjedu u okršaju ‘stopostotnih‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-osijek-lokomotiva-preporodeni-domacin-docekuje-lokose-obje-momcadi-love-trecu-pobjedu-15737389",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39312598_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Hajdukova ponuda je na stolu reprezentativca! Nude mu maksimalnu plaću, mora se riješiti kritična točka",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-hadzikadunic-dvogodisnji-ugovor-maksimalna-placa-transfer-obrana-15737298",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_26399623_640.jpg",
@@ -144,18 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hribar sjajno krenuo pa ostao bez finala, plasman mu izmaknuo za pet stotinki",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vodeni-sportovi/plivanje/jere-hribar-bez-finala-50-slobodno-pariz-deseti-osobni-rekord-15737384",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_35895222_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Istra dočekuje Slaven u utakmici u kojoj nitko nema pravo na novi kiks",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/istra-1961-slaven-belupo-drosina-lov-na-prve-bodove-15737226",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39375930_640.jpg",
@@ -168,7 +168,19 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Đoković iznenadio priznanjem: ‘Ovo mi se nije dogodilo više od dvije godine‘ Zdravstveno stanje posljednjih je sezona nerijetko utjecalo na njegov raspored i mogućnost igranja turnira u kontinuitetu",
+        "title": "Sve što ima krenulo je od - Milijunaša. U Hrvatskoj za njim tuguju, a sada sprema ‘doktorsku disertaciju‘ I staromodan i moderan, i pragmatika i rizik, prilagodljiv i inovativan, uvijek smiren i omiljen kod igrača",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sabah-razbio-agf-4-0-dambrauskas-izborio-play-off-lige-prvaka-15737305",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39422309_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Đoković iznenadio priznanjem: ‘Ovo mi se nije dogodilo više od dvije godine‘",
         "link": "https://sportske.jutarnji.hr/sportske/tenis/tenis-mix/novak-dokovic-vraca-se-u-cincinnati-zdrav-i-spreman-za-us-open-15737345",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39366594_640.jpg",
         "w": 640,
@@ -219,18 +231,6 @@
         "title": "Garcia objasnio zašto Hajduk igra lude utakmice, a nakon 9 golova poručuje: ‘Želim isto protiv Gorice!‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/garcia-najavio-goricu-rotacije-strpljenje-agresivniji-hajduk-15737278",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39425447_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Nema kraja agoniji nekad velike zvijezde, na optužbe reagirala i supruga: ‘Imamo novca, ne brinite‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/monaco-ponudio-raskid-ugovora-paul-pogba-suoruga-maria-zulay-brani-ga-15737323",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/14/k_39430640_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
