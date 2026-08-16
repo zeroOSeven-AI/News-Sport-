@@ -1,6 +1,6 @@
 [
     {
-        "title": "UŽIVO Varaždin - Rijeka: Stigli su sastavi! Bivši dinamovac debitira za Rijeku, Kek ostavio zvijezdu na klupi Utakmicu trećeg kola HNL-a između Varaždina i Rijeke pratimo i komentiramo iz minute u minutu",
+        "title": "UŽIVO Varaždin - Rijeka: Počela je utakmica! Bivši dinamovac debitira za Rijeku, Kek ostavio zvijezdu na klupi Utakmicu trećeg kola HNL-a između Varaždina i Rijeke pratimo i komentiramo iz minute u minutu",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-varazdin-rijeka-varazdinci-traze-nastavak-sjajne-forme-gosti-pred-teskim-ispitom-uoci-europe-15737567",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_38779729_640.jpg",
         "w": 640,
@@ -38,7 +38,7 @@
     {
         "title": "VIDEO: Arsenal demonstrirao silu, srušio City i uzeo prvi trofej u sezoni! Kovačić i društvo bili su nemoćni",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/borba-za-prvi-trofej-uzivo-arsenal-man-city-goool-ludi-pocetak-utakmice-topnici-vec-u-prvoj-minuti-sokirali-kovacica-i-drustvo-15737556",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39442681_640.jpg",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39442852_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -60,9 +60,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dinamo odbio nestvarnu ponudu za Kotarskog, a ovo je prava istina o Livakoviću! Javio se i Andy Bara",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/livakovic-transfer-barcelona-fenerbahce-dinamo-andi-bara-kotarski-15737538",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39226332_640.jpg",
+        "title": "Osijek leti bez kočnica! Jedino što navijači sada mogu je odvrnuti onu Parnog valjaka - pusti, nek‘ traje!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/osijek-tri-pobjede-9-1-bessone-opus-arena-shnl-euforija-15737581",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39376336_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -75,6 +75,18 @@
         "title": "UŽIVO: Stigle nove vijesti oko Livakovića, Hajduk uskoro dobiva veliko pojačanje",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/transferi/uzivo-hajduk-naciljao-novo-pojacanje-za-obranu-stipe-biuk-raskinuo-ugovor-s-klubom-15737465",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39077128_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Dinamo odbio nestvarnu ponudu za Kotarskog, a ovo je prava istina o Livakoviću! Javio se i Andy Bara",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/livakovic-transfer-barcelona-fenerbahce-dinamo-andi-bara-kotarski-15737538",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39226332_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -144,18 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dinamu sudac uz kojega hrvatske momčadi uvijek gube, Hajduku UEFA dodijelila - Očenaša",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uefa-suci-dinamo-hajduk-rijeka-play-off-gozubuyuk-berke-ocenas-var-termini-15737531",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_35509762_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Šafarićeva momčad leti na startu sezone, Rijeka stiže na veliki test u Varaždin",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/varazdin-rijeka-3-kolo-supersport-hnl-ulaznice-varteks-termin-15737459",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39333445_640.jpg",
@@ -168,7 +168,19 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Arsenalovo jako oružje pod udarom, Premier liga zabranila ručnike: Igrat ćemo s kapama! Uvodi se odbrojavanje kod izvođenja gol-udaraca i auta, strože vremensko ograničenje za izmjene igrača, kao i obveza da ozlijeđeni igrači ostanu izvan terena čitavu minutu...",
+        "title": "Zaokret prema kolijevci nogometa: Prvak Italije se ozbiljno pojačava, stiže i treći kapitalac s Otoka? Nakon Johna Stonesa i Djeda Spencea prvak Italije naciljao je i Liverpoolova veznjaka Curtisa Jonesa",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/interov-transferni-zaokret-prema-kolijevci-nogometa-15737546",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39047387_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Arsenalovo jako oružje pod udarom, Premier liga zabranila ručnike: Igrat ćemo s kapama!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/premier-liga-zabranila-rucnike-arsenal-gubi-takticki-adut-15737550",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39407015_640.jpg",
         "w": 640,
@@ -219,18 +231,6 @@
         "title": "Hrvatski sport briljira, a sada ste na potezu vi: provjerite koliko znate u sportskom kvizu",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/hoo/sportski-kviz-hrvatski-sport-atletika-plivanje-nogomet-15737470",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_38806688_640.gif",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Đoković otkrio što mu se događa nakon drame i novog šoka: ‘Nisam siguran da ću se vratiti ovdje...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/tenis/atp-wta-turniri/djokovic-poraz-cincinnati-tirante-preokret-medicinski-time-out-zdravstveni-problemi-15737472",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39440136_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
