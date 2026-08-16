@@ -24,6 +24,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Bjelica: Dinamo je blagi favorit protiv Norvežana, ali na jednu stvar treba obratiti pozornost",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-viking-bjelica-blagi-favorit-opasnost-iz-prekida-umjetna-trava-15737548",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_35935748_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Turci bacili novu ‘bombu‘: Jedinica Vatrenih ide u jedan od najvećih klubova svijeta!?",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/barcelona-livakovic-fenerbahce-odsteta-transfer-vratar-15737519",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39336629_640.jpg",
@@ -96,6 +108,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Zaokret prema kolijevci nogometa: Prvak Italije se ozbiljno pojačava, stiže i treći kapitalac s Otoka?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/interov-transferni-zaokret-prema-kolijevci-nogometa-15737546",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39047387_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Velikan se raspitivao za Hrvata, brzo im je stigao odgovor! Pogledajte što su poručili iz kluba",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nec-odbija-ajax-zadrzava-darko-nejasmic-pred-play-offom-lige-prvaka-15737499",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39441757_640.jpg",
@@ -132,30 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Stigle nove vijesti oko Livakovića, Hajduk uskoro dobiva veliko pojačanje",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/transferi/uzivo-hajduk-naciljao-novo-pojacanje-za-obranu-stipe-biuk-raskinuo-ugovor-s-klubom-15737465",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39077128_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hrvatski sport briljira, a sada ste na potezu vi: provjerite koliko znate u sportskom kvizu",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/hoo/sportski-kviz-hrvatski-sport-atletika-plivanje-nogomet-15737470",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_38806688_640.gif",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Šafarićeva momčad leti na startu sezone, Rijeka stiže na veliki test u Varaždin",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/varazdin-rijeka-3-kolo-supersport-hnl-ulaznice-varteks-termin-15737459",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39333445_640.jpg",
@@ -168,7 +168,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dva naslova svjetskih prvaka i zasad finale EP, a sve za uzrast do 16, do 18 i do 20 godina Zlatna budućnost hrvatskog vaterpola ostvarila je nesvakidašnji uspjeh. Tri generacije su u mjesec i pol dana dospjela do tri finala",
+        "title": "Test širine kadra za Rijeku: Kek mora naći ravnotežu, pojačanje iz Njemačke čeka prve minute Bilo bi neracionalno potrošiti sve nositelje četiri dana ranije, ali Varaždin je posljednja momčad protiv koje se može igrati s pola gasa",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rijeka-varazdin-rotacije-fruk-kabadayi-nakon-europe-15737467",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39395429_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Hrvatska rekorderka u rukama ima hitac vrijedan prve velike medalje nakon Rija, evo kad počinje finale i gdje gledati",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/atletika/hrvatska-rekorderka-u-rukama-ima-hitac-vrijedan-prve-velike-medalje-nakon-rija-15737461",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39435250_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Dva naslova svjetskih prvaka i zasad finale EP, a sve za uzrast do 16, do 18 i do 20 godina",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vaterpolo/dva-naslova-svjetskih-prvaka-i-zasad-finale-ep-a-sve-za-uzrast-do-16-do-18-i-do-20-godina-15737489",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39438534_640.jpg",
         "w": 640,
@@ -207,30 +231,6 @@
         "title": "‘Ako se nastave razvijati, ova HNL četvorka može stići do Dinama! Da sam glumio Bobana, ne bih igrao...‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-kravcov-matic-dvosmjerni-zadnji-vezni-vrban-cic-pavic-subotic-canjuga-15737392",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39387578_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Vušković opet zasjao, nazire se opasan tandem, stigle i pohvale: ‘Djeluju impresivno‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/vuskovic-sve-jaci-adut-brightona-nakon-pobjede-nad-bolognom-1-0-15737431",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39437976_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Šokantne scene: Zvijezda Bayerna kolabirala pred punom Allianz Arenom, igrači panično zvali pomoć",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bayern-leipzig-3-1-telekom-cup-musiala-se-srusio-na-vrucini-stanje-stabilno-15737373",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39435804_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
