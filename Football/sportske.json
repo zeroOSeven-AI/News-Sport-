@@ -1,8 +1,56 @@
 [
     {
-        "title": "UŽIVO/VIDEO Arsenal - Man. City: Arsenal razbija City! Kapetan Topnika majstorski prevario Gvardiola i Donnarummu za 3:0 Momčad Mikela Artete dominirala je prvim dijelom, dok je Gvardiol u 45. minuti spasio City od trećeg pogotka",
+        "title": "UŽIVO/VIDEO Arsenal - Man. City: Topnici melju, Kovačić i društvo nemoćni! Ødegaard majstorski prevario Gvardiola i Donnarummu Calafiori je ispisao povijest natjecanja, Havertz pogodio za 2:0, sjajno poentirao i Odegaard, a City ostao bez pravog odgovora",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/borba-za-prvi-trofej-uzivo-arsenal-man-city-goool-ludi-pocetak-utakmice-topnici-vec-u-prvoj-minuti-sokirali-kovacica-i-drustvo-15737556",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39442578_640.jpg",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39442708_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Ronaldo šokirao čitav svijet, ovo je vjerojatno kraj čudesne priče: ‘Iza mene je 25 godina velikog odricanja‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/ronaldo-najavio-oprostaj-sezona-2026-27-lov-na-1000-golova-15737569",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_28442213_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Kaos u Engleskoj! Tisuće ljudi zarobljeno na stadionu, naoružana policija ‘lovila‘ muškarca, otkazane i ceremonije",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/atletika/uhicenje-lazna-akreditacija-sigurnosna-akcija-kasnjenja-birmingham-stadion-alexander-15737561",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39437090_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "UŽIVO Varaždin - Rijeka: Stigli su sastavi! Bivši dinamovac debitira za Rijeku, Kek ostavio zvijezdu na klupi",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-varazdin-rijeka-varazdinci-traze-nastavak-sjajne-forme-gosti-pred-teskim-ispitom-uoci-europe-15737567",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_38779729_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Potpuni kolaps na A1! Policija blokirala autocestu zbog navijača, zautavljen dogovoreni sukob?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/zastoj-a1-policija-blokirala-cestu-navijaci-draganic-karlovac-helikopter-15737565",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39442661_640.png",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,9 +72,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Kaos u Engleskoj! Tisuće ljudi zarobljeno na stadionu, naoružana policija ‘lovila‘ muškarca, otkazane i ceremonije",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/atletika/uhicenje-lazna-akreditacija-sigurnosna-akcija-kasnjenja-birmingham-stadion-alexander-15737561",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39437090_640.jpg",
+        "title": "UŽIVO: Stigle nove vijesti oko Livakovića, Hajduk uskoro dobiva veliko pojačanje",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/transferi/uzivo-hajduk-naciljao-novo-pojacanje-za-obranu-stipe-biuk-raskinuo-ugovor-s-klubom-15737465",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39077128_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -72,18 +120,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Stigle nove vijesti oko Livakovića, Hajduk uskoro dobiva veliko pojačanje",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/transferi/uzivo-hajduk-naciljao-novo-pojacanje-za-obranu-stipe-biuk-raskinuo-ugovor-s-klubom-15737465",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39077128_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "VIDEO: Tribine skandiraju Modriću, a Luka i društvo izvode akciju od 23 dodavanja za gol! Pogledajte ju",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/milan-preokrenuo-manchester-united-4-2-modric-savrsen-23-dodavanja-wroclaw-15737527",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39436110_640.jpg",
@@ -120,42 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Oni su danas najveće čudo HR nogometa! Tražili su spas, a sad su s istom momčadi ispred Dinama",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/osijek-bessonov-preporod-tri-pobjede-devet-golova-opus-arena-15737496",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39437883_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Prestrašno od kakvih je sve taraba Hajduk ispadao i zato je ovo - sad ili nikad! Pogledajte vjerojatni sastav...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-4-0-zalgiris-rakow-poljud-garcia-15737491",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/14/k_39426181_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Završeno jedno od najuspješnijih europskih prvenstava za Hrvatsku, evo zašto ćemo još dugo pamtiti Pariz",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vodeni-sportovi/plivanje/pariz-je-bilo-jedno-od-najuspjesnijih-europskih-prvenstava-za-hrvatsku-15737524",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39438109_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Šafarićeva momčad leti na startu sezone, Rijeka stiže na veliki test u Varaždin",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/varazdin-rijeka-3-kolo-supersport-hnl-ulaznice-varteks-termin-15737459",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/13/k_39333445_640.jpg",
@@ -168,7 +168,43 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Ovo je budućnost nogometa, tako smo šokirali Dinamo i Hajduk! Igra mačke i miša, uz malo glume‘ Pomoćnik Marija Carevića, Denis Mojstrovič, objašnjava zašto su blokovi, tajming i analitika postali presudni za bodove...",
+        "title": "Arsenalovo jako oružje pod udarom, Premier liga zabranila ručnike: Igrat ćemo s kapama! Uvodi se odbrojavanje kod izvođenja gol-udaraca i auta, strože vremensko ograničenje za izmjene igrača, kao i obveza da ozlijeđeni igrači ostanu izvan terena čitavu minutu...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/premier-liga-zabranila-rucnike-arsenal-gubi-takticki-adut-15737550",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39407015_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Hit-snimka s treninga! Igrači i trener stigli u skupocjenim ‘jurilicama‘, a pogledajte što vozi prvak svijeta",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/fabian-ruiz-smart-zasjenio-superautomobile-na-treningu-psg-a-15737508",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39441872_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Velikan se raspitivao za Hrvata, brzo im je stigao odgovor! Pogledajte što su poručili iz kluba",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nec-odbija-ajax-zadrzava-darko-nejasmic-pred-play-offom-lige-prvaka-15737499",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39441757_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Ovo je budućnost nogometa, tako smo šokirali Dinamo i Hajduk! Igra mačke i miša, uz malo glume‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/denis-mojstrovic-gorica-prekidi-korneri-analiza-golovi-hnl-15737455",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/14/k_36666147_640.jpg",
         "w": 640,
@@ -195,42 +231,6 @@
         "title": "Đoković otkrio što mu se događa nakon drame i novog šoka: ‘Nisam siguran da ću se vratiti ovdje...‘",
         "link": "https://sportske.jutarnji.hr/sportske/tenis/atp-wta-turniri/djokovic-poraz-cincinnati-tirante-preokret-medicinski-time-out-zdravstveni-problemi-15737472",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39440136_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Messijeva kalvarija se nastavlja. Nakon tragedije promašen penal, dvije stative, novi poraz...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/messi-promasio-treci-penal-miami-poraz-41-nashville-mls-15737471",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39440189_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Test širine kadra za Rijeku: Kek mora naći ravnotežu, pojačanje iz Njemačke čeka prve minute",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rijeka-varazdin-rotacije-fruk-kabadayi-nakon-europe-15737467",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39395429_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hrvatska rekorderka u rukama ima hitac vrijedan prve velike medalje nakon Rija, evo kad počinje finale i gdje gledati",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/atletika/hrvatska-rekorderka-u-rukama-ima-hitac-vrijedan-prve-velike-medalje-nakon-rija-15737461",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39435250_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
