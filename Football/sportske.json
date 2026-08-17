@@ -84,9 +84,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Nova sezona, stare navike! Bivši dinamovac ponovno junak, skinuo ključni penal i oduševio tribine",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/semper-junak-pisa-izbacila-empoli-na-jedanaesterce-u-talijanskom-kupu-15737925",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39448608_640.jpg",
+        "title": "Hrvat pred ogromnim izazovom, Španjolci uvjereni: ‘On donosi eksplozivnu energiju!‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/edin-terzic-trener-athletica-bilbao-nova-era-bez-pojacanja-povratak-u-europu-15737944",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_33257585_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,9 +96,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Dinamo želi dovesti igrača koji je imao otkupnu klauzulu od 400 milijuna eura, na meti i mladi Urugvajac?",
+        "title": "Dinamo želi dovesti igrača koji je imao otkupnu klauzulu od 400 milijuna eura, na meti i mladi Urugvajac?",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/uzivo-romano-tvrdi-gotovo-je-barcelona-je-dogovorila-transfer-rodrija-united-zeli-branica-bayerna-15737672",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39077128_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Nova sezona, stare navike! Bivši dinamovac ponovno junak, skinuo ključni penal i oduševio tribine",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/semper-junak-pisa-izbacila-empoli-na-jedanaesterce-u-talijanskom-kupu-15737925",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39448608_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -144,18 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Kek poslao jasnu poruku svlačionici, a jedan potez puno govori! Jesu li ovo imena igrača koji su ga razočarali?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kek-nakon-poraza-u-varazdinu-rezovi-i-promjene-za-midtjylland-15737906",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39442939_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "VIDEO Nova kontroverza u HNL-u? Pogledajte zašto je Hajduk tražio penal u trenucima drame",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/hajduk-gorica-2-1-var-penal-odbijen-livaja-gol-87-minuta-15737691",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39444877_640.jpg",
@@ -168,7 +168,19 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Kovačević i Stojković najavili utakmicu sezone: ‘To je velika stvar za mene, znamo kakvih je sve legendi bilo...‘ ‘Pripremili smo se za Tripića, ali igrali smo i protiv boljih igrača. Stadion? Ovo su posljednje utakmice na njemu...‘, rekao je Dinamov trener",
+        "title": "VIDEO Scena koja je sve oduševila! Srpkinja progovorila o zagrljaju s Hrvaticom: ‘Prošla je kroz veliku borbu...‘ \"Otkad se natječem s njom, uvijek mi je drago, prije svega zato što možemo razgovarati na našem jeziku\", kaže Adriana Vilagoš",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/atletika/sara-kolak-europsko-zlato-6243-m-ulbricht-vilagos-emotivan-zagrljaj-15737864",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39448124_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Kovačević i Stojković najavili utakmicu sezone: ‘To je velika stvar za mene, znamo kakvih je sve legendi bilo...‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/maksimir-spreman-dinamo-viking-play-off-liga-prvaka-15737872",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39253442_640.jpg",
         "w": 640,
@@ -219,18 +231,6 @@
         "title": "Ovo je Dinamo za utakmicu koja će usmjeriti čitavu sezonu! Kovačević ima jednu, ali ogromnu dvojbu u čitavoj priči",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-viking-najava-sastav-kovacevic-kacavenda-maksimir-15737852",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39357155_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Ova mlada Hrvatska budi nadu! Nešto se ozbiljno događa u sportu s kojim smo nekada bili zaluđeni",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-reprezentacija/generacija-2010-je-isporucila-i-ovo-je-tek-pocetak-15737882",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39425676_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
