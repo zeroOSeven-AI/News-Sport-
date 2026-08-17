@@ -12,7 +12,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Inati se, Dinamo!",
+        "title": "Odrasli kao ‘susjedi‘, udaljeni ni kilometar, a danas su okosnica Dinama! Modrima znače - više od milijuna",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/slavonski-dzep-iz-zupanje-i-bosnjaka-postao-motor-dinama-15737788",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_38226736_640.jpg",
         "w": 640,
@@ -36,9 +36,45 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Neymar briljirao, a onda postao žrtva novog pravila. Evo zašto je na minutu morao napustiti teren",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/santos-razbio-vasco-0-3-neymar-kljucan-i-kaznjen-po-novom-pravilu-15737842",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39427117_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Još ima ‘ulja u svići‘: Livaja je pokazao posebnu odliku klase",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/livaja-odlucio-goricu-prva-pobjeda-hajduka-shnl-15737832",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39444979_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Kasnili u zraku, ne i u vodi! Plivači s medaljama sletjeli u Zagreb: ‘Ovo nije slučajnost nego nastavak procesa‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vodeni-sportovi/plivanje/hrvatski-plivaci-medalje-ep-pariz-zagreb-mediteranske-igre-15737846",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39447472_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "UŽIVO: City prodao Rodrija, a sada ide po 18-godišnjaka? Cijena - 100 milijuna eura",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/uzivo-romano-tvrdi-gotovo-je-barcelona-je-dogovorila-transfer-rodrija-united-zeli-branica-bayerna-15737672",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39077128_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -120,30 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Emotivna scena za pamćenje: Hrvatica i Srpkinja u toplom zagrljaju, pogledajte poseban trenutak",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/atletika/sara-kolak-europsko-zlato-birmingham-adriana-vilagos-pozdrav-15737716",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39444745_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Livaja nakon pogotka poslao moćnu poruku navijačima: ‘Nadam se da ćemo vam dati ono što želite‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/livaja-odlucio-hajduk-gorica-kasni-gol-prva-pobjeda-15737675",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39333901_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "VIDEO Nova kontroverza u HNL-u? Pogledajte zašto je Hajduk tražio penal u trenucima drame",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/hajduk-gorica-2-1-var-penal-odbijen-livaja-gol-87-minuta-15737691",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39444877_640.jpg",
@@ -156,7 +168,43 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Rođaci‘ zvijezde Reala napravili skandal: Vikali i vrijeđali djelatnicu kluba, a onda - udarac! U prostoru koji vodi prema svlačionicama iznenada su se pojavila trojica nepoznatih muškaraca. Od igrača obje momčadi dijelila su ih tek staklena vrata i redar",
+        "title": "Drama u Italiji: Nogometaš se zamalo utopio, spašavao ga helikopter, završio na intenzivnoj Talijanski klub je u stalnom kontaktu s bolnicom i igračevom obitelji te pomno prati razvoj njegova stanja",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/yael-trepy-cagliari-nesreca-bazen-intenzivna-njega-sassari-15737760",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39447128_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Novak Đoković progovorio o završetku karijere. Ovo će biti njegov kraj?",
+        "link": "https://sportske.jutarnji.hr/sportske/tenis/tenis-mix/djokovic-cilja-olimpijske-igre-los-angeles-2028-wolf-in-winter-15737744",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39440112_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Od krova svijeta do ponora i natrag: Čudesna Sara prošla je kalvariju, a sad je čeka holivudski završetak",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/atletika/kako-je-neustrasiva-djevojcica-iz-rija-postala-zrela-zena-iz-birminghama-15737657",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39423667_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Rođaci‘ zvijezde Reala napravili skandal: Vikali i vrijeđali djelatnicu kluba, a onda - udarac!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/incident-veltins-arena-trojica-bez-akreditacija-napad-djelatnice-arda-guler-15737726",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39446864_640.jpg",
         "w": 640,
@@ -183,54 +231,6 @@
         "title": "FOTO Padaju prve čestitke! Dvije kraljice imale su posebnu poruku za Saru: ‘Bila i ostala Kinder Surprise‘",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/hrvatski-olimpijci/foto-padaju-prve-cestitke-dvije-kraljice-imale-su-posebnu-poruku-za-saru-bila-i-ostala-kinder-surprise-15737643",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_35184611_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO Cijela BiH danas udara po Mbappeu, a evo i zašto: ‘Sramotno, skandalozno i kukavički‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/real-madrid-schalke-3-0-mbappe-udario-nikolu-katica-mourinho-pripreme-15737679",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39311259_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Teška uspavanka od 79 i utakmica od 11 minuta! Nakon svega postavlja se jedno logično pitanje i trenerima i igračima",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/livaja-presudio-hajduk-slavio-velika-gorica-uspavanka-penal-15737644",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39444979_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO Pojavila se mučna snimka, zvijezda Bayerna samo se srušila. Stigle prve informacije",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/musiala-se-srusio-u-munhenu-stanje-stabilno-moguci-brzi-povratak-15737700",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39446633_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "UŽIVO: City prodao Rodrija, a sada ide po 18-godišnjaka? Cijena - 100 milijuna eura",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/uzivo-romano-tvrdi-gotovo-je-barcelona-je-dogovorila-transfer-rodrija-united-zeli-branica-bayerna-15737672",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39077128_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
