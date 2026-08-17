@@ -60,6 +60,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "‘Ponovni susret s Modrićem za mene je dar sudbine. Njemu se treba diviti‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/mario-gila-modric-utjecaj-zasto-izabrao-milan-visoka-obrana-intervju-15737796",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39436110_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "VIDEO Emotivna scena za pamćenje: Hrvatica i Srpkinja u toplom zagrljaju, pogledajte poseban trenutak",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/atletika/sara-kolak-europsko-zlato-birmingham-adriana-vilagos-pozdrav-15737716",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39444745_640.jpg",
@@ -144,9 +156,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Rođaci‘ zvijezde Reala napravili skandal: Vikali i vrijeđali djelatnicu kluba, a onda - udarac!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/incident-veltins-arena-trojica-bez-akreditacija-napad-djelatnice-arda-guler-15737726",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39446864_640.jpg",
+        "title": "Teška uspavanka od 79 i utakmica od 11 minuta! Nakon svega postavlja se jedno logično pitanje i trenerima i igračima Šego rano zabio, Gorica iz penala oživjela, a kapetan u finišu presudio i donio mir pred Rakow",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/livaja-presudio-hajduk-slavio-velika-gorica-uspavanka-penal-15737644",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39444979_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -156,9 +168,33 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Barcelona dogovorila najveći transfer ljeta! United želi braniča Bayerna Sve najvažnije vijesti, glasine i potvrđene poslove s nogometne tržnice pratite na portalu Sportskih novosti",
+        "title": "VIDEO Pojavila se mučna snimka, zvijezda Bayerna samo se srušila. Stigle prve informacije",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/musiala-se-srusio-u-munhenu-stanje-stabilno-moguci-brzi-povratak-15737700",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39446633_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "UŽIVO: City prodao Rodrija, a sada ide po 18-godišnjaka? Cijena - 100 milijuna eura",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/uzivo-romano-tvrdi-gotovo-je-barcelona-je-dogovorila-transfer-rodrija-united-zeli-branica-bayerna-15737672",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39077128_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Sara Kolak nakon godina ‘tišine‘ ponovno ispisala povijest: ‘Bilo je i vrijeme! Naporno sam radila za ovu medalju‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/hrvatski-olimpijci/sara-kolak-europsko-zlato-bacanje-koplja-nakon-deset-godina-15737638",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39444747_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,42 +216,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Novi show sjajnog Vatrenog! Pogledajte golčinu za pobjedu, ovo mu je 14. pogodak u ligi",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/musa-odlucio-austin-dallas-preokret-14-gol-vrh-mls-strijelaca-15737668",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_37791141_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Teška uspavanka od 79 i utakmica od 11 minuta! Nakon svega postavlja se jedno logično pitanje i trenerima i igračima",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/livaja-presudio-hajduk-slavio-velika-gorica-uspavanka-penal-15737644",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39444979_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Nijemci oduševljeni, mladi Hrvat krenuo stopama Kramarića! Vrata bi mu se širom mogla otvoriti",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/jakov-dedic-razvaljuje-hoffenheim-ii-rekordi-3-liga-hrvatski-talent-15737664",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39406895_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Hoće li Livaja stratati protiv Rakowa? Evo što je na tu temu rekao Garcia: ‘U Europi se igra brže...‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/livaja-s-klupe-rijesio-goricu-garcia-najavio-rakow-15737645",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39444109_640.jpg",
@@ -228,9 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Sara Kolak nakon godina ‘tišine‘ ponovno ispisala povijest: ‘Bilo je i vrijeme! Naporno sam radila za ovu medalju‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/hrvatski-olimpijci/sara-kolak-europsko-zlato-bacanje-koplja-nakon-deset-godina-15737638",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39444747_640.jpg",
+        "title": "VIDEO: Novi show sjajnog Vatrenog! Pogledajte golčinu za pobjedu, ovo mu je 14. pogodak u ligi",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/musa-odlucio-austin-dallas-preokret-14-gol-vrh-mls-strijelaca-15737668",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_37791141_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
