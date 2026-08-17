@@ -1,6 +1,18 @@
 [
     {
-        "title": "Dinamo završio još jedan posao! Novo pojačanje u Maksimiru, a prvim potezom mogao bi izazvati pozornost navijača Ruski veznjak stiže bez odštete, a nije prijavljen za europski ogled protiv Vikinga",
+        "title": "Bivši hajdukovac o novom pojačanju: ‘Možda je bolje doći kao anonimac... Ima odlične karakteristike‘ Hajdukova obrana trenutno protivniku lagano dozvoljava ugrozu gola, a Hadžikadunić je sjajan po izgubljenom posjedu - kaže Dario Damjanović",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-dovodi-dennisa-hadzikadunica-pred-rakow-garcia-mu-daje-kljucnu-ulogu-15737927",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_26399625_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Dinamo završio još jedan posao! Novo pojačanje u Maksimiru, a prvim potezom mogao bi izazvati pozornost navijača",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-kiril-kravcov-potpis-do-2030-preuzeo-broj-5-ne-igra-protiv-vikinga-15737913",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39370533_640.jpg",
         "w": 640,
@@ -24,9 +36,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Kek poslao jasnu poruku svlačionici, a jedan potez puno govori! Jesu li ovo imena igrača koji su ga razočarali?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kek-nakon-poraza-u-varazdinu-rezovi-i-promjene-za-midtjylland-15737906",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39442939_640.jpg",
+        "title": "Počele su padati glave! Kritizirao Infantina pa dobio papire, Fifa smijenila jednog od najviših dužnosnika",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/fifa-otpustila-kevina-lamoura-nakon-kritike-ffe-plana-i-prodaje-udjela-sp-a-15737921",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39448601_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,9 +60,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Na Opus Areni trljaju ruke! Osijek dobiva milijunski ‘dio kolača‘ i to za igrača kojeg su prodali prije tri godine",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/osijek-prima-980000-eura-od-transfera-mirlinda-dakua-u-spartak-15737893",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39447907_640.jpg",
+        "title": "VIDEO: Nova sezona, stare navike! Bivši dinamovac ponovno junak, skinuo ključni penal i oduševio tribine",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/semper-junak-pisa-izbacila-empoli-na-jedanaesterce-u-talijanskom-kupu-15737925",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39448608_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -72,9 +84,33 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Dinamo želi dovesti igrača koji je imao otkupnu klauzulu od 400 milijuna eura",
+        "title": "UŽIVO: Dinamo želi dovesti igrača koji je imao otkupnu klauzulu od 400 milijuna eura, na meti i mladi Urugvajac?",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/uzivo-romano-tvrdi-gotovo-je-barcelona-je-dogovorila-transfer-rodrija-united-zeli-branica-bayerna-15737672",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39077128_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Kek poslao jasnu poruku svlačionici, a jedan potez puno govori! Jesu li ovo imena igrača koji su ga razočarali?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kek-nakon-poraza-u-varazdinu-rezovi-i-promjene-za-midtjylland-15737906",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39442939_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Na Opus Areni trljaju ruke! Osijek dobiva milijunski ‘dio kolača‘ i to za igrača kojeg su prodali prije tri godine",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/osijek-prima-980000-eura-od-transfera-mirlinda-dakua-u-spartak-15737893",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39447907_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -120,42 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Kovačević i Stojković najavili utakmicu sezone: ‘To je velika stvar za mene, znamo kakvih je sve legendi bilo...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/maksimir-spreman-dinamo-viking-play-off-liga-prvaka-15737872",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39253442_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Godinama ih nije bilo nigdje, a sada osvajaju medalje: Tajna preporoda hrvatskog plivanja",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vodeni-sportovi/plivanje/preokret-hrvatskog-plivanja-od-zaborava-do-seniorskih-medalja-15737895",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_39442119_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Alarm u redovima Hajdukova protivnika! Početak iz noćne more uzdrmao je momčad, a problemi postaju sve veći",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rakow-bez-bodova-u-ligi-opasan-u-europi-stize-na-poljud-protiv-hajduka-15737880",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39448072_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "VIDEO Nova kontroverza u HNL-u? Pogledajte zašto je Hajduk tražio penal u trenucima drame",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/hajduk-gorica-2-1-var-penal-odbijen-livaja-gol-87-minuta-15737691",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39444877_640.jpg",
@@ -168,7 +168,43 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Najlošiji start Gorice u devet godina prvoligaške ere! Klub pojasnio situaciju oko Carevića Nastavljen loš start u prvenstvu, protiv Hajduka doživljen treći uzastopni poraz",
+        "title": "Ovo je Dinamo za utakmicu koja će usmjeriti čitavu sezonu! Kovačević ima jednu, ali ogromnu dvojbu u čitavoj priči Kačavenda je na šest odigranih utakmica postigao četiri pogotka, dobru igru materijalizira zgodicima i korak po korak postaje važan kotačić u plavom stroju",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-viking-najava-sastav-kovacevic-kacavenda-maksimir-15737852",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39357155_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Ova mlada Hrvatska budi nadu! Nešto se ozbiljno događa u sportu s kojim smo nekada bili zaluđeni",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-reprezentacija/generacija-2010-je-isporucila-i-ovo-je-tek-pocetak-15737882",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/16/k_39425676_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Norvežane će dočekati pravi pakao! Nemaju pojma gdje dolaze, na Maksimiru se sprema apsolutna ludnica",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/maksimir-rasprodan-ostale-karte-za-sjever-gore-stizu-norvezani-15737850",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_38293718_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Najlošiji start Gorice u devet godina prvoligaške ere! Klub pojasnio situaciju oko Carevića",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-slomio-goricu-livaja-odlucio-kasnim-golom-carevic-trazi-pojacanja-babic-na-cekivanju-15737859",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39444107_640.jpg",
         "w": 640,
@@ -195,42 +231,6 @@
         "title": "Odrasli kao ‘susjedi‘, udaljeni ni kilometar, a danas su okosnica Dinama! Modrima znače - više od milijuna",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/slavonski-dzep-iz-zupanje-i-bosnjaka-postao-motor-dinama-15737788",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/15/k_38226736_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Kasnili u zraku, ne i u vodi! Plivači s medaljama sletjeli u Zagreb: ‘Ovo nije slučajnost nego nastavak procesa‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vodeni-sportovi/plivanje/hrvatski-plivaci-medalje-ep-pariz-zagreb-mediteranske-igre-15737846",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39447473_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hrvatska nadmašila dvije velesile! Čeka nas lijepa budućnost, pogledajte ukupni poredak",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/atletika/poljska-i-francuska-ostale-bez-zlata-a-mi-uzeli-barem-jedno-osmi-put-za-redom-15737847",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39442603_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Evo koliko će Vlada uplatiti Sari Kolak za europsko zlato. Nagrada i za stožer",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/atletika/sara-kolak-zlato-sandro-bloudek-srebro-birmingham-nagrade-15737749",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_38834982_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
