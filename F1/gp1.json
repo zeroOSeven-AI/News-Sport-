@@ -1,7 +1,21 @@
 {
-  "created_at": "2026-08-18T12:15:54.728232+00:00",
+  "created_at": "2026-08-18T13:32:18.595357+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
+    {
+      "title": "Alex Albon produžio ugovor s Williamsom za 2027. godinu",
+      "link": "https://www.gp1.hr/2026/08/alex-albon-produzio-ugovor-s-williamsom-za-2027-godinu/",
+      "author": "GP1_hr",
+      "published_at": "2026-08-18T13:15:22+00:00",
+      "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f64c.png",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
     {
       "title": "Steiner: Mercedesu više nije potreban Verstappen",
       "link": "https://www.gp1.hr/2026/08/steiner-mercedes-vise-ne-treba-verstappena-imaju-antonellija/",
@@ -119,20 +133,6 @@
       "link": "https://www.gp1.hr/2026/08/audi-necemo-nadogradivati-pogonsku-jedinicu-do-2027/",
       "author": "Igor Vukajlovic",
       "published_at": "2026-08-02T17:32:11+00:00",
-      "image_url": "",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Piastri: Ovo je potpuno neprihvatljivo ponašanje na stazi",
-      "link": "https://www.gp1.hr/2026/07/piastri-ovo-je-potpuno-neprihvatljivo-ponasanje-na-stazi/",
-      "author": "Igor Vukajlovic",
-      "published_at": "2026-07-26T18:17:27+00:00",
       "image_url": "",
       "w": 0,
       "h": 0,
