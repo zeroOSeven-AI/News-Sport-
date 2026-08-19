@@ -2,7 +2,7 @@
     {
         "title": "Hrvatska ima prvaka Europe, Kovtun pomeo konkurenciju i ispisao povijest! Kovtunu je ovo bio prvi nastup za Hrvatsku i to baš na domaćem terenu, na europskoj smotri u Areni Zagreb",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/gimnastika/ilija-kovtun-medalja-viseboj-ep-gimnastika-arena-zagreb-15738574",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39454716_640.jpg",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39448422_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -15,6 +15,18 @@
         "title": "Hajduku uoči Rakowa otpao važan igrač, Garcia progovorio o Livaji: ‘Ne znam je li mu netko ukrao bicikl‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-rakow-povijesna-prilika-garcia-najava-poljud-prekidi-15738561",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39454734_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Strahote rata u Ukrajini dovele su ga u Hrvatsku, u Osijeku se zaljubio, a sada je Lijepoj našoj donio zlato",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/atletika/ilja-kovtun-europsko-zlato-viseboj-debi-hrvatska-zagreb-15738578",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39454843_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,18 +60,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Priča je postala vrlo ozbiljna! Insajder otkriva: Barcelona je sve dogovorila s Livakovićem, evo što sada slijedi",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/livakovic-blizu-barcelone-posudba-u-dinamo-pregovori-s-fenerbahceom-15738532",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39157755_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Tin Srbić ipak ostao bez finala: ‘Nije bilo najbolje, no bit ću pravi sljedeće godine i u Los Angelesu‘",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/gimnastika/tin-srbic-bez-finala-u-zagrebu-najavljuje-povratak-prema-los-angelesu-15738563",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39448417_640.jpg",
@@ -72,9 +72,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Posljednja milijunska kupnja Osijeka postala je zlatni džoker, uz Livaju je najbolja rezerva lige",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/jakupovic-s-klupe-spasio-osijek-i-presudio-lokomotivi-15738570",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/18/k_39437726_640.jpg",
+        "title": "UŽIVO Velikan odbio ponude za mladog Vatrenog, želi ga i klub iz Serie A? Livaković blizu Barcelone",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-dinamo-potvrdio-odlazak-vidovica-rodri-stigao-u-barcelonu-15738285",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/18/k_39077128_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,9 +84,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO Velikan odbio ponude za mladog Vatrenog, želi ga i klub iz Serie A? Livaković blizu Barcelone",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-dinamo-potvrdio-odlazak-vidovica-rodri-stigao-u-barcelonu-15738285",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/18/k_39077128_640.jpg",
+        "title": "Priča je postala vrlo ozbiljna! Insajder otkriva: Barcelona je sve dogovorila s Livakovićem, evo što sada slijedi",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/livakovic-blizu-barcelone-posudba-u-dinamo-pregovori-s-fenerbahceom-15738532",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39157755_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Posljednja milijunska kupnja Osijeka postala je zlatni džoker, uz Livaju je najbolja rezerva lige",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/jakupovic-s-klupe-spasio-osijek-i-presudio-lokomotivi-15738570",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/18/k_39437726_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -144,18 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Svjetski prvak stao uz sunarodnjaka, oglasila se i predsjednica: ‘Ponekad me sram što sam Slovenac!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/atletika/mitja-zubin-napadnut-zbog-orijentacije-podrska-kristjana-ceha-15738510",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39453166_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Imamo odgovor na pitanje koje uznemirava navijače Dinama uoči utakmice sezone",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-luka-stojkovic-ozljeda-gleznja-spreman-za-norveski-uzvrat-15738386",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39451991_640.jpg",
@@ -168,7 +168,19 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Gregurina nije jedini krivac za veliku krizu Farmaceuta, ali već bi mu Gorica u subotu mogla presuditi Farmaceuti u 19 prvenstvenih utakmica od prodaje Adriana Jagušića ostvarili tek tri pobjede, pet remija i čak 11 poraza, uz razliku pogodaka 19:38!",
+        "title": "Riječani na sjeveru Europe love dobar rezultat! Kek poručio: ‘Već nakon ždrijeba je bilo jasno što nas očekuje‘ Midtjylland čeka moćan duel u 4. pretkolu Konferencijske lige, uzvrat je tjedan kasnije na Rujevici.",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rijeka-midtjylland-herning-4-pretkolo-konferencijske-lige-15738517",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39395863_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Gregurina nije jedini krivac za veliku krizu Farmaceuta, ali već bi mu Gorica u subotu mogla presuditi",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/gregurini-se-ljulja-stolica-nakon-1-9-i-tri-uzastopna-poraza-15738522",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39372085_640.jpg",
         "w": 640,
@@ -219,18 +231,6 @@
         "title": "Jakirović je prvi favorit utrke u kojoj nitko ne želi pobijediti",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/jakirovic-hull-city-kladionice-otkaz-premier-liga-tezak-raspored-15738463",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39029530_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO Norvežanin koji je ‘opleo‘ po Maksimiru imao susret s policijom: ‘Rekli su mi da to nije dopušteno‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/norveski-novinar-tv2-kritizira-maksimir-i-dobiva-opomenu-policije-u-zagrebu-15738413",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39453280_640.png",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
