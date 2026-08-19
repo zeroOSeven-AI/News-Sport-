@@ -1,7 +1,21 @@
 {
-  "created_at": "2026-08-19T11:11:56.324942+00:00",
+  "created_at": "2026-08-19T12:15:42.807274+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
+    {
+      "title": "Hadjar propušta Nizozemsku: Lawson ga mijenja, ulazi i Tsunoda",
+      "link": "https://www.gp1.hr/2026/08/hadjar-propusta-nizozemsku-lawson-ga-mijenja-ulazi-i-tsunoda/",
+      "author": "Igor Šestak",
+      "published_at": "2026-08-19T12:08:35+00:00",
+      "image_url": "",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
     {
       "title": "Alex Albon produžio ugovor s Williamsom za 2027. godinu",
       "link": "https://www.gp1.hr/2026/08/alex-albon-produzio-ugovor-s-williamsom-za-2027-godinu/",
@@ -119,20 +133,6 @@
       "link": "https://www.gp1.hr/2026/08/fia-zeli-da-bolidi-s-novim-pravilima-izgube-jos-80-kilograma/",
       "author": "Igor Vukajlovic",
       "published_at": "2026-08-09T13:07:08+00:00",
-      "image_url": "",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Audi: Nećemo nadograđivati pogonsku jedinicu do 2027.",
-      "link": "https://www.gp1.hr/2026/08/audi-necemo-nadogradivati-pogonsku-jedinicu-do-2027/",
-      "author": "Igor Vukajlovic",
-      "published_at": "2026-08-02T17:32:11+00:00",
       "image_url": "",
       "w": 0,
       "h": 0,
