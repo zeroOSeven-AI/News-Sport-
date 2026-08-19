@@ -1,6 +1,18 @@
 [
     {
-        "title": "Garcia najavio Poljake pa progovorio o Livaji: ‘Ne znam je li mu netko ukrao bicikl, ne vjerujem da ga je to pogodilo‘ Najvažniji će biti uzvrat protiv Rakowa jer će on odrediti ulazimo li, ili ne ulazimo u skupine - kazao je Garcia",
+        "title": "Hrvatska ima prvaka Europe, Kovtun pomeo konkurenciju i ispisao povijest! Kovtunu je ovo bio prvi nastup za Hrvatsku i to baš na domaćem terenu, na europskoj smotri u Areni Zagreb",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/gimnastika/ilija-kovtun-medalja-viseboj-ep-gimnastika-arena-zagreb-15738574",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39454716_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Hajduku uoči Rakowa otpao važan igrač, Garcia progovorio o Livaji: ‘Ne znam je li mu netko ukrao bicikl‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-rakow-povijesna-prilika-garcia-najava-poljud-prekidi-15738561",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39454734_640.jpg",
         "w": 640,
@@ -60,9 +72,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Pljuvao gledatelje, vrijeđao i razbijao, a posljednjim ispadom prešao je sve granice! Ovo bi mogao biti konačan kraj",
-        "link": "https://sportske.jutarnji.hr/sportske/tenis/tenis-mix/kyrgios-suspendiran-pozitivni-test-kokain-benzolekgonin-itia-mallorca-15738541",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39454484_640.jpg",
+        "title": "Posljednja milijunska kupnja Osijeka postala je zlatni džoker, uz Livaju je najbolja rezerva lige",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/jakupovic-s-klupe-spasio-osijek-i-presudio-lokomotivi-15738570",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/18/k_39437726_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -75,6 +87,18 @@
         "title": "UŽIVO Velikan odbio ponude za mladog Vatrenog, želi ga i klub iz Serie A? Livaković blizu Barcelone",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-dinamo-potvrdio-odlazak-vidovica-rodri-stigao-u-barcelonu-15738285",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/18/k_39077128_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Pljuvao gledatelje, vrijeđao i razbijao, a posljednjim ispadom prešao je sve granice! Ovo bi mogao biti konačan kraj",
+        "link": "https://sportske.jutarnji.hr/sportske/tenis/tenis-mix/kyrgios-suspendiran-pozitivni-test-kokain-benzolekgonin-itia-mallorca-15738541",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39454484_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -132,30 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Roko Šimić riješio pitanje budućnosti: između ponuda iz HNL-a, odabrao je nešto posve drugačije",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/roko-simic-posudba-magdeburg-iz-cardiffa-opcija-otkupa-15738467",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_30874721_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hrvatski reprezentativac seli se u novi klub za 12 milijuna eura i stopira Dinamov transfer?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sutalo-iz-ajaxa-u-lazio-gattuso-dobio-novog-stopera-15738444",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_37642690_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Imamo odgovor na pitanje koje uznemirava navijače Dinama uoči utakmice sezone",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-luka-stojkovic-ozljeda-gleznja-spreman-za-norveski-uzvrat-15738386",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39451991_640.jpg",
@@ -168,7 +168,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dinamo ga je već jednom otpisao, Kovačević mu stopirao transfer u Rijeku, a sad je zapalio Maksimir! Već na pripremama u Sloveniji pokazao je da bi mogao biti hit igrač Plavih, što se naposljetku i dogodilo",
+        "title": "Gregurina nije jedini krivac za veliku krizu Farmaceuta, ali već bi mu Gorica u subotu mogla presuditi Farmaceuti u 19 prvenstvenih utakmica od prodaje Adriana Jagušića ostvarili tek tri pobjede, pet remija i čak 11 poraza, uz razliku pogodaka 19:38!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/gregurini-se-ljulja-stolica-nakon-1-9-i-tri-uzastopna-poraza-15738522",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39372085_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Zločesti dečko‘ tenisa pozitivan na kokain",
+        "link": "https://sportske.jutarnji.hr/sportske/tenis/tenis-mix/kyrgios-suspendiran-pozitivan-test-na-kokain-mallorca-itia-doping-15738373",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39453387_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Dinamo ga je već jednom otpisao, Kovačević mu stopirao transfer u Rijeku, a sad je zapalio Maksimir!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/kacavenda-briljira-dinamo-priprema-novi-ugovor-nakon-kvalifikacija-15738409",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39357155_640.jpg",
         "w": 640,
@@ -207,30 +231,6 @@
         "title": "VIDEO Norvežanin koji je ‘opleo‘ po Maksimiru imao susret s policijom: ‘Rekli su mi da to nije dopušteno‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/norveski-novinar-tv2-kritizira-maksimir-i-dobiva-opomenu-policije-u-zagrebu-15738413",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39453280_640.png",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Španjolac se objavom na hrvatskom oprostio od Dinama",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/raul-torrente-napusta-dinamo-posudba-le-mans-opcija-otkupa-15738433",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_35660245_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Preko Trnja do zvijezda: Nekoć je igrao 3. HNL, sad će englesku Premier ligu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/promise-david-iz-trnja-do-brightona-posudba-uz-obvezni-otkup-26-milijuna-eura-15738362",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_37506691_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
