@@ -1,8 +1,8 @@
 [
     {
-        "title": "Boban je Kovačeviću ‘svezao‘ ruke, neke su ideje u startu osuđene na propast, ali kako objasniti ove poteze?! Ne može se treneru zamjeriti zbog neuobičajenih pogrešaka Mišića i Valinčića uoči primljenih zgoditaka, međutim mogu se postaviti neki drugi upiti...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/liga-prvaka/dinamo-viking-22-odluka-u-stavangeru-liga-prvaka-15738520",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39432234_640.jpg",
+        "title": "Garcia najavio Poljake pa progovorio o Livaji: ‘Ne znam je li mu netko ukrao bicikl, ne vjerujem da ga je to pogodilo‘ Najvažniji će biti uzvrat protiv Rakowa jer će on odrediti ulazimo li, ili ne ulazimo u skupine - kazao je Garcia",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-rakow-povijesna-prilika-garcia-najava-poljud-prekidi-15738561",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39454734_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -12,9 +12,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Fotagrafija nogometne zvijezde u ‘zatočeništvu‘ obilazi svijet: ‘Pustite ga, izgleda kao da će zaplakati‘",
+        "title": "Fotografija nogometne zvijezde u ‘zatočeništvu‘ obilazi svijet: ‘Pustite ga, izgleda kao da će zaplakati‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/barcelona-odustaje-od-juliana-alvareza-atletico-trazi-500-milijuna-klauzule-15738556",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39454538_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Boban je Kovačeviću ‘svezao‘ ruke, neke su ideje u startu osuđene na propast, ali kako objasniti ove poteze?!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/liga-prvaka/dinamo-viking-22-odluka-u-stavangeru-liga-prvaka-15738520",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39432234_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,9 +48,33 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Tin Srbić ipak ostao bez finala: ‘Nije bilo najbolje, no bit ću pravi sljedeće godine i u Los Angelesu‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/gimnastika/tin-srbic-bez-finala-u-zagrebu-najavljuje-povratak-prema-los-angelesu-15738563",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39448417_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Pljuvao gledatelje, vrijeđao i razbijao, a posljednjim ispadom prešao je sve granice! Ovo bi mogao biti konačan kraj",
         "link": "https://sportske.jutarnji.hr/sportske/tenis/tenis-mix/kyrgios-suspendiran-pozitivni-test-kokain-benzolekgonin-itia-mallorca-15738541",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39454484_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "UŽIVO Velikan odbio ponude za mladog Vatrenog, želi ga i klub iz Serie A? Livaković blizu Barcelone",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-dinamo-potvrdio-odlazak-vidovica-rodri-stigao-u-barcelonu-15738285",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/18/k_39077128_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -63,18 +99,6 @@
         "title": "Sportski direktor Hajduka otvorio dušu: ‘S Livajom nije bilo lako, a za transfere nemam novca pa ni problema‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/graf-rekonstrukcija-hajduka-rezovi-placa-budzet-nula-borba-za-skupinu-15738553",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39259112_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "UŽIVO Velikan odbio ponude za mladog Vatrenog, želi ga i klub iz Serie A? Livaković blizu Barcelone",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-dinamo-potvrdio-odlazak-vidovica-rodri-stigao-u-barcelonu-15738285",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/18/k_39077128_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -132,30 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Znate li što je apsans epilepsija, neurološka disfunkcija koja bi mogla prekinuti veliku nogometnu karijeru?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/snazna-poruka-legende-pustite-nogomet-u-ovom-trenutku-je-on-najmanje-vazan-15738492",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39446633_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Riječani na sjeveru Europe love dobar rezultat! Kek poručio: ‘Već nakon ždrijeba je bilo jasno što nas očekuje‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rijeka-midtjylland-herning-4-pretkolo-konferencijske-lige-15738517",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39395863_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Imamo odgovor na pitanje koje uznemirava navijače Dinama uoči utakmice sezone",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-luka-stojkovic-ozljeda-gleznja-spreman-za-norveski-uzvrat-15738386",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39451991_640.jpg",
@@ -168,7 +168,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Jakirović je prvi favorit utrke u kojoj nitko ne želi pobijediti Pošto je Hull bio najveće iznenađenje među klubovima koji su ušli u Premiership, ne čudi da smatraju da bi Jakirović mogao biti prva ‘žrtva‘ sezone",
+        "title": "Dinamo ga je već jednom otpisao, Kovačević mu stopirao transfer u Rijeku, a sad je zapalio Maksimir! Već na pripremama u Sloveniji pokazao je da bi mogao biti hit igrač Plavih, što se naposljetku i dogodilo",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kacavenda-briljira-dinamo-priprema-novi-ugovor-nakon-kvalifikacija-15738409",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39357155_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Iskusni branič odlazi iz Hajduka, ali ostaje u HNL-u: Pala je posudba, vraća se na mjesto sreće",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/lokosi-nastavljaju-potragu-za-napadacem-ali-i-stoperom-15738479",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_37259965_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Jakirović je prvi favorit utrke u kojoj nitko ne želi pobijediti",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/jakirovic-hull-city-kladionice-otkaz-premier-liga-tezak-raspored-15738463",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39029530_640.jpg",
         "w": 640,
@@ -207,30 +231,6 @@
         "title": "Preko Trnja do zvijezda: Nekoć je igrao 3. HNL, sad će englesku Premier ligu",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/promise-david-iz-trnja-do-brightona-posudba-uz-obvezni-otkup-26-milijuna-eura-15738362",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_37506691_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Ovaj igrač već je dugo ispod razine za Dinamo! Jasno je i zašto se ‘zagubio‘ misteriozni čovjek iz Italije",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-prokockao-2-0-beljo-briljira-pogreske-vracaju-viking-stavanger-odlucuje-15738280",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39452128_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Dinamu je sreća okrenula leđa, a situacija ne miriše dobro uoči uzvrata. Treba samo pogledati uzorak",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-viking-22-remi-uzvrat-stavanger-umjetna-trava-play-off-15738349",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39452075_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
