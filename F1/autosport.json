@@ -1,8 +1,20 @@
 [
     {
+        "title": "US billionaire Robert Wood Johnson acquires minor Aston Martin F1 stake",
+        "link": "https://www.autosport.com/f1/news/us-billionaire-robert-wood-johnson-acquires-minor-aston-martin-f1-stake/10847685/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+        "image_url": "https://cdn-4.motorsport.com/images/amp/01QNKbD0/s6/gettyimages-2195715306.jpg",
+        "w": 1200,
+        "h": 800,
+        "focus_y": 0.5,
+        "source_title1": "AUTOSPORT",
+        "source_title2": "F1",
+        "source_color": "#000000",
+        "flag": "🇬🇧"
+    },
+    {
         "title": "TWG denies sale of Cadillac F1 team",
         "link": "https://www.autosport.com/f1/news/twg-denies-sale-of-cadillac-f1-team/10847649/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-        "image_url": "https://cdn-8.motorsport.com/images/amp/6x7LAn5Y/s6/cadillac-f1-team-hospitality-b-2.jpg",
+        "image_url": "https://cdn-1.motorsport.com/images/amp/6x7LAn5Y/s6/cadillac-f1-team-hospitality-b-2.jpg",
         "w": 1200,
         "h": 801,
         "focus_y": 0.5,
@@ -26,7 +38,7 @@
     {
         "title": "Verstappen commits to Red Bull until end of F1 2030",
         "link": "https://www.autosport.com/f1/news/verstappen-commits-to-red-bull-until-end-of-f1-2030/10847484/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-        "image_url": "https://cdn-3.motorsport.com/images/amp/Y9lN73q2/s6/max-verstappen-red-bull-racing-2.jpg",
+        "image_url": "https://cdn-6.motorsport.com/images/amp/Y9lN73q2/s6/max-verstappen-red-bull-racing-2.jpg",
         "w": 1200,
         "h": 799,
         "focus_y": 0.5,
@@ -38,7 +50,7 @@
     {
         "title": "The full circle moment given to Lawson at the 2026 Dutch GP",
         "link": "https://www.autosport.com/f1/news/full-circle-moment-for-lawson-at-dutch-gp/10847409/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-        "image_url": "https://cdn-1.motorsport.com/images/amp/25d3GWM0/s6/liam-lawson-max-verstappen-red-3.jpg",
+        "image_url": "https://cdn-3.motorsport.com/images/amp/25d3GWM0/s6/liam-lawson-max-verstappen-red-3.jpg",
         "w": 1200,
         "h": 799,
         "focus_y": 0.5,
@@ -581,18 +593,6 @@
         "image_url": "https://cdn-6.motorsport.com/images/amp/0R7BdLV2/s6/oscar-piastri-mclaren-andrea-s-2.jpg",
         "w": 1200,
         "h": 798,
-        "focus_y": 0.5,
-        "source_title1": "AUTOSPORT",
-        "source_title2": "F1",
-        "source_color": "#000000",
-        "flag": "🇬🇧"
-    },
-    {
-        "title": "How Ferrari's Hungarian GP meltdown cost a shot at the F1 podium",
-        "link": "https://www.autosport.com/f1/news/ferrari-meltdown-how-the-best-chassis-in-f1-flunked-a-podium-finish-in-hungary/10842342/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-        "image_url": "https://cdn-2.motorsport.com/images/amp/63QaNME2/s6/charles-leclerc-ferrari-2.jpg",
-        "w": 1200,
-        "h": 800,
         "focus_y": 0.5,
         "source_title1": "AUTOSPORT",
         "source_title2": "F1",
