@@ -1,6 +1,18 @@
 [
     {
-        "title": "FOTO U Hrvatskoj raste još jedan stadion: Uloženi milijuni, pogledajte kako trenutno izgleda Trenutačno su radovi najintenzivniji na zapadnom dijelu nove južne tribine. Armiranobetonska konstrukcija, čelična nadstrešnica i krov već su završeni",
+        "title": "‘Nema drame, ali ako ne uđemo u LP, nekoga moramo prodati! Livaković? Ovo ne dolazi u obzir‘ Klub mirno gleda prema Varaždinu i uzvratu u Norveškoj, budžetu nedostaje oko 10 milijuna bez elitnog natjecanja",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-bez-panike-europska-liga-osigurana-liga-prvaka-kao-bonus-15738783",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/20/k_39452125_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "FOTO U Hrvatskoj raste još jedan stadion: Uloženi milijuni, pogledajte kako trenutno izgleda",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/slavonski-brod-stadion-kraj-save-juzna-tribina-10000-sjedala-solarni-krov-15738729",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/20/k_39457352_640.png",
         "w": 640,
@@ -60,9 +72,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hrvatski rekorder: ‘Prvi put kad sam došao do ruba pogledao sam trenera i rekao - ja tu skočil‘ ne bum‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vodeni-sportovi/plivanje/vili-sivec-bronca-rekord-stafeta-4x100-slobodno-taranto-peking-15738772",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39447461_640.jpg",
+        "title": "FOTO Osvojio Ligu prvaka, a sada osvanuo u devetoj ligi! S 30 godina izgleda neprepoznatljivo",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/niklas-sule-povratak-gol-debitirao-sv-tiefenbach-deveta-liga-15738745",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/20/k_36841914_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -72,9 +84,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "FOTO Osvojio Ligu prvaka, a sada osvanuo u devetoj ligi! S 30 godina izgleda neprepoznatljivo",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/niklas-sule-povratak-gol-debitirao-sv-tiefenbach-deveta-liga-15738745",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/20/k_36841914_640.jpg",
+        "title": "UŽIVO: Romano objavio ‘Here we go‘ za transfer Vatrenog. Potez agenta otkrio veliki posao Dinama?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-lovric-ponovno-u-hnl-u-prpic-na-radaru-talijana-livakovic-sve-blize-barceloni-15738618",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39077128_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -108,9 +120,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Romano objavio ‘Here we go‘ za transfer Vatrenog. Potez agenta otkrio veliki posao Dinama?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-lovric-ponovno-u-hnl-u-prpic-na-radaru-talijana-livakovic-sve-blize-barceloni-15738618",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39077128_640.jpg",
+        "title": "Hrvatski rekorder: ‘Prvi put kad sam došao do ruba pogledao sam trenera i rekao - ja tu skočil‘ ne bum‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vodeni-sportovi/plivanje/vili-sivec-bronca-rekord-stafeta-4x100-slobodno-taranto-peking-15738772",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39447461_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -144,18 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Bivši kapetan Hajduka: ‘Mnogi to ne žele čuti, ali Graf je rekao istinu!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/fran-tudor-povratak-na-poljud-rakow-najavljuje-pobjedu-unatoc-ozljedi-15738642",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_32825357_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Imamo odgovor na pitanje koje uznemirava navijače Dinama uoči utakmice sezone",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-luka-stojkovic-ozljeda-gleznja-spreman-za-norveski-uzvrat-15738386",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39451991_640.jpg",
@@ -168,7 +168,19 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Opaka igra sudbine! Gazio ju je dok je bila na dnu, sada mu je stigao nemilosrdan odgovor Osim Halep, Kyrgios je u prošlosti žestoko napadao i druge zvijezde koje su imale problema s dopinškim testovima, poput Jannika Sinnera i Ige Świątek",
+        "title": "Kekova druga era znatno je drugačija od prve, a navijači će jednu stvar teško prihvatiti Gledamo li stvari u kontekstu financijskih potreba, sasvim je logično da klub ne može biti stalno na željenim višim razinama natjecanja",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kekova-druga-era-rijeka-proces-izazovi-midtjylland-miskovic-15738699",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/17/k_39395863_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Opaka igra sudbine! Gazio ju je dok je bila na dnu, sada mu je stigao nemilosrdan odgovor",
         "link": "https://sportske.jutarnji.hr/sportske/tenis/tenis-mix/kyrgios-suspendiran-kokain-mallorca-haleps-odgovor-doping-tenis-15738692",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/20/k_35420184_640.jpg",
         "w": 640,
@@ -219,18 +231,6 @@
         "title": "Mourinho zapanjen zvijezdom Reala: ‘Bit će poput Luke Modrića. On je vrhunski igrač‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/mourinho-vidi-ardu-gulera-kao-nasljednika-modrica-u-real-madridu-15738650",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/20/k_34749685_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Molim vas, ne zovite me. Jednostavno me zaboravite, ne želim se više boriti‘",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/molim-vas-ne-zovite-me-jednostavno-me-zaboravite-ne-zelim-se-vise-boriti-15738662",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/20/k_39457088_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
