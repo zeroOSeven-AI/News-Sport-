@@ -1,8 +1,20 @@
 [
     {
-        "title": "UŽIVO/VIDEO Hajduk - Rakow: Šok na Poljudu! Pajaziti ‘pocrvenio‘ nakon krvničkog prekršaja Spektakularno su Bijeli otvorili drugo poluvrijeme. Nakon pogotka, mogli su zabiti još dva",
+        "title": "UŽIVO/VIDEO Hajduk - Rakow: Nevjerojatno! Poljaci izjednačili u zadnjoj minuti nadoknade Spektakularno su Bijeli otvorili drugo poluvrijeme. Nakon pogotka, mogli su zabiti još dva. A onda je isključen Pajaziti...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-hajduk-rakow-stigli-sastavi-za-utakmicu-sezone-na-poljudu-poljaci-krecu-s-dva-bivsa-hnl-ovca-15738841",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/20/k_39460385_640.jpg",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/20/k_39460401_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Što drugo reći nego - NESHVATLJIVO! Evo zbog čega je Pajaziti dobio crveni karton",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/crveni-karton-adriona-pajazitija-preokrenuo-hajduk-rakow-15738880",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/20/k_39460444_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -72,9 +84,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Midtjylland je pokazao razliku u klasi, a najbolje što se Rijeci dogodilo je to što nije primila i treći pogodak",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rijeka-porazena-u-herningu-midtjylland-dominirao-odlucuje-uzvrat-na-rujevici-15738863",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/20/k_39460084_640.jpg",
+        "title": "UŽIVO: Stoper Hajduka poslan na dvojnu registraciju, potvrđen transfer Vatrenog, agent otkrio veliki posao Dinama?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-lovric-ponovno-u-hnl-u-prpic-na-radaru-talijana-livakovic-sve-blize-barceloni-15738618",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39077128_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,9 +96,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Stoper Hajduka poslan na dvojnu registraciju, potvrđen transfer Vatrenog, agent otkrio veliki posao Dinama?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-lovric-ponovno-u-hnl-u-prpic-na-radaru-talijana-livakovic-sve-blize-barceloni-15738618",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39077128_640.jpg",
+        "title": "Midtjylland je pokazao razliku u klasi, a najbolje što se Rijeci dogodilo je to što nije primila i treći pogodak",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rijeka-porazena-u-herningu-midtjylland-dominirao-odlucuje-uzvrat-na-rujevici-15738863",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/20/k_39460084_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -144,18 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Na adrese klubova stigle nove kazne! Po džepu dobili Dinamo i Osijek, na Poljudu već dugo nisu vidjeli ovakvu cifru",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl-kazne-dinamo-hajduk-osijek-pirotehnika-osijek-kazna-rasizam-15738849",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/20/k_39437871_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Imamo odgovor na pitanje koje uznemirava navijače Dinama uoči utakmice sezone",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-luka-stojkovic-ozljeda-gleznja-spreman-za-norveski-uzvrat-15738386",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39451991_640.jpg",
@@ -168,7 +168,19 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Maradonin najbolji prijatelj pronađen s dubokim ranama, jedva mu spasili život: ‘Danima je ležao na klupi i pio...‘ Ekološki aktivist i gradonačelnik pokrenuli hitnu akciju koja mu je doslovno spasila život",
+        "title": "Novi kapetan Cibone: ‘Gležanj mi je još natečen od lani, nije bilo ugodno sve skupa, ali se isplatilo‘ ‘Imamo kvalitetu i pobjednički mentalitet. Meni broj utakmica neće biti problem, bolje je igrati nego trenirati‘",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/aba-liga/novi-amerikanci-su-odlicni-mislim-da-je-klub-to-dobro-izabrao-15738842",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39090609_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Maradonin najbolji prijatelj pronađen s dubokim ranama, jedva mu spasili život: ‘Danima je ležao na klupi i pio...‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/pietro-puzone-spasen-u-acerri-nakon-kriticnog-stanja-15738825",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/20/k_39458783_640.jpg",
         "w": 640,
@@ -219,18 +231,6 @@
         "title": "Najbolja hrvatska odbojkašica nakon četiri godine opet u reprezentaciji: ‘Realno je da prođemo skupinu‘",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/odbojka/odbojka-ostalo/najbolja-hrvatska-odbojkasica-nakon-cetiri-godine-opet-u-reprezentaciji-realno-je-da-prodemo-skupinu-15738828",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39457694_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Niz zvijezda i sportskih asova u Splitu! Legenda Vatrenih i Pirić dovode jednog od najjačih ljudi na svijetu",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/oleksandr-usik-split-sportske-igre-mladih-prokurative-spektakl-15738813",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/20/k_39458482_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
