@@ -1,5 +1,20 @@
 [
     {
+        "title": "LIVE COVERAGE: Follow Sprint Qualifying at Zandvoort",
+        "link": "https://www.formula1.com/en/latest/article/live-coverage-sprint-qualifying-in-the-netherlands-2026.5jMlC3WnsiXu9AqzQ3HCtd",
+        "image_url": "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Netherlands/16x9%20single%20image%20-%202026-08-21T130820.938.webp",
+        "w": 1920,
+        "h": 1080,
+        "focus_y": 0.35,
+        "published_at": "2026-08-21T14:00:09.884Z",
+        "author": null,
+        "description": "Live coverage of Friday's Sprint Qualifying session at the 2026 Dutch Grand Prix.",
+        "source_title1": "FORMULA 1",
+        "source_title2": "F1",
+        "source_color": "#E10600",
+        "flag": "🇬🇧"
+    },
+    {
         "title": "McLaren lead development push as Dutch GP upgrades revealed",
         "link": "https://www.formula1.com/en/latest/article/mclaren-and-ferrari-lead-development-charge-as-every-upgrade-for-dutch-grand-prix-revealed.7HfMGggTffSH6eS3lF6Wgu",
         "image_url": "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_Belgium/2286757088.webp",
@@ -129,21 +144,6 @@
         "published_at": "2026-08-20T21:30:22.855Z",
         "author": null,
         "description": "When the lights go out at Zandvoort, bettors will be watching closely to make accurate predictions in real-time.",
-        "source_title1": "FORMULA 1",
-        "source_title2": "F1",
-        "source_color": "#E10600",
-        "flag": "🇬🇧"
-    },
-    {
-        "title": "All the stories that got the Zandvoort paddock talking",
-        "link": "https://www.formula1.com/en/latest/article/paddock-insider-all-the-stories-that-got-the-zandvoort-paddock-talking.37DzrvFRPpCpNLw32gLZP7",
-        "image_url": "https://media.formula1.com/image/upload/t_16by9North/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Netherlands/GettyImages-2290636943.webp",
-        "w": 2048,
-        "h": 1152,
-        "focus_y": 0.35,
-        "published_at": "2026-08-20T18:41:51.739Z",
-        "author": null,
-        "description": "Max Verstappen stole the headlines as the Formula 1 fraternity regrouped after the summer break when he announced a contract extension with Red Bull until the end of 2030. But that was just one of many stories tickling the Zandvoort paddock on Thursday ahead of this weekend's Dutch Grand Prix.",
         "source_title1": "FORMULA 1",
         "source_title2": "F1",
         "source_color": "#E10600",
