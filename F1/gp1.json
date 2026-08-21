@@ -1,7 +1,21 @@
 {
-  "created_at": "2026-08-21T15:18:58.272020+00:00",
+  "created_at": "2026-08-21T16:15:46.413753+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
+    {
+      "title": "Russell osvojio pole za sprint utrku, četvorica unutar jedne desetinke",
+      "link": "https://www.gp1.hr/2026/08/russell-osvojio-pole-za-sprint-utrku-cetvorica-unutar-jedne-desetinke/",
+      "author": "Igor Šestak",
+      "published_at": "2026-08-21T15:24:07+00:00",
+      "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f4aa.png",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
     {
       "title": "Kimi Antonelli najbrži na jedinom slobodnom treningu u Zandvoortu",
       "link": "https://www.gp1.hr/2026/08/kimi-antonelli-najbrzi-na-jedinom-slobodnom-treningu-u-zandvoortu/",
@@ -119,20 +133,6 @@
       "link": "https://www.gp1.hr/2026/08/steiner-mercedes-vise-ne-treba-verstappena-imaju-antonellija/",
       "author": "GP1_hr",
       "published_at": "2026-08-18T06:38:30+00:00",
-      "image_url": "",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "McNish hvali Bortoleta: Mentalna staloženost i analitički pristup daju mu veliki potencijal",
-      "link": "https://www.gp1.hr/2026/08/mcnish-hvali-bortoleta-mentalna-stalozenost-daje-mu-veliki-potencijal/",
-      "author": "GP1_hr",
-      "published_at": "2026-08-18T06:00:54+00:00",
       "image_url": "",
       "w": 0,
       "h": 0,
