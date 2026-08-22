@@ -1,8 +1,8 @@
 [
     {
-        "title": "UŽIVO/VIDEO Dinamo - Varaždin: Galešić petom donio preokret, pogodak i asistencija Belje Varaždin je šokirao domaćine u prvome dijelu golom iz prekida, ali Dinamo je pred 6750 gledatelja na Maksimiru uzvratio u nastavku i stigao do preokreta",
+        "title": "VIDEO Dinamo okrenuo Varaždince! Majstorija Galešića, gol i asistencije Belje, zabio i Mudražija Varaždin je šokirao domaćine u prvome dijelu golom iz prekida, ali Dinamo je pred 6750 gledatelja na Maksimiru uzvratio",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-dinamo-varazdin-stigli-su-sastavi-kovacevic-se-ipak-predomislio-dva-pojacanja-prvi-put-u-kadru-15739417",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39451732_640.jpg",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39471190_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -13,8 +13,20 @@
     },
     {
         "title": "Prvaci Europe i svijeta prejaki za Hrvatsku! Zubac i društvo režirali dramu pa potonuli u zadnjim trenucima",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-reprezentacija/uzivo-hrvatska-njemacka-hezonja-i-drustvo-idu-po-trofej-protiv-mocnog-domacina-15739423",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-reprezentacija/njemacka-hrvatska-96-87-finale-superkupa-hamburg-rezultat-15739423",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39464123_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Remek-djelo neočekivanog junaka Dinama! Pogledajte potez o kojem će se pričati",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nikola-galesic-petom-protiv-varazdina-dinamo-preokret-shnl-15739460",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39471192_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -38,7 +50,7 @@
     {
         "title": "Navijači na Maksimiru pozdravili najveće heroje ljeta. Dobili su iskren pljesak zahvalnosti",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/kisa-ohladila-zagreb-dinamo-rotacije-ovacije-vatrogascima-nsoki-kravcov-15739440",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39452071_640.jpg",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39471202_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -144,18 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dva srebra i bronca u tekvondou, hrvači osigurali najmanje dva srebrna odličja",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/mediteranske-igre-taranto-hrvatska-medalje-tekvondo-hrvanje-hinic-teskera-golubic-huklek-kamenjasevic-15739450",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_34844319_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Dinamo potpisuje ugovor s neočekivanim pojačanjem!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-potpisao-lukasa-kacavendu-cetverogodisnji-ugovor-maksimir-2028-15739103",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_39357150_640.jpg",
@@ -168,7 +168,19 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Turci žele Pukštasa, Vatreni stigao Gattusu, Junior Fernandes opet u HNL-u Sve najvažnije vijesti, glasine i potvrđene poslove s nogometne tržnice pratite na portalu Sportskih novosti",
+        "title": "VIDEO Prvijenac nade Vatrenih! Izvisio s Dalićevog popisa, pa podsjetio o kakvom se talentu radi Hrvatski napadač krenuo je trofejem u Superkupu pa protiv Auxerrea pogodio u svom prvom prvenstvenom nastupu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/franjo-ivanovic-debi-gol-lens-auxerre-ligue-1-15739399",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39468969_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Turci žele Pukštasa, Vatreni stigao Gattusu, Junior Fernandes opet u HNL-u",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-livakovic-u-barceloni-dinamo-trazi-novog-vratara-arsenal-dobio-odbijenicu-15739228",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_39077128_640.jpg",
         "w": 640,
@@ -219,18 +231,6 @@
         "title": "Spektakularan posao u HNL-u: Vraća se nekad omiljena zvijezda Dinama!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/junior-fernandes-potpisao-za-nk-rudes-povratak-u-hnl-15739360",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_37520731_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Novo zlato, Kovtun u zagrebačkoj Areni postao europski prvak i na ručama!",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/gimnastika/novo-zlato-kovtun-u-zagrebackoj-areni-postao-europski-prvak-i-na-rucama-15739390",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39448409_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
