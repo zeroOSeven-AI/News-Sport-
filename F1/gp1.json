@@ -1,21 +1,7 @@
 {
-  "created_at": "2026-08-22T09:13:56.825853+00:00",
+  "created_at": "2026-08-22T10:08:28.466257+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
-    {
-      "title": "Russell osvojio pole za sprint utrku, četvorica unutar jedne desetinke",
-      "link": "https://www.gp1.hr/2026/08/russell-osvojio-pole-za-sprint-utrku-cetvorica-unutar-jedne-desetinke/",
-      "author": "Igor Šestak",
-      "published_at": "2026-08-21T15:24:07+00:00",
-      "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f4aa.png",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
     {
       "title": "Vowles: Brinuo sam se da ćemo izgubiti oba vozača",
       "link": "https://www.gp1.hr/2026/08/vowles-brinuo-sam-se-da-cemo-izgubiti-oba-vozaca/",
@@ -50,6 +36,20 @@
       "author": "Igor Šestak",
       "published_at": "2026-08-22T04:58:48+00:00",
       "image_url": "",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
+    {
+      "title": "Russell osvojio pole za sprint utrku, četvorica unutar jedne desetinke",
+      "link": "https://www.gp1.hr/2026/08/russell-osvojio-pole-za-sprint-utrku-cetvorica-unutar-jedne-desetinke/",
+      "author": "Igor Šestak",
+      "published_at": "2026-08-21T15:24:07+00:00",
+      "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f4aa.png",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
