@@ -12,7 +12,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Donosimo ekskluzivne fotografije s gradilišta novog kampa HNS-a! ‘Ovo je investicija u buduća odličja‘",
+        "title": "VIDEO/FOTO Ekskluzivno s gradilišta novog kampa HNS-a! ‘Ovo je investicija u buduća odličja‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/hns-kamp-nacionalni-centar-pored-zracne-luke-dom-hrvatskog-nogometa-15739267",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_39467198_640.jpg",
         "w": 640,
@@ -60,6 +60,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Sergej Jakirović na najvećoj pozornici: ‘Na nama je da opet srušimo prognoze‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/jakirovic-hull-city-otvaraju-premier-ligu-protiv-manchester-uniteda-15739297",
+        "image_url": "https://media.jutarnji.hr/images/slike/2024/09/05/k_38982000_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Ligaški bodovi ili 30 milijuna eura? Kovačević na Varaždin s pričuvama",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/kovacevic-na-varazdin-s-pricuvama-jer-cuva-prvotimce-za-stavanger-15739226",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/20/k_39372452_640.jpg",
@@ -72,9 +84,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Navijači Marseillea razvili zastavu Španjolske koja je eliminirala Francusku. Evo što stoji iza toga",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/south-winners-spanjolska-zastava-viva-roja-marseille-francuska-skandal-15739253",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39465153_640.jpg",
+        "title": "UŽIVO Budimira žele Talijani, Kulenović seli na posudbu u Grčku. Pukštas na radaru Engleza",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-livakovic-u-barceloni-dinamo-trazi-novog-vratara-arsenal-dobio-odbijenicu-15739228",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_39077128_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,9 +96,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO Kulenović seli na posudbu, zna se i gdje. Procurilo ime kluba koji želi Pukštasa",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-livakovic-u-barceloni-dinamo-trazi-novog-vratara-arsenal-dobio-odbijenicu-15739228",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_39077128_640.jpg",
+        "title": "Navijači Marseillea razvili zastavu Španjolske koja je eliminirala Francusku. Evo što stoji iza toga",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/south-winners-spanjolska-zastava-viva-roja-marseille-francuska-skandal-15739253",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39465153_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -144,18 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Ubijen Zolani Tete (38), bivši svjetski boksački prvak. Dočekan je pred kućom i upucan",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/borilacki-sportovi/borilackisportovi-ostalo/ubijen-zolani-tete-mdantsane-pucnjava-bivsi-svjetski-prvak-policija-trazi-napadace-15739232",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39467117_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Dinamo potpisuje ugovor s neočekivanim pojačanjem!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-potpisao-lukasa-kacavendu-cetverogodisnji-ugovor-maksimir-2028-15739103",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_39357150_640.jpg",
@@ -168,7 +168,19 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Ibrahimović stigao u Split: ‘Čeferin mi je rekao da moram upoznati ove ljude. Luka? On je nogomet‘ ‘Rekao bih da je prošle godine bio najbolji igrač Milana. Trebao bi nastaviti igrati koliko god može, jer sjećam se sebe kada sam bio u toj situaciji‘",
+        "title": "Arsenal je poslao poruku: Mi smo ti koje se pita. Tko im može ugroziti pohod na obranu naslova? Utakmicom između prvaka Arsenala i povratnika u elitu Coventryja (3:0) počela nova sezona najskuplje lige na svijetu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/arsenal-zeli-obranu-trona-city-i-liverpool-krenuli-u-lov-15739242",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/20/k_39442710_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Ibrahimović stigao u Split: ‘Čeferin mi je rekao da moram upoznati ove ljude. Luka? On je nogomet‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/zlatan-ibrahimovic-ambasador-sportskih-igara-mladih-u-splitu-15739194",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_39464438_640.jpg",
         "w": 640,
@@ -219,18 +231,6 @@
         "title": "Poldrugač najbolji na terenu, Peternac hrabro posložio momčad, a Belcar je apsolutni tragičar",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/rudes-lokomotiva-4-1-velika-gorica-hnl-poldrugac-skoko-xavi-bralic-15739201",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_39464044_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Potpuna eskalacija sukoba, navijači poručili najvećoj zvijezdi kluba: Više nisi dobrodošao!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/julian-alvarez-atletico-navijaci-odlazak-barcelona-odbijena-arsenal-interes-15739157",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_39454538_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
