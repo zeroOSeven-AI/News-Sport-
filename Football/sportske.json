@@ -1,6 +1,18 @@
 [
     {
-        "title": "Zapamtite ovo ime! Podnio je zahtjev za hrvatsko državljanstvo, a uspoređuju ga s Valverdeom Devetnaestogodišnji veznjak Ferra pokrenuo je dobivanje državljanstva i stiže u Europu u transferu oko milijun eura",
+        "title": "Od bebe s upalom pluća do europske bronce: ‘Kad su nas izbacili s dva fakulteta, dva tjedna nisam mogao spavati‘ U Americi ne smijete previše trenirati, a za razliku od igrača košarke i američkog nogometa, novac ne dobivamo, ali nam i ne treba",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/moja-prica-sn/toni-dragoja-47-11-bronca-pariz-stafeta-4x100-slobodno-15739237",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39447481_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Zapamtite ovo ime! Podnio je zahtjev za hrvatsko državljanstvo, a uspoređuju ga s Valverdeom",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/felipe-obradovich-nurnberg-transfer-hrvatsko-drzavljanstvo-argentinski-veznjak-15739224",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_39462929_640.jpg",
         "w": 640,
@@ -36,9 +48,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hrvatska u drami srušila europskog viceprvaka, čudesni Hezonja zabio za pobjedu četiri sekunde prije kraja!",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-reprezentacija/hezonja-trica-hrvatska-srusila-tursku-95-94-preokret-hamburg-15739170",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_39464641_640.jpg",
+        "title": "Ubijen Zolani Tete (38), bivši svjetski boksački prvak. Dočekan je pred kućom i upucan",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/borilacki-sportovi/borilackisportovi-ostalo/ubijen-zolani-tete-mdantsane-pucnjava-bivsi-svjetski-prvak-policija-trazi-napadace-15739232",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39467117_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,9 +60,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Ubijen Zolani Tete (38), bivši svjetski boksački prvak. Dočekan je pred kućom i upucan",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/borilacki-sportovi/borilackisportovi-ostalo/ubijen-zolani-tete-mdantsane-pucnjava-bivsi-svjetski-prvak-policija-trazi-napadace-15739232",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39467117_640.jpg",
+        "title": "Hrvatska u drami srušila europskog viceprvaka, čudesni Hezonja zabio za pobjedu četiri sekunde prije kraja!",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-reprezentacija/hezonja-trica-hrvatska-srusila-tursku-95-94-preokret-hamburg-15739170",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_39464641_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,6 +96,30 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Arsenal je poslao poruku: Mi smo ti koje se pita. Tko im može ugroziti pohod na obranu naslova?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/arsenal-zeli-obranu-trona-city-i-liverpool-krenuli-u-lov-15739242",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/20/k_39442710_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "UŽIVO Procurilo ime kluba koji želi Pukštasa, već su ga gledali na Poljudu. Livaković u Barceloni",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-livakovic-u-barceloni-dinamo-trazi-novog-vratara-arsenal-dobio-odbijenicu-15739228",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_39077128_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Najluđa press konferencija godine. Uzeo papirić i krenuo nabrajati, spomenuo i Hrvatsku",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/clement-trazi-var-u-championshipu-nakon-poraza-od-wba-i-sporne-ruke-15739187",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_39464308_640.jpg",
@@ -108,45 +144,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO Procurilo ime kluba koji želi Pukštasa, već su ga gledali na Poljudu. Livaković u Barceloni",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-livakovic-u-barceloni-dinamo-trazi-novog-vratara-arsenal-dobio-odbijenicu-15739228",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_39077128_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "VIDEO: Arsenal trijumfalno krenuo u obranu naslova. Topnici rutinski svladali povratnika među elitu",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/arsenal-pregazio-coventry-3-0-dominantan-start-premier-lige-15739203",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_39464276_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Oršićev povratak tek čeka svoj smisao, a ovo je najveća zagonetka Dinamova ljeta! Sve podsjeća na Danija Olma",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/predsjednikov-drugi-veliki-soping-orsic-i-prevljak-takticke-a-stojakovic-i-dominguez-strateske-investicije-15739166",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/20/k_38983579_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "FIFA objavila brutalne kazne, Argentinac dobio deset utakmica zabrane zbog skandala u finalu! Profitirat će i Hrvatska",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/fifa-kazne-paredes-10-molina-7-gavi-3-afa-novcana-kazna-poluprazan-stadion-15739136",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_39463117_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -168,7 +168,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Marija Kovačevića upitali o dolasku Dominika Livakovića. Evo kako je reagirao trener Dinama ‘Ja na raspolaganju imam trojicu vratara i u svu trojicu imam povjerenje‘, pričao je trener Dinama Mario Kovačević",
+        "title": "Dinamo potpisuje ugovor s neočekivanim pojačanjem! Veznjak se nakon posudbe nametnuo, golovima i energijom izborio dugoročni ugovor u Maksimiru",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-potpisao-lukasa-kacavendu-cetverogodisnji-ugovor-maksimir-2028-15739103",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_39357150_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Potpuna eskalacija sukoba, navijači poručili najvećoj zvijezdi kluba: Više nisi dobrodošao!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/julian-alvarez-atletico-navijaci-odlazak-barcelona-odbijena-arsenal-interes-15739157",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_39454538_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Marija Kovačevića upitali o dolasku Dominika Livakovića. Evo kako je reagirao trener Dinama",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-odbija-posudbu-livakovica-barcelona-preuzima-kovacevic-vjeruje-trojci-vratara-15739132",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_39387859_640.jpg",
         "w": 640,
@@ -207,30 +231,6 @@
         "title": "Ilija Kovtun za dlaku ostao bez medalje u parteru",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/gimnastika/kovtun-cetvrti-na-parteru-ep-zagreb-ruce-preca-medalje-15739155",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_35222345_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Šok u svijetu tenisa: Sinner neće nastupiti na posljednjem Grand Slamu godine",
-        "link": "https://sportske.jutarnji.hr/sportske/tenis/grand-slam/sinner-odustaje-od-us-opena-zbog-ozljede-desnog-koljena-15739140",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_39463153_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Kovačević otkrio, dva pojačanja mogla bi debitirati već sutra: ‘Ovu trojicu vjerojatno nećemo koristiti‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kovacevic-rotacije-debiji-dinamo-varazdin-maksimir-15739138",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_39430962_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
