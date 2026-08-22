@@ -1,7 +1,21 @@
 {
-  "created_at": "2026-08-22T14:06:03.824013+00:00",
+  "created_at": "2026-08-22T15:04:13.750431+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
+    {
+      "title": "Lando Norris osvojio najbolju startnu poziciju na VN Nizozemske",
+      "link": "https://www.gp1.hr/2026/08/f1-2026-vn-nizozemske-kvalifikacije/",
+      "author": "Igor Šestak",
+      "published_at": "2026-08-22T15:02:40+00:00",
+      "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f4aa.png",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
     {
       "title": "George Russell pobjednik sprint utrke u Zandvoortu!",
       "link": "https://www.gp1.hr/2026/08/george-russell-pobjednik-sprint-utrke-u-zandvoortu/",
@@ -120,20 +134,6 @@
       "author": "Igor Šestak",
       "published_at": "2026-08-20T17:31:13+00:00",
       "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f9e9.png",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Max Verstappen potpisao novi ugovor s Red Bull Racingom do 2030.",
-      "link": "https://www.gp1.hr/2026/08/max-verstappen-potpisao-novi-ugovor-s-red-bull-racingom-do-2030/",
-      "author": "Igor Šestak",
-      "published_at": "2026-08-20T07:29:06+00:00",
-      "image_url": "https://www.gp1.hr/wp-content/uploads/2026/08/2026-max-verstappen-new-contract-red-bull-1.jpg",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
