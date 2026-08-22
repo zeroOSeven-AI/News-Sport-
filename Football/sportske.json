@@ -1,8 +1,8 @@
 [
     {
-        "title": "UŽIVO Dinamo - Varaždin: Nevistić spasio Modre! Zajc zaprijetio iz daljine, dva pojačanja na klupi Krenule su obje momčadi s nekoliko pokušaja u ovaj susret za sada stopostotnih klubova u domaćem prvenstvu",
+        "title": "UŽIVO Dinamo - Varaždin: Skromni Modri bez prave šanse, gosti zamalo zabili i drugi gol! Krenule su obje momčadi s nekoliko pokušaja u ovaj susret za sada stopostotnih klubova u domaćem prvenstvu",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-dinamo-varazdin-stigli-su-sastavi-kovacevic-se-ipak-predomislio-dva-pojacanja-prvi-put-u-kadru-15739417",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39451732_640.jpg",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39470496_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -12,9 +12,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO Njemačka - Hrvatska: Hrvatska napadačka kriza u drugoj četvrtini, prva osjetnija njemačka prednost",
+        "title": "UŽIVO Njemačka - Hrvatska: Hezonja i društvo odlično parirali prvaku svijeta pa upali u krizu",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-reprezentacija/uzivo-hrvatska-njemacka-hezonja-i-drustvo-idu-po-trofej-protiv-mocnog-domacina-15739423",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39464641_640.jpg",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39464123_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -27,6 +27,30 @@
         "title": "Navijači na Maksimiru pozdravili najveće heroje ljeta. Dobili su iskren pljesak zahvalnosti",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/kisa-ohladila-zagreb-dinamo-rotacije-ovacije-vatrogascima-nsoki-kravcov-15739440",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39452071_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Carević se nakon isključenja ispričao sucima: ‘Bio sam uvjeren, ali moram biti iskren...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/slaven-belupo-gorica-2-0-mitrovic-nestorovski-prva-pobjeda-gregurina-carevic-15739442",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39469173_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "I slavni njemački klub ga traži! Menadžer o Frukovom transferu karijere: ‘Ovo ne bih smio reći, ali...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/toni-fruk-transfer-rijeka-ponude-francuska-engleska-njemacka-werder-hull-15739430",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39333532_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -132,30 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Obrat u zadnji čas: Ipak dostupan TV prijenos utakmice Hrvatske i Njemačke!",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-reprezentacija/hrvatska-protiv-njemacke-na-maxsport-2-15739357",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39464641_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Jakiroviću stigla posebna čestitka iz Hrvatske, javio mu se stari znanac: ‘Trener s velikim T‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sergej-jakirovic-od-gorice-do-pobjede-hulla-nad-manchester-unitedom-15739420",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39469433_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Dinamo potpisuje ugovor s neočekivanim pojačanjem!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-potpisao-lukasa-kacavendu-cetverogodisnji-ugovor-maksimir-2028-15739103",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_39357150_640.jpg",
@@ -168,9 +168,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Jakirović nakon senzacije: ‘Ovo se nije dogodilo 52 godine, razbili smo prokletstvo‘ ‘Ova momčad ima nešto posebno‘, rekao je kapetan Hulla, a trener Uniteda Carrick tvrdi: ‘Tipična utakmica protiv nove momčadi u ligi pred njihovim navijačima. Nismo imali iskru‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hull-city-srusio-manchester-united-2-0-jakirovicev-plan-prekinuo-52-godisnji-niz-15739370",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_38981972_640.jpg",
+        "title": "UŽIVO Turci žele Pukštasa, Vatreni stigao Gattusu, Junior Fernandes opet u HNL-u Sve najvažnije vijesti, glasine i potvrđene poslove s nogometne tržnice pratite na portalu Sportskih novosti",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-livakovic-u-barceloni-dinamo-trazi-novog-vratara-arsenal-dobio-odbijenicu-15739228",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_39077128_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +180,33 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO Turci žele Pukštasa, Vatreni stigao Gattusu, Junior Fernandes opet u HNL-u",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-livakovic-u-barceloni-dinamo-trazi-novog-vratara-arsenal-dobio-odbijenicu-15739228",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_39077128_640.jpg",
+        "title": "Novo zlato, Kovtun u zagrebačkoj Areni postao europski prvak i na ručama!",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/gimnastika/novo-zlato-kovtun-u-zagrebackoj-areni-postao-europski-prvak-i-na-rucama-15739390",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39448409_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Spektakularan posao u HNL-u: Vraća se nekad omiljena zvijezda Dinama!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/junior-fernandes-potpisao-za-nk-rudes-povratak-u-hnl-15739360",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_37520731_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Jakirović nakon senzacije: ‘Ovo se nije dogodilo 52 godine, razbili smo prokletstvo‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hull-city-srusio-manchester-united-2-0-jakirovicev-plan-prekinuo-52-godisnji-niz-15739370",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_38981972_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -207,30 +231,6 @@
         "title": "Došao u Hrvatsku i zavladao Europom! ‘Nisam tu rođen, a ljudi se prema meni ponašaju bolje nego u Ukrajini‘",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/gimnastika/ja-nisam-hrvat-nisam-tu-roden-nisam-nista-a-ljudi-se-prema-meni-ovdje-ponasaju-puno-bolje-nego-u-ukrajini-15739391",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_39365639_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Slovenski dominator: ‘Prije sedam godina sam bio klinac, onda sam počeo sanjati o većim stvarima‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/prije-sedam-godina-sam-bio-klinac-u-meduvremenu-sam-poceo-sanjati-o-vecim-stvarima-15739425",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39467533_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘U Bosni me pitaju za majku, u Hrvatskoj za oca. Slavenu Biliću rekao sam najvažnije ‘da‘ u životu‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/edin-terzic-identitet-bilic-athletic-bilbao-intervju-15739394",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39325772_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
