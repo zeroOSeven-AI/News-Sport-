@@ -1,5 +1,20 @@
 [
     {
+        "title": "Russell surges to victory in Zandvoort Sprint",
+        "link": "https://www.formula1.com/en/latest/article/russell-surges-to-victory-in-zandvoort-sprint-ahead-of-leclerc-and-norris.3evWfVZ0yONnfGGp3t8qyK",
+        "image_url": "https://media.formula1.com/image/upload/t_16by9North/c_lfill,w_2048/q_auto/v1740000001/trackside-images/2026/F1_Grand_Prix_of_Netherlands___Sprint__Qualifying/2291523684.webp",
+        "w": 2048,
+        "h": 1152,
+        "focus_y": 0.35,
+        "published_at": "2026-08-22T10:47:31.255Z",
+        "author": null,
+        "description": "George Russell converted his pole position into a Sprint win at the Dutch Grand Prix, the Mercedes driver beating Ferrari's Charles Leclerc and McLaren's Lando Norris.",
+        "source_title1": "FORMULA 1",
+        "source_title2": "F1",
+        "source_color": "#E10600",
+        "flag": "🇬🇧"
+    },
+    {
         "title": "Palmowski seizes Zandvoort pole in dramatic Qualifying",
         "link": "https://www.formula1.com/en/latest/article/f1-academy-palmowski-seizes-zandvoort-pole-in-dramatic-wet-to-dry-qualifying.6VxF9aYNBcsb0lG1wnU2Dg",
         "image_url": "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/F1%20Academy/GettyImages-2291512160.webp",
@@ -15,7 +30,7 @@
         "flag": "🇬🇧"
     },
     {
-        "title": "LIVE COVERAGE: Russell leads Sprint in the Netherlands",
+        "title": "LIVE COVERAGE: Russell wins Sprint in the Netherlands",
         "link": "https://www.formula1.com/en/latest/article/live-coverage-f1-sprint-in-the-netherlands-2026.WjGvgg8nOuMRnPYkw61wy",
         "image_url": "https://media.formula1.com/image/upload/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Netherlands/16x9%20single%20image%20-%202026-08-22T101559.239.webp",
         "w": 1920,
@@ -129,21 +144,6 @@
         "published_at": "2026-08-21T17:21:17.318Z",
         "author": null,
         "description": "After a last-minute call-up to Red Bull ahead of the Dutch Grand Prix weekend, Liam Lawson will line up in P11 on the grid for Saturday's Sprint.",
-        "source_title1": "FORMULA 1",
-        "source_title2": "F1",
-        "source_color": "#E10600",
-        "flag": "🇬🇧"
-    },
-    {
-        "title": "Verstappen reflects on 'tricky' Dutch Sprint Qualifying",
-        "link": "https://www.formula1.com/en/latest/article/verstappen-and-red-bull-reflect-on-tricky-sprint-qualifying-ahead-of-dutch-gp.1w337fYfA6UGd2hDMalLWr",
-        "image_url": "https://media.formula1.com/image/upload/t_16by9Centre/c_lfill,w_2048/q_auto/v1740000001/fom-website/2026/Netherlands/GettyImages-2291435330.webp",
-        "w": 2048,
-        "h": 1152,
-        "focus_y": 0.35,
-        "published_at": "2026-08-21T17:07:35.600Z",
-        "author": null,
-        "description": "Max Verstappen admits that he and Red Bull \"need to understand\" why they struggled for car balance during Sprint Qualifying ahead of the Dutch Grand Prix, with the home hero only able to achieve sixth on the grid.",
         "source_title1": "FORMULA 1",
         "source_title2": "F1",
         "source_color": "#E10600",
