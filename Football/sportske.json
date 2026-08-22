@@ -1,6 +1,6 @@
 [
     {
-        "title": "Sergej Jakirović očarao legendu, sada svi vjeruju da može do čuda! ‘Apsolutno izvanredno...‘ Povratnik iz Championshipa otvorio je sezonu iznenađenjem 2:0 protiv Manchester Uniteda.",
+        "title": "Sergej Jakirović očarao legendu, sada svi vjeruju da može do čuda! ‘Apsolutno izvanredno...‘ Bilo je to svojevrsno poniženje za Manchester United, Hull je nakon gotovo desetljeća izbivanja iz Premier lige ostvario povratak iz snova",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hull-city-sokirao-manchester-united-2-0-jakirovic-briljirao-15739366",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39468052_640.jpg",
         "w": 640,
@@ -12,9 +12,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Čudesni Jakirović srušio United i pobjedom otvorio sezonu! Crveni vragovi bez ispaljenog metka",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/jakirovicev-hull-sokirao-manchester-united-ranim-golom-15739333",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39468061_640.jpg",
+        "title": "VIDEO Tribine u ekstazi, Jakirović slavi, a nitko ne vjeruje što je napravila zvijezda!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hull-sokirao-manchester-united-2-0-jakirovic-carrick-maguire-15739376",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39467854_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -27,6 +27,18 @@
         "title": "Spektakularan posao u HNL-u: Vraća se nekad omiljena zvijezda Dinama!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/junior-fernandes-potpisao-za-nk-rudes-povratak-u-hnl-15739360",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_37520731_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Čudesni Jakirović srušio United i pobjedom otvorio sezonu! Crveni vragovi bez ispaljenog metka",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/jakirovicev-hull-sokirao-manchester-united-ranim-golom-15739333",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39468061_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,6 +96,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "UŽIVO Bivši dinamovac vratio se u HNL, Vatreni stigao u Italiju, Kulenović mijenja klub?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-livakovic-u-barceloni-dinamo-trazi-novog-vratara-arsenal-dobio-odbijenicu-15739228",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_39077128_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Pred Kovačevićem je zadatak pun opasnosti! Ako ne uspije, svjestan je kakav ga ‘potres‘ čeka",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-varazdin-najveci-domaci-ispit-prije-vikinga-15739341",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_39452119_640.jpg",
@@ -132,30 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Kako će Garcia bez dirigenta igre? Zna se tko je prva zamjena, no postoji jedan uvjet",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-bez-pajazitija-garcia-bira-rjesenje-uz-pukstasa-za-uzvrat-s-rakowom-15739317",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_39460401_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Promašaj stoljeća: Došao na velika vrata, koštao više od Ronalda, a sada moli da mu se raskine ugovor",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/arthur-melo-raskida-ugovor-s-juventusom-besiktas-i-brazil-u-igri-15739309",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39467595_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Dinamo potpisuje ugovor s neočekivanim pojačanjem!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-potpisao-lukasa-kacavendu-cetverogodisnji-ugovor-maksimir-2028-15739103",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_39357150_640.jpg",
@@ -168,7 +168,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Inter kreće po obranu titule, a pred Hrvatom je najteži zadatak. Ozbiljnu konkurenciju dobio i Sučić Gotovo dvije trećine igrača u Serie A dolazi iz inozemstva. Među njima je mnogo Hrvata, ukupno ih je 14 trenutačno u rosterima prvoligaša, a 15. postaje Josip Šutalo",
+        "title": "Ante Rebić nakon rastanka s Hajdukom osvanuo u posebnom društvu. Fotografija je hit Bivši Vatreni je od ovog ljeta slobodan igrač i još nije pronašao zadovoljavajuću sredinu u kojoj bi nastavio karijeru",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/ibrahimovic-kukoc-i-rebic-na-rivi-fotografija-koja-je-odusevila-split-15739244",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39467149_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Zapamtite ovo ime! Podnio je zahtjev za hrvatsko državljanstvo, a uspoređuju ga s Valverdeom",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/felipe-obradovich-nurnberg-transfer-hrvatsko-drzavljanstvo-argentinski-veznjak-15739224",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_39462929_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Inter kreće po obranu titule, a pred Hrvatom je najteži zadatak. Ozbiljnu konkurenciju dobio i Sučić",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/pocinje-serie-a-inter-brani-naslov-juventus-i-milan-pojacani-hrvati-u-fokusu-15739320",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/20/k_38860958_640.jpg",
         "w": 640,
@@ -183,18 +207,6 @@
         "title": "Jakirović na najvećoj pozornici: ‘Igrao sam protiv Bayerna, Juventusa i Chelseaja, pa mi neće biti neki šok‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/jakirovic-hull-city-otvaraju-premier-ligu-protiv-manchester-uniteda-15739297",
         "image_url": "https://media.jutarnji.hr/images/slike/2024/09/05/k_38982000_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "UŽIVO Budimira žele Talijani, Kulenović seli na posudbu u Grčku. Pukštas na radaru Engleza",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-livakovic-u-barceloni-dinamo-trazi-novog-vratara-arsenal-dobio-odbijenicu-15739228",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_39077128_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -219,18 +231,6 @@
         "title": "Navijači Marseillea razvili zastavu Španjolske koja je eliminirala Francusku. Evo što stoji iza toga",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/south-winners-spanjolska-zastava-viva-roja-marseille-francuska-skandal-15739253",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39465153_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Od bebe s upalom pluća do europske bronce: ‘Kad su nas izbacili s dva fakulteta, dva tjedna nisam mogao spavati‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/moja-prica-sn/toni-dragoja-47-11-bronca-pariz-stafeta-4x100-slobodno-15739237",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/19/k_39447481_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
