@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-08-23T06:16:57.406428+00:00",
+  "created_at": "2026-08-23T07:22:14.004911+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
     {
@@ -17,11 +17,25 @@
       "flag": "🇭🇷"
     },
     {
+      "title": "Verstappen: Razlike među timskim kolegama male su zbog ovih bolida",
+      "link": "https://www.gp1.hr/2026/08/verstappen-razlike-medu-timskim-kolegama-male-su-zbog-ovih-bolida/",
+      "author": "Igor Šestak",
+      "published_at": "2026-08-23T06:24:15+00:00",
+      "image_url": "",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
+    {
       "title": "Norris: Dobro smo okrenuli stvari, malo sam iznenađen",
       "link": "https://www.gp1.hr/2026/08/norris-dobro-smo-okrenuli-stvari-malo-sam-iznenaden/",
       "author": "Igor Šestak",
       "published_at": "2026-08-23T05:41:19+00:00",
-      "image_url": "",
+      "image_url": "https://www.gp1.hr/wp-content/uploads/2026/08/2026-netherlands-zandvoort-mclaren-norris.jpg",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
@@ -120,20 +134,6 @@
       "author": "Igor Šestak",
       "published_at": "2026-08-21T06:14:43+00:00",
       "image_url": "https://www.gp1.hr/wp-content/uploads/2026/08/2026-china-cadillac-aston-martin.jpg",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Russell: Nisam imao osjećaj da je moje sjedalo ugroženo",
-      "link": "https://www.gp1.hr/2026/08/russell-nisam-imao-osjecaj-da-je-moje-sjedalo-ugrozeno/",
-      "author": "Igor Šestak",
-      "published_at": "2026-08-21T05:23:38+00:00",
-      "image_url": "",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
