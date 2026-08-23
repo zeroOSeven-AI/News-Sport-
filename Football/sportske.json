@@ -1,8 +1,20 @@
 [
     {
-        "title": "UŽIVO/VIDEO Hajduk - Osijek: GOOOL! Bamba dokrajčio goste s 10 igrača. Zabijali Livaja i novo pojačanje Pred 14.976 gledatelja Hajduk kontrolira utakmicu, a Livaja se golom izjednačio s Bajdom Vukasom na 107 pogodaka",
+        "title": "VIDEO Hajduk krenuo s rezervama pa ‘razbio‘ Osijek! Crveni karton, dva prvijenca, zabio i Livaja Pred 14.976 gledatelja Hajduk je kontrolirao utakmicu, a Livaja se golom izjednačio s Bajdom Vukasom na 107 pogodaka",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-hajduk-osijek-garcia-krece-bez-sege-pukstasa-i-soticeka-livaja-u-vrhu-19-godisnjak-u-obrnai-15739660",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39477179_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Mladi Ukrajinac uvjerljivo najbolji, zablistao Garcijin džoker iz naftalina, tragičar izgorio u želji da se iskupi",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/mladi-ukrajinac-uvjerljivo-najbolji-zablistao-garcijin-dzoker-iz-naftalina-tragicar-izgorio-u-zelji-da-se-iskupi-15739709",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39477292_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,9 +48,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Pogledajte zašto je Osijek ostao s igračem manje na Poljudu. VAR ‘ispravio‘ Kolarića",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-osijek-garcia-rotacije-brruti-var-crveni-mustafic-pobjeda-15739695",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39476901_640.jpg",
+        "title": "VIDEO: Modrić ušao s klupe, poraz za Vlašića i Kulenovića, ali i magija u zadnjim trenucima",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/milan-torino-2-0-modric-rabiot-amorim-cisse-serie-a-15739705",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39477178_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,9 +60,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Modrić i društvo pobjedom protiv Vatrenog započeli novu eru, Francuz heroj Rossonera!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/milan-torino-2-0-modric-rabiot-amorim-cisse-serie-a-15739705",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39477178_640.jpg",
+        "title": "VIDEO Pogledajte zašto je Osijek ostao s igračem manje na Poljudu. VAR ‘ispravio‘ Kolarića",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-osijek-garcia-rotacije-brruti-var-crveni-mustafic-pobjeda-15739695",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39476901_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,6 +96,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Najveće i najskuplje osiguranje u povijesti: Norvežani u strahu zbog Boysa, evo što su osmislili",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/viking-rekordno-osiguranje-bbb-stavanger-festival-sigurnosne-mjere-15739699",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_37530016_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Rijeka si je zakuhala kašu i dovela Keka do ludila. Trebat će puno rada i manje ‘fantaziranja‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/rijeka-istria-3-2-rujevica-derbi-kek-nastavak-niza-15739685",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39476257_640.jpg",
@@ -108,18 +132,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Najveće i najskuplje osiguranje u povijesti: Norvežani u strahu zbog Boysa, evo što su osmislili",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/viking-rekordno-osiguranje-bbb-stavanger-festival-sigurnosne-mjere-15739699",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_37530016_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "VIDEO Rijeka imala plus tri pa se tresla u završnici! Majstorija Fruka, zabio i povratnik",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-rijeka-istra-stigli-sastavi-fruk-u-prvih-11-rijecani-love-pobjedu-uoci-europe-15739628",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39475953_640.jpg",
@@ -132,21 +144,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Haaland šokirao izgledom, reakcije su urnebesne, javili se Joško, Pep, Zlatan... ‘Izbriši moj broj‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/haaland-kratka-frizura-bez-gola-reakcije-ibrahimovica-guardiola-gvardiol-bournemouth-15739652",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39474648_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Ljubimac maksimirskih tribina dobio ovacije pa ispalio: ‘Neka mi je Oršić pustio, ima on dosta golova‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/mudrazija-ovacije-gol-gesta-dinamo-varazdin-orsic-15739692",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39471495_640.jpg",
+        "title": "Romantična priča tužnog kraja: ‘Oživjela‘ je samo zbog Verstappena, ali ni to nije bilo dovoljno",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/automoto/formula1/zandvoort-napushta-f1-norris-posljednji-pobjednik-verstappen-odustao-15739708",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39468019_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -168,7 +168,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Gvardiol u nadoknadi spasio City! Pogledajte pogodak Vatrenog za preokret na Etihadu Gol je prvotno poništen zbog zaleđa, no nakon aktivacije VAR-a postalo je jasno da je Gvardiol u dozvoljenoj poziciji",
+        "title": "Fruk je opet maestro, vraća se i važan Rijekin adut, Istrin talent nije puno pokazao Dantas je imao asistenciju i 96 posto uspješnih dodavanja",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/fruk-je-opet-maestro-vraca-se-i-vazan-rijekin-adut-istrin-talent-nije-puno-pokazao-15739679",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39476216_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Pogledajte kako je dočekana ‘najomraženija‘ osoba u Madridu: ‘Je*eno odlazi odavde!‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/zvizduci-za-alvareza-atletico-remi-villarreal-la-liga-15739658",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39475858_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Gvardiol u nadoknadi spasio City! Pogledajte pogodak Vatrenog za preokret na Etihadu",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/gvardiol-gol-u-nadoknadi-donio-pobjedu-manchester-cityju-protiv-bournemoutha-15739622",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39474754_640.jpg",
         "w": 640,
@@ -207,30 +231,6 @@
         "title": "Gvardiol utišao kritičare pobjedničkim golom, Englezi se raspisali: ‘Napravio je ono najvažnije‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/gvardiol-gol-u-nadoknadi-donio-pobjedu-manchester-cityja-protiv-bournemoutha-15739645",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39474759_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Vušković i društvo ‘pregazili‘ lanjsku senzaciju! Vatreni ovakav debi nije mogao ni sanjati",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/brighton-aston-villa-4-0-hinshelwood-dvaput-crveni-joao-gomes-var-15739606",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39474340_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO Huligani zasjenili spektakl! Igrači poslani u svlačionicu: ‘Morali smo provjeriti je li pogođen‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/feyenoord-cambuur-5-2-prekid-baklje-knvb-perisic-psv-groningen-15739664",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39475973_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
