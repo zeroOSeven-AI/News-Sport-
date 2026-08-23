@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-08-23T05:16:27.541589+00:00",
+  "created_at": "2026-08-23T06:16:57.406428+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
     {
@@ -8,6 +8,20 @@
       "author": "Igor Šestak",
       "published_at": "2026-08-22T15:02:40+00:00",
       "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f4aa.png",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
+    {
+      "title": "Norris: Dobro smo okrenuli stvari, malo sam iznenađen",
+      "link": "https://www.gp1.hr/2026/08/norris-dobro-smo-okrenuli-stvari-malo-sam-iznenaden/",
+      "author": "Igor Šestak",
+      "published_at": "2026-08-23T05:41:19+00:00",
+      "image_url": "",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
@@ -120,20 +134,6 @@
       "author": "Igor Šestak",
       "published_at": "2026-08-21T05:23:38+00:00",
       "image_url": "",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Rastanak Formule 1 i Zandvoorta za početak druge polovice prvenstva",
-      "link": "https://www.gp1.hr/2026/08/f1-2026-vn-nizozemske-najava-utrke/",
-      "author": "Igor Šestak",
-      "published_at": "2026-08-20T17:31:13+00:00",
-      "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f9e9.png",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
