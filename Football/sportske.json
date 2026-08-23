@@ -1,6 +1,18 @@
 [
     {
-        "title": "Novi skandal omraženog Infantina: Nepozvan upao na sastanak pa razbjesnio sve! Unatoč upozorenju Montaglianija, šef FIFA-e promoćurno gura projekte i traži potporu pred izborni okršaj",
+        "title": "I nakon Hajduka mu ne cvjetaju ruže: Talent grije klupu, može li okrenuti priču kao Baturina ili Jagušić? Bruno Durdov je početkom ljeta prodan poljskom Gorniku, ali je od početka sezone upisao tek 26 minuta na terenu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/celtic-stisce-obruc-oko-nike-sigura-hajduk-ceka-vecu-zaradu-durdov-bez-minute-15739580",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/20/k_38074096_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Novi skandal omraženog Infantina: Nepozvan upao na sastanak pa razbjesnio sve!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/infantino-dolazak-punta-cana-razbjesnio-concacaf-cfu-uefa-izbori-15739544",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39454300_640.jpg",
         "w": 640,
@@ -36,9 +48,45 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "UŽIVO: Novo pojačanje Rudeša odlazi nakon mjesec i pol dana, Barcelona se riješava trojice igrača",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-favorit-navijaca-dinama-se-vratio-u-hnl-pukstas-zelja-turaka-dva-hrvata-mijenjaju-klub-15739495",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39077128_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Kreće nova era Modrića i Milana. Na putu im stoji Vatreni koji je ‘osvojio‘ zahtjevne navijače",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/torino-milan-vlasic-modric-otvaranje-serie-a-olimpic-gran-torino-15739575",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39467916_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "VIDEO: Pogledajte gol kakav se zabija samo jedanput u karijeri - petom u rašlje!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/dom-ballard-petom-gol-bristol-city-birmingham-2-2-championship-15739519",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39473817_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Dobitna hrvatska kombinacija došla do prvog trofeja: ‘Tijekom sezone proradit će naš dišpet‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/magdeburg-osvojio-superkup-hrvatski-vratari-mandic-i-kuzmanovic-blistali-15739581",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39474154_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,18 +144,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Novo pojačanje Rudeša odlazi nakon mjesec i pol dana, Barcelona se riješava trojice igrača",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-favorit-navijaca-dinama-se-vratio-u-hnl-pukstas-zelja-turaka-dva-hrvata-mijenjaju-klub-15739495",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39077128_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Sergej Jakirović u pet minuta dogovorio novi ugovor",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hull-sokirao-manchester-united-novi-ugovor-sergej-jakirovic-acun-ilicali-15739534",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_37291701_640.jpg",
@@ -132,9 +168,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Ljubimac Maksimira do jučer je bio višak. Spletom sretnih okolnosti sada je izronio iz nogometne depresije",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/postaje-li-mudrazija-vazan-rotacijski-igrac-u-dinamu-15739481",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39471499_640.jpg",
+        "title": "Hoće li Hajduk protiv Osijeka izaći s rezervama?! Cilj se zna, a Garcia ne smije upasti u zamku Rotacija će sigurno biti, ali najveće je pitanje u kojoj će se mjeri one dogoditi obzirom na ono što je bilo i što slijedi nakon Osijeka",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-osijek-garcia-rotacije-rakow-poljud-konferencijska-liga-15739513",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39460420_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -144,9 +180,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Najbolje čuvana Dinamova tajna",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/perez-vinlof-je-najbolje-cuvana-dinamova-tajna-prvim-dodirom-zakotrljao-je-preokret-15739467",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39387274_640.jpg",
+        "title": "Platili ga više od 100 milijuna eura, a navijači ga ismijali već u debiju: ‘Katastrofalno loš‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/tonali-razocarao-debi-tottenham-brentford-rekordni-transfer-poraz-0-3-15739484",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39470768_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -156,7 +192,19 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Nova sezona, stara priča: ‘Nije svetac, ali trpi nasilje od suparničkih momčadi i navijača‘ Trener Real Madrida smatra da problemi nisu slučajni te da se sličan obrazac ponavlja iz utakmice u utakmicu",
+        "title": "Jakirović zaslužuje čistu desetku! A najveći uspjeh trenerske karijere sigurno ga neće osiliti",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hull-sokirao-manchester-united-2-0-takticka-lekcija-jakirovica-15739514",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39467819_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Nova sezona, stara priča: ‘Nije svetac, ali trpi nasilje od suparničkih momčadi i navijača‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/mourinho-brani-viniciusa-trpi-nasilje-espanyol-real-madrid-la-liga-15739507",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39443096_640.jpg",
         "w": 640,
@@ -183,54 +231,6 @@
         "title": "Jesu li vam ljetne vrućine poremetile koncentraciju ili ste spremni za novi sportski izazov?",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/kviz/sportski-kviz-hrvatski-sport-atletika-plivanje-nogomet-15739409",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_38806688_640.gif",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Debi Edina Terzića za zaborav: Athletic sam sebi pucao u nogu i ‘gurnuo‘ Sevillu do pobjede",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sevilla-kaznila-kikseve-athletica-terzicev-debi-poraz-3-1-san-mames-15739515",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39407231_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Kovačević oduševljen gospodskim potezom Mislava Oršića: ‘Znam koliko bi mu značilo...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kovacevic-odusevljen-gospodskim-potezom-mislava-orsica-znam-koliko-bi-mu-znacilo-15739469",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39451628_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Dinamovu zvijer nemoguće je ukrotiti! Zajc mora bolje, a evo tko je promijenio cijelu utakmicu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/zajc-mora-bolje-jedan-dinamovac-se-strasno-mucio-a-as-iz-rukava-promijenio-cijelu-utakmicu-15739466",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39471497_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Prvaci Europe i svijeta prejaki za Hrvatsku! Zubac i društvo režirali dramu pa potonuli u zadnjim trenucima",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-reprezentacija/njemacka-hrvatska-96-87-finale-superkupa-hamburg-rezultat-15739423",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39464123_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
