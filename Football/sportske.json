@@ -1,8 +1,8 @@
 [
     {
-        "title": "UŽIVO Rijeka - Istra: GOOOL! Sprema se potop na Rujevici, zabio i Fruk Riječani su pokazali puno više od svog suparnika i zasluženo otišli na predah s prednošću",
+        "title": "UŽIVO/VIDEO Rijeka - Istra: Pao i četvrti pogodak, trese se i greda. Domaćin pred pobjedom Riječani su pokazali puno više od svog suparnika i zasluženo otišli na predah s prednošću. Domaćin je nastavio u istom ritmu i u nastavku",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-rijeka-istra-stigli-sastavi-fruk-u-prvih-11-rijecani-love-pobjedu-uoci-europe-15739628",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39475671_640.jpg",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39475953_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,6 +24,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Vidović zabio pet dana nakon odlaska iz Dinama, Vatreni apsolutno oduševio! Dva gola i asistencija",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/vidovic-debi-gol-paderborn-matanovic-gol-asist-11-minuta-dfb-pokal-15739667",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_38930707_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "VIDEO Pogledajte kako je dočekana ‘najomraženija‘ osoba u Madridu: ‘Je*eno odlazi odavde!‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/zvizduci-za-alvareza-atletico-remi-villarreal-la-liga-15739658",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39475858_640.jpg",
@@ -36,9 +48,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Gvardiol u nadoknadi spasio City! Pogledajte pogodak Vatrenog za preokret na Etihadu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/gvardiol-gol-u-nadoknadi-donio-pobjedu-manchester-cityju-protiv-bournemoutha-15739622",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39474754_640.jpg",
+        "title": "VIDEO Huligani zasjenili spektakl! Igrači poslani u svlačionicu: ‘Morali smo provjeriti je li pogođen‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/feyenoord-cambuur-5-2-prekid-baklje-knvb-perisic-psv-groningen-15739664",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39475973_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -51,6 +63,18 @@
         "title": "VIDEO Haaland šokirao izgledom, reakcije su urnebesne, javili se Joško, Pep, Zlatan... ‘Izbriši moj broj‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/haaland-kratka-frizura-bez-gola-reakcije-ibrahimovica-guardiola-gvardiol-bournemouth-15739652",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39474648_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Gvardiol u nadoknadi spasio City! Pogledajte pogodak Vatrenog za preokret na Etihadu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/gvardiol-gol-u-nadoknadi-donio-pobjedu-manchester-cityju-protiv-bournemoutha-15739622",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39474754_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -132,30 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dragulj Vatrenih oduševio i zaradio ovacije, oglasio se junak Gvardiol: ‘Bio sam siguran da nisam u zaleđu‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/veliki-debi-naseg-dragulja-vuskovic-zaradio-ovacije-gvardiol-prestigao-kovacica-15739631",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39474759_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "UŽIVO: Arijan Ademi vraća se u HNL?! Petkoviću stiže Hrvat, bivši vratar Dinama seli u Emirate",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-favorit-navijaca-dinama-se-vratio-u-hnl-pukstas-zelja-turaka-dva-hrvata-mijenjaju-klub-15739495",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39077128_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Navijači Dinama klanjaju se Mislavu Oršiću - jer nije zabio gol!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/varazdin/orsicev-fair-play-prepustio-pogodak-mudraziji-dinamo-pobijedio-varazdin-15739492",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39451621_640.jpg",
@@ -168,7 +168,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "I nakon Hajduka mu ne cvjetaju ruže: Talent grije klupu, može li okrenuti priču kao Baturina ili Jagušić? Bruno Durdov je početkom ljeta prodan poljskom Gorniku, ali je od početka sezone upisao tek 26 minuta na terenu",
+        "title": "Kritizirali smo Hajduk, ali oni su ih nadmašili! Na otvorenju HNL-a pokazali nulu, i to Kelvinovu Carevića zasad neće mijenjati, ali to može biti i samo sljedeća utakmica s Rijekom zadnjeg dana kolovoza",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/gorica-potonula-kriza-poraz-slaven-belupo-koprivnica-apsolutna-nula-15739610",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39469171_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Sjajni Perišić i dalje briljira za PSV! Pogodio je za preokret pa utrpao još jedan",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/perisic-gol-preokret-psv-groningen-eredivisie-15739600",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39404080_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "I nakon Hajduka mu ne cvjetaju ruže: Talent grije klupu, može li okrenuti priču kao Baturina ili Jagušić?",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/celtic-stisce-obruc-oko-nike-sigura-hajduk-ceka-vecu-zaradu-durdov-bez-minute-15739580",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/20/k_38074096_640.jpg",
         "w": 640,
@@ -207,30 +231,6 @@
         "title": "Francuskinje također klasa više, za Hrvatsku turnir zapravo počinje tek sada",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/odbojka/odbojka-ostalo/francuskinje-takoder-klasa-vise-za-hrvatsku-turnir-zapravo-pocinje-tek-sada-15739621",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39474716_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Mourinho o svom spasitelju: ‘Stvarno je zabavan tip. Živimo zajedno, ja, moji suradnici, on i Cucurella‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/real-madrid-espanyol-espi-gol-90-minuta-mourinho-povratak-15739601",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39471548_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Novi skandal omraženog Infantina: Nepozvan upao na sastanak pa razbjesnio sve!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/infantino-dolazak-punta-cana-razbjesnio-concacaf-cfu-uefa-izbori-15739544",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39454300_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
