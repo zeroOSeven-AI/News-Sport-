@@ -1,21 +1,7 @@
 {
-  "created_at": "2026-08-23T12:11:01.753319+00:00",
+  "created_at": "2026-08-23T13:22:18.842101+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
-    {
-      "title": "Lando Norris osvojio najbolju startnu poziciju na VN Nizozemske",
-      "link": "https://www.gp1.hr/2026/08/f1-2026-vn-nizozemske-kvalifikacije/",
-      "author": "Igor Šestak",
-      "published_at": "2026-08-22T15:02:40+00:00",
-      "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f4aa.png",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
     {
       "title": "Verstappen: Razlike među timskim kolegama male su zbog ovih bolida",
       "link": "https://www.gp1.hr/2026/08/verstappen-razlike-medu-timskim-kolegama-male-su-zbog-ovih-bolida/",
@@ -36,6 +22,20 @@
       "author": "Igor Šestak",
       "published_at": "2026-08-23T05:41:19+00:00",
       "image_url": "https://www.gp1.hr/wp-content/uploads/2026/08/2026-netherlands-zandvoort-mclaren-norris.jpg",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
+    {
+      "title": "Lando Norris osvojio najbolju startnu poziciju na VN Nizozemske",
+      "link": "https://www.gp1.hr/2026/08/f1-2026-vn-nizozemske-kvalifikacije/",
+      "author": "Igor Šestak",
+      "published_at": "2026-08-22T15:02:40+00:00",
+      "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f4aa.png",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
