@@ -1,8 +1,8 @@
 [
     {
-        "title": "UŽIVO Hajduk - Osijek: Garcia promijenio 9 igrača! Livaja u vrhu, 19-godišnjak u obrani, tri zvijezde na klupi Utakmicu 4. kola SHNL-a između Hajduka i Osijeka pratimo i komentiramo iz minute u minutu",
+        "title": "UŽIVO Hajduk - Osijek: GOOOL! Zabilo pojačanje Hajduka, Garcia izveo dosad neviđenu postavu Utakmicu 4. kola SHNL-a između Hajduka i Osijeka pratimo i komentiramo iz minute u minutu",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-hajduk-osijek-garcia-krece-bez-sege-pukstasa-i-soticeka-livaja-u-vrhu-19-godisnjak-u-obrnai-15739660",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39460562_640.jpg",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39425813_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -12,9 +12,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Ne znam na temelju čega možemo biti bahati!? Pojedinci na ovaj način neće prolaziti...‘",
+        "title": "Kek potpuno iskren nakon drame: ‘Ovo je nedopustivo! Po čemu mi možemo biti bahati?‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/rijeka-istra-3-2-kek-poruka-najava-midtjylland-rujevica-15739682",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39476253_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Nitko na Poljudu ni u ludilu ovo nije očekivao",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-b-momcad-protiv-osijeka-fokus-na-rakow-15739687",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39476411_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,9 +48,33 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "UŽIVO: Hajduku stigla ponuda za zvijezdu koje nema u kadru, Francuzi nude 2 milijuna eura?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-favorit-navijaca-dinama-se-vratio-u-hnl-pukstas-zelja-turaka-dva-hrvata-mijenjaju-klub-15739495",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39077128_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "VIDEO Skandal u hrvatskoj ženskoj ligi: Vratarka udarila suparnicu, pa zamahnula prema sutkinji",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/gorica-donat-2-2-crveni-penal-gol-u-90-3-supersport-prva-hnlz-15739678",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39476118_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Rijeka si je zakuhala kašu i dovela Keka do ludila. Trebat će puno rada i manje ‘fantaziranja‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rijeka-istria-3-2-rujevica-derbi-kek-nastavak-niza-15739685",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39476257_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -120,42 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Infantino iza kulisa progurao megaprojekt: Svjetsko prvenstvo imat će 211 reprezentacija!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/fifa-u-15-svjetsko-prvenstvo-211-reprezentacija-gianni-infantino-15739674",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39400248_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Gvardiol utišao kritičare pobjedničkim golom, Englezi se raspisali: ‘Napravio je ono najvažnije‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/gvardiol-gol-u-nadoknadi-donio-pobjedu-manchester-cityja-protiv-bournemoutha-15739645",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39474759_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO Huligani zasjenili spektakl! Igrači poslani u svlačionicu: ‘Morali smo provjeriti je li pogođen‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/feyenoord-cambuur-5-2-prekid-baklje-knvb-perisic-psv-groningen-15739664",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39475973_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Navijači Dinama klanjaju se Mislavu Oršiću - jer nije zabio gol!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/varazdin/orsicev-fair-play-prepustio-pogodak-mudraziji-dinamo-pobijedio-varazdin-15739492",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39451621_640.jpg",
@@ -168,7 +168,43 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Norris do druge pobjede u nizu, šok za Verstappena pred domaćom publikom Na samom kraju prvog kruga Nizozemac je napravio pogrešku, dotaknuo mokri rubnjak pa se izvrtio i neslavno završio posljednji nastup na domaćem terenu",
+        "title": "Liverpool izvukao bod u 99. minuti, spektakularna koreografija za legendu Newcastle dvaput vodio, Gakpo i Szoboszlai pogodili za remi",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/liverpool-bod-u-99-szoboszlai-penal-gvardiol-preokret-city-newcastle-bournemouth-15739661",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39475151_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Vušković i društvo ‘pregazili‘ lanjsku senzaciju! Vatreni ovakav debi nije mogao ni sanjati",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/brighton-aston-villa-4-0-hinshelwood-dvaput-crveni-joao-gomes-var-15739606",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39474340_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘Ti si licemjer! Zlostavljao si djevojku, poticao maltretiranje, a sada tražiš razumijevanje‘",
+        "link": "https://sportske.jutarnji.hr/sportske/tenis/tenis-mix/roddick-prozvao-kyrgiosa-za-licemjerje-nakon-pozitivnog-testa-na-kokain-15739637",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39474659_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Norris do druge pobjede u nizu, šok za Verstappena pred domaćom publikom",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/automoto/formula1/norris-pobijedio-oprostaj-zandvoorta-antonelli-russell-postolje-vn-nizozemske-15739629",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39474765_640.jpg",
         "w": 640,
@@ -192,45 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Arijan Ademi vraća se u HNL?! Petkoviću stiže Hrvat, bivši vratar Dinama seli u Emirate",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-favorit-navijaca-dinama-se-vratio-u-hnl-pukstas-zelja-turaka-dva-hrvata-mijenjaju-klub-15739495",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39077128_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Mijatović: Ideja je da guramo i dalje ‘big-ball‘, a naša širina me jako veseli",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-reprezentacija/mijatovic-ideja-je-da-guramo-i-dalje-big-ball-a-nasa-sirina-me-jako-veseli-15739648",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39474059_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Argentinci i Osijek savršen su spoj! Kad je jedan otišao, nestala je i energija, sad je stigao drugi",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/osijek-crno-zlatno-napada-hajduk-poljud-rekordni-start-bessone-15739643",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39468068_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Kritizirali smo Hajduk, ali oni su ih nadmašili! Na otvorenju HNL-a pokazali nulu, i to Kelvinovu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/gorica-potonula-kriza-poraz-slaven-belupo-koprivnica-apsolutna-nula-15739610",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39469171_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
