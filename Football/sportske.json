@@ -1,8 +1,20 @@
 [
     {
-        "title": "UŽIVO/VIDEO Hajduk - Osijek: Kolarić išao na VAR pa izvadio crveni karton! Zabio novi igrač Hajduka Hajduk je izveo gotovo rezervnu postavu, ali vodi protiv Osijeka koji je sezonu otvorio s tri uzastopne pobjede",
+        "title": "UŽIVO/VIDEO Hajduk - Osijek: GOOOL! Livaja povećao vodstvo, zabilo i pojačanje, gosti s 10 igrača Hajduk je izveo gotovo rezervnu postavu, ali vodi protiv Osijeka koji je sezonu otvorio s tri uzastopne pobjede",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-hajduk-osijek-garcia-krece-bez-sege-pukstasa-i-soticeka-livaja-u-vrhu-19-godisnjak-u-obrnai-15739660",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39476676_640.jpg",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39476902_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Pogledajte zašto je Osijek ostao s igračem manje na Poljudu. VAR ‘ispravio‘ Kolarića",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-osijek-garcia-rotacije-brruti-var-crveni-mustafic-pobjeda-15739695",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39476901_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -144,18 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Gvardiol u nadoknadi spasio City! Pogledajte pogodak Vatrenog za preokret na Etihadu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/gvardiol-gol-u-nadoknadi-donio-pobjedu-manchester-cityju-protiv-bournemoutha-15739622",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39474754_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Navijači Dinama klanjaju se Mislavu Oršiću - jer nije zabio gol!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/varazdin/orsicev-fair-play-prepustio-pogodak-mudraziji-dinamo-pobijedio-varazdin-15739492",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39451621_640.jpg",
@@ -168,7 +168,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Jedan bivši hajdukovac ušao s klupe, zabio dva gola i spriječio debakl, drugi odličan u debiju protiv svog bivšeg kluba Ljubičić je ušao u 62. minuti, asistirao i zabio dva gola za trijumf u Kupu",
+        "title": "VIDEO: Vušković i društvo ‘pregazili‘ lanjsku senzaciju! Vatreni ovakav debi nije mogao ni sanjati Hinshelwood zabio dvaput, Lindelöf autogolom otvorio lavinu, a Joao Gomes isključen nakon VAR intervencije.",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/brighton-aston-villa-4-0-hinshelwood-dvaput-crveni-joao-gomes-var-15739606",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39474340_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Huligani zasjenili spektakl! Igrači poslani u svlačionicu: ‘Morali smo provjeriti je li pogođen‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/feyenoord-cambuur-5-2-prekid-baklje-knvb-perisic-psv-groningen-15739664",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39475973_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Jedan bivši hajdukovac ušao s klupe, zabio dva gola i spriječio debakl, drugi odličan u debiju protiv svog bivšeg kluba",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/letica-debi-luzern-lausanne-1-0-prvi-clean-sheet-15739625",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_36199903_640.jpg",
         "w": 640,
@@ -183,18 +207,6 @@
         "title": "Liverpool izvukao bod u 99. minuti, spektakularna koreografija za legendu",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/liverpool-bod-u-99-szoboszlai-penal-gvardiol-preokret-city-newcastle-bournemouth-15739661",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39475151_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Vušković i društvo ‘pregazili‘ lanjsku senzaciju! Vatreni ovakav debi nije mogao ni sanjati",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/brighton-aston-villa-4-0-hinshelwood-dvaput-crveni-joao-gomes-var-15739606",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39474340_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -219,18 +231,6 @@
         "title": "Norris do druge pobjede u nizu, šok za Verstappena pred domaćom publikom",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/automoto/formula1/norris-pobijedio-oprostaj-zandvoorta-antonelli-russell-postolje-vn-nizozemske-15739629",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39474765_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Dragulj Vatrenih oduševio i zaradio ovacije, oglasio se junak Gvardiol: ‘Bio sam siguran da nisam u zaleđu‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/veliki-debi-naseg-dragulja-vuskovic-zaradio-ovacije-gvardiol-prestigao-kovacica-15739631",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39474759_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
