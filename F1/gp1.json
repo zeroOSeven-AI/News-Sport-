@@ -1,7 +1,21 @@
 {
-  "created_at": "2026-08-23T15:08:45.967273+00:00",
+  "created_at": "2026-08-23T16:08:16.713747+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
+    {
+      "title": "Lando Norris pobjednik posljednje utrke u Zandvoortu!",
+      "link": "https://www.gp1.hr/2026/08/lando-norris-pobjednik-posljednje-utrke-u-zandvoortu/",
+      "author": "Tomislav Radić",
+      "published_at": "2026-08-23T15:15:31+00:00",
+      "image_url": "https://www.gp1.hr/wp-content/uploads/2026/08/zandvoort-2026-utrka-scaled.jpeg",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
     {
       "title": "Verstappen: Razlike među timskim kolegama male su zbog ovih bolida",
       "link": "https://www.gp1.hr/2026/08/verstappen-razlike-medu-timskim-kolegama-male-su-zbog-ovih-bolida/",
@@ -120,20 +134,6 @@
       "author": "Igor Vukajlovic",
       "published_at": "2026-08-21T11:33:51+00:00",
       "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f326.png",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Bottas: Smjena šefa momčadi me iznenadila, ali nešto se moralo promijeniti",
-      "link": "https://www.gp1.hr/2026/08/bottas-smjena-sefa-momcadi-me-iznenadila-ali-nesto-se-moralo-promijeniti/",
-      "author": "Igor Šestak",
-      "published_at": "2026-08-21T06:14:43+00:00",
-      "image_url": "https://www.gp1.hr/wp-content/uploads/2026/08/2026-china-cadillac-aston-martin.jpg",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
