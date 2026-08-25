@@ -12,30 +12,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hrvatski motor poveo Dambrauskasa u Ligu prvaka: Pretrčao više od svih, u jednoj rubrici dosegao savršenstvo",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/lepinjica-vodi-sabah-u-ligu-prvaka-hrvat-dominira-statistikom-15740363",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39484565_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Dambrauskas nakon senzacije: ‘Ovo je najbolja momčad koju sam trenirao, a ja najsretniji trener‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sabah-preokret-izbacio-hapoel-ulazak-u-ligu-prvaka-15740368",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_26086315_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "VIDEO Hrvat zabio u Engleskoj, novo slavlje Sergeja Jakirovića! Preživio dramu s bijele točke",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/crnac-gol-norwich-jakirovic-hull-prolaz-stoke-penali-carabao-cup-15740370",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39467819_640.jpg",
@@ -60,9 +36,33 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Najveća nada Vatrenih pogodila izborom kluba, a Bilić ga vidi u drugačijoj ulozi",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/luka-vuskovic-debi-brighton-cista-mreza-bilic-planovi-premiership-15740346",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/24/k_39155608_640.jpg",
+        "title": "Bivši dinamovac zabio u nestvarnoj pobjedi, momčad nadoknadila 4 gola minusa i ušla u Ligu prvaka",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/lask-preokret-5-1-protiv-celtica-izborio-ligu-prvaka-u-produzecima-15740379",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39484720_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Hrvatski motor poveo Dambrauskasa u Ligu prvaka: Pretrčao više od svih, u jednoj rubrici dosegao savršenstvo",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/lepinjica-vodi-sabah-u-ligu-prvaka-hrvat-dominira-statistikom-15740363",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39484565_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Dambrauskas nakon senzacije: ‘Ovo je najbolja momčad koju sam trenirao, a ja najsretniji trener‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sabah-preokret-izbacio-hapoel-ulazak-u-ligu-prvaka-15740368",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_26086315_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -75,6 +75,30 @@
         "title": "Teška priča povratnika u Hrvatsku: Majka mu je bila plesačica, brat narkoman, a odrastao je uz prostituciju",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/junior-fernandes-vraca-se-u-hnl-potpisao-za-rudes-zbog-obitelji-15740329",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39482482_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Najveća nada Vatrenih pogodila izborom kluba, a Bilić ga vidi u drugačijoj ulozi",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/luka-vuskovic-debi-brighton-cista-mreza-bilic-planovi-premiership-15740346",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/24/k_39155608_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "BORILAČKI TJEDAN: Hrgović i Plantić boksat će za svjetske titule, evo kako i kada pogledati mečeve",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/borilacki-tjedan-hrgovic-i-plantic-boksaju-za-svjetske-titule-evo-kako-i-kada-pogledati-meceve-15740373",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39484675_640.png",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -132,30 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Kovačević uoči Norveške otkrio stanje Luke Stojkovića: ‘Ovo sanjamo godinu dana‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/pokazali-smo-da-smo-bolji-karte-su-otvorene-i-od-prve-minute-napast-cemo-ligu-prvaka-15740302",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39387859_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Legenda kluba oštro napala problematičnu zvijezdu: ‘U Realu je samo zato jer ga nitko ne želi‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/morientes-canizares-kritike-vinicius-real-madrid-izgubljen-slucaj-15740321",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39443088_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Stigla velika vijest oko Stojkovića, druga zvijezda seli na klupu? Ovo je vjerojatni sastav za Norvežane",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-viking-stojkovic-spreman-kovacevic-dvojbe-bek-lijevo-krilo-15740349",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_38474728_640.jpg",
@@ -168,7 +168,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Prosinečki nam se javio nakon odlaska s izborničke klupe. Evo što se krije iza ekspresnog rastanka U trenucima dok su dogovarali raskid ugovora, stranica saveza još je slavila njegovo imenovanje!?",
+        "title": "Kovačić neće još dugo ostati u Cityju? U priči velikani i niz klubova, evo tko je sve zainteresiran ‘Vjerojatno će City biti otvoren za ponude u siječnju. Milan vidi ovu priliku i želi je iskoristiti kako bi ubrzao transfer‘, poručio je anonimni izvor",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kovacic-izvan-prvog-plana-city-spreman-na-prodaju-milan-west-ham-aston-villa-15740299",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_33039079_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Skandal na suđenju, liječnici Diega Maradone priznali: ‘Dali smo vam pogrešne nalaze‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/pogresni-testovi-uzdrmali-sudenje-za-smrt-diega-maradone-15740308",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39460136_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Prosinečki nam se javio nakon odlaska s izborničke klupe. Evo što se krije iza ekspresnog rastanka",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/prosinecki-raskida-s-kirgistanom-nakon-osam-mjeseci-bez-sluzbene-utakmice-15740247",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_38767237_640.jpg",
         "w": 640,
@@ -207,30 +231,6 @@
         "title": "FOTO: Pada novi potpis na Maksimiru! Mladić fotografiran u zrakoplovu, iduća postaja - Zagreb",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-dovodi-lautara-ultru-ugovor-cetiri-godine-transfer-700-tisuca-eura-15740261",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39471612_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hrgović uoči meča karijere: ‘Pozvali su me da izgubim. Cijeli svijet me podcjenjuje‘",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/pozvali-su-me-da-izgubim-svjestan-sam-toga-cijeli-svijet-me-podcjenjuje-15740288",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39483745_640.png",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Senzacija iz Katalonije, na pomolu je veliki obrat u priči oko Livakovića i Barcelone!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/livakovic-ostaje-u-barceloni-cetverogodisnji-ugovor-i-borba-za-minute-15740185",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_38675903_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
