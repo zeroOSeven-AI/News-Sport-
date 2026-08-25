@@ -12,9 +12,45 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Europa je u šoku: ‘On je postao nogometni taoc!‘; Agent tvrdi: ‘Ne pitaj lažljivca zašto je lagao...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/julian-alvarez-taoc-transfera-barcelona-real-arsenal-atletico-sukob-15740220",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39366295_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Norvežani uoči Dinama: ‘Neustrašivi smo! Ne želimo večeri Lige prvaka provesti u papučama pred TV-om s keksima‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/viking-najavljuje-uzvrat-protiv-dinama-tripic-i-aarsheim-vjeruju-u-prolaz-15740194",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39451943_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Sudačka komisija opet zaštitila suce, Osijek je opravdano završio s igračem manje na Poljudu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/var-penal-rijeci-crveni-osijeku-analiza-4-kola-hnl-15740198",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39476903_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Pregovori su ušli u ozbiljnu fazu, Nijemci su opasno zagrizli, ali u Osijeku su postavli jasnu cijenu za svog asa",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/osijek-dilema-jakupovic-greuther-furth-mersinaj-ispada-mitrovic-blizu-potpisa-15740211",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39437726_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,9 +72,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Sudačka komisija opet zaštitila suce, Osijek je opravdano završio s igračem manje na Poljudu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/var-penal-rijeci-crveni-osijeku-analiza-4-kola-hnl-15740198",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39476903_640.jpg",
+        "title": "UŽIVO: Spursi doveli ogromno pojačanje, Barcelona riješila sve papire oko Livakovića, Kačavenda produžio ugovor s Dinamom",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-napadac-napusta-osijek-dinamo-objavio-dolazak-ganca-15740051",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/24/k_39077128_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Jug krenuo s pripremama, Joković novi kapetan, pojačanje zaradilo sedam šavova i dvije slomljene koščice",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vaterpolo/jugasi-krenuli-s-punim-pripremama-za-novu-sezonu-15740226",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_38984817_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,18 +132,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Spursi doveli ogromno pojačanje, Barcelona riješila sve papire oko Livakovića, Kačavenda produžio ugovor s Dinamom",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-napadac-napusta-osijek-dinamo-objavio-dolazak-ganca-15740051",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/24/k_39077128_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Pao je dogovor, Tottenham megatransferom ‘zapalio‘ London! Stigla je zvijezda u poslu vrijednom 100 milijuna eura",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/savinho-za-100-milijuna-eura-prelazi-u-tottenham-de-zerbi-gradi-napad-15740156",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_35960207_640.jpg",
@@ -120,42 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dvojica ključnih dinamovaca bi mogla ‘pregorjeti‘: ‘To je nevjerojatno, a iza svega se krije velika opasnost...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-ritam-misic-beljo-devet-utakmica-37-dana-potreban-predah-15740079",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/24/k_38226736_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Velika utakmica za Dinamo, a posebno za njega! Vrijeme je da se konačno probudi, ovo mu je možda i posljednja šansa",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-viking-miha-zajc-stavanger-play-off-liga-prvaka-15740053",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/24/k_39452031_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hrvatska zastava ‘završila‘ naopako, a sada je stigla i isprika: ‘Duboko žalimo i svjesni smo ozbiljnosti situacije‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/isprika-organizacijskog-odbora-mi-u-tarantu-zbog-naopacke-okrenute-hrvatske-zastave-15740134",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_38302706_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Navijači Dinama klanjaju se Mislavu Oršiću - jer nije zabio gol!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/varazdin/orsicev-fair-play-prepustio-pogodak-mudraziji-dinamo-pobijedio-varazdin-15739492",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39451621_640.jpg",
@@ -168,7 +168,43 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Gattuso nakon pobjede progovorio o Vatrenom: ‘Mora se vratiti u formu, trenutno nije u najboljem stanju‘ Talijanski trener govorio je o stanju hrvatskog reprezentativca, ali i pohvalio Frattesija te demantirao navode o sukobu s Fabijanijem i Lotitom.",
+        "title": "‘To što je Dinamo napravio je nedopustivo za ozbiljne ekipe! Hajduk? Reći ću vam nešto, takve me stvari ljute...‘ Bivši trener analizira presudni tjedan: Dinamova nezrelost, Hajdukove amplitude i Rijekina nada u rupe Danaca",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/jurcic-analiza-dinamo-viking-hajduk-rakow-rijeka-midtjylland-presudni-tjedan-15740035",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/24/k_39452126_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Početak iz snova za Hrvata! Predstavili ga u podne, a samo deset sati kasnije zabio je svoj prvijenac",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/matej-maglica-gol-na-debiju-za-kocaelispor-potvrdio-pobjedu-2-0-15740060",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_30476129_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Velikan je već stao u red: Sigur bi protiv Poljaka mogao odigrati svoju posljednju utakmicu u dresu Hajduka",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/celtic-ponuda-35-milijuna-za-nike-sigura-valencia-i-toulouse-u-utrci-15740075",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39426134_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Gattuso nakon pobjede progovorio o Vatrenom: ‘Mora se vratiti u formu, trenutno nije u najboljem stanju‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/lazio-pobjeda-u-bologni-gattuso-demantira-sukobe-hvali-posjed-15740065",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_38641472_640.jpg",
         "w": 640,
@@ -195,42 +231,6 @@
         "title": "Bogdanović za SN o ozljedi i bolovima, odbijanju velikih ugovora...: ‘Ako se vratim, neću biti prolaznik‘",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-reprezentacija/kad-se-sjetim-da-sam-krenuo-na-linoleumu-u-mostaru-kako-necu-biti-zadovoljan-karijerom-15740014",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/21/k_25289461_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Na Otoku se rađa strašan napadački trojac: ‘Senzacionalno, bilo ga je nevjerojatno gledati‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/chelsea-slavio-fulham-3-2-palmer-joao-pedro-morgan-rogers-alonso-debi-15740071",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39481448_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Utrka s vremenom na Maksimiru! Jedna zvijezda pod velikim upitnikom za Norvešku, a druga seli na klupu?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-stojkovic-oporavak-hoxha-i-valincic-rjesenja-za-viking-15739993",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/24/k_39451927_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Nikome nije bilo jasno kako ovo nije ušlo, a najmanje Budimiru! Pogledajte kako je Vatreni ostao bez gola",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/osasuna-levante-0-0-budimir-promasio-ryan-i-mandi-spasili-goste-15740015",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/24/k_37753107_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
