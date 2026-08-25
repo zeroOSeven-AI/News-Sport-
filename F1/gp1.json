@@ -1,13 +1,13 @@
 {
-  "created_at": "2026-08-25T09:21:12.941321+00:00",
+  "created_at": "2026-08-25T10:16:46.733928+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
     {
-      "title": "Lando Norris pobjednik posljednje utrke u Zandvoortu!",
-      "link": "https://www.gp1.hr/2026/08/lando-norris-pobjednik-posljednje-utrke-u-zandvoortu/",
-      "author": "Tomislav Radić",
-      "published_at": "2026-08-23T15:15:31+00:00",
-      "image_url": "https://www.gp1.hr/wp-content/uploads/2026/08/zandvoort-2026-utrka-scaled.jpeg",
+      "title": "Antonelli: Očito je, više nismo najbrži",
+      "link": "https://www.gp1.hr/2026/08/antonelli-ocito-je-vise-nismo-najbrzi/",
+      "author": "Luka Tunjić",
+      "published_at": "2026-08-25T09:57:38+00:00",
+      "image_url": "",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
@@ -73,6 +73,20 @@
       "flag": "🇭🇷"
     },
     {
+      "title": "Lando Norris pobjednik posljednje utrke u Zandvoortu!",
+      "link": "https://www.gp1.hr/2026/08/lando-norris-pobjednik-posljednje-utrke-u-zandvoortu/",
+      "author": "Tomislav Radić",
+      "published_at": "2026-08-23T15:15:31+00:00",
+      "image_url": "https://www.gp1.hr/wp-content/uploads/2026/08/zandvoort-2026-utrka-scaled.jpeg",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
+    {
       "title": "Verstappen: Razlike među timskim kolegama male su zbog ovih bolida",
       "link": "https://www.gp1.hr/2026/08/verstappen-razlike-medu-timskim-kolegama-male-su-zbog-ovih-bolida/",
       "author": "Igor Šestak",
@@ -120,20 +134,6 @@
       "author": "Igor Vukajlovic",
       "published_at": "2026-08-22T10:36:38+00:00",
       "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/26ab.png",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Vowles: Brinuo sam se da ćemo izgubiti oba vozača",
-      "link": "https://www.gp1.hr/2026/08/vowles-brinuo-sam-se-da-cemo-izgubiti-oba-vozaca/",
-      "author": "Igor Šestak",
-      "published_at": "2026-08-22T06:15:56+00:00",
-      "image_url": "",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
