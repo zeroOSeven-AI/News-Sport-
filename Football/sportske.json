@@ -12,9 +12,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Kovačić neće još dugo ostati u Cityju? U priči velikani i niz klubova, evo tko je sve zainteresiran",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kovacic-izvan-prvog-plana-city-spreman-na-prodaju-milan-west-ham-aston-villa-15740299",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_33039079_640.jpg",
+        "title": "Kovačević uoči Norveške otkrio stanje Luke Stojkovića: ‘Ovo sanjamo godinu dana‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/pokazali-smo-da-smo-bolji-karte-su-otvorene-i-od-prve-minute-napast-cemo-ligu-prvaka-15740302",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39387859_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Skandal na suđenju, liječnici Diega Maradone priznali: ‘Dali smo vam pogrešne nalaze‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/pogresni-testovi-uzdrmali-sudenje-za-smrt-diega-maradone-15740308",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39460136_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -27,6 +39,18 @@
         "title": "VIDEO: Livaković sletio u Barcelonu! Evo kada završava transfer karijere",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/livakovic-ostaje-u-barceloni-potpisuje-cetverogodisnji-ugovor-15740290",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39354386_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Kovačić neće još dugo ostati u Cityju? U priči velikani i niz klubova, evo tko je sve zainteresiran",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kovacic-izvan-prvog-plana-city-spreman-na-prodaju-milan-west-ham-aston-villa-15740299",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_33039079_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,18 +120,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Hrvatska odbojkašica ljubi kolegu iz Srbije: ‘Mora navijati za nas, nema izbora‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/odbojka/odbojka-ostalo/mika-grbavica-prizeljkuje-srbiju-na-ep-u-i-seli-u-poljsku-15740277",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39467288_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Javila nam se legenda Vatrenih i potvrdila veliku vijest! Ovo će razveseliti i Slavena Bilića",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/kramaric-trenira-s-hoffenheimom-moguci-nastup-protiv-kolna-15740237",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39041378_640.jpg",
@@ -144,18 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Slavni trener izgubio živce i napao novinara: ‘Jeste li svi vi smrtno glupi? Sad ću ja vas nešto pitati‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/moyes-zagrmio-pred-preston-svi-zelimo-trofeje-15740258",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39483359_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Navijači Dinama klanjaju se Mislavu Oršiću - jer nije zabio gol!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/varazdin/orsicev-fair-play-prepustio-pogodak-mudraziji-dinamo-pobijedio-varazdin-15739492",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39451621_640.jpg",
@@ -168,7 +168,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Uefina elita za Dinamo! Godinama pripada samom vrhu, ‘hrvao‘ se s Barcom i Realom, a sada stiže u Norvešku Dinamo će u srijedu tražiti ulazak u najelitnije europsko klupsko nogometno natjecanje nakon godinu dana izbivanja",
+        "title": "Pregovori su ušli u ozbiljnu fazu, Nijemci su opasno zagrizli, ali u Osijeku su postavli jasnu cijenu za svog asa Tražena cijena za napadača koji ulazi u posljednju godinu ugovora je pola milijuna eura",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/osijek-dilema-jakupovic-greuther-furth-mersinaj-ispada-mitrovic-blizu-potpisa-15740211",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39437726_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO ‘Nikad nisam imao teškaša poput Hrgovića. Nisam zapravo ni vidio takvog teškaša‘",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/video-nikad-nisam-imao-teskasa-poput-hrgovica-nisam-zapravo-ni-vidio-takvog-teskasa-15740293",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39483873_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Uefina elita za Dinamo! Godinama pripada samom vrhu, ‘hrvao‘ se s Barcom i Realom, a sada stiže u Norvešku",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uefa-delegirala-sancheza-martineza-za-uzvrat-viking-dinamo-u-stavangeru-15740168",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_37367701_640.jpg",
         "w": 640,
@@ -207,30 +231,6 @@
         "title": "Sinkovići izborili polufinale SP-a trećim mjestom, ostali iza Balgije i Srbije. Četverac uvjerljiv u četvrtfinalu",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/vodeni-sportovi/veslanje/hrvatski-cetverac-i-braca-sinkovic-u-polufinalu-sp-amsterdam-15740239",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39374336_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hrvatska stigla pod ‘peku‘: Hezonja emotivno o Zadru, Zubac traži pobjedu, a Mavra usporedio Jazine i Krešinu dvoranu",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-reprezentacija/hrvatska-latvija-zadar-kresimir-cosic-kljucna-utakmica-sp-2027-15740207",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39482940_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Robert Prosinečki više nije izbornik! Legenda Vatrenih raskinula suradnju nakon samo osam mjeseci",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/prosinecki-napustio-klupu-kirgistana-sporazumni-prekid-nakon-cetiri-utakmice-15740151",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_37456491_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
