@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-08-25T05:20:11.451815+00:00",
+  "created_at": "2026-08-25T06:20:20.148188+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
     {
@@ -8,6 +8,20 @@
       "author": "Tomislav Radić",
       "published_at": "2026-08-23T15:15:31+00:00",
       "image_url": "https://www.gp1.hr/wp-content/uploads/2026/08/zandvoort-2026-utrka-scaled.jpeg",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
+    {
+      "title": "Formula Driver u Ogulinu: Fenomenalna generalka Borisa Katića",
+      "link": "https://www.gp1.hr/2026/08/formula-driver-u-ogulinu-fenomenalna-generalka-borisa-katica/",
+      "author": "GP1_hr",
+      "published_at": "2026-08-25T06:14:21+00:00",
+      "image_url": "",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
@@ -119,20 +133,6 @@
       "link": "https://www.gp1.hr/2026/08/antonelli-prilikom-izlijetanja-nastale-su-rupe-u-podnici-bolida/",
       "author": "Igor Šestak",
       "published_at": "2026-08-22T05:18:24+00:00",
-      "image_url": "",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Hamilton: Bolid je u kvalifikacijama bio potpuno drukčiji",
-      "link": "https://www.gp1.hr/2026/08/hamilton-bolid-je-u-kvalifikacijama-bio-potpuno-drukciji/",
-      "author": "Igor Šestak",
-      "published_at": "2026-08-22T04:58:48+00:00",
       "image_url": "",
       "w": 0,
       "h": 0,
