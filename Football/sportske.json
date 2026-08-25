@@ -24,6 +24,30 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Dambrauskas nakon senzacije: ‘Ovo je najbolja momčad koju sam trenirao, a ja najsretniji trener‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sabah-preokret-izbacio-hapoel-ulazak-u-ligu-prvaka-15740368",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_26086315_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Hrvat zabio u Engleskoj, novo slavlje Sergeja Jakirovića! Preživio dramu s bijele točke",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/crnac-gol-norwich-jakirovic-hull-prolaz-stoke-penali-carabao-cup-15740370",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39467819_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Čudesan preokret i životno djelo Valdasa Dambrauskasa! Bizarni vratar, gol u 94. pa potop u produžecima",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/sabah-dambrauskas-liga-prvaka-preokret-protiv-hapoela-15740339",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39484241_640.jpg",
@@ -132,30 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Livaković sletio u Barcelonu! Evo kada završava transfer karijere",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/livakovic-ostaje-u-barceloni-potpisuje-cetverogodisnji-ugovor-15740290",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39354386_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Očekuje nas pravi ‘rat‘ do zadnje sekunde, ali titula dolazi u našu malu Hrvatsku!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/ocekuje-nas-pravi-rat-do-zadnje-sekunde-ali-titula-svjetskog-prvaka-dolazi-u-nasu-malu-hrvatsku-15740331",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/23/k_39482910_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Stigla velika vijest oko Stojkovića, druga zvijezda seli na klupu? Ovo je vjerojatni sastav za Norvežane",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-viking-stojkovic-spreman-kovacevic-dvojbe-bek-lijevo-krilo-15740349",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_38474728_640.jpg",
@@ -168,7 +168,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO: Livaković sletio u Barcelonu, Kačavendi novi ugovor Sve najvažnije vijesti, glasine i potvrđene poslove s nogometne tržnice pratite na portalu Sportskih novosti",
+        "title": "Prosinečki nam se javio nakon odlaska s izborničke klupe. Evo što se krije iza ekspresnog rastanka U trenucima dok su dogovarali raskid ugovora, stranica saveza još je slavila njegovo imenovanje!?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/prosinecki-raskida-s-kirgistanom-nakon-osam-mjeseci-bez-sluzbene-utakmice-15740247",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_38767237_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Đoković se udružio s najboljom na svijetu pa ispao u prvom kolu US Opena",
+        "link": "https://sportske.jutarnji.hr/sportske/tenis/grand-slam/patten-i-siniakova-sokirali-djokovica-i-sabaljenku-na-us-openu-15740294",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39483667_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Livaković sletio u Barcelonu, Kačavendi novi ugovor",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-napadac-napusta-osijek-dinamo-objavio-dolazak-ganca-15740051",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/24/k_39077128_640.jpg",
         "w": 640,
@@ -207,30 +231,6 @@
         "title": "Senzacija iz Katalonije, na pomolu je veliki obrat u priči oko Livakovića i Barcelone!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/livakovic-ostaje-u-barceloni-cetverogodisnji-ugovor-i-borba-za-minute-15740185",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_38675903_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Javila nam se legenda Vatrenih i potvrdila veliku vijest! Ovo će razveseliti i Slavena Bilića",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kramaric-trenira-s-hoffenheimom-moguci-nastup-protiv-kolna-15740237",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39041378_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Kupio klub za 72 tisuće eura, a prodao za 550 puta više! Mladog Vatrenog sada vode Müller, Hummels...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/muller-hummels-sommer-kupuju-estrelu-40-mil-eura-zvonarek-bayern-15740271",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39483596_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
