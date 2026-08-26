@@ -1,8 +1,8 @@
 [
     {
-        "title": "UŽIVO Viking - Dinamo: Strašan raspad Modrih, Norvežani utrpali dva gola u tri minute, Beljo tražio penal Modri su zasluženo poveli preko Hoxhe, no uslijedio je pad. Na startu drugog dijela domaćin je zabio dva gola u tri minute",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-viking-dinamo-utakmica-sezone-za-modre-ovo-je-vjerojatnih-11-marija-kovacevica-15740657",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/26/k_39488182_640.jpg",
+        "title": "Zbogom Ligo prvaka, adio 40 milijuna €. Dinamo nestao za 60 sekundi, a superbogataši uložili u VAR Nakon dvije utakmice i tri sata mačevanja na terenu dojam da je Dinamo barem ravnopravan, a vrlo vjerojatno i kvalitetniji suparnik...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/plavi-nestali-za-60-sekundi-a-sanchez-jedva-docekao-dosuditi-jeftini-jedanaesterac-15740712",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/26/k_39452124_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -12,9 +12,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Bruno Marić bez dvojbe: ‘Dinamo je oštećen, apsolutno nepravedna odluka! Jasno se vidi‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bruno-maric-var-pogreska-penal-viking-dinamo-15740698",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/26/k_39488183_640.jpg",
+        "title": "Stojković nije spreman za ovakav nivo nogometa, a jedan igrač razočarao je sam sebe, a i nas...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sjajna-mantinela-belje-hoxha-unatoc-pogotku-ima-i-problem-a-sve-se-vrti-oko-mlade-zvijezde-15740694",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/26/k_39451927_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -36,6 +36,90 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Dinamov ‘krvnik‘ rasplakao se nakon nevjerojatnog podviga: ‘Nikada nisam doživio ništa slično‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/viking-srusio-dinamo-preokret-stavanger-liga-prvaka-modri-europska-liga-15740716",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/26/k_39488241_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Bruno Marić bez dvojbe: ‘Dinamo je oštećen, apsolutno nepravedna odluka! Jasno se vidi‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bruno-maric-var-pogreska-penal-viking-dinamo-15740698",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/26/k_39488183_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Dinamo se raspao u tri minute i ostao bez Lige prvaka, sumnjivi penal ‘pogurao‘ Norvežane",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-viking-dinamo-utakmica-sezone-za-modre-ovo-je-vjerojatnih-11-marija-kovacevica-15740657",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/26/k_39488241_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Stojković: ‘I suparnički igrač mi je rekao ‘Što je ovo, pa to nije penal!‘ Oglasio se i Kovačević",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/stojkovic-i-suparnicki-igrac-mi-je-rekao-sto-je-ovo-pa-to-nije-penal-15740710",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/26/k_39452123_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Dinamu prijeti i - Luka Modrić! Evo kad je ždrijeb Europske lige i tko su mogući protivnici Modrih",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/evo-kad-je-zdrijeb-europske-lige-i-tko-su-potencijalni-dinamovi-protivnici-mogu-doci-milan-juventus-15740705",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/26/k_39452125_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Evo koliko je Dinamo zaradio od play-offa Lige prvaka i plasmana u Europsku ligu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamu-4-29-milijuna-eura-od-play-offa-lige-prvaka-i-4-31-za-europsku-ligu-15740704",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/26/k_39488268_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Ocijenite nastupe dinamovaca u tužnoj norveškoj večeri",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/viking-srusio-dinamo-u-stavangeru-poraz-31-modri-u-europskoj-ligi-15740703",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/26/k_39452124_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "VIDEO/ANKETA: Je li Dinamo oštećen u Norveškoj? VAR zvao suca, pogledajte penal za domaćine",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-viking-var-penal-hoxha-tripic-izjednacenje-norveska-15740690",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/26/k_39488110_640.jpg",
@@ -48,21 +132,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Luka Sučić zabio gol Realu na Bernabeuu!",
+        "title": "VIDEO Luka Sučić zabio gol Realu na Bernabeuu, ali Sociedad potopljen",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/video-luka-sucic-zabio-gol-realu-za-izjednacenje-15740695",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/26/k_38824430_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Šok za Dinamo i Boyse: UEFA izrekla žestoku kaznu za prvu europsku utakmicu na Maksimiru",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/uefa-djelomicno-zatvara-sjever-maksimira-kazna-dinamo-15740664",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/26/k_32342265_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,9 +156,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Oni su j****i debili i zaboli me što kažu, a mene je Bog s razlogom stvorio kao Hrvata!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/oni-su-j-i-debili-i-zaboli-me-sto-kazu-mene-je-bog-s-razlogom-stvorio-kao-hrvata-15740697",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/26/k_39488201_640.jpg",
+        "title": "Stigla velika vijest oko Stojkovića, druga zvijezda seli na klupu? Ovo je vjerojatni sastav za Norvežane",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-viking-stojkovic-spreman-kovacevic-dvojbe-bek-lijevo-krilo-15740349",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_38474728_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,43 +168,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hrvat u senzaciji godine: ‘Čudo, a tek sada slijedi ono pravo! Glamur, velikani... Nitko nije vjerovao‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/lepinjica-sabah-liga-prvaka-himna-zvijezde-baku-senzacija-15740659",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/26/k_39486295_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hoxha najbolji, ali ima i jedan problem. Mantinela Belje, a sve se vrti oko mlade zvijezde!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sjajna-mantinela-belje-hoxha-unatoc-pogotku-ima-i-problem-a-sve-se-vrti-oko-mlade-zvijezde-15740694",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/26/k_39488109_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Na Rujevici su padale i veće momčadi, i Kek je pobjeđivao puno veće, a Fruk neka pokaže kakav je igrač!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/djalovic-rijeka-rujevica-midtjylland-preokret-konferencijska-liga-15740683",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39475949_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Objavio video, zaprepastio izgledom, a tek onda je krenuo šok: ‘Žele me ubiti, zarobljen sam‘",
+        "title": "Objavio video, zaprepastio izgledom, a tek onda je krenuo šok: ‘Žele me ubiti, zarobljen sam‘ ‘Zarobljen sam u svojoj kući i ne mogu izaći. Osjećam se kao da sam u zatvoru. Gdje smo? Ostavljamo ljude na cjedilu‘, pričao je Singler",
         "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/kyle-singler-optuzuje-duke-i-trenera-k-uznemirujuce-snimke-15740667",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/08/26/k_39486982_640.png",
         "w": 640,
@@ -156,9 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Stigla velika vijest oko Stojkovića, druga zvijezda seli na klupu? Ovo je vjerojatni sastav za Norvežane",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-viking-stojkovic-spreman-kovacevic-dvojbe-bek-lijevo-krilo-15740349",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_38474728_640.jpg",
+        "title": "UŽIVO: Zvijezda napušta Modrića i Milan! Novi igrač na Maksimiru, prometno u Engleskoj",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-livakovic-u-barceloni-modricev-suigrac-blizu-odlaska-kacavendi-novi-ugovor-15740405",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/25/k_39077128_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -168,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Garcia o odlasku ponajboljeg igrača Hajduka: ‘Nije lako, a možda je i za još neke ovo zadnja utakmica‘ Igrači koji odlaze željeli su biti s nama i dati nam nešto posebno u ovoj utakmici, to me čini ponosnim - kazao je Garcia",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-rakow-sego-garcia-borba-za-prolaz-u-czestochowi-15740651",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/26/k_39487229_640.jpg",
+        "title": "Čučković s tri obranjena jedanaesterca dovodi Dinamo u Ivankovo, Rijeka će u Vrbovec, Hajduk u Vardarac",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kup-bodovi-15740669",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/07/23/k_38882895_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Livaković snimljen u centru Barcelone. Evo kako je proslavio potpis ugovora s Decom i Laportom",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/livakovic-potpisao-barcelonu-lijecnicki-botafumeiro-odluka-posudba-ostanak-15740641",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/26/k_39487014_640.jpg",
+        "title": "VIDEO Hrgović usred Londona utišao engleske navijače: ‘Novi prvak će biti iz Zagreba, iz Hrvatske!‘",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/video-hrgovic-povikao-prema-britanskim-navijacima-novi-prvak-bit-ce-iz-zagreba-iz-hrvatske-15740661",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/26/k_39487252_640.png",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -192,45 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Stigla je potvrda, Dinamo predstavio novo pojačanje uoči utakmice sezone",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-dovodi-lautaro-ultru-iz-oriental-de-la-paza-detalji-transfera-15740625",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/26/k_36774627_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "UEFA oplela Hajduk i Rijeku po džepu. Poljudu prijeti zatvaranje dijela tribine",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uefa-kaznila-hajduk-56000-eura-i-rijeku-32750-eura-uvjetne-mjere-15740645",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/26/k_39477293_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Zabrinutost u susjedstvu: Nestao bivši reprezentativac, već osam dana nitko ništa ne zna",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/akos-buzsaky-nestao-qpr-poruka-potraga-madarska-grcka-15740637",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/26/k_39487000_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Ivan Ljubičić promijenio posao zbog reorganizacije saveza. Javio se po dolasku na novu poziciju",
-        "link": "https://sportske.jutarnji.hr/sportske/tenis/tenis-mix/ivan-ljubicic-imenovan-posebnim-savjetnikom-fft-a-gilles-simon-preuzima-sektor-15740655",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/26/k_37588857_640.jpg",
+        "title": "Slabiji su nego prošle sezone, ali gradić od 50.000 stanovnika opet će ugostiti europsku elitu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bodo-glimt-nec-3-0-liga-prvaka-arkticki-uspon-berg-knutsen-aspmyra-15740679",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/26/k_39486421_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
