@@ -1,8 +1,44 @@
 [
     {
+        "title": "Haas completes latest TPC test as focus on 2027 F1 driver line-up decision grows",
+        "link": "https://www.autosport.com/f1/news/haas-completes-latest-tpc-test-as-focus-on-2027-f1-driver-line-up-decision-grows/10850464/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+        "image_url": "https://cdn-3.motorsport.com/images/amp/0mXyAJg6/s6/esteban-ocon-haas-f1-team.jpg",
+        "w": 1200,
+        "h": 800,
+        "focus_y": 0.5,
+        "source_title1": "AUTOSPORT",
+        "source_title2": "F1",
+        "source_color": "#000000",
+        "flag": "🇬🇧"
+    },
+    {
+        "title": "What Norris' contract extension means for McLaren and Piastri",
+        "link": "https://www.autosport.com/f1/news/what-norris-contract-extension-means-for-mclaren-and-piastri/10850424/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+        "image_url": "https://cdn-5.motorsport.com/images/amp/6DGggg7Y/s6/lando-norris-mclaren-oscar-pia-3.jpg",
+        "w": 1200,
+        "h": 799,
+        "focus_y": 0.5,
+        "source_title1": "AUTOSPORT",
+        "source_title2": "F1",
+        "source_color": "#000000",
+        "flag": "🇬🇧"
+    },
+    {
+        "title": "Norris extends McLaren deal until F1 2030",
+        "link": "https://www.autosport.com/f1/news/norris-extends-mclaren-deal-until-f1-2030/10850350/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+        "image_url": "https://cdn-6.motorsport.com/images/amp/6DGgGq4Y/s6/lando-norris-mclaren-2.jpg",
+        "w": 1200,
+        "h": 800,
+        "focus_y": 0.5,
+        "source_title1": "AUTOSPORT",
+        "source_title2": "F1",
+        "source_color": "#000000",
+        "flag": "🇬🇧"
+    },
+    {
         "title": "Mercedes still searching for answers on why it was “rubbish” through high-speed corners in Dutch GP",
         "link": "https://www.autosport.com/f1/news/mercedes-bemused-why-it-was-rubbish-through-high-speed-corners-in-dutch-gp/10850339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-        "image_url": "https://cdn-1.motorsport.com/images/amp/0R7BrdO2/s6/george-russell-mercedes-2.jpg",
+        "image_url": "https://cdn-8.motorsport.com/images/amp/0R7BrdO2/s6/george-russell-mercedes-2.jpg",
         "w": 1200,
         "h": 799,
         "focus_y": 0.5,
@@ -14,7 +50,7 @@
     {
         "title": "Ferrari to deliver upgraded F1 engine at Italian GP",
         "link": "https://www.autosport.com/f1/news/ferrari-to-deliver-upgraded-f1-engine-at-italian-gp/10850147/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-        "image_url": "https://cdn-5.motorsport.com/images/amp/2eZxZXKY/s6/lewis-hamilton-ferrari-3.jpg",
+        "image_url": "https://cdn-9.motorsport.com/images/amp/2eZxZXKY/s6/lewis-hamilton-ferrari-3.jpg",
         "w": 1200,
         "h": 799,
         "focus_y": 0.5,
@@ -38,7 +74,7 @@
     {
         "title": "Marquez explains why he told injured Hadjar to miss Dutch GP",
         "link": "https://www.autosport.com/motogp/news/marc-marquez-explains-why-he-told-injured-isack-hadjar-to-miss-dutch-gp/10849872/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-        "image_url": "https://cdn-6.motorsport.com/images/amp/YK15g3k0/s6/marc-marquez-ducati-team-2.jpg",
+        "image_url": "https://cdn-5.motorsport.com/images/amp/YK15g3k0/s6/marc-marquez-ducati-team-2.jpg",
         "w": 1200,
         "h": 799,
         "focus_y": 0.5,
@@ -50,7 +86,7 @@
     {
         "title": "Why McLaren thinks Norris is even better now than his F1 title-winning year",
         "link": "https://www.autosport.com/f1/news/why-mclaren-thinks-norris-is-even-better-now-than-his-f1-title-winning-year/10849744/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-        "image_url": "https://cdn-1.motorsport.com/images/amp/YE9E9OpY/s6/lando-norris-mclaren-2.jpg",
+        "image_url": "https://cdn-6.motorsport.com/images/amp/YE9E9OpY/s6/lando-norris-mclaren-2.jpg",
         "w": 1200,
         "h": 799,
         "focus_y": 0.5,
@@ -62,7 +98,7 @@
     {
         "title": "Alpine completes F1 2027 line-up with Colapinto renewal",
         "link": "https://www.autosport.com/f1/news/alpine-completes-f1-2027-lineup-with-colapinto-renewal/10849524/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-        "image_url": "https://cdn-7.motorsport.com/images/amp/YP743Nj2/s6/pierre-gasly-alpine-franco-col-3.jpg",
+        "image_url": "https://cdn-1.motorsport.com/images/amp/YP743Nj2/s6/pierre-gasly-alpine-franco-col-3.jpg",
         "w": 1200,
         "h": 799,
         "focus_y": 0.5,
@@ -74,7 +110,7 @@
     {
         "title": "Why Gasly’s Monaco case is so complex – and why the outcome could take weeks",
         "link": "https://www.autosport.com/f1/news/why-pierre-gaslys-monaco-case-is-so-complex-and-why-the-outcome-could-take-weeks/10849761/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-        "image_url": "https://cdn-4.motorsport.com/images/amp/0kZA83q6/s6/lando-norris-mclaren-pierre-ga.jpg",
+        "image_url": "https://cdn-2.motorsport.com/images/amp/0kZA83q6/s6/lando-norris-mclaren-pierre-ga.jpg",
         "w": 1200,
         "h": 798,
         "focus_y": 0.5,
@@ -86,7 +122,7 @@
     {
         "title": "Why Red Bull has F1's top-ranked engine, and what it reveals about ADUO",
         "link": "https://www.autosport.com/f1/news/why-red-bull-has-f1s-top-ranked-engine-and-what-it-reveals-about-aduo/10849694/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-        "image_url": "https://cdn-7.motorsport.com/images/amp/2GdKz4MY/s6/max-verstappen-red-bull-racing-3.jpg",
+        "image_url": "https://cdn-1.motorsport.com/images/amp/2GdKz4MY/s6/max-verstappen-red-bull-racing-3.jpg",
         "w": 1200,
         "h": 799,
         "focus_y": 0.5,
@@ -555,42 +591,6 @@
         "title": "The best drives of F1 2026 so far, according to our writers",
         "link": "https://www.autosport.com/f1/news/the-best-drives-of-the-2026-f1-season-so-far-according-to-our-writers/10846635/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
         "image_url": "https://cdn-1.motorsport.com/images/amp/0mXRxEg6/s6/lewis-hamilton-ferrari-oscar-p-2.jpg",
-        "w": 1200,
-        "h": 799,
-        "focus_y": 0.5,
-        "source_title1": "AUTOSPORT",
-        "source_title2": "F1",
-        "source_color": "#000000",
-        "flag": "🇬🇧"
-    },
-    {
-        "title": "Verstappen highlights \"big priority\" for Red Bull in second half of F1 2026",
-        "link": "https://www.autosport.com/f1/news/max-verstappen-pinpoints-red-bulls-big-priority-for-second-half-of-f1-2026/10846451/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-        "image_url": "https://cdn-9.motorsport.com/images/amp/0mXyRwa6/s6/max-verstappen-red-bull-racing-2.jpg",
-        "w": 1200,
-        "h": 799,
-        "focus_y": 0.5,
-        "source_title1": "AUTOSPORT",
-        "source_title2": "F1",
-        "source_color": "#000000",
-        "flag": "🇬🇧"
-    },
-    {
-        "title": "Mercedes explains \"out of phase\" developments compared with other F1 teams",
-        "link": "https://www.autosport.com/f1/news/why-mercedes-finds-other-f1-teams-upgrades-scary-with-its-out-of-phase-plan/10846296/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-        "image_url": "https://cdn-1.motorsport.com/images/amp/2y7QQ8e6/s6/andrea-kimi-antonelli-mercedes-2.jpg",
-        "w": 1200,
-        "h": 799,
-        "focus_y": 0.5,
-        "source_title1": "AUTOSPORT",
-        "source_title2": "F1",
-        "source_color": "#000000",
-        "flag": "🇬🇧"
-    },
-    {
-        "title": "FIA lifts sanctions on Russian, Belarusian drivers",
-        "link": "https://www.autosport.com/general/news/fia-lifts-sanctions-on-russian-belarusian-drivers/10846260/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-        "image_url": "https://cdn-9.motorsport.com/images/amp/6b7ryXw0/s6/the-trophy-and-a-russian-flag-.jpg",
         "w": 1200,
         "h": 799,
         "focus_y": 0.5,
