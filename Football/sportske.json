@@ -1,8 +1,8 @@
 [
     {
-        "title": "Susjedi lansirali senzaciju: U Hajduk stiže jedna od najvećih zvijezda Bosne i Hercegovine? Dragulj Zmajeva traži način za odlazak iz PSV-a, makar na jednu sezonu. Ove je sezone skupio tek 25 minuta u prvenstvu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/barjaktarevic-hajduk-posudba-otkup-utrka-uefa-carlos-martin-15742768",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/02/k_38675017_640.jpg",
+        "title": "Ponoćna bomba Hajduka: Na Poljud stigla zvijezda koja je igrala Premier ligu i Serie A Nakon odlazaka Pukštasa, Sigura, Krovinovića i Guillamóna, Bijeli potvrdili veliko pojačanje usred ljetnog mercata",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-potpisao-leandera-dendonckera-veliko-pojacanje-u-vezi-15742810",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/02/k_39523083_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -15,6 +15,30 @@
         "title": "Dinamo predstavio novo pojačanje: ‘Bienvenido, Iker!‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-ikera-almenu-posudba-iz-al-qadsiaha-opcija-otkupa-15742778",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/09/02/k_39524421_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Susjedi lansirali senzaciju: U Hajduk stiže jedna od najvećih zvijezda Bosne i Hercegovine?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/barjaktarevic-hajduk-posudba-otkup-utrka-uefa-carlos-martin-15742768",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/02/k_38675017_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Majstorija kakva se rijetko viđa! Pogledajte što nekoć veliki talent Hajduka radi u Turskoj",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/teklic-ringispil-gol-mardinspor-sivasspor-turska-15742804",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/02/k_39524909_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,9 +72,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Napadač nakon dvije godine napušta Osijek, s Opus Arene seli u Portugal",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/napadac-nakon-dvije-godine-napusta-osijek-s-opus-arene-seli-u-portugal-15742780",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/02/k_39437720_640.jpg",
+        "title": "Najbolji im je igrač u povijesti, sada se oprostio žestokom porukom: ‘Ponizili su me i uništili ugled‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/aubameyang-napusta-gabon-ponizili-su-me-prekid-reprezentativne-karijere-15742786",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/02/k_27579369_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -72,6 +96,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Arnel Jakupović nakon dvije godine napušta Osijek, s Opus Arene seli u Portugal",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/napadac-nakon-dvije-godine-napusta-osijek-s-opus-arene-seli-u-portugal-15742780",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/02/k_39437720_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Livaković poslao oproštajnu poruku Dinamu i navijačima",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/livakovic-oprostaj-od-dinama-transfer-u-barcelonu-dupla-kruna-15742776",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/09/02/k_38983615_640.jpg",
@@ -84,21 +120,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Stvarno ga želim pregaziti i otkinuti mu glavu, a uz Thompsona izlazim jer volim svoju domovinu‘",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/regija/ovo-je-osobno-stvarno-ga-zelim-pregaziti-izaci-cu-uz-thompsona-jer-volim-svoju-domovinu-obitelj-i-vjeru-15742761",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/08/22/k_39463065_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "U Hrvatskoj nitko za njega nije čuo, a već je sve šarmirao. No, zašto se pojavio suradnik Pepa Guardiole?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/osijek-spektakl-bessone-vegh-city-football-group-planchart-akademija-15742774",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/01/k_39508905_640.jpg",
+        "title": "VIDEO Majka u suzama, ‘odbačeni‘ nogometaš uplakan u autu. Ovo je najtužnija priča prijelaznog roka",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/pablo-garcia-napustio-real-betis-ide-u-racing-santander-zbog-povratka-danija-ceballosa-15742731",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/02/k_39522762_640.png",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -144,6 +168,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "I to se dogodilo: Hajduk premašio vlastiti financijski plan Transferi su napunili blagajnu, odlasci skupih starosjedioca je rasteretili, a ulazak u Konferencijsku ligu je bonus koji nisu predvidjeli",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/hajduk-nadmasio-plan-europa-transferi-rez-troskova-financijska-stabilnost-15742726",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/02/k_39459949_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Olimpijska pobjednica u prometnoj nesreći dobila potres mozga: ‘Sretna sam što sam živa‘",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/olimpijska-pobjednica-u-prometnoj-nesreci-dobila-potres-mozga-sretna-sam-da-sam-ziva-15742771",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/09/02/k_39524143_640.jpg",
@@ -156,9 +192,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Boban najavio oproštaj od Maksimira, poznati novi detalji s Kranjčom i kada će biti gotova!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-oprostaj-od-maksimira-kranjceviceva-kasni-boban-najavljuje-promjene-15742671",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/02/k_36698712_640.jpg",
+        "title": "Poseban po svemu, naciju je vodio od bijesa do ekstaze. Najveći udarac Messijeva odlaska tek slijedi",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/poseban-po-svemu-na-terenu-donosio-pobjede-u-blagajnu-profite-15742760",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/01/k_39514440_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -168,7 +204,19 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Senzacionalna pobjeda mladih dinamovaca: Donedavnom stanovniku HNL-a do vrha napunili mrežu Momčad Jerka Leke nakon dva poraza na startu Prve NL sada je upisala visoku pobjedu sa šest različitih strijelaca",
+        "title": "Počeo s uličnim nogometom, za Hajduk odigrao 121 utakmicu, a sada dosegao visine! Jedan prizor će se pamtiti",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/niko-sigur-iz-hajduka-u-toulouse-transfer-ligue-1-4-milijuna-eura-15742744",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/02/k_39493435_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Senzacionalna pobjeda mladih dinamovaca: Donedavnom stanovniku HNL-a do vrha napunili mrežu",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/senzacionalna-pobjeda-mladih-dinamovaca-u-vukovaru-utrpali-cak-sest-golova-donedavnom-prvoligasu-15742733",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/09/02/k_39522588_640.jpg",
         "w": 640,
@@ -183,54 +231,6 @@
         "title": "Hajduk se oprašta od Gudelja, oglasio se i Livaja: ‘Ostavio je trag u srcima generacija navijača‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/preminuo-ivan-gudelj-oprostaj-hajduka-od-legende-i-kapetana-15742650",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/09/02/k_37854249_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Dinamo odbio ponudu iz Turske, na prodaju su svi osim dvojice igrača!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-lisica-odbijena-ponuda-otvoreni-izlaz-dominguez-kolarik-15742627",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/02/k_39502676_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Ivan Gudelj, ‘razarač’ koji je igrao ispred vremena, ‘buldožer‘ kojeg je htio i Real, ali ga je zaustavila bolest",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/ivan-gudelj-razarac-ispred-vremena-hajduk-real-madrid-hepatitis-b-15742645",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/02/k_30234393_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Cijeli nogometni svijet i dalje se vrti oko njih. Opet pao rekord, a dominacija traje 14 godina",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/premier-liga-dominira-prijelazni-rok-2026-rekordna-potrosnja-412-mlrd-eura-15742721",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/02/k_39474057_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Hajduk dovodi renomirano ime europskog nogometa! Uskoro se očekuje službena potvrda kluba",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-dovodi-leandera-dendonckera-belgijski-veznjak-stize-kao-sestica-15742614",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/02/k_39521472_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
