@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-09-03T01:32:12.499387+00:00",
+  "created_at": "2026-09-03T06:31:51.105909+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
     {
@@ -8,6 +8,20 @@
       "author": "Igor Šestak",
       "published_at": "2026-09-02T17:19:02+00:00",
       "image_url": "",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
+    {
+      "title": "FIA Prvenstvo Europe na brdskim stazama u Sloveniji: Jurišiću 25. europska pobjeda",
+      "link": "https://www.gp1.hr/2026/09/fia-prvenstvo-europe-na-brdskim-stazama-u-sloveniji-jurisicu-25-europska-pobjeda/",
+      "author": "GP1_hr",
+      "published_at": "2026-09-03T06:20:44+00:00",
+      "image_url": "https://www.gp1.hr/wp-content/uploads/2026/09/DEJAN-DIMITRIJEVIC-Ilirska-Bistrica-snimio-M.Krpan_.jpg",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
@@ -119,20 +133,6 @@
       "link": "https://www.gp1.hr/2026/08/antonellija-u-monzi-ceka-kazna-wolff-objasnio-mercedesovu-odluku/",
       "author": "Igor Šestak",
       "published_at": "2026-08-27T04:31:10+00:00",
-      "image_url": "",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "FIA: Motor Red Bull-Forda i dalje je najjači u Formuli 1",
-      "link": "https://www.gp1.hr/2026/08/fia-motor-red-bull-forda-i-dalje-je-najjaci-u-formuli-1/",
-      "author": "GP1_hr",
-      "published_at": "2026-08-27T04:12:21+00:00",
       "image_url": "",
       "w": 0,
       "h": 0,
