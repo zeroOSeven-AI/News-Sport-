@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-09-03T06:31:51.105909+00:00",
+  "created_at": "2026-09-03T11:45:34.408092+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
     {
@@ -7,6 +7,20 @@
       "link": "https://www.gp1.hr/2026/09/hadjar-nedovoljno-oporavljen-za-nastup-u-monzi-lawson-opet-sjeda-u-rb22/",
       "author": "Igor Šestak",
       "published_at": "2026-09-02T17:19:02+00:00",
+      "image_url": "",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
+    {
+      "title": "Oktanski praznik u Kumrovcu: Stiže 58 posada i legendarni automobili",
+      "link": "https://www.gp1.hr/2026/09/oktanski-praznik-u-kumrovcu-stize-58-posada-i-legendarni-automobili/",
+      "author": "GP1_hr",
+      "published_at": "2026-09-03T10:29:25+00:00",
       "image_url": "",
       "w": 0,
       "h": 0,
@@ -120,20 +134,6 @@
       "author": "GP1_hr",
       "published_at": "2026-08-27T12:36:07+00:00",
       "image_url": "https://www.gp1.hr/wp-content/uploads/2026/08/colapinto-gasly-briatore.jpg",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Antonellija u Monzi čeka kazna, Wolff objasnio Mercedesovu odluku",
-      "link": "https://www.gp1.hr/2026/08/antonellija-u-monzi-ceka-kazna-wolff-objasnio-mercedesovu-odluku/",
-      "author": "Igor Šestak",
-      "published_at": "2026-08-27T04:31:10+00:00",
-      "image_url": "",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
