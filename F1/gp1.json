@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-09-04T15:10:02.777784+00:00",
+  "created_at": "2026-09-04T18:35:09.245376+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
     {
@@ -8,6 +8,20 @@
       "author": "fermen",
       "published_at": "2026-09-04T15:01:15+00:00",
       "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f440.png",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
+    {
+      "title": "Gasly izgubio treće mjesto u Monaku, Briatore ‘poludio’: Jedan od sudaca povezan je s McLarenom",
+      "link": "https://www.gp1.hr/2026/09/gasly-izgubio-trece-mjesto-u-monaku-briatore-poludio-jedan-od-sudaca-povezan-je-s-mclarenom/",
+      "author": "Igor Šestak",
+      "published_at": "2026-09-04T18:20:16+00:00",
+      "image_url": "",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
@@ -120,20 +134,6 @@
       "author": "GP1_hr",
       "published_at": "2026-09-03T06:20:44+00:00",
       "image_url": "https://www.gp1.hr/wp-content/uploads/2026/09/DEJAN-DIMITRIJEVIC-Ilirska-Bistrica-snimio-M.Krpan_.jpg",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Oktanski praznik u Kumrovcu: Stiže 58 posada i legendarni automobili",
-      "link": "https://www.gp1.hr/2026/09/oktanski-praznik-u-kumrovcu-stize-58-posada-i-legendarni-automobili/",
-      "author": "GP1_hr",
-      "published_at": "2026-09-03T05:29:25+00:00",
-      "image_url": "",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
