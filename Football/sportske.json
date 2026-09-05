@@ -1,8 +1,8 @@
 [
     {
-        "title": "VIDEO: Dinamo teškom mukom slomio Goricu, Beljo junak, Modri preživjeli ludnicu u završnici, Maksimir zviždao Ivanušec je zaradio ovacije uoči ulaska u igru, ali navijači nakon posljednjeg sučevog zvižduka nisu bili zadovoljni onime što su njihovi igrači pokazali, unatoč pobjedi",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-dinamo-gorica-15743665",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/05/k_39540159_640.jpg",
+        "title": "Što je to pokazao Dinamov ‘Ivan Drago‘? Odmah je dobio najteži zadatak u Maksimiru... Tražio je kontakt i fizičku igru, ali je i prednjačio u prekršajima. U početku je bio stabilan, ali je i pao nakon sat vremena igre...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kravcov-dinamo-gorica-dueli-prekrsaji-analiza-misic-15743745",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/05/k_39539681_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -12,9 +12,33 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO Rijeka - Osijek: Domaćin sjajno otvorio susret pa tražio kazneni udarac",
+        "title": "‘Zakotrljala‘ se senzacija u Maksimiru: Beljo odlazi iz žalosnog Dinama za 20 milijuna eura, a stiže Livaja?!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-blijeda-igra-protiv-gorice-pobjeda-bez-sjaja-15743726",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/05/k_39540136_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Osijek je na Rujevici sam sebi pucao u čelo, a Fruk je bio profesor-demonstrator slavonskoj djeci",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rijeka-osijek-4-1-fruk-adu-adjei-vignato-analiza-15743746",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/05/k_39541360_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Rijeka ‘razbila‘ Osijek u spektakularnoj utakmici, Malenica spašavao goste",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-rijeka-osijek-kek-trazi-pobjedu-nakon-remija-s-goricom-gosti-nastavak-odlicnog-pocetka-sezone-15743709",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/05/k_39541061_640.jpg",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/05/k_39541912_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,9 +48,45 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Dinamo se provukao u Maksimiru, Kotarski spasio Modre, a za Mišićeva ‘nasljednika‘ je bolje da ne vodi igru",
+        "title": "Dinamo se provukao, Kotarski spasio Modre, a za Mišićeva ‘nasljednika‘ je bolje da ne vodi igru",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-gorica-1-0-bello-gol-kotarski-debi-maksimir-hnl-15743714",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/09/05/k_39540390_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Objavljeno kada i protiv koga će Roberto Soldić debitirati u UFC-u! Evo na koga ide ‘Robocop‘",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/ufc/objavljeno-je-15743744",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/05/k_39401404_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Majer napravio ‘show‘ u velikoj pobjedi AEK-a, ružne scene na utakmici Olympiakosa, vratar završio u suzama",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/lovro-majer-dvije-asistencije-aek-razbio-aris-5-0-grcka-super-liga-15743739",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/05/k_39541982_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Kaos u derbiju! Perišić uletio u teren pa dobio žuti karton, pogledajte i sjajan potez Vatrenog",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/psv-pobijedio-ajax-3-1-perisiceva-asistencija-i-gol-barjaktarevica-15743742",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/05/k_39542119_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -60,6 +120,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Novinari otkrili Simeoneu što mu je napravila najveća zvijezda. Argentinac ostao u nevjerici: ‘Zbilja!?‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/athletic-razbio-atletico-terzic-simeone-san-mames-3-0-la-liga-15743733",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/05/k_39539026_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Beljo napustio teren zamotana koljena pa otkrio posljedice sudara: ‘Izravno smo se udarili glavom u glavu‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-gorica-1-0-beljov-deveti-gol-ozljeda-i-reprezentativni-signal-15743718",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/09/05/k_39539775_640.jpg",
@@ -72,9 +144,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Emotivne scene na Maksimiru! Navijači Dinama odali počast jednom od najvećih igrača Hajduka u povijesti",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/maksimir-aplauz-gudelju-debi-kotarskog-beljo-nagrade-kolovoza-15743687",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/05/k_39387201_640.jpg",
+        "title": "VIDEO: Dinamo teškom mukom slomio Goricu, Beljo junak, Modri preživjeli ludnicu u završnici, Maksimir zviždao",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-dinamo-gorica-15743665",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/05/k_39540159_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,9 +156,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Vušković oduševio Englesku, a trener poručio: ‘Ne smijemo zanemariti jednu stvar, pokušavamo mu pomoći...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/vuskovic-prvijenac-za-brighton-i-spas-na-gol-crti-protiv-leedsa-15743711",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/05/k_39507408_640.jpg",
+        "title": "Drugoligaški derbi susjeda završio remijem, Vukovar se spasio u 95. minuti",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/druga-hnl/drugoligaski-derbi-susjeda-zavrsio-remijem-vukovar-se-spasio-u-95-minuti-15743682",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/05/k_38030559_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,31 +168,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Prvi veliki ‘skalp‘ Hrvata od dolaska u Španjolsku, potpuno je razbijen Atletico!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/athletic-bilbao-atletico-madrid-3-0-la-liga-nico-williams-navarro-sancet-15743696",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/05/k_39539423_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Inter gubio 0:2 pa režirao veliki preokret u derbiju protiv Napolija, Torino uzeo prve bodove",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/inter-preokret-3-2-napoli-torino-svladao-fiorentinu-serie-a-15743710",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/05/k_39540520_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO Mašina Vatrenih se ne gasi! Pogledajte prvi pogodak Luke Vuškovića za novu momčad, tribine eksplodirale...",
+        "title": "VIDEO Mašina Vatrenih se ne gasi! Pogledajte prvi pogodak Luke Vuškovića za novu momčad, tribine eksplodirale... City minimalno svladao Coventry, Haaland zabio, Gvardiol igrao, Kovačić ostao na klupi",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/luka-vuskovic-prvi-gol-za-brighton-protiv-leedsa-izjednacenje-15743676",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/09/05/k_39528391_640.jpg",
         "w": 640,
@@ -156,9 +204,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Drugoligaški derbi susjeda završio remijem, Vukovar se spasio u 95. minuti",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/druga-hnl/drugoligaski-derbi-susjeda-zavrsio-remijem-vukovar-se-spasio-u-95-minuti-15743682",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/05/k_38030559_640.jpg",
+        "title": "VIDEO Spominje se Bilićev poziv, a sada je ‘bombom‘ zatresao mrežu velikana! Pogledajte sjajan potez i golčinu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/nejasmic-zabio-feyenoordu-i-nametnuo-se-bilicu-za-zadnjeg-veznog-15743684",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/05/k_39539718_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -168,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Ovo ni jedan navijač Modrih ne želi vidjeti: Dinamov europski scenarij iz najgore noćne more! Prema modelu, baš bi Sturm pretekao Dinamo za prolaz, austrijski klub također bi skupio osam bodova, ali uz bolju gol-razliku (-1 naspram Dinamove -3) završio bi na 24. mjestu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-projekcija-football-meets-data-25-mjesto-osam-bodova-sturm-graz-gol-razlika-15743663",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/05/k_39471617_640.jpg",
+        "title": "FOTO: Tisuće u Zmijavcima odale posljednju počast Ivanu Gudelju",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/posljednji-ispracaj-ivana-gudelja-u-zmijavcima-od-sportske-javnosti-15743670",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/05/k_39538998_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,57 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Što se krije iza Lukine odluke? Bilićeva zebnja uoči novog početka i jedna velika želja kapetana",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/reprezentacija/luka-modric-ostaje-u-reprezentaciji-potvrden-za-ligu-nacija-15743667",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/05/k_39538598_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Umjesto transfera karijere - pad forme, statusa i odlazak na posudbu. Može li ga Kek oživjeti?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kako-izvuci-najbolje-iz-nike-jankovica-15743672",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/03/k_39395480_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Maksimir 400 dana kasnije: Dinamo 2.0 je kvalitetniji, ali jasno je gdje se Kovačević i momčad moraju poboljšati",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-400-dana-kasnije-12-pojacanja-novo-poglavlje-i-europski-izazov-15743644",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/04/k_39452124_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Sud u Amsterdamu ‘matirao‘ bivšeg svjetskog prvaka, kriv je za internetsko zlostavljanje, psihičko zlostavljanje...",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/chess/sud-u-amsterdamu-matirao-bivseg-svjetskog-prvaka-kriv-je-za-internetsko-zlostavljanje-psihicko-zlostavljanje-15743679",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/04/k_37743284_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Nisam ni razmišljao o nogometu, samo da hodam. Ja sam kriv za sve! Mislio sam da mogu u Real‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/moja-prica-sn/kristijan-lovric-povratak-568-dana-nova-uloga-rudes-15743541",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/03/k_39533417_640.jpg",
+        "title": "FOTO: Podravka hrabro parirala europskim doprvakinjama, no bodovi su ipak otišli u Mađarsku",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/podravka-gyor-23-26-liga-prvakinja-obrvan-koprivnica-rukomet-15743706",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/05/k_39539916_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
