@@ -1,7 +1,21 @@
 {
-  "created_at": "2026-09-05T10:57:21.504236+00:00",
+  "created_at": "2026-09-05T13:40:46.157441+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
+    {
+      "title": "Russell najbrži uoči kvalifikacija u Monzi",
+      "link": "https://www.gp1.hr/2026/09/russell-najbrzi-uoci-kvalifikacija-u-monzi/",
+      "author": "Igor Vukajlovic",
+      "published_at": "2026-09-05T11:34:16+00:00",
+      "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f7e2.png",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
     {
       "title": "Antonelli: Ferrari je napravio korak naprijed i brzine su sada iste",
       "link": "https://www.gp1.hr/2026/09/antonelli-ferrari-je-napravio-korak-naprijed-i-brzine-su-sada-iste/",
@@ -120,20 +134,6 @@
       "author": "GP1_hr",
       "published_at": "2026-09-04T05:05:53+00:00",
       "image_url": "",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Hamilton: Čvrsto vjerujem da imamo ono što je potrebno za pobjedu",
-      "link": "https://www.gp1.hr/2026/09/hamilton-cvrsto-vjerujem-da-imamo-ono-sto-je-potrebno-za-pobjedu/",
-      "author": "GP1_hr",
-      "published_at": "2026-09-04T04:47:38+00:00",
-      "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/2728.png",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
