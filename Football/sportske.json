@@ -36,18 +36,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Skandal u Beogradu: Minuta šutnje i transparent za ratnog zločinca, Delije i Grobari zajedno mu skandirali",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-medjunarodni/skandal-derbi-delije-grobari-velicali-ratka-mladica-marakana-15743932",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/06/k_39416010_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Svom silom udarili po sinu legende: ‘To je pokušaj ubojstva! Svi znamo kakav mu je bio otac...‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/psv-slavio-ajax-zuti-van-bommel-sudac-greska-bouwman-ozlijeden-15743975",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/09/06/k_39546393_640.jpg",
@@ -60,9 +48,45 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Skandal u Beogradu: Minuta šutnje i transparent za ratnog zločinca, Delije i Grobari zajedno mu skandirali",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-medjunarodni/skandal-derbi-delije-grobari-velicali-ratka-mladica-marakana-15743932",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/06/k_39416010_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Talijani se nakloni Modriću nakon derbija: ‘Godine prolaze, ali njegova klasa ne blijedi‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/juventus-preokret-milan-izlazak-modrica-gatti-gol-nadoknada-15743977",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/06/k_39547711_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Gudeljov Hajduk je bio europski, a i Garcijin ide tim putem! Davi suparnike kao zmija žabu",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/hajduk-rudes-4-0-garcia-fayad-debi-pobjeda-vrh-hnl-15743935",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/09/06/k_39546334_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Čabraja: ‘Ja sam ludi optimist, želim borbu za Europu‘, Jelavić: ‘Situacija je jako neugodna‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/slaven-belupo-lokomotiva-2-1-debi-silvijo-cabraja-pobjeda-hnl-15743978",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/06/k_39547442_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -132,30 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Ludnica kakva se rijetko viđa: Vratar zabio dva gola i u nadoknadi spasio momčad od poraza!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/koeman-jr-dva-penala-spasio-telstar-rekord-golmana-eredivisie-15743921",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/06/k_39546587_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "FOTO/VIDEO Emotivne scene: Pogledajte kako je Torcida odala počast Ivanu Gudelju",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sego-dva-gola-hajduk-rudes-torcida-oprostaj-ivanu-gudelju-15743914",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/06/k_39546369_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Jedna ozljeda i dalje obavijena misterijem, Čabraja galvanizira momčad za izlaz iz krize",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/slaven-belupo/cabrajin-debi-slaven-belupo-protiv-lokomotive-hnl-15743856",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/09/05/k_38236067_640.jpg",
@@ -168,7 +168,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hajduk iznenadno ostao bez igrača, nije ni na klupi, evo koji je razlog Del Moral i Brruti bili su Garcijin izbor za susret protiv Rudeša u sredini, a Adriona Pajazitija uopće nema u kadru",
+        "title": "VIDEO: Evo zašto je stigao na Poljud! Potpisao prije pet dana pa oduševio već na debiju Fayad je ušao u igru u 64. minuti umjesto Etnika Brrutija, a već u završnici susreta stigao je do prvijenca",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/khalil-fayad-debi-gol-hajduk-rudes-4-0-poljud-15743931",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/06/k_39546914_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Emotivan oproštaj srpske legende od Gudelja: ‘Grunule su mi suze kao da sam izgubio mlađeg brata‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/milojko-pantic-oprostaj-ivan-gudelj-legenda-hajduka-15743883",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/06/k_39538998_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Hajduk iznenadno ostao bez igrača, nije ni na klupi, evo koji je razlog",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-bez-pajazitija-del-moral-i-brruti-protiv-rudesa-ozljeda-straznje-loze-15743891",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/09/06/k_39513802_640.jpg",
         "w": 640,
@@ -207,30 +231,6 @@
         "title": "VIDEO Preokret Arsenala u velikom derbiju, Jakiroviću u Premier ligi više nema ravnoga u ovom polju",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/arsenal-preokretom-svladao-chelsea-2-1-odegaard-i-havertz-derbi-15743925",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/09/06/k_39546217_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Kaže da mu treba novi izazov: U dvije godine spiskao gotovo 800 mil. eura, sad je odlučio reći zbogom",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/richard-hughes-ostavka-sportski-direktor-liverpool-trazi-nasljednika-15743903",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/05/k_39538996_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Pala nova ‘petarda‘! Nemilosrdna Barcelona nastavlja gaziti, briljirao i Olmo",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/barcelona-valencia-5-0-la-liga-yamal-pedri-raphinha-prvo-mjesto-15743908",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/06/k_39546066_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
