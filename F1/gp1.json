@@ -1,7 +1,21 @@
 {
-  "created_at": "2026-09-08T11:46:59.012020+00:00",
+  "created_at": "2026-09-08T15:24:36.275934+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
+    {
+      "title": "15. Motul Rally Kumrovec 2026: Bernini pobjedom do obrane naslova prvaka",
+      "link": "https://www.gp1.hr/2026/09/15-motul-rally-kumrovec-2026-bernini-pobjedom-do-obrane-naslova-prvaka/",
+      "author": "GP1_hr",
+      "published_at": "2026-09-08T12:37:10+00:00",
+      "image_url": "",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
     {
       "title": "Hamilton: Sad je kasno za timske odredbe",
       "link": "https://www.gp1.hr/2026/09/hamilton-sad-je-kasno-za-timske-odredbe/",
@@ -119,20 +133,6 @@
       "link": "https://www.gp1.hr/2026/09/leclerc-i-hamilton-priznali-ferrari-nije-dobro-odradio-kvalifikacije-u-monzi/",
       "author": "Igor Vukajlovic",
       "published_at": "2026-09-06T10:04:57+00:00",
-      "image_url": "",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Stroll 100. put u karijeri ispao u Q1: Prošlo je kako smo i očekivali",
-      "link": "https://www.gp1.hr/2026/09/stroll-100-put-u-karijeri-ispao-u-q1-proslo-je-kako-smo-i-ocekivali/",
-      "author": "Igor Šestak",
-      "published_at": "2026-09-06T07:21:07+00:00",
       "image_url": "",
       "w": 0,
       "h": 0,
