@@ -1,7 +1,21 @@
 {
-  "created_at": "2026-09-11T14:39:22.828899+00:00",
+  "created_at": "2026-09-11T17:57:07.196683+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
+    {
+      "title": "Antonelli najbrži na drugom treningu u Madridu!",
+      "link": "https://www.gp1.hr/2026/09/antonelli-najbrzi-na-drugom-treningu-u-madridu/",
+      "author": "fermen",
+      "published_at": "2026-09-11T16:01:11+00:00",
+      "image_url": "https://www.gp1.hr/wp-content/uploads/2026/09/image-1.png",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
     {
       "title": "Russell ispred Kimija, Mercedes najbrži na prvom treningu u Madridu",
       "link": "https://www.gp1.hr/2026/09/russell-ispred-kimija-mercedes-najbrzi-na-prvom-treningu-u-madridu/",
@@ -120,20 +134,6 @@
       "author": "Igor Vukajlovic",
       "published_at": "2026-09-07T17:03:03+00:00",
       "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f4ab.png",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Antonelli: Jedna od utrka kojih ću se sjećati zauvijek",
-      "link": "https://www.gp1.hr/2026/09/antonelli-jedna-od-utrka-kojih-cu-se-sjecati-zauvijek/",
-      "author": "Igor Šestak",
-      "published_at": "2026-09-07T11:38:43+00:00",
-      "image_url": "https://www.gp1.hr/wp-content/uploads/2026/09/2026-italy-monza-mercedes-antonelli-winner-2.jpg",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
