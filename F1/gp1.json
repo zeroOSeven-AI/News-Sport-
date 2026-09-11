@@ -1,7 +1,21 @@
 {
-  "created_at": "2026-09-11T10:02:18.796060+00:00",
+  "created_at": "2026-09-11T14:39:22.828899+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
+    {
+      "title": "Russell ispred Kimija, Mercedes najbrži na prvom treningu u Madridu",
+      "link": "https://www.gp1.hr/2026/09/russell-ispred-kimija-mercedes-najbrzi-na-prvom-treningu-u-madridu/",
+      "author": "GP1",
+      "published_at": "2026-09-11T12:52:07+00:00",
+      "image_url": "https://www.gp1.hr/wp-content/uploads/2026/09/image.png",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
     {
       "title": "Madring debitira u F1: Vozači očekuju veliki izazov i puno incidenata",
       "link": "https://www.gp1.hr/2026/09/madring-debitira-u-f1-vozaci-ocekuju-veliki-izazov-i-puno-incidenata/",
@@ -120,20 +134,6 @@
       "author": "Igor Šestak",
       "published_at": "2026-09-07T11:38:43+00:00",
       "image_url": "https://www.gp1.hr/wp-content/uploads/2026/09/2026-italy-monza-mercedes-antonelli-winner-2.jpg",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Tsunoda izbjegao kaznu, Audi razmatra žalbu",
-      "link": "https://www.gp1.hr/2026/09/tsunoda-izbjegao-kaznu-audi-razmatra-zalbu/",
-      "author": "Igor Šestak",
-      "published_at": "2026-09-07T07:03:30+00:00",
-      "image_url": "",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
