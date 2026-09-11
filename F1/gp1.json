@@ -1,7 +1,21 @@
 {
-  "created_at": "2026-09-11T00:37:21.333348+00:00",
+  "created_at": "2026-09-11T05:20:55.594710+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
+    {
+      "title": "Madring debitira u F1: Vozači očekuju veliki izazov i puno incidenata",
+      "link": "https://www.gp1.hr/2026/09/madring-debitira-u-f1-vozaci-ocekuju-veliki-izazov-i-puno-incidenata/",
+      "author": "Igor Šestak",
+      "published_at": "2026-09-11T05:02:15+00:00",
+      "image_url": "https://www.gp1.hr/wp-content/uploads/2026/09/HRjUISNWoAEtzfT.jpeg",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
     {
       "title": "Wolff: Mogli smo izgledati kao idioti",
       "link": "https://www.gp1.hr/2026/09/wolff-mogli-smo-izgledati-kao-idioti/",
@@ -120,20 +134,6 @@
       "author": "Igor Šestak",
       "published_at": "2026-09-07T07:03:30+00:00",
       "image_url": "",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "MXGP: Jeffrey Herlings – šesti naslov u Turskoj, Farres povećao vodstvo",
-      "link": "https://www.gp1.hr/2026/09/mxgp-jeffrey-herlings-sesti-naslov-u-turskoj-farres-povecao-vodstvo/",
-      "author": "GeaGP",
-      "published_at": "2026-09-07T06:08:00+00:00",
-      "image_url": "https://www.gp1.hr/wp-content/uploads/2026/09/MXGP-Turkey-2026-Yamaha-Gajser.jpg",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
