@@ -1,8 +1,8 @@
 [
     {
-        "title": "Šok u Zagrebu! Miran Fabjan nokautirao Ivana Erslana i utišao tribine krcate Arene! Slovenski Rocky ispunio je svoje najave i svladao najboljeg hrvatskog poluteškaša tehničkim nokautom",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/regija/sok-u-zagrebu-miran-fabjan-nokautirao-ivana-erslana-i-utisao-tribine-krcate-arene-15745948",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/12/k_39586583_640.jpg",
+        "title": "Kakav rat Stošića i Hatefa! Srpski teškaš novi je prvak FNC-ove kraljevske kategorije 34-godišnji srpski teškaš okrunio je karijeru osvajanjem pojasa i borbom o kojoj će se jako dugo pričati.",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/regija/kakav-rat-stosica-i-hatefa-srpski-teskas-novi-je-prvak-fnc-ove-teske-kategorije-15745949",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/12/k_39586790_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -15,6 +15,18 @@
         "title": "Kovačevićeva je smjena bila tema kuloara i prije Osijeka. Doznajemo njegovu sudbinu: ‘Zar se to zaboravilo?‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/dinamo-potvrdio-kovacevic-ostaje-fokus-na-igracima-nakon-osijeka-15745927",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/09/12/k_36940442_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Šok u Zagrebu! Miran Fabjan nokautirao Ivana Erslana i utišao tribine krcate Arene!",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/regija/sok-u-zagrebu-miran-fabjan-nokautirao-ivana-erslana-i-utisao-tribine-krcate-arene-15745948",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/12/k_39586583_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -60,9 +72,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO/VIDEO: Ekspresan nokaut Barbira, Fabjan režirao senzaciju, pred nama je još glavna borba večeri!",
+        "title": "VIDEO: Rat Stošića i Hatefa, Slovenac šokirao zagrebačku Arenu, Sep pobijedio Bilića, ekspresan nokaut Barbira",
         "link": "https://sportske.jutarnji.hr/sportske/fightsite/regija/uzivo-uskoro-zapocinje-spektakl-u-zagrebackoj-areni-evo-gdje-gledati-fnc-33-15745885",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/12/k_39579018_640.jpg",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/12/k_39586809_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -144,18 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Martin Batur je zvijer! ‘Hvala Bogu, hrvatskim braniteljima i hrvatskom Thompsonu!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/regija/martin-batur-je-zvijer-polozio-je-test-karijere-i-porucio-hvala-bogu-braniteljima-i-thompsonu-15745919",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/12/k_39584909_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Junaka pobjede Dinamo je Osijeku pustio za svega 250.000 eura i bez prava prvokupa!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/osijek/luka-vrbancic-osijek-dinamo-opus-arena-bessone-derbi-15745796",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/09/11/k_33504497_640.jpg",
@@ -168,7 +168,19 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Teško ‘demoliranje‘ u Areni Zagreb! Bivši UFC borac brutalno isprebijao ‘Ivana Dragu‘ FNC-ova srednja kategorija dobila je ozbiljno pojačanje u liku iskusnog američkog borca dojmljive biografije",
+        "title": "Jakirović priredio Chelseaju scenarij kakav ne pamti 65 godina! ‘Osvojit ćemo ligu...‘ S nešto pozitivnije strane, navijače Chelseaja barem može radovati forma ljetnog pojačanja Morgana Rogersa",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hull-city-sokira-chelsea-remi-2-2-stamford-bridge-bez-poraza-treci-15745883",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/12/k_39582883_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Teško ‘demoliranje‘ u Areni Zagreb! Bivši UFC borac brutalno isprebijao ‘Ivana Dragu‘",
         "link": "https://sportske.jutarnji.hr/sportske/fightsite/regija/tesko-demoliranje-u-areni-zagreb-bivsi-ufc-borac-brutalno-isprebijao-ivana-dragu-15745916",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/09/12/k_39584677_640.jpg",
         "w": 640,
@@ -219,18 +231,6 @@
         "title": "Milan gubio 2:0 pa spasio remi u derbiju, Amorim izvadio Modrića na poluvremenu. Debitirao i Vatreni",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/lazio-ispustio-vodstvo-milan-se-vratio-22-na-olimpicu-15745907",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/09/12/k_39583674_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Slavlje u zagrebačkoj Areni! Ponajveći hrvatski MMA talent slavio na otvaranju FNC 33 spektakla!",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/regija/ludnica-u-zagrebackoj-areni-ponajveci-hrvatski-mma-talent-slavio-na-otvaranju-fnc-33-spektakla-15745899",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/12/k_39583970_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
