@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-09-14T07:12:59.964616+00:00",
+  "created_at": "2026-09-14T14:26:22.080039+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
     {
@@ -17,11 +17,25 @@
       "flag": "🇭🇷"
     },
     {
-      "title": "Landu Norrisu prva startna pozicija u Madridu!",
-      "link": "https://www.gp1.hr/2026/09/landu-norrisu-prva-startna-pozicija-u-madridu/",
-      "author": "Igor Vukajlovic",
-      "published_at": "2026-09-12T15:05:22+00:00",
-      "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f7e2.png",
+      "title": "Norris: Pobjednika je odlučilo pravilo koje jednima koristi više nego drugima",
+      "link": "https://www.gp1.hr/2026/09/norris-pobjednika-je-odlucilo-pravilo-koje-jednima-koristi-vise-nego-drugima/",
+      "author": "GP1_hr",
+      "published_at": "2026-09-14T11:20:05+00:00",
+      "image_url": "",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
+    {
+      "title": "Verstappen: Da se nisam maknuo, došlo bi do kontakta s Hamiltonom",
+      "link": "https://www.gp1.hr/2026/09/verstappen-da-se-nisam-maknuo-doslo-bi-do-kontakta-s-hamiltonom/",
+      "author": "GP1_hr",
+      "published_at": "2026-09-14T11:08:13+00:00",
+      "image_url": "",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
@@ -73,6 +87,20 @@
       "flag": "🇭🇷"
     },
     {
+      "title": "Landu Norrisu prva startna pozicija u Madridu!",
+      "link": "https://www.gp1.hr/2026/09/landu-norrisu-prva-startna-pozicija-u-madridu/",
+      "author": "Igor Vukajlovic",
+      "published_at": "2026-09-12T15:05:22+00:00",
+      "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f7e2.png",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
+    {
       "title": "Treći trening na Madringu s dvije crvene zastave: Antonelli najbrži, Hamilton u ogradi",
       "link": "https://www.gp1.hr/2026/09/zavrsni-trening-na-madringu-s-dvije-crvene-zastave-antonelli-najbrzi-hamilton-zavrsio-u-ogradi/",
       "author": "Igor Šestak",
@@ -106,34 +134,6 @@
       "author": "GP1_hr",
       "published_at": "2026-09-12T06:24:45+00:00",
       "image_url": "",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Antonelli najbrži na drugom treningu u Madridu!",
-      "link": "https://www.gp1.hr/2026/09/antonelli-najbrzi-na-drugom-treningu-u-madridu/",
-      "author": "fermen",
-      "published_at": "2026-09-11T16:01:11+00:00",
-      "image_url": "https://www.gp1.hr/wp-content/uploads/2026/09/image-1.png",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Russell ispred Kimija, Mercedes najbrži na prvom treningu u Madridu",
-      "link": "https://www.gp1.hr/2026/09/russell-ispred-kimija-mercedes-najbrzi-na-prvom-treningu-u-madridu/",
-      "author": "GP1",
-      "published_at": "2026-09-11T12:52:07+00:00",
-      "image_url": "https://www.gp1.hr/wp-content/uploads/2026/09/image.png",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
