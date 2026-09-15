@@ -1,6 +1,42 @@
 [
     {
-        "title": "Kovačević: ‘Vi ozbiljniji novinari biste trebali imati veći respekt prema meni i Dinamu‘ Pa kome ne bi nedostajao najbolji igrač? Zabijao je, asistirao, radio sve što smo od njega tražili i sigurno je da će nedostajati, kazao je o plavoj devetki",
+        "title": "Generacija s ‘dozvolom za ubojstvo‘: Rađa se novo nogometno čudo od djeteta? Xavi Hernandez postavio je temelje uvođenjem Yamala, Cubarsija, Bernala... a Flick se vodio njegovom logikom i iščupao još jedog wunderkinda iz bazena ‘007‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/generacija-s-dozvolom-za-ubojstvo-xavi-je-ugradio-temelj-a-flick-pronasao-novog-wunderkinda-u-bazenu-007-xavi-espart-kao-neocekivano-rjesenje-barceloni-se-nametnuo-jos-jedan-19-godisnjak-u-cijem-se-liku-vjeruje-nijemac-nalazi-novi-philipp-lahm-15746842",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/15/k_39604367_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Debi iz noćne more donedavnog dinamovca: U kaosu povukao protivnika za kosu i dobio crveni karton!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/al-hilal-al-gharafa-dva-crvena-kartona-penal-ruben-neves-15746853",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/15/k_39605406_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Real zamalo ‘prokockao‘ veliku prednost, džoker s klupe spasio Kraljeve",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/video-real-skoro-prokockao-veliku-prednost-spasio-ga-mladi-ofenzivac-15746872",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/15/k_39605689_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Kovačević: ‘Vi ozbiljniji novinari biste trebali imati veći respekt prema meni i Dinamu‘",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-hapoel-bukurest-otvaranje-europske-lige-iskupljenje-na-neutralnom-terenu-15746817",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/09/15/k_39387856_640.jpg",
         "w": 640,
@@ -24,9 +60,57 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Skandal u BiH: ‘Sudac‘ se skinuo usred utakmice pred maloljetnicama i pokazivao stražnjicu, reagirao Savez!",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/odbojka/odbojka-ostalo/skandal-zavidovici-open-lazni-norveski-suci-socijalni-eksperiment-15746832",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/15/k_39605136_640.jpg",
+        "title": "Horvat vodi veliki remont Zagreba, hrvatski prvak najviše kupovao! Ovo su najveći transferi u rukometu ove sezone",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/top-100-rukometnih-transfera-vratari-nielsen-hernandez-kuzmanovic-horvat-zagreb-15746867",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/13/k_38276518_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Arsenal lako protiv Ipswicha, Liverpool na Anfieldu svladao Tottenham, golijada u dvoboju četveroligaša",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/video-arsenal-lako-protiv-ipswicha-liverpool-na-anfieldu-svladao-tottenham-golijada-u-dvoboju-cetveroligasa-15746868",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/15/k_39605378_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Legenda Kolumbije okončala reprezentativnu karijeru",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/james-rodriguez-oprostaj-kolumbija-reprezentacija-sp-2026-rekordi-15746848",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/15/k_39605079_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Bivša zvijezda Engleske priznala opasnu vožnju pod utjecajem supstance u luksuznom autu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/raheem-sterling-priznao-opasnu-voznju-i-posjedovanje-dusikova-oksida-nakon-sudara-lamborghinija-15746854",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/15/k_35796615_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Objavljeno koliko HNK Šibenik duguje vjerovnicima",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/sibenik-popis-vjerovnika-stecaj-deni-juric-dugovi-drzava-hnl-15746844",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/15/k_39024895_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,6 +132,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Skandal u BiH: ‘Sudac‘ se skinuo usred utakmice pred maloljetnicama i pokazivao stražnjicu, reagirao Savez!",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/odbojka/odbojka-ostalo/skandal-zavidovici-open-lazni-norveski-suci-socijalni-eksperiment-15746832",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/15/k_39605136_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Pojačanje u borbi za ostanak: Rudeš doveo poznato lice!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/slavko-bralic-potpisao-za-rudes-iskusni-stoper-ucvrscuje-obranu-15746804",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/09/15/k_36780228_640.jpg",
@@ -60,9 +156,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Kovačević živi osmi od devet života, negativni trend je nakon Osijeka otišao još korak dalje...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kovacevic-pod-pritiskom-bukurest-test-i-ljutnja-maksimira-15746803",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/15/k_39561559_640.jpg",
+        "title": "Žuta majica SN: Vrbančić dominirao protiv bivših, Frederiksen hat-trickom zakuhao utrku strijelaca",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/zuta-majica/vrbancic-dominirao-protiv-bivsih-frederiksen-hat-trickom-zakuhao-utrku-strijelaca-15746785",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/14/k_39604472_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -72,31 +168,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Transferi su izgubili smisao, možete kupiti ‘magarca‘ za 200 milijuna eura, a vrlo dobrog igrača za 20‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/meunier-kritizira-transfere-bouaddi-manchester-city-95-milijuna-lille-15746829",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/15/k_36253554_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Što se događa u Zagrebu?! Bugari ‘napadaju‘ klubove: ‘Nalazim igrače za lige petice, a taj mali je čudo!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/kalojan-bozkov-odbijao-parmu-zaludio-maksimir-lazar-stefanov-bugarski-talenti-dinamo-15746741",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/14/k_39598566_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Igramo s moćnim klubom i jakom momčadi, naši igrači morat će ući u velike cipele‘",
+        "title": "‘Igramo s moćnim klubom i jakom momčadi, naši igrači morat će ući u velike cipele‘ Hrvatski prvak ima kadrovskih problema, ali oni s kojima se nose izraelski puno su veći. Hapoel Be‘er Sheva na Dinamo ide bez brojnih nositelja svoje igre",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hapoel-dize-formu-prije-dinama-povratak-zlatanovica-problematican-travnjak-bukurest-15746798",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/09/15/k_39603475_640.jpg",
         "w": 640,
@@ -144,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Žuta majica SN: Vrbančić dominirao protiv bivših, Frederiksen hat-trickom zakuhao utrku strijelaca",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/zuta-majica/vrbancic-dominirao-protiv-bivsih-frederiksen-hat-trickom-zakuhao-utrku-strijelaca-15746785",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/14/k_39604472_640.jpg",
+        "title": "Ispovijest slavnog nogometaša: ‘Imao sam problema s depresijom, bio sam primljen u kliniku, uzimam lijekove...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/lavezzi-iskreno-depresija-nakon-karijere-sin-messi-aguero-oporavak-15746764",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/15/k_39567161_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -156,81 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Od razočaranja do ovacija: Nogometni romantičar iz Danske opet je oduševio hrvatske navijače",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/emil-frederiksen-hat-trick-istra-1961-cabello-drosina-rudes-15746626",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/14/k_39590917_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Može li Hrvatu uspjeti ono što nikome dosad nije? Mnogi su se vraćali, ali nitko nakon ovolike stanke Branič koji je odradio pune četiri godine suspenzije cilja povratak na razinu Petice odmah po isteku zabrane",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/mario-vuskovic-povratak-nakon-cetverogodisnje-suspenzije-elita-15746644",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/14/k_37094353_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "FOTO: Počinje nova era, ovo su novi dresovi Vatrenih s glagoljicom i čipkom! Pogledajte kako izgledaju",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/adidas-novi-dresovi-hrvatske-glagoljica-cipka-hns-climacool-15746578",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/15/k_39602417_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Što zapravo znači novi Bobanov potez? ‘Pa meni su dolazili i Canjuga i Mamić. Ovo je jedina istina!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/boban-ulazak-svlacionica-dinamo-ucvrscuje-kovacevica-odgovornost-igraca-15746561",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/14/k_38060946_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Srpskom treneru stigla zaslužena kazna nakon skandaloznih izjava o Hrvatskoj!",
-        "link": "https://sportske.jutarnji.hr/sportske/tenis/tenis-mix/vladimir-odobasic-izbacen-iz-gptca-zbog-radikalnih-objava-15746596",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/15/k_39582392_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Potvrđeno je, HSV povukao veliki potez, sprema se spektakl za povratak Hrvata: ‘Bit će nestvarno!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/mario-vuskovic-povratak-hsv-otvoreni-trening-volksparkstadion-15746538",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/15/k_39602093_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Sve je dogovoreno? Legendarni Modrićev suigrač u 41. godini prvi put stiže u Premiership",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/sergio-ramos-aston-villa-pred-potpisom-kriza-obrane-liga-prvaka-15746635",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/15/k_38147095_640.jpg",
+        "title": "‘Sav novac bih stavio na Marija Vuškovića, već na proljeće vidim ga u A reprezentaciji‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/mario-vuskovic-vraca-se-treninzima-hsv-otvara-stadion-moguci-debi-werder-15746710",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/14/k_33463207_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
