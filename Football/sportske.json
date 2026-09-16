@@ -1,8 +1,8 @@
 [
     {
-        "title": "UŽIVO Hapoel - Dinamo: Kovačević priredio iznenađenje, prvotimac Modrih na klupi, Oršić se vratio u prvih 11 Utakmicu između Hapoela Beer Sheve i Dinama u 1. kolu Europske lige pratimo i komentiramo na portalu Sportskih novosti",
+        "title": "UŽIVO Hapoel - Dinamo: Modri ostali bez Kačavende, grčevito se brane, spašavaju Kotarski, Mišić, vratnica... Kačavenda je izašao zbog ozljede u 24. minuti, a Mario Kovačević je u 63. uveo Prevljaka i Ivanušeca, te Kravcova i Almenu 15 minuta kasnije",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-hapoel-beer-sheva-dinamo-kovacevic-bez-dvije-najvece-zvijezde-ovo-je-vjerojatnih-11-dinama-15747139",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/16/k_39451598_640.jpg",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/16/k_39609843_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -12,9 +12,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Podcjenjuju li oni Dinamo? Suzdržan stav ima logike, Modri su već pokazali gdje su im granice...",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/europska-liga/prilika-juventusu-i-milanu-da-se-vrate-za-trofejni-stol-15747137",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/15/k_39603475_640.jpg",
+        "title": "VIDEO Vušković asistirao glavom s 40 metara od gola, pogledajte senzacionalan preokret na Old Traffordu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/video-vuskovic-na-streljani-nakon-velike-greske-obrane-manchester-united-u-dvije-minute-zabio-dva-gola-15747165",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/16/k_39609846_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,9 +24,57 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Misterij izostanka najboljeg Dinamova igrača: ‘Da se njega pitalo, igrao bi i u Osijeku i u Bukureštu...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/beljo-propusta-tri-utakmice-dinama-mucnina-umor-povratak-protiv-lokomotive-15747096",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/16/k_39451741_640.jpg",
+        "title": "Kovačeviću kao da je važnije ne izgubiti, Oršić neprimjetan, Hoxha krenuo kao špica pa skretao na krilo...",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-cvrst-otraga-napad-bez-rjesenja-ocjene-igraca-15747172",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/16/k_39609930_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Stručnjaci: ‘Dugo nisam vidio takav Dinamo! Pa mi smo favoriti, a imamo 36 posto posjed lopte!?‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-hapoel-36-posto-posjeda-dubok-blok-rana-izmjena-analiza-15747174",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/16/k_39609983_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Jakirović: ‘Ja u Dinamo?! Pa ja gledam prema Manchester Unitedu! A Luku sam molio da ne ide...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/jakirovic-hull-igraci-ljubav-dinamo-ambicije-premier-liga-15747158",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/16/k_39583045_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Hrvatski prvak ponovo kratak, pobjeda u Parizu i dalje ostaje nedosanjani san",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/rukomet/hrvatski-prvak-ponovo-kratak-pobjeda-u-parizu-i-dalje-ostaje-nedosanjani-san-15747177",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/16/k_39603841_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Kovačević napravio eksperiment, pomoćni trener objasnio veliko iznenađenje u napadu Dinama",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-bez-devetke-kovacevic-gura-orsica-u-spicu-zbog-brzine-i-presinga-15747156",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/16/k_39372595_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,9 +96,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Pogledajte najveću pobjedu Rijeke od povratka Matjaža Keka, zabilo više od pola momčadi!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-vrbovec-rijeka-rijecani-love-plasman-u-osminu-finala-kod-petoligasa-15747106",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/16/k_39608855_640.jpg",
+        "title": "Mbappe se oglasio nakon skandala i objasnio potez koji je šokirao Španjolsku",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/mbappe-se-oglasio-nakon-skandala-i-objasnio-potez-koji-je-sokirao-cijelu-spanjolsku-15747170",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/16/k_39610008_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -60,9 +108,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Napadačko otkriće srušilo Dinamo, impresioniralo Hrvatsku i odmah potpisalo novi ugovor: ‘Oduševljeni smo!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/armando-leon-produljio-ugovor-s-osijekom-nakon-pet-golova-15747135",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/16/k_39583461_640.jpg",
+        "title": "Šok za sve navijače BiH: Utakmice reprezentacije bez prijenosa na javnoj televiziji?",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bhrt-obustavlja-program-upitan-tv-prijenos-bih-protiv-poljske-u-ligi-nacija-15747163",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/16/k_39193306_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -72,9 +120,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Sada je sve poznato: Ovo su svi parovi osmine finala Hrvatskog kupa",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hrvatski-kup-parovi-osmine-finala-osijek-ispao-rijeka-uvjerljiva-15747145",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/16/k_28215919_640.jpg",
+        "title": "Misterij izostanka najboljeg Dinamova igrača: ‘Da se njega pitalo, igrao bi i u Osijeku i u Bukureštu...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/beljo-propusta-tri-utakmice-dinama-mucnina-umor-povratak-protiv-lokomotive-15747096",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/16/k_39451741_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,9 +132,21 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Opleo po Dinamovoj legendi pa dobio otkaz: ‘Od stare slave se ne živi...‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/druga-hnl/kustosija-smijenila-trenera-rajka-vidovica-nakon-serije-bez-pobjede-15747130",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/16/k_39508042_640.jpg",
+        "title": "Vatreno krštenje za Zidanea: Nije odradio ni prvu utakmicu, a već je ostao bez suradnika",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/zidane-smijenio-retalija-doveo-podologa-sergea-isidora-15747168",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/16/k_39444610_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Kek poslao poruku svojim igračima uoči derbija s Hajdukom: ‘Želim da svi shvate što to znači‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/kup-hnl/rijeka-razbila-vrbovec-6-0-osmina-finala-hrvatskog-kupa-puljic-kek-15747151",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/16/k_39608880_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -97,6 +157,18 @@
     },
     {
         "title": "Neviđen učinak: Rijekin talent u 35 minuta postigao šest pogodaka!",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/golijade-mladih-rijeka-9-0-lokomotiva-7-0-vujnovic-sest-hajduk-kadeti-istrini-juniori-15747133",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/16/k_36772121_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Neviđen učinak: Rijekin talent u 35 minuta postigao šest pogodaka! Pioniri Varaždina još nisu primili gol, kod juniora i dalje briljira Istra, bez izgubljenog boda i s 22 gola u pet susreta",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/golijade-mladih-rijeka-9-0-lokomotiva-7-0-vujnovic-sest-hajduk-kadeti-istrini-juniori-15747133",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/09/16/k_36772121_640.jpg",
         "w": 640,
@@ -156,81 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Tko su braća srednjoškolci, novi hit-igrači HNL-a? ‘Neki su govorili da sam lud‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/osijek/braca-jezic-vodila-osijek-do-pobjede-nad-dinamom-hnl-rekordi-15747007",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/15/k_39603760_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Klopp sprema veliko iznenađenje za cijelu Njemačku: Zove igrača koji je donedavno bio - treća liga! Insajder Florian Plettenberg tvrdi da bi se na prvom popisu Jürgena Kloppa mogao naći Felix Keidel, 23-godišnji branič Elversberga.",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/klopp-pozvao-felixa-keidela-iz-trece-lige-u-reprezentaciju-njemacke-15747108",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/16/k_39590642_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO: Premier liga objavila video u kojem hvali Gvardiolovu savršenu kontrolu lopte",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/gvardiol-potez-derbi-premier-liga-haaland-var-15747050",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/16/k_39591158_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Veliki zaokret u karijeri bivšeg hrvatskog nogometnog reprezentativca",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/danijel-pranjic-pokrece-panenka-sports-management-postaje-nogometni-agent-15747039",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/16/k_37103398_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Bukurešt mora donijeti Kovačevićev potpis: Boban skida temperaturu, ali ekspres-lonac je pred eksplozijom",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-bukurest-kovacevic-hapoel-beljo-europska-vecer-pobjeda-cista-mreza-15746976",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/15/k_39451931_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Počinje Cro Race: ‘Utrka će se prenositi na 59 televizija u 150 država te može dosegnuti 1,6 milijardi kućanstava‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/miholjevic-dosegli-smo-kategoriju-proseries-a-tu-nam-nije-kraj-15747082",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/16/k_38102404_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Dinamo će imati potporu u Bukureštu: saznajemo broj navijača, ali i izazovne trase koje vode i kroz Srbiju",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-bukurest-500-navijaca-schengen-ruta-bad-blue-boys-15746954",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/15/k_38780055_640.jpg",
+        "title": "Od debakla prije 10 mjeseci promijenilo se baš - sve: Livaja na Rujevicu ne dolazi kao pojedinac",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hajduk-rujevica-momcad-iznad-zvijezda-livaja-joker-lider-shnl-15747026",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/15/k_39493401_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
