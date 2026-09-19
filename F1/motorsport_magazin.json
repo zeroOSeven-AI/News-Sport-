@@ -24,6 +24,18 @@
         "flag": "🇩🇪"
     },
     {
+        "title": "Video: F1-Sprint in Monaco: Warum tut sich die Formel 1 das an?",
+        "link": "https://www.motorsport-magazin.com/formel1/video-14811-f1-sprint-in-monaco-warum-tut-sich-die-formel-1-das-an.html",
+        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1129901.jpg",
+        "w": 1200,
+        "h": 627,
+        "focus_y": 0.35,
+        "source_title1": "MOTORSPORT MAGAZIN",
+        "source_title2": "F1",
+        "source_color": "#FFD300",
+        "flag": "🇩🇪"
+    },
+    {
         "title": "Audi schließt Verkauf von weiteren Anteilen am Formel-1-Team nicht aus: \"Sehr viel Interesse\"",
         "link": "https://www.motorsport-magazin.com/formel1/news-300292-audi-schliesst-verkauf-von-weiteren-anteilen-am-formel-1-team-nicht-aus-sehr-viel-interesse/",
         "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1118473.jpg",
@@ -60,9 +72,21 @@
         "flag": "🇩🇪"
     },
     {
-        "title": "Max Verstappen schlägt 100 Fahrer in 14 Runden: Rennbericht zu Red Bulls Kart-Challenge",
-        "link": "https://www.motorsport-magazin.com/formel1/news-300299-verstappen-schlaegt-100-karts-in-14-runden-so-lief-die-red-bull-challenge-max-vs-100/",
-        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1129849.jpg",
+        "title": "Formel-1-Personalcoup für Alpine: Ehemaliger Mercedes-Technikchef geht nach Enstone",
+        "link": "https://www.motorsport-magazin.com/formel1/news-300300-formel-1-personalcoup-fuer-alpine-ehemaliger-mercedes-technikchef-geht-nach-enstone/",
+        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1129843.jpg",
+        "w": 1200,
+        "h": 627,
+        "focus_y": 0.35,
+        "source_title1": "MOTORSPORT MAGAZIN",
+        "source_title2": "F1",
+        "source_color": "#FFD300",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Haas-Teamchef: Fünf Fahrer haben Chancen auf das zweite Formel-1-Cockpit für 2027",
+        "link": "https://www.motorsport-magazin.com/formel1/news-300279-haas-teamchef-fuenf-fahrer-haben-chancen-auf-das-zweite-formel-1-cockpit-fuer-2027/",
+        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1129553.jpg",
         "w": 1200,
         "h": 627,
         "focus_y": 0.35,
@@ -84,69 +108,33 @@
         "flag": "🇩🇪"
     },
     {
+        "title": "Formel-1-Kalender 2027 veröffentlicht: Saisonstart in Bahrain, Sprint in Monaco",
+        "link": "https://www.motorsport-magazin.com/formel1/news-300285-formel-1-kalender-2027-termine-veroeffentlicht-saisonstart-in-bahrain-sprint-in-monaco-rennkalender-uebersicht/",
+        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1129562.jpg",
+        "w": 1200,
+        "h": 627,
+        "focus_y": 0.35,
+        "source_title1": "MOTORSPORT MAGAZIN",
+        "source_title2": "F1",
+        "source_color": "#FFD300",
+        "flag": "🇩🇪"
+    },
+    {
+        "title": "Max Verstappen gegen 100: Alle Infos zu Red Bulls verrückter Kart-Challenge",
+        "link": "https://www.motorsport-magazin.com/formel1/news-300284-max-vs-100-uebertragung-regeln-gegner-bei-verstappens-verruecktem-kartrennen/",
+        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1128323.jpg",
+        "w": 1200,
+        "h": 627,
+        "focus_y": 0.35,
+        "source_title1": "MOTORSPORT MAGAZIN",
+        "source_title2": "F1",
+        "source_color": "#FFD300",
+        "flag": "🇩🇪"
+    },
+    {
         "title": "Formel 1 Liveticker: Norris verliert Sieg bei Stopp! Reaktionen zum McLaren-Debakel in Madrid",
         "link": "https://www.motorsport-magazin.com/formel1/news-300228-formel-1-liveticker-f1-heute-live-madrid-madring-das-rennen-start-news-aktuell-2026-spanien-pole-sieger-reaktionen-startaufstellung-stimmen-reaktionen/",
         "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1129184.jpg",
-        "w": 1200,
-        "h": 627,
-        "focus_y": 0.35,
-        "source_title1": "MOTORSPORT MAGAZIN",
-        "source_title2": "F1",
-        "source_color": "#FFD300",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Formel 1 heute: Das Rennergebnis für den Grand Prix von Spanien",
-        "link": "https://www.motorsport-magazin.com/formel1/news-300234-formel-1-heute-in-madrid-das-rennergebnis-fuer-den-grand-prix-von-spanien/",
-        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1129415.jpg",
-        "w": 1200,
-        "h": 627,
-        "focus_y": 0.35,
-        "source_title1": "MOTORSPORT MAGAZIN",
-        "source_title2": "F1",
-        "source_color": "#FFD300",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Ergebnisse: Spanien GP - Schnellste Runde",
-        "link": "https://www.motorsport-magazin.com/formel1/ergebnisse/2026/session/spanien-gp-schnellste-runde-41659.html",
-        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1129156.jpg",
-        "w": 1200,
-        "h": 627,
-        "focus_y": 0.35,
-        "source_title1": "MOTORSPORT MAGAZIN",
-        "source_title2": "F1",
-        "source_color": "#FFD300",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Formel 1 Liveticker vor dem Rennen heute in Madrid - F1-News aktuell zum Spanien GP",
-        "link": "https://www.motorsport-magazin.com/formel1/news-300214-formel-1-live-ticker-zum-rennen-in-madrid-madring-gp-heute-sonntag-alle-f1-2026-spanien-news-tv-startaufstellung-strafen-wetter-pole-start/",
-        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1129185.jpg",
-        "w": 1200,
-        "h": 627,
-        "focus_y": 0.35,
-        "source_title1": "MOTORSPORT MAGAZIN",
-        "source_title2": "F1",
-        "source_color": "#FFD300",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Formel 1 2026: Stand Power Units und Motoren",
-        "link": "https://www.motorsport-magazin.com/formel1/news-297562-formel-1-2026-stand-power-units-und-motoren/",
-        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1118564.jpg",
-        "w": 1200,
-        "h": 627,
-        "focus_y": 0.35,
-        "source_title1": "MOTORSPORT MAGAZIN",
-        "source_title2": "F1",
-        "source_color": "#FFD300",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Formel 1 heute LIVE: Wer überträgt den Spanien GP 2026 im Free-TV und Stream?",
-        "link": "https://www.motorsport-magazin.com/formel1/news-300206-f1-uebertragung-heute-alle-tv-und-stream-optionen-zum-spanien-gp-2026/",
-        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/n_fb/1129186.jpg",
         "w": 1200,
         "h": 627,
         "focus_y": 0.35,
