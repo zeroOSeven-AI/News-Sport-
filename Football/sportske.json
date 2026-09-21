@@ -1,8 +1,92 @@
 [
     {
-        "title": "Otkriveno zašto se USKOK bavi HNS-om: Ovo su ljudi koji su morali znati za sporni ugovor... Istražitelji traže zapisnike IO-a i ugovore, fokus na mogućim posrednicima i isplatama u višegodišnjem partnerstvu...",
+        "title": "EKSKLUZIVNO Slaven Bilić: ‘U trenerskoj karijeri zamjeram si samo jedno. Trofej s Vatrenima ne zvuči suludo‘ Sedam od deset top selekcija vodi nova elita s klupskim trofejima, dok Bilić Hrvatsku želi vratiti u borbu za vrh",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/elitni-izbornici-preuzimaju-reprezentacije-bilic-podize-ambicije-hrvatske-15748634",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/21/k_39630507_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "‘To mi polako ide na živce, lome ritam igre, umrtve svoju momčad. Naši treneri daju im preveliku važnost‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/loncarevic-hajduk-dominirao-ali-pao-nakon-gola-rijeke-analiza-var-soba-15748637",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/21/k_39630765_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Otkriveno zašto se USKOK bavi HNS-om: Ovo su ljudi koji su morali znati za sporni ugovor...",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/uskok-istrazuje-ugovor-hns-adidas-moguce-provizije-posrednici-15748609",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/09/21/k_39636862_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Nije istina da je Josip Mišić suspendiran samo za derbi protiv Hajduka",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/misic-suspendiran-dinamo-bez-kapetana-za-derbi-na-poljudu-15748621",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/21/k_39453025_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Ovo su tvrtke s kojima je HNS sklapao ili produljivao suradnju. Dio ugovora ostao je ‘službena tajna‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hns-sponzorstva-adidas-uskok-tajni-ugovori-15748627",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/21/k_39374481_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO: Vatreni odradili prvi trening pod novim izbornikom, Bilić igračima predstavio novi stožer",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/bilicev-povratak-novi-stozer-engleske-upute-svjez-poceetak-vatreni-15748624",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/21/k_39637374_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Serie A objavila video Modrićeve genijalnosti: ‘Maestro‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/serie-a-objavila-modricev-video-maestro-u-pobijedi-milana-3-0-lecce-15748630",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/21/k_39604686_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Rijeka uzela Superkup u Omišu, junak Rafinha srušio Olmissum u posljednjoj minuti",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rijeka-osvojila-superkup-omis-rafinha-dva-gola-olmissum-3-2-15748636",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/21/k_38657586_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,18 +108,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Valentina Miletić o provokativnoj reklami Sydney Sweeney: ‘Vulgarno, ne bih to nikad napravila‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/valentina-miletic-reklama-sydney-sweeney-nije-o-zenskom-sportu-15748613",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/21/k_39039240_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "USKOK započeo izvide u HNS-u, evo što je na meti istražitelja. Oglasio se Savez",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/uskok-upao-u-hrvatski-nogometni-savez-15748540",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/09/21/k_39034001_640.jpg",
@@ -48,9 +120,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Renesansa hrvatskog prvoligaša: ‘Sve je u gradu živnulo, sam Bog nam je poslao ovog čovjeka‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/osijek-ostaje-bez-osmorice-ali-dobiva-buducnost-pod-bessoneovom-rukom-15748152",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/19/k_39583519_640.jpg",
+        "title": "Valentina Miletić o provokativnoj reklami Sydney Sweeney: ‘Vulgarno, ne bih to nikad napravila‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/valentina-miletic-reklama-sydney-sweeney-nije-o-zenskom-sportu-15748613",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/21/k_39039240_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -60,9 +132,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Majstori koji su ‘pregazili‘ Hajduk: Kek ima novu zvijezdu, ali i čovjeka koji donosi puno više od golova",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/majstori-koji-su-pregazili-hajduk-15748596",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/21/k_39630764_640.jpg",
+        "title": "Vatreni se skrasio gdje je to najmanje očekivao. Iduća meta - Davor Šuker",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/perisic-lovi-sukera-budimir-klub-100-la-lige-15748617",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/20/k_39168299_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -72,9 +144,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Luka Modrić je baština nogometa, trebalo bi ga zaštiti službenom deklaracijom UNESCO-a‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/ordine-brani-modrica-zaboravite-godine-gledajte-kako-nosi-milan-15748594",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/21/k_39633648_640.jpg",
+        "title": "Ogroman uspjeh Grabića! Dečko iz Dubrave osigurao medalju za Hrvatsku u napetom meču",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/ogroman-uspjeh-grabica-decko-iz-dubrave-osigurao-medalju-za-hrvatsku-nakon-izuzetno-napetog-meca-15748626",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/21/k_39637450_640.png",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,9 +156,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Novi šok za Hrvatsku! Dvostruki prvak Europe zaustavljen u osmini finala od opasnog Rusa!",
-        "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/novi-sok-za-hrvatsku-dvostruki-prvak-europe-zaustavljen-u-osmini-finala-od-opasnog-rusa-15748601",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/21/k_38793283_640.png",
+        "title": "Bivši kapetan Hajduka jasan: ‘Nije bilo fer, ali Marešić i Raci sami su krivi! Garcia ga je morao izvaditi‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/rijeka-3-0-hajduk-dantas-sporni-gol-derbi-analiza-15748324",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/20/k_39630762_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,7 +168,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Slijepi putnik‘ među kotačima autobusa španjolskog kluba",
+        "title": "‘Slijepi putnik‘ među kotačima autobusa španjolskog kluba Ilegalni imigrant iz Maroka iskoristio je priliku i nakon utakmice Segunde odigranoj u sjevernoafričkoj enklavi Ceuti dokopao se Pirinejskog poluotoka",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/maloljetni-migrant-ispod-autobusa-real-valladolida-otkriven-nakon-puta-iz-ceute-15748607",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/09/21/k_39629536_640.jpg",
         "w": 640,
@@ -156,81 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Bivši kapetan Hajduka jasan: ‘Nije bilo fer, ali Marešić i Raci sami su krivi! Garcia ga je morao izvaditi‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/hajduk/rijeka-3-0-hajduk-dantas-sporni-gol-derbi-analiza-15748324",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/20/k_39630762_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Stigao novi udarac, Nenad Bjelica sve bliže vrućoj stolici poljuljanog velikana Crveno-plavi su na svom St. Jakob-Park stadionu pred više od 28 tisuća gledatelja poraženi od St. Gallena 1:3",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/novi-posao-na-pomolu-nenad-bjelica-nakon-teskog-udarca-sve-blize-vrucoj-stolici-15748465",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/21/k_35935391_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Otkriveno što je Mišić rekao Kolariću prije isključenja?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/dinamo-lokomotiva-crveni-misic-beljo-dva-gola-derbi-bez-kapetana-15748404",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/21/k_39632786_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "VIDEO Rijeka se objavom narugala Hajduku, dovoljne su bile tri riječi",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rijeka-objavila-dantasov-sporni-gol-tek-iz-navike-podigla-tenzije-15748501",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/21/k_39631141_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Zvonimir Boban ne smije šutjeti, sada mora jasno i glasno zaštititi klub!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/zvonimir-boban-ne-smije-sutjeti-sada-mora-zastititi-klub-15748391",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/21/k_38673459_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Kad je vidio tko sjedi u loži, odmah je zaprijetio! Florentino Perez upao u ‘zamku‘ ljutog rivala",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/perez-eksplodirao-u-lozi-rijad-air-metropolitano-derbi-riqueleme-skandal-15748520",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/21/k_38901692_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Majstor Sopić okrenuo sve u svoju korist! Na pomolu uspjeh karijere, slijedi paklena završnica",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/sopic-kauno-zalgiris-vrh-dvostruka-kruna-finale-kupa-derbiji-15748397",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/21/k_39369968_640.jpg",
+        "title": "Na Maksimiru se sprema neviđena predstava: Dinamo igra dvaput u danu, ali ne na travnjaku",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/hrvatska-liga/dinamov-vikend-maksimir-kosarka-futsal-juzna-tribina-15748600",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/21/k_38237875_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
