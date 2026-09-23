@@ -1,13 +1,13 @@
 {
-  "created_at": "2026-09-23T17:30:20.574886+00:00",
+  "created_at": "2026-09-23T20:43:05.591022+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
     {
-      "title": "Službeno potvrđen kalendar Formule 1 za 2027. godinu",
-      "link": "https://www.gp1.hr/2026/09/sluzbeno-potvrden-kalendar-formule-1-za-2027-godinu/",
-      "author": "GP1_hr",
-      "published_at": "2026-09-16T09:31:46+00:00",
-      "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f5d3.png",
+      "title": "Povratak Hadjara i produljenje ugovora s Red Bullom",
+      "link": "https://www.gp1.hr/2026/09/povratak-hadjara-i-produljenje-ugovora-s-red-bullom/",
+      "author": "Igor Vukajlovic",
+      "published_at": "2026-09-23T19:56:03+00:00",
+      "image_url": "",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
@@ -73,6 +73,20 @@
       "flag": "🇭🇷"
     },
     {
+      "title": "Službeno potvrđen kalendar Formule 1 za 2027. godinu",
+      "link": "https://www.gp1.hr/2026/09/sluzbeno-potvrden-kalendar-formule-1-za-2027-godinu/",
+      "author": "GP1_hr",
+      "published_at": "2026-09-16T09:31:46+00:00",
+      "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f5d3.png",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
+    {
       "title": "11. Motorshow Poreč 2026: Bajerić ulovio prvu generalku",
       "link": "https://www.gp1.hr/2026/09/11-motorshow-porec-2026-bajeric-ulovio-prvu-generalku/",
       "author": "GP1_hr",
@@ -119,20 +133,6 @@
       "link": "https://www.gp1.hr/2026/09/norris-pobjednika-je-odlucilo-pravilo-koje-jednima-koristi-vise-nego-drugima/",
       "author": "GP1_hr",
       "published_at": "2026-09-14T11:20:05+00:00",
-      "image_url": "",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Verstappen: Da se nisam maknuo, došlo bi do kontakta s Hamiltonom",
-      "link": "https://www.gp1.hr/2026/09/verstappen-da-se-nisam-maknuo-doslo-bi-do-kontakta-s-hamiltonom/",
-      "author": "GP1_hr",
-      "published_at": "2026-09-14T11:08:13+00:00",
       "image_url": "",
       "w": 0,
       "h": 0,
