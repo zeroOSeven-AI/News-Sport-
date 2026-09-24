@@ -1,7 +1,21 @@
 {
-  "created_at": "2026-09-24T12:20:00.000066+00:00",
+  "created_at": "2026-09-24T17:35:24.499009+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
+    {
+      "title": "Mercedes dominirao i na drugom treningu: Russell najbrži u Bakuu",
+      "link": "https://www.gp1.hr/2026/09/mercedes-dominirao-i-na-drugom-treningu-russell-najbrzi-u-bakuu/",
+      "author": "Luka Tunjić",
+      "published_at": "2026-09-24T13:32:56+00:00",
+      "image_url": "https://www.gp1.hr/wp-content/uploads/2026/09/image-3.png",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
     {
       "title": "Prvi trening u Bakuu: Russell najbrži, Antonellija zaustavio kvar na bolidu",
       "link": "https://www.gp1.hr/2026/09/prvi-trening-u-bakuu-russell-najbrzi-antonellija-zaustavio-kvar-na-bolidu/",
@@ -120,20 +134,6 @@
       "author": "GP1_hr",
       "published_at": "2026-09-16T07:47:43+00:00",
       "image_url": "https://www.gp1.hr/wp-content/uploads/2026/09/KARLO-PELICAR-AK-Skok-racing-1993-snimio-M.Krpan_.jpg",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Vasseur: Da se dogodio još jedan incident u utrci, Leclerc bi pobijedio",
-      "link": "https://www.gp1.hr/2026/09/vasseur-da-se-dogodio-jos-jedan-incident-u-utrci-leclerc-bi-pobijedio/",
-      "author": "GP1_hr",
-      "published_at": "2026-09-15T06:33:37+00:00",
-      "image_url": "",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
