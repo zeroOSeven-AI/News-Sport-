@@ -12,6 +12,18 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Show nakon pobjede BiH: ‘Sramotan eksperiment, skinite dresove!; ‘Je li ovo Barcelona ili BiH?‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/rumunji-porucili-igracima-da-skinu-dresove-a-legenda-upitala-je-li-ovo-barcelona-ili-bih-15750847",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/28/k_39660908_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "VIDEO: Rapsodija Bosne i Hercegovine na vrućem gostovanju, Zmajevi razbili domaćina!",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/bih-rumunjska-liga-nacija-bukurest-gigovic-muharemovic-vodstvo-2-0-birligea-15750830",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/09/28/k_39683092_640.jpg",
@@ -84,33 +96,21 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "VIDEO Đoković dijelio autograme, a onda je pogođen u glavu. Pogledajte neugodnu scenu",
+        "link": "https://sportske.jutarnji.hr/sportske/tenis/atp-wta-turniri/djokovic-pogoden-kapom-u-pekingu-osiguranje-brzo-reagiralo-15750846",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/28/k_39438106_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Nekad Bilić Boysi, danas Old Boysi: Evo zašto senatorima nova Hrvatska savršeno odgovara",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/bilicev-povratak-modric-kovacic-i-perisic-nosili-hrvatsku-u-pragu-15750831",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/09/27/k_39668139_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Predložena sankcija za City: Evo kako bi Građani mogli biti kažnjeni",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/the-athletic-kazna-za-manchester-city-oduzimanje-bodova-3-5-sezona-15750834",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/28/k_39663367_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Španjolci najavljuju velike rotacije, ali najveća opasnost po Vatrene ipak igra od prve minute!",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/de-la-fuente-rotira-spanjolska-ozbiljno-protiv-hrvatske-u-sevilli-15750833",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/28/k_39667488_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -144,9 +144,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Bivši hrvatski reprezentativac se vratio kući: ‘Mogao bih potegnuti 40 minuta, ali kakvog bi to imalo smisla?‘",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/hrvatska-liga/kruslin-fizicki-sam-ok-mogao-bih-potegnuti-40-minuta-ali-kakvog-bi-to-imalo-smisla-15750803",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/28/k_35752137_640.jpg",
+        "title": "Predložena sankcija za City: Evo kako bi Građani mogli biti kažnjeni",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/the-athletic-kazna-za-manchester-city-oduzimanje-bodova-3-5-sezona-15750834",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/28/k_39663367_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -180,7 +180,31 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Evo zašto Slaven Bilić nije držao ruku na srcu tijekom hrvatske himne U Sevilli će držati ruku na srcu kao što je to činio na svakoj od 65 utakmica u kojima je vodio Vatrene",
+        "title": "Haaland ni kriv ni dužan završio usred skandala, izbornik bijesan: ‘To je laž, priča gluposti...‘ Norveški izbornik tvrdi da je sam odlučio da Haaland ne izađe pred novinare, odbacujući utjecaj Manchester Cityja",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/solbakken-odgovara-na-optuzbe-oko-haalandova-izostanka-city-nema-veze-15750817",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/28/k_39274109_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Mladi Vatreni u posljednjim trenucima poraženi od Francuza",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/mladi-vatreni-u-posljednjim-trenucima-porazeni-od-francuza-u-prijateljskoj-utakmici-15750815",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/28/k_38671931_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Evo zašto Slaven Bilić nije držao ruku na srcu tijekom hrvatske himne",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/bilic-objasnjava-zasto-nije-stavio-ruku-na-srce-u-pragu-i-najavljuje-ispravak-u-sevilli-15750698",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/09/28/k_39668053_640.jpg",
         "w": 640,
@@ -207,30 +231,6 @@
         "title": "Bolan udarac za slovenski nogomet: Kultni klub i višestruki prvak države otišao u stečaj",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/nd-gorica-stecaj-kraj-slavnog-kluba-nova-gorica-15750775",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/09/28/k_39680226_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "U Austriji ukraden helikopter, na nogama i vojska: ‘Danas ujutro viđen je u Hrvatskoj!‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/u-austriji-ukraden-helikopter-na-nogama-i-vojska-danas-ujutro-viden-je-u-hrvatskoj-15750678",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/28/k_39679026_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘On će obilježiti budućnost Vatrenih! Bilo bi lakše da je došao iz Dinama ili Hajduka, ali ovo je odjeknulo‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/on-ce-obiljeziti-buducnost-vatrenih-bilo-bi-mu-lakse-da-je-iz-dinama-ili-hajduka-ali-ovo-je-odjeknulo-15750654",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/09/28/k_39666549_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
