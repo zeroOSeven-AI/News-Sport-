@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-10-04T14:34:47.222235+00:00",
+  "created_at": "2026-10-04T18:25:21.868233+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
     {
@@ -8,6 +8,20 @@
       "author": "fermen",
       "published_at": "2026-10-04T10:21:04+00:00",
       "image_url": "https://www.gp1.hr/wp-content/uploads/2026/10/image-4.png",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
+    {
+      "title": "Russell: Već je pomalo smiješno",
+      "link": "https://www.gp1.hr/2026/10/russell-vec-je-pomalo-smijesno/",
+      "author": "Igor Vukajlovic",
+      "published_at": "2026-10-04T16:26:25+00:00",
+      "image_url": "",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
@@ -119,20 +133,6 @@
       "link": "https://www.gp1.hr/2026/09/autoslalom-na-brdskoj-stazi-sljeme-nenad-damarija-pobjedom-nadmasio-konkurente/",
       "author": "GP1_hr",
       "published_at": "2026-09-30T13:15:06+00:00",
-      "image_url": "",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Esteban Ocon službeno potvrdio odlazak iz Haasa na kraju sezone",
-      "link": "https://www.gp1.hr/2026/09/esteban-ocon-sluzbeno-potvrdio-odlazak-iz-haasa-na-kraju-sezone/",
-      "author": "GP1_hr",
-      "published_at": "2026-09-30T12:49:30+00:00",
       "image_url": "",
       "w": 0,
       "h": 0,
