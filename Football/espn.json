@@ -1,29 +1,5 @@
 [
     {
-        "title": "Everton put up for sale by Friedkin Group",
-        "link": "https://www.espn.com/soccer/story/_/id/50138355/everton-put-sale-friedkin-group",
-        "image_url": "https://a.espncdn.com/photo/2023/0915/r1224694_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Man City 'a disgrace; I would throw them out' - furious Ian Holloway",
-        "link": "https://www.espn.com/soccer/story/_/id/50138349/man-city-disgrace-throw-furious-ian-holloway",
-        "image_url": "https://a.espncdn.com/photo/2026/1009/r1728138_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
         "title": "Transfer rumors, news: Real Madrid eye McTominay as Napoli talks stall",
         "link": "https://www.espn.com/soccer/story/_/id/50138310/transfer-rumors-news-real-madrid-eye-mctominay-napoli-talks-stall",
         "image_url": "https://a.espncdn.com/photo/2026/0901/r1709929_1296x729_16-9.jpg",
@@ -36,9 +12,45 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Was epic Man City-Liverpool rivalry all a sham after cheating scandal?",
-        "link": "https://www.espn.com/soccer/story/_/id/50126359/was-epic-man-city-liverpool-rivalry-all-sham-cheating-scandal",
-        "image_url": "https://a.espncdn.com/photo/2026/1008/r1727969_1296x729_16-9.jpg",
+        "title": "Arsenal's Mikel Arteta: Premier League still best in the world despite Man City guilty verdict",
+        "link": "https://www.espn.com/soccer/story/_/id/50140445/arsenal-mikel-arteta-premier-league-best-world-man-city-guilty-verdict",
+        "image_url": "https://a.espncdn.com/photo/2026/0322/r1632364_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Man City charges: What managers said about scandal ahead of Premier League return",
+        "link": "https://www.espn.com/soccer/story/_/id/50130966/man-city-charges-managers-said-scandal-ahead-premier-league-return",
+        "image_url": "https://a.espncdn.com/photo/2018/0830/r423357_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Man City charges LIVE reaction: Latest updates as Arteta, Carrick, Iraola, Maresca speak",
+        "link": "https://www.espn.com/soccer/story/_/id/50138434/man-city-charges-live-reaction-latest-updates-arteta-carrick-iraola-maresca-speak",
+        "image_url": "https://a.espncdn.com/photo/2026/1009/r1728191_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Alexander Isak, Cody Gakpo out of Liverpool vs. Man City - Andoni Iraola",
+        "link": "https://www.espn.com/soccer/story/_/id/50139759/alexander-isak-cody-gakpo-liverpool-vs-man-city-andoni-iraola",
+        "image_url": "https://a.espncdn.com/photo/2026/0414/r1643606_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -60,9 +72,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Orlando Pirates vs. Mamelodi Sundowns - MTN8 final kick-off time, team news, how to watch",
-        "link": "https://www.espn.com/espn/story/_/id/50108636/orlando-pirates-vs-mamelodi-sundowns-mtn8-final-kick-team-news-how-watch",
-        "image_url": "https://a.espncdn.com/photo/2026/0806/r1698286_1296x729_16-9.png",
+        "title": "Barcelona's Flick confirms Raphinha out until Oct. 20 vs. PSG",
+        "link": "https://www.espn.com/soccer/story/_/id/50139412/barcelona-hansi-flick-confirms-raphinha-oct-20-psg-champions-league",
+        "image_url": "https://a.espncdn.com/photo/2026/0624/r1678704_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -72,9 +84,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Madagascar vs. South Africa - Kick-off time, team news, how to watch Banyana's Olympic qualifier",
-        "link": "https://www.espn.com/espn/story/_/id/50131175/madagascar-vs-south-africa-kick-team-news-how-watch-banyana-olympic-qualifier",
-        "image_url": "https://a.espncdn.com/photo/2026/0813/r1701443_1296x729_16-9.png",
+        "title": "Jamal Musiala will 'fight his way back' from injury - Bayern Munich boss Vincent Kompany",
+        "link": "https://www.espn.com/soccer/story/_/id/50139237/jamal-musiala-fight-way-back-injury-bayern-munich-boss-vincent-kompany",
+        "image_url": "https://a.espncdn.com/photo/2026/1009/r1728180_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -84,9 +96,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Thorns' Sophia Wilson banned extra game for hair pulling",
-        "link": "https://www.espn.com/soccer/story/_/id/50135476/thorns-sophia-wilson-banned-extra-game-hair-pulling",
-        "image_url": "https://a.espncdn.com/photo/2026/1008/r1728010_1296x729_16-9.jpg",
+        "title": "UEFA member nations call FIFA's international break a 'disaster'",
+        "link": "https://www.espn.com/soccer/story/_/id/50139079/uefa-member-nations-call-fifa-international-break-disaster",
+        "image_url": "https://a.espncdn.com/photo/2026/0721/r1691959_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -96,9 +108,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Chicago Stars sign Zambia star Racheal Kundananji from Bay FC",
-        "link": "https://www.espn.com/soccer/story/_/id/50135403/chicago-stars-racheal-kundananji-transfer-bay-fc-nwsl",
-        "image_url": "https://a.espncdn.com/photo/2026/1008/r1728002_1296x729_16-9.jpg",
+        "title": "Harry Kane contract talks with Bayern Munich 'very positive' - sporting director",
+        "link": "https://www.espn.com/soccer/story/_/id/50139069/harry-kane-bayern-munich-contract-sporting-director",
+        "image_url": "https://a.espncdn.com/photo/2026/1009/r1728172_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -108,9 +120,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Thunder's Gilegous-Alexander buys stake in Atlético Madrid",
-        "link": "https://www.espn.com/soccer/story/_/id/50134792/thunder-gilegous-alexander-buys-stake-atletico-madrid",
-        "image_url": "https://a.espncdn.com/photo/2026/0518/r1659754_1296x729_16-9.jpg",
+        "title": "Enzo Maresca: Man City titles not tainted by guilty verdict",
+        "link": "https://www.espn.com/soccer/story/_/id/50138770/enzo-maresca-joined-man-city-even-knew-guilty-verdict",
+        "image_url": "https://a.espncdn.com/photo/2026/0905/r1711867_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -120,9 +132,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Australia Cup final between South Melbourne, Victory about more than just a trophy",
-        "link": "https://www.espn.com/soccer/story/_/id/50119818/australia-cup-final-south-melbourne-victory-more-just-trophy",
-        "image_url": "https://a.espncdn.com/photo/2026/1008/r1727657_1295x729_16-9.png",
+        "title": "Sir Alex Ferguson names Roy Keane's 'finest game for Man United'",
+        "link": "https://www.espn.com/soccer/story/_/id/50138827/sir-alex-ferguson-roy-keane-man-united-champions-league-juventus-1999",
+        "image_url": "https://a.espncdn.com/photo/2026/1009/r1728152_1296x729_16-9.jpg",
         "w": 1295,
         "h": 729,
         "focus_y": 0.35,
@@ -132,9 +144,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Tottenham's Xavi Simons enrolls at Harvard Business School",
-        "link": "https://www.espn.com/soccer/story/_/id/50134572/tottenham-hotspur-xavi-simons-enrolls-student-harvard-business-school",
-        "image_url": "https://a.espncdn.com/photo/2026/1008/r1727956_1296x729_16-9.jpg",
+        "title": "Vincent Kompany 'proud' of Man City achievements despite guilty verdict over Premier League breaches",
+        "link": "https://www.espn.com/soccer/story/_/id/50138814/vincent-kompany-proud-man-city-achievements-guilty-verdict-premier-league-breaches",
+        "image_url": "https://a.espncdn.com/photo/2026/0926/r1721984_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -144,9 +156,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Mourinho jokes he'll be lucky to still be around when Man City case ends",
-        "link": "https://www.espn.com/soccer/story/_/id/50134523/jose-mourinho-manchester-city-charges-punishment-case",
-        "image_url": "https://a.espncdn.com/photo/2026/1008/r1727964_1296x729_16-9.jpg",
+        "title": "Michael Carrick on Man City: Retrospective medals can't replace 'moments'",
+        "link": "https://www.espn.com/soccer/story/_/id/50138792/michael-carrick-man-city-retrospective-medals-cant-replace-moments",
+        "image_url": "https://a.espncdn.com/photo/2026/1009/r1728228_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -156,21 +168,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Sources: Infantino reelection path clear as Montagliani plans Concacaf stay",
-        "link": "https://www.espn.com/soccer/story/_/id/50134141/fifa-president-gianni-infantino-victor-montagliani-concacaf",
-        "image_url": "https://a.espncdn.com/photo/2026/1008/r1727909_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "England mean business as they seek to avoid a Greek tragedy in World Cup playoff odyssey",
-        "link": "https://www.espn.com/soccer/story/_/id/50133604/england-vs-greece-business-tragedy-world-cup-playoff-odyssey-lionesses-sarina-wiegman",
-        "image_url": "https://a.espncdn.com/photo/2026/1008/r1727906_1296x729_16-9.jpg",
+        "title": "Kylian Mbappé to start for Real Madrid, criticism 'ridiculous' - José Mourinho",
+        "link": "https://www.espn.com/soccer/story/_/id/50138657/kylian-mbappe-start-real-madrid-criticism-ridiculous-jose-mourinho",
+        "image_url": "https://a.espncdn.com/photo/2026/1009/r1728145_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
