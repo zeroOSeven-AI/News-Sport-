@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-10-17T09:44:26.365626+00:00",
+  "created_at": "2026-10-17T13:17:08.804925+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
     {
@@ -8,6 +8,20 @@
       "author": "Igor Šestak",
       "published_at": "2026-10-17T08:44:48+00:00",
       "image_url": "",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
+    {
+      "title": "Dino Beganović postaje rezervni vozač Ferrarijeve F1 momčadi",
+      "link": "https://www.gp1.hr/2026/10/dino-beganovic-postaje-rezervni-vozac-ferrarijeve-f1-momcadi/",
+      "author": "Igor Šestak",
+      "published_at": "2026-10-17T10:23:38+00:00",
+      "image_url": "https://www.gp1.hr/wp-content/uploads/2026/10/01-scuderia-ferrari-abu-dhabi-test-2025-beganovic.jpg",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
@@ -119,20 +133,6 @@
       "link": "https://www.gp1.hr/2026/10/antonelliju-oprostena-kazna-zbog-problema-s-kocnicama/",
       "author": "Igor Vukajlovic",
       "published_at": "2026-10-13T20:24:21+00:00",
-      "image_url": "",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Formula 1 vraća se u Afriku",
-      "link": "https://www.gp1.hr/2026/10/formula-1-vraca-se-u-afriku/",
-      "author": "Igor Vukajlovic",
-      "published_at": "2026-10-13T20:15:32+00:00",
       "image_url": "",
       "w": 0,
       "h": 0,
