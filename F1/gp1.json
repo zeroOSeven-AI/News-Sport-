@@ -1,7 +1,21 @@
 {
-  "created_at": "2026-10-23T20:40:40.174500+00:00",
+  "created_at": "2026-10-23T23:35:02.029051+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
+    {
+      "title": "Leclerc najbrži na drugom treningu u Austinu!",
+      "link": "https://www.gp1.hr/2026/10/leclerc-najbrzi-na-drugom-treningu-u-austinu-2/",
+      "author": "fermen",
+      "published_at": "2026-10-23T21:55:31+00:00",
+      "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f440.png",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
     {
       "title": "Charles Leclerc otvorio vikend u Teksasu najbržim krugom prvog treninga",
       "link": "https://www.gp1.hr/2026/10/charles-leclerc-otvorio-vikend-u-teksasu-najbrzim-krugom-prvog-treninga/",
@@ -120,20 +134,6 @@
       "author": "Igor Šestak",
       "published_at": "2026-10-17T07:58:11+00:00",
       "image_url": "https://www.gp1.hr/wp-content/uploads/2026/10/2026-haas-rafael-camara-02.jpg",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Oktanski show spektakl „priko Krke“: Summit prvaka i rekordera",
-      "link": "https://www.gp1.hr/2026/10/oktanski-show-spektakl-priko-krke-summit-prvaka-i-rekordera/",
-      "author": "GP1_hr",
-      "published_at": "2026-10-16T13:25:00+00:00",
-      "image_url": "",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
