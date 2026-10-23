@@ -1,7 +1,21 @@
 {
-  "created_at": "2026-10-23T01:02:34.162948+00:00",
+  "created_at": "2026-10-23T06:35:57.215817+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
+    {
+      "title": "U Austinu počinje novi triple-header u Formuli 1, Antonelli na koračić od ispisivanja povijesti",
+      "link": "https://www.gp1.hr/2026/10/u-austinu-pocinje-novi-triple-header-u-formuli-1-antonelli-na-koracic-od-ispisivanja-povijesti/",
+      "author": "Igor Šestak",
+      "published_at": "2026-10-23T05:10:08+00:00",
+      "image_url": "https://www.gp1.hr/wp-content/uploads/2026/10/HUW0hubWYAAYY_T.jpeg",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
     {
       "title": "GP1 produžio partnerstvo za emitiranje MXGP-a do 2031. godine",
       "link": "https://www.gp1.hr/2026/10/gp1-produzio-partnerstvo-za-emitiranje-mxgp-a-do-2031-godine/",
@@ -119,20 +133,6 @@
       "link": "https://www.gp1.hr/2026/10/u-dubrovniku-zakljuceno-brdsko-prvenstvo-hrvatske-dimitrijevic-obranio-naslov/",
       "author": "GP1_hr",
       "published_at": "2026-10-15T15:37:00+00:00",
-      "image_url": "",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Rafael Câmara potpisao za Haas F1!",
-      "link": "https://www.gp1.hr/2026/10/rafael-camara-potpisao-za-haas-f1/",
-      "author": "Igor Vukajlovic",
-      "published_at": "2026-10-15T14:28:47+00:00",
       "image_url": "",
       "w": 0,
       "h": 0,
