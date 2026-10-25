@@ -1,5 +1,5 @@
 {
-  "created_at": "2026-10-25T14:35:51.081816+00:00",
+  "created_at": "2026-10-25T17:54:22.022195+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
     {
@@ -8,6 +8,20 @@
       "author": "Luka Tunjić",
       "published_at": "2026-10-24T22:05:00+00:00",
       "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f440.png",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
+    {
+      "title": "Verstappen traži obnovu staze u Austinu: Mora se postaviti kvalitetan temelj",
+      "link": "https://www.gp1.hr/2026/10/verstappen-trazi-obnovu-staze-u-austinu-morate-se-postaviti-kvalitetan-temelj/",
+      "author": "Igor Vukajlovic",
+      "published_at": "2026-10-25T16:16:42+00:00",
+      "image_url": "",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
@@ -120,20 +134,6 @@
       "author": "Igor Šestak",
       "published_at": "2026-10-18T06:54:59+00:00",
       "image_url": "",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "Dino Beganović postaje rezervni vozač Ferrarijeve F1 momčadi",
-      "link": "https://www.gp1.hr/2026/10/dino-beganovic-postaje-rezervni-vozac-ferrarijeve-f1-momcadi/",
-      "author": "Igor Šestak",
-      "published_at": "2026-10-17T10:23:38+00:00",
-      "image_url": "https://www.gp1.hr/wp-content/uploads/2026/10/01-scuderia-ferrari-abu-dhabi-test-2025-beganovic.jpg",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
