@@ -1,7 +1,21 @@
 {
-  "created_at": "2026-10-25T20:10:49.236089+00:00",
+  "created_at": "2026-10-25T22:50:26.493954+00:00",
   "created_by": "rss_gp1.py",
   "articles": [
+    {
+      "title": "Kimi Antonelli pobjednik utrke u Austinu!",
+      "link": "https://www.gp1.hr/2026/10/kimi-antonelli-pobjednik-utrke-u-austinu/",
+      "author": "Tomislav Radić",
+      "published_at": "2026-10-25T21:46:48+00:00",
+      "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/1f3c6.png",
+      "w": 0,
+      "h": 0,
+      "focus_y": 0.5,
+      "source_title1": "GP1",
+      "source_title2": "F1",
+      "source_color": "#FF0000",
+      "flag": "🇭🇷"
+    },
     {
       "title": "Verstappen traži obnovu staze u Austinu: Mora se postaviti kvalitetan temelj",
       "link": "https://www.gp1.hr/2026/10/verstappen-trazi-obnovu-staze-u-austinu-morate-se-postaviti-kvalitetan-temelj/",
@@ -120,20 +134,6 @@
       "author": "Igor Vukajlovic",
       "published_at": "2026-10-19T20:50:26+00:00",
       "image_url": "https://s.w.org/images/core/emoji/14.0.0/72x72/2b07.png",
-      "w": 0,
-      "h": 0,
-      "focus_y": 0.5,
-      "source_title1": "GP1",
-      "source_title2": "F1",
-      "source_color": "#FF0000",
-      "flag": "🇭🇷"
-    },
-    {
-      "title": "GTWC: Verstappen i njegov tim deveti u Portimau, pobjeda za GetSpeed",
-      "link": "https://www.gp1.hr/2026/10/gtwc-verstappen-i-njegov-tim-deveti-u-portimau-pobjeda-za-getspeed/",
-      "author": "Igor Šestak",
-      "published_at": "2026-10-18T06:54:59+00:00",
-      "image_url": "",
       "w": 0,
       "h": 0,
       "focus_y": 0.5,
