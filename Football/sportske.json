@@ -1,6 +1,30 @@
 [
     {
-        "title": "Slaven Bilić poslao novi popis Vatrenih Uefi, na njemu su tri nova imena i neke velike želje navijača? Bez Perišića i s deficitom po bokovima, izbornik razmatra mlada krila za Englesku i Češku",
+        "title": "UŽIVO/VIDEO Istra - Hajduk: GOOOL! Škarice presjekle Drosinu, Šego povećao vodstvo, Istra se vraća u život Utakmicu 11. kola SHNL-a između Istre 1961 i Hajduka pratimo i komentiramo iz minute u minutu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-istra-hajduk-ovo-je-vjerojatnih-11-hajduka-garcia-i-drustvo-u-lovu-na-petu-pobjedu-u-nizu-15759539",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/10/26/k_39849550_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "UŽIVO: Nevjerojatan gaf uoči dodjele Zlatne lopte, objavljena tri dobitnika! Organizator pokrenuo istragu",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-pratite-dodjelu-zlatne-lopte-neizvjesnost-nikad-veca-krenule-liste-ovo-je-cijeli-raspored-15759600",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/10/26/k_39849075_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Slaven Bilić poslao novi popis Vatrenih Uefi, na njemu su tri nova imena i neke velike želje navijača?",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/slaven-bilic-poslao-novi-popis-vatrenih-uefi-na-njemu-su-tri-nova-imena-i-neke-velike-zelje-navijaca-15759556",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/10/26/k_39739576_640.jpg",
         "w": 640,
@@ -12,9 +36,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "UŽIVO Istra - Hajduk: Stigli sastavi. Garcia s najjačom postavom, Istra kreće bez talentiranog dvojca",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/uzivo-istra-hajduk-ovo-je-vjerojatnih-11-hajduka-garcia-i-drustvo-u-lovu-na-petu-pobjedu-u-nizu-15759539",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/10/26/k_39779410_640.jpg",
+        "title": "‘Ovakav Real nismo vidjeli od Modrića. Mourinho je pogodio s jednim od najinteligentnijih igrača Europe‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/ovakav-real-nismo-vidjeli-od-modrica-mourinho-je-pogodio-s-jednim-od-najinteligentnijih-igraca-europe-15759594",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/10/26/k_39849083_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -24,9 +48,45 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Kek najavio derbi, pohvalio četiri dinamovca, ali i otkrio razlog za brigu: ‘Frukov problem se dugo vuče‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/kek-najavio-derbi-pohvalio-cetiri-dinamovca-ali-i-otkrio-razlog-za-brigu-frukov-problem-se-dugo-vuce-15759563",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/10/26/k_39809746_640.jpg",
+        "title": "VIDEO: Spektakularne škarice Hajdukova pojačanja! Pogledajte jedan od najljepših golova u HNL-u ove sezone",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/video-spektakularne-skarice-hajdukova-pojacanja-pogledajte-jedan-od-najljepsih-golova-u-hnl-u-ove-sezone-15759596",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/10/26/k_39849579_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Legendarni Željko Obradović prokomentirao Vučićev pad",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/legenadrni-zeljko-obradovic-i-ranije-je-podrzavao-studente-oglasio-se-nakon-vuciceva-pada-15759590",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/10/26/k_37661760_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Hrvatski golman primio rijetko viđen gol, ali svejedno završio u momčadi kola: ‘Hajduk? Lijepo‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-medjunarodni/lugano-pobijedio-thun-3-2-letica-najbolji-u-zurichu-basel-bez-gola-opet-zapinje-15759604",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/10/26/k_39812812_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Novi udarac za Barcu nakon poraza u El Clasicu, mlada zvijezda ‘out‘ do kraja godine",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/novi-udarac-za-barcu-nakon-poraza-u-el-clasicu-mlada-zvijezda-out-do-kraja-godine-15759581",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/10/26/k_39843615_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -60,6 +120,30 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Hrgović sasuo paljbu po svjetskim prvacima u teškoj: ‘Lažni prvaci, bila je to velika pljačka‘",
+        "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/hrgovic-sasuo-paljbu-po-svjetskim-prvacima-u-teskoj-lazni-prvaci-bila-je-to-velika-pljacka-15759591",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/10/26/k_39849506_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Kek najavio derbi, pohvalio četiri dinamovca, ali i otkrio razlog za brigu: ‘Frukov problem se dugo vuče‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/kek-najavio-derbi-pohvalio-cetiri-dinamovca-ali-i-otkrio-razlog-za-brigu-frukov-problem-se-dugo-vuce-15759563",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/10/26/k_39809746_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE",
+        "source_title2": "NOVOSTI",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Šampanjac može na hlađenje, a njegova reakcija nakon poraza mogla bi mu odlučiti ostatak karijere",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/automoto/formula1/sampanjac-moze-na-hladenje-a-njegova-reakcija-nakon-poraza-mogla-bi-mu-odluciti-ostatak-karijere-15759573",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/10/26/k_39848238_640.jpg",
@@ -72,9 +156,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Podijelio poruku nakon izbora i završio na udaru: ‘Žele državnu pomoć. Ja idem, vi se je*ite‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/podijelio-poruku-nakon-izbora-i-zavrsio-udaru-zele-drzavnu-pomoc-ja-idem-vi-se-j-ebite-15759547",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/10/26/k_39846926_640.jpg",
+        "title": "Hajduk ne može biti umoran, a Istra je baš ‘mušterija‘ ikone Bijelih, na Drosini je već utrpao sedam golova",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/istra1961/istra-1961-docekuje-hajduk-pred-punom-drosinom-forma-gostiju-defanzivni-izazovi-domacih-15759579",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/10/25/k_39502603_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -84,31 +168,7 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Kovačević će morati biti puno pametniji, a ovo što Dinamo radi nije dobar put‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/gimnastika/dinamo-vs-rijeka-kekovi-potezi-i-kovaceviceve-odluke-pred-derbi-15759530",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/10/26/k_39820995_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Od pakla rata do svjetskog postolja! Hrvatska senzacija ruši sve granice, evo koliko će od države dobiti za medalju",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/gimnastika/od-pakla-rata-do-svjetskog-postolja-hrvatska-senzacija-rusi-sve-granice-sva-djeca-zele-biti-poput-njega-15759513",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/10/26/k_39509842_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Vrijeme plavog bluesa: Kovačević je već jednom ovako izgubio tlo pod nogama, ali se izvukao iz škripca",
+        "title": "Vrijeme plavog bluesa: Kovačević je već jednom ovako izgubio tlo pod nogama, ali se izvukao iz škripca Bodovi osvojeni u međusobnim derbijima Dinama, Rijeke i Hajduka znali su u prošlosti utjecati na ishod šampionske borbe",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/rijeka/vrijeme-plavog-bluesa-kovacevic-je-vec-jednom-ovako-izgubio-tlo-pod-nogama-ali-se-izvukao-iz-skripca-15759524",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/10/23/k_39820989_640.jpg",
         "w": 640,
@@ -156,9 +216,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO: Dvije ozlijeđene zvijezde, poništen pogodak, a onda senzacija! Rudeš srušio Osijek na Opus Areni",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/uzivo-osijek-rudes-domacini-zele-prekinuti-niz-od-tri-utakmice-bez-pobjede-gosti-zele-pobjeci-s-dna-15759261",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/10/25/k_39842440_640.jpg",
+        "title": "To jako dugo dugo nismo vidjeli na Poljudu: Ovo je najveća razlika između starog i novog Garcijinog Hajduka",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/to-jako-dugo-dugo-nismo-vidjeli-na-poljudu-ovo-je-najveca-razlika-izmedu-starog-i-novog-garcijinog-hajduka-15759383",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/10/24/k_39779579_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -168,69 +228,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Brutalan lom noge šokirao je čak i gradonačelnika! Shai ostao bez svog ‘Pippena‘: ‘Strašno što mu se dogodilo...‘ Nakon što prošle sezone nije u doigravanju mogao pomoći momčadi u obrani naslova prvaka, Jalen Williams se teško ozlijedio u završnici utakmice s Clippersima",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/brutalan-lom-noge-sokirao-je-cak-i-gradonacelnika-shai-ostao-bez-svog-pippena-strasno-sto-mu-se-dogodilo-15759441",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/10/26/k_39846883_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Jose Mourinho je jednim detaljem iznenadio Flicka i Barcu, evo što je presudilo u sjajnom El Clasicu",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/jose-mourinho-je-jednim-detaljem-iznenadio-flicka-i-barcu-evo-sto-je-presudilo-u-sjajnom-el-clasicu-15759396",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/10/25/k_39844333_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Ima Boga!‘ Srpski sportaši slave pobjedu, objavljeno i gdje je bio Đoković kad je Vučić priznao poraz",
-        "link": "https://sportske.jutarnji.hr/sportske/tenis/atp-wta-turniri/ima-boga-srpski-sportasi-slave-pobjedu-objavljeno-i-gdje-je-bio-dokovic-kad-je-vucic-priznao-poraz-15759387",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/10/26/k_39847521_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Boban igra opasnu igru i gubi na dva fronta, a vrlo je važno što o svemu misli jedan drugi stručnjak iz Dinama",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/boban-igra-opasnu-igru-i-gubi-na-dva-fronta-a-vrlo-je-vazno-sto-o-svemu-misli-jedan-drugi-strucnjak-iz-dinama-15759348",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/10/25/k_36932411_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Slika na štakama nije dobra, ali hrvatski ‘iron man‘ iz Čitluka se uvijek vraća ranije od očekivanog",
-        "link": "https://sportske.jutarnji.hr/sportske/kosarka/kosarka-reprezentacija/slika-na-stakama-nije-dobra-ali-hrvatski-iron-man-iz-citluka-se-uvijek-vraca-ranije-od-ocekivanog-15759418",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/10/26/k_39783747_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE",
-        "source_title2": "NOVOSTI",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Ne znam kako sam uopće preživio. Mislio sam da ću prije postati astronaut nego rekorder‘",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/ostali-sportovi/ne-znam-kako-sam-uopce-prezivio-mislio-sam-da-cu-prije-postati-astronaut-nego-rekorder-15759371",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/10/24/k_39807724_640.jpg",
+        "title": "Osijek pretrpio još jedan udarac na Opus Areni, trener otkrio: ‘Pao je na glavu. Osjećao je mučninu...‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/osijek/osijek-pretrpio-jos-jedan-udarac-na-opus-areni-trener-otkrio-pao-je-na-glavu-osjecao-je-mucninu-15759458",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/10/26/k_39841443_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
