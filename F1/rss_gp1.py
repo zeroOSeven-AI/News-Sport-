@@ -1,204 +1,448 @@
+
 import asyncio
-import io
 import json
 import logging
 import re
 from datetime import datetime, timezone
-from typing import Optional, Dict, Any, List
+from email.utils import parsedate_to_datetime
+from html import unescape
+from io import BytesIO
+from pathlib import Path
+from typing import Any, Dict, List, Optional
 
 import feedparser
 import httpx
-from email.utils import parsedate_to_datetime
+from bs4 import BeautifulSoup
 from PIL import Image, ImageFile
+
+# ==========================================
+# CONFIG — GP1
+# ==========================================
 
 START_URL = "https://www.gp1.hr/feed/"
 
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s - %(levelname)s - %(message)s"
+OUTPUT_FILE = Path("F1/gp1.json")
+
+MIN_IMAGE_WEIGHT_BYTES = 30000
+MIN_IMAGE_WIDTH_PX = 400
+MAX_NEWS_ITEMS = 20
+CONCURRENT_TASKS = 5
+
+USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/120 Safari/537.36"
 )
 
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s",
+)
 
-# ----------------------------
-# DATE PARSER (PY3.9 SAFE)
-# ----------------------------
+# ==========================================
+# DATE PARSER
+# ==========================================
+
 def to_iso(date_str: Optional[str]) -> Optional[str]:
     if not date_str:
         return None
+
     try:
         return parsedate_to_datetime(date_str).isoformat()
     except Exception:
+        try:
+            dt = datetime.fromisoformat(
+                date_str.replace("Z", "+00:00")
+            )
+            return dt.isoformat()
+        except Exception:
+            return None
+
+
+# ==========================================
+# TEXT CLEANUP
+# ==========================================
+
+def clean_text(value: Any) -> Optional[str]:
+    if not value:
         return None
 
+    if isinstance(value, list):
+        value = " ".join(str(item) for item in value)
 
-# ----------------------------
-# IMAGE EXTRACTION & CLEANUP
-# ----------------------------
-def extract_image(entry: Dict[str, Any]) -> str:
+    text = BeautifulSoup(str(value), "html.parser").get_text(
+        " ", strip=True
+    )
+    text = unescape(text)
+    text = re.sub(r"\s+", " ", text).strip()
+
+    return text or None
+
+
+# ==========================================
+# IMAGE FOCUS — SAME AS F1
+# ==========================================
+
+def get_focus_y(w: int, h: int) -> float:
+    if h <= 0:
+        return 0.5
+
+    ratio = round(w / h, 2)
+
+    if ratio >= 1.6:
+        return 0.35
+
+    if 0.9 <= ratio <= 1.1:
+        return 0.25
+
+    return 0.5
+
+
+# ==========================================
+# IMAGE EXTRACTION
+# ==========================================
+
+def extract_image(entry: Dict[str, Any]) -> Optional[str]:
     img_url = ""
-    
-    # 1. Standard RSS fields
+
+    # 1. Media RSS
     media = entry.get("media_content")
-    if media and isinstance(media, list) and "url" in media[0]:
-        img_url = media[0]["url"]
-    else:
-        thumb = entry.get("media_thumbnail")
-        if thumb and isinstance(thumb, list) and "url" in thumb[0]:
-            img_url = thumb[0]["url"]
-        else:
-            enclosures = entry.get("enclosures")
-            if enclosures and isinstance(enclosures, list) and "href" in enclosures[0]:
-                img_url = enclosures[0]["href"]
 
-    # 2. WordPress Fallback: Extract from content or description
+    if isinstance(media, list):
+        for item in media:
+            if isinstance(item, dict) and item.get("url"):
+                img_url = item["url"]
+                break
+
+    # 2. Thumbnail
     if not img_url:
-        content_encoded = ""
-        if "content" in entry and isinstance(entry["content"], list) and len(entry["content"]) > 0:
-            content_encoded = entry["content"][0].get("value", "")
-            
+        thumbnails = entry.get("media_thumbnail")
+
+        if isinstance(thumbnails, list):
+            for item in thumbnails:
+                if isinstance(item, dict) and item.get("url"):
+                    img_url = item["url"]
+                    break
+
+    # 3. Enclosures
+    if not img_url:
+        enclosures = entry.get("enclosures")
+
+        if isinstance(enclosures, list):
+            for item in enclosures:
+                if not isinstance(item, dict):
+                    continue
+
+                candidate = item.get("href") or item.get("url")
+                mime = item.get("type", "")
+
+                if candidate and (
+                    mime.startswith("image/")
+                    or re.search(
+                        r"\.(jpg|jpeg|png|webp|avif)(?:\?|$)",
+                        candidate,
+                        re.IGNORECASE,
+                    )
+                ):
+                    img_url = candidate
+                    break
+
+    # 4. WordPress content / description
+    if not img_url:
+        content_parts = entry.get("content", [])
         description = entry.get("description", "")
-        search_text = f"{content_encoded} {description}"
+        summary = entry.get("summary", "")
 
-        if search_text.strip():
-            match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', search_text)
-            if match:
-                img_url = match.group(1)
+        content_html = ""
 
-    # 3. Clean WordPress image dimensions to get the ORIGINAL image
+        if isinstance(content_parts, list):
+            for item in content_parts:
+                if isinstance(item, dict):
+                    content_html += " " + item.get("value", "")
+
+        search_text = (
+            content_html + " " + str(description) + " " + str(summary)
+        )
+
+        soup = BeautifulSoup(search_text, "html.parser")
+        image = soup.find("img")
+
+        if image:
+            img_url = (
+                image.get("src")
+                or image.get("data-src")
+                or image.get("data-lazy-src")
+                or ""
+            )
+
+            if not img_url:
+                srcset = image.get("srcset", "")
+                if srcset:
+                    img_url = srcset.split(",")[0].strip().split(" ")[0]
+
+    # 5. Remove WordPress thumbnail dimensions
     if img_url:
-        img_url = re.sub(r'-\d+x\d+(?=\.[a-zA-Z]+$)', '', img_url)
+        img_url = re.sub(
+            r"-\d+x\d+(?=\.(?:jpg|jpeg|png|webp|avif)(?:\?|$))",
+            "",
+            img_url,
+            flags=re.IGNORECASE,
+        )
+
+    if not img_url.startswith(("http://", "https://")):
+        return None
+
+    if "1x1" in img_url.lower() or "placeholder" in img_url.lower():
+        return None
 
     return img_url
 
 
-# ----------------------------
-# ASYNC IMAGE DIMENSIONS FETCH
-# ----------------------------
-async def get_image_dimensions(client: httpx.AsyncClient, url: str) -> tuple[int, int]:
+# ==========================================
+# IMAGE VALIDATION — SAME RULES AS F1
+# ==========================================
+
+async def get_image_info_async(
+    client: httpx.AsyncClient,
+    url: Optional[str],
+) -> Optional[Dict[str, Any]]:
+
     if not url:
-        return 0, 0
+        return None
+
     try:
-        async with client.stream("GET", url) as response:
-            if response.status_code != 200:
-                return 0, 0
-            
-            p = ImageFile.Parser()
-            async for chunk in response.iter_bytes(chunk_size=1024):
-                p.feed(chunk)
-                if p.image:
-                    return p.image.size  # (width, height)
-                if len(p.data) > 32768:  # 32KB protection guard
-                    break
-    except Exception as e:
-        logging.warning(f"Error fetching dimensions for {url}: {e}")
-    return 0, 0
+        response = await client.get(url)
+        response.raise_for_status()
 
+        content = response.content
 
-# ----------------------------
-# FETCH RSS WITH SAFETY HEADERS
-# ----------------------------
-async def fetch_feed() -> Any:
-    headers = {
-        "User-Agent": (
-            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-            "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36"
-        ),
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,application/rss+xml;q=0.8,*/*;q=0.8",
-        "Accept-Language": "en-US,en;q=0.5"
-    }
+        # Minimum image file size
+        if len(content) < MIN_IMAGE_WEIGHT_BYTES:
+            return None
 
-    async with httpx.AsyncClient(
-        timeout=20,
-        headers=headers,
-        follow_redirects=True
-    ) as client:
-        r = await client.get(START_URL)
+        # Validate actual image data
+        ImageFile.LOAD_TRUNCATED_IMAGES = False
 
-    logging.info(f"FEED STATUS: {r.status_code}")
-    logging.info(f"FEED SIZE: {len(r.content)} bytes")
+        with Image.open(BytesIO(content)) as img:
+            img.verify()
 
-    content_type = r.headers.get("content-type", "").lower()
-    if "xml" not in content_type and "rss" not in content_type:
-        logging.error("❌ NOT RSS FEED (likely blocked or HTML response)")
-        return feedparser.parse(b"")
+        with Image.open(BytesIO(content)) as img:
+            w, h = img.size
 
-    return feedparser.parse(r.content)
+        if w < MIN_IMAGE_WIDTH_PX or h <= 0:
+            return None
 
-
-# ----------------------------
-# PROCESS ENTRY
-# ----------------------------
-async def process(entry: Dict[str, Any], client: httpx.AsyncClient) -> Dict[str, Any]:
-    image_url = extract_image(entry)
-    
-    width, height = 0, 0
-    if image_url:
-        try:
-            width, height = await get_image_dimensions(client, image_url)
-        except Exception:
-            pass
-
-    return {
-        "title": entry.get("title", ""),
-        "link": entry.get("link", ""),
-        "author": entry.get("author", ""),
-        "published_at": to_iso(entry.get("published") or entry.get("updated")),
-        "image_url": image_url,
-        "w": width,
-        "h": height,
-        "focus_y": 0.5,
-        "source_title1": "GP1",
-        "source_title2": "F1",
-        "source_color": "#FF0000",
-        "flag": "🇭🇷"
-    }
-
-
-# ----------------------------
-# MAIN RUN
-# ----------------------------
-async def run():
-    feed = await fetch_feed()
-    entries = getattr(feed, "entries", [])
-
-    logging.info(f"FEED ITEMS: {len(entries)}")
-
-    if not entries:
-        logging.error("❌ FEED EMPTY - blocked or invalid RSS")
-        output = {
-            "created_at": datetime.now(timezone.utc).isoformat(),
-            "created_by": "rss_gp1.py",
-            "articles": []
+        return {
+            "url": url,
+            "w": w,
+            "h": h,
+            "focus_y": get_focus_y(w, h),
         }
 
-        with open("F1/gp1.json", "w", encoding="utf-8") as f:
-            json.dump(output, f, ensure_ascii=False, indent=2)
+    except Exception as e:
+        logging.debug("Image rejected (%s): %s", url, e)
+        return None
 
-        print("OK: 0 articles (EMPTY FEED)")
-        return
 
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-    }
-    async with httpx.AsyncClient(timeout=10, headers=headers, follow_redirects=True) as client:
-        articles: List[Dict[str, Any]] = await asyncio.gather(
-            *[process(e, client) for e in entries]
+# ==========================================
+# FETCH RSS
+# ==========================================
+
+async def fetch_feed(client: httpx.AsyncClient) -> Any:
+    response = await client.get(START_URL)
+
+    logging.info("FEED STATUS: %s", response.status_code)
+    logging.info("FEED SIZE: %s bytes", len(response.content))
+
+    response.raise_for_status()
+
+    feed = feedparser.parse(response.content)
+
+    if getattr(feed, "bozo", False):
+        logging.warning(
+            "RSS parsing warning: %s",
+            getattr(feed, "bozo_exception", "Unknown error"),
         )
 
-    output = {
-        "created_at": datetime.now(timezone.utc).isoformat(),
-        "created_by": "rss_gp1.py",
-        "articles": articles
+    return feed
+
+
+# ==========================================
+# PROCESS SINGLE ARTICLE
+# ==========================================
+
+async def process(
+    entry: Dict[str, Any],
+    client: httpx.AsyncClient,
+    semaphore: asyncio.Semaphore,
+) -> Optional[Dict[str, Any]]:
+
+    async with semaphore:
+        title = clean_text(entry.get("title"))
+        link = entry.get("link", "")
+
+        if not title or not link:
+            return None
+
+        logging.info("Processing GP1: %s", title[:60])
+
+        image_url = extract_image(entry)
+
+        image_info = await get_image_info_async(
+            client,
+            image_url,
+        )
+
+        # Match F1 behavior: skip articles without valid images
+        if not image_info:
+            logging.info("Image rejected or missing: %s", title[:50])
+            return None
+
+        content_parts = entry.get("content", [])
+        content_html = ""
+
+        if isinstance(content_parts, list):
+            for item in content_parts:
+                if isinstance(item, dict):
+                    content_html += " " + item.get("value", "")
+
+        description = (
+            clean_text(entry.get("description"))
+            or clean_text(entry.get("summary"))
+            or clean_text(content_html)
+        )
+
+        author = clean_text(entry.get("author"))
+
+        if not author:
+            authors = entry.get("authors", [])
+
+            if isinstance(authors, list) and authors:
+                first_author = authors[0]
+
+                if isinstance(first_author, dict):
+                    author = clean_text(first_author.get("name"))
+
+        published_at = to_iso(
+            entry.get("published")
+            or entry.get("updated")
+            or entry.get("created")
+        )
+
+        # Exact shared schema used by the F1 app
+        return {
+            "title": title,
+            "link": link,
+
+            "image_url": image_info["url"],
+            "w": image_info["w"],
+            "h": image_info["h"],
+            "focus_y": image_info["focus_y"],
+
+            "published_at": published_at,
+            "author": author,
+            "description": description,
+
+            "source_title1": "GP1",
+            "source_title2": "F1",
+            "source_color": "#FF0000",
+            "flag": "🇭🇷",
+        }
+
+
+# ==========================================
+# SAVE JSON — SAME STRUCTURE AS F1
+# ==========================================
+
+def save_json(articles: List[Dict[str, Any]]) -> None:
+    OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
+
+    with OUTPUT_FILE.open("w", encoding="utf-8") as file:
+        json.dump(
+            articles,
+            file,
+            ensure_ascii=False,
+            indent=4,
+        )
+
+    logging.info(
+        "Saved %s articles to %s",
+        len(articles),
+        OUTPUT_FILE,
+    )
+
+
+# ==========================================
+# MAIN PIPELINE
+# ==========================================
+
+async def run() -> None:
+    logging.info("Starting GP1 RSS pipeline...")
+
+    headers = {
+        "User-Agent": USER_AGENT,
+        "Accept": (
+            "application/rss+xml, application/xml, "
+            "text/xml, text/html, */*"
+        ),
+        "Accept-Language": "hr-HR,hr;q=0.9,en;q=0.8",
     }
 
-    with open("F1/gp1.json", "w", encoding="utf-8") as f:
-        json.dump(output, f, ensure_ascii=False, indent=2)
+    timeout = httpx.Timeout(20.0, connect=10.0)
 
-    print(f"OK: {len(articles)} articles")
+    async with httpx.AsyncClient(
+        timeout=timeout,
+        headers=headers,
+        follow_redirects=True,
+    ) as client:
+
+        try:
+            feed = await fetch_feed(client)
+        except Exception as e:
+            logging.error("Unable to fetch GP1 RSS: %s", e)
+            return
+
+        entries = list(getattr(feed, "entries", []))
+
+        logging.info("RSS ITEMS: %s", len(entries))
+
+        if not entries:
+            logging.warning(
+                "RSS feed is empty. Existing JSON file was not overwritten."
+            )
+            return
+
+        semaphore = asyncio.Semaphore(CONCURRENT_TASKS)
+
+        selected_entries = entries[:MAX_NEWS_ITEMS]
+
+        results = await asyncio.gather(
+            *[
+                process(entry, client, semaphore)
+                for entry in selected_entries
+            ],
+            return_exceptions=True,
+        )
+
+        articles: List[Dict[str, Any]] = []
+
+        for result in results:
+            if isinstance(result, Exception):
+                logging.error("Article processing failed: %s", result)
+            elif result:
+                articles.append(result)
+
+        save_json(articles)
+
+        logging.info(
+            "GP1 pipeline finished: %s valid articles",
+            len(articles),
+        )
 
 
-# ----------------------------
+# ==========================================
 # ENTRYPOINT
-# ----------------------------
+# ==========================================
+
 if __name__ == "__main__":
     asyncio.run(run())
