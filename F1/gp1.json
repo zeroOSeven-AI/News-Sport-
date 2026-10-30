@@ -1,20 +1,5 @@
 [
     {
-        "title": "Sergio Perez produljio ugovor s Cadillacom",
-        "link": "https://www.gp1.hr/2026/10/sergio-perez-produljio-ugovor-s-cadillacom/",
-        "image_url": "https://www.gp1.hr/wp-content/uploads/2026/10/CadillacF1Team_2026_perez.png",
-        "w": 2560,
-        "h": 1707,
-        "focus_y": 0.5,
-        "published_at": "2026-10-28T15:13:40+00:00",
-        "author": "GP1",
-        "description": "Sergio Perez produžio je ugovor s momčadi Cadillac Formula 1 Team, čime je osigurao ostanak u američkoj momčadi… Objava Sergio Perez produljio ugovor s Cadillacom pojavila se prvi puta na GP1.hr | Najbrži hrvatski F1 portal .",
-        "source_title1": "GP1",
-        "source_title2": "F1",
-        "source_color": "#FF0000",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Mekies: Neke probleme ne možemo riješiti ove sezone",
         "link": "https://www.gp1.hr/2026/10/mekies-neke-probleme-ne-mozemo-rijesiti-ove-sezone/",
         "image_url": "https://www.gp1.hr/wp-content/uploads/2026/09/2026-italy-monza-red-bull-verstappen.jpg",
@@ -24,6 +9,21 @@
         "published_at": "2026-10-28T15:35:00+00:00",
         "author": "Igor Vukajlovic",
         "description": "Nakon Velike nagrade SAD-a, Isack Hadjar poručio je da Red Bull može riješiti najteže probleme u Formuli 1,… Objava Mekies: Neke probleme ne možemo riješiti ove sezone pojavila se prvi puta na GP1.hr | Najbrži hrvatski F1 portal .",
+        "source_title1": "GP1",
+        "source_title2": "F1",
+        "source_color": "#FF0000",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Sergio Perez produljio ugovor s Cadillacom",
+        "link": "https://www.gp1.hr/2026/10/sergio-perez-produljio-ugovor-s-cadillacom/",
+        "image_url": "https://www.gp1.hr/wp-content/uploads/2026/10/CadillacF1Team_2026_perez.png",
+        "w": 2560,
+        "h": 1707,
+        "focus_y": 0.5,
+        "published_at": "2026-10-28T15:13:40+00:00",
+        "author": "GP1",
+        "description": "Sergio Perez produžio je ugovor s momčadi Cadillac Formula 1 Team, čime je osigurao ostanak u američkoj momčadi… Objava Sergio Perez produljio ugovor s Cadillacom pojavila se prvi puta na GP1.hr | Najbrži hrvatski F1 portal .",
         "source_title1": "GP1",
         "source_title2": "F1",
         "source_color": "#FF0000",
