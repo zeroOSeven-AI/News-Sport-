@@ -1,8 +1,8 @@
 [
     {
-        "title": "Premier League live updates: Chelsea host Man United in early matchup",
+        "title": "Premier League live updates: Chelsea punish wasteful Man United, City fall to Brighton",
         "link": "https://www.espn.com/soccer/story/_/id/50319491/premier-league-live-updates-chelsea-manchester-united-manchester-city-tottenham",
-        "image_url": "https://a.espncdn.com/photo/2026/1031/r1738906_1296x729_16-9.jpg",
+        "image_url": "https://a.espncdn.com/photo/2026/1031/r1739017_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -12,8 +12,80 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Soweto Derby - Orlando Pirates vs. Kaizer Chiefs LIVE as it happens",
-        "link": "https://www.espn.com/espn/story/_/id/50334846/soweto-derby-orlando-pirates-vs-kaizer-chiefs-live-happens",
+        "title": "Nuno Espírito Santo under pressure as West Brom down West Ham",
+        "link": "https://www.espn.com/soccer/story/_/id/50337348/nuno-espirito-santo-pressure-west-brom-west-ham",
+        "image_url": "https://a.espncdn.com/photo/2026/1031/r1739004_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Coventry out of relegation zone after stunning Sunderland win",
+        "link": "http://www.espn.com/soccer/report/_/gameId/401879247",
+        "image_url": "https://a.espncdn.com/photo/2026/1031/r1738967_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Julio Enciso salvages a point for Ipswich Town at Hull City",
+        "link": "http://www.espn.com/soccer/report/_/gameId/401878763",
+        "image_url": "https://a.espncdn.com/photo/2026/1031/r1738992_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Bournemouth run continues as James Trafford error costs Leeds",
+        "link": "http://www.espn.com/soccer/report/_/gameId/401879251",
+        "image_url": "https://a.espncdn.com/photo/2026/1031/r1738974_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Brentford crank up pressure on Oliver Glasner with 2-0 win over Nottingham Forest",
+        "link": "http://www.espn.com/soccer/report/_/gameId/401879249",
+        "image_url": "https://a.espncdn.com/photo/2026/1031/r1738984_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "In-form Brighton inflict back-to-back defeats on Man City",
+        "link": "http://www.espn.com/soccer/report/_/gameId/401879245",
+        "image_url": "https://a.espncdn.com/photo/2026/1031/r1738989_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Soweto Derby - Orlando Pirates go top with win over Kaizer Chiefs, as it happened",
+        "link": "https://www.espn.com/espn/story/_/id/50334846/soweto-derby-orlando-pirates-go-top-win-kaizer-chiefs-happened",
         "image_url": "https://a.espncdn.com/photo/2026/1031/r1738880_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
@@ -24,9 +96,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Premier League VAR review: Why was Matheus Cunha's goal disallowed vs. Chelsea?",
-        "link": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
-        "image_url": "https://a.espncdn.com/photo/2026/1031/r1738892_1296x729_16-9.jpg",
+        "title": "Man United implode at Chelsea; they are now in Premier League relegation battle",
+        "link": "https://www.espn.com/soccer/story/_/id/50335264/man-united-implode-chelsea-in-premier-league-relegation-battle",
+        "image_url": "https://a.espncdn.com/photo/2026/1031/r1738924_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -36,9 +108,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Jamie Carragher apologises for 'clumsy' Aston Villa comments after club threaten legal action",
-        "link": "https://www.espn.com/soccer/story/_/id/50335489/jamie-carragher-apologises-aston-villa-club-threaten-legal-action",
-        "image_url": "https://a.espncdn.com/photo/2026/1031/r1738894_1296x729_16-9.jpg",
+        "title": "Man United's Michael Carrick brushes off talk of Premier League relegation battle",
+        "link": "https://www.espn.com/soccer/story/_/id/50336265/man-united-michael-carrick-brushes-talk-premier-league-relegation-battle",
+        "image_url": "https://a.espncdn.com/photo/2026/1031/r1738954_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -60,9 +132,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Transfer rumors, news: Man United to replace Fernandes with Fermin?",
-        "link": "https://www.espn.com/soccer/story/_/id/50334181/transfer-rumors-news-man-united-replace-bruno-fernandes-fermin-lopez",
-        "image_url": "https://a.espncdn.com/photo/2026/0823/r1706005_1296x729_16-9.jpg",
+        "title": "Michael Carrick on the brink as Man United lose at Chelsea",
+        "link": "http://www.espn.com/soccer/report/_/gameId/401879248",
+        "image_url": "https://a.espncdn.com/photo/2026/1031/r1738937_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -72,9 +144,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Aston Villa to take legal action against Jamie Carragher over podcast comments",
-        "link": "https://www.espn.com/soccer/story/_/id/50334364/aston-villa-take-legal-action-jamie-carragher-podcast-comments",
-        "image_url": "https://a.espncdn.com/photo/2026/1031/r1738869_1296x729_16-9.jpg",
+        "title": "Pressure piles on Michael Carrick as 10-man Man United lose at Chelsea",
+        "link": "https://www.espn.com/soccer/story/_/id/50335664/pressure-piles-michael-carrick-10-man-man-united-lose-chelsea-report",
+        "image_url": "https://a.espncdn.com/photo/2026/1031/r1738928_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -84,9 +156,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Spooky scheduling: How MLS ensures fans, players don't have horror Halloween",
-        "link": "https://www.espn.com/soccer/story/_/id/50328963/spooky-scheduling-how-mls-ensures-fans-players-dont-horror-halloween",
-        "image_url": "https://a.espncdn.com/photo/2026/1030/r1738627_1296x729_16-9.jpg",
+        "title": "Premier League VAR review: Did Lisandro Martinez deserve a red card?",
+        "link": "https://www.espn.com/soccer/story/_/id/49703019/premier-league-var-review-red-card-penalty-handball-goal-line-technology",
+        "image_url": "https://a.espncdn.com/photo/2026/1031/r1738915_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -96,81 +168,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Everything at stake for NWSL Decision Day: Shield, playoff spots, hosting and more",
-        "link": "https://www.espn.com/soccer/story/_/id/50333071/everything-stake-2026-nwsl-decision-day-shield-playoff-spots-hosting-more",
-        "image_url": "https://a.espncdn.com/photo/2026/1031/r1738846_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Andrey Santos names Man United player who impressed him in Chelsea clash",
-        "link": "https://www.espn.com/soccer/story/_/id/50327080/andrey-santos-names-man-united-player-impressed-chelsea-clash",
-        "image_url": "https://a.espncdn.com/photo/2026/1030/r1738501_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Source: FIFA aims to double Women's World Cup prize money, but equal pay remains out of reach",
-        "link": "https://www.espn.com/soccer/story/_/id/50333111/fifa-double-women-world-cup-prize-money-equal-pay",
-        "image_url": "https://a.espncdn.com/photo/2026/1031/r1738834_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Halloween 2026: Breaking down top athlete costumes from across the sports world",
-        "link": "https://www.espn.com/nba/story/_/id/50321862/halloween-athlete-costumes-2026",
-        "image_url": "https://a.espncdn.com/photo/2026/1031/r1738784_1296x729_16-9.png",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Michael Carrick: 'Hard truths' have been shared amid Man United slump",
-        "link": "https://www.espn.com/soccer/story/_/id/50329748/man-united-michael-carrick-coach-players-talks",
-        "image_url": "https://a.espncdn.com/photo/2026/1030/r1738651_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Struggling Wrexham beaten by Sheffield United",
-        "link": "http://www.espn.com/soccer/report/_/gameId/401880190",
-        "image_url": "https://a.espncdn.com/photo/2026/1030/r1738737_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Achraf Hakimi scores 1st career hat trick as Luis Enrique makes PSG history",
-        "link": "https://www.espn.com/soccer/story/_/id/50330654/psg-achraf-hakimi-hat-trick-luis-enrique-wins-record-le-havre",
-        "image_url": "https://a.espncdn.com/photo/2026/1030/r1738690_1296x729_16-9.jpg",
+        "title": "Jamie Carragher apologises for 'clumsy' Aston Villa comments after club threaten legal action",
+        "link": "https://www.espn.com/soccer/story/_/id/50335489/jamie-carragher-apologises-aston-villa-club-threaten-legal-action",
+        "image_url": "https://a.espncdn.com/photo/2026/1031/r1738894_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
