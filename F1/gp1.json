@@ -1,20 +1,5 @@
 [
     {
-        "title": "Lewis Hamilton na pole positionu u Meksiku!",
-        "link": "https://www.gp1.hr/2026/10/lewis-hamilton-na-pole-positionu-u-meksiku/",
-        "image_url": "https://www.gp1.hr/wp-content/uploads/2026/10/mexico-2026-kvale.jpg",
-        "w": 2301,
-        "h": 1649,
-        "focus_y": 0.5,
-        "published_at": "2026-10-31T22:18:51+00:00",
-        "author": "Tomislav Radić",
-        "description": "Ključne kvalifikacije u borbi za naslov prvaka su održane večeras po našem vremenu u Meksiku za VN Mexico… Objava Lewis Hamilton na pole positionu u Meksiku! pojavila se prvi puta na GP1.hr | Najbrži hrvatski F1 portal .",
-        "source_title1": "GP1",
-        "source_title2": "F1",
-        "source_color": "#FF0000",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Vasseur: Hamiltonova najveća prednost bila je u upravljanju gumama",
         "link": "https://www.gp1.hr/2026/11/vasseur-hamiltonova-najveca-prednost-bila-je-u-upravljanju-gumama/",
         "image_url": "https://www.gp1.hr/wp-content/uploads/2026/07/Hamilton-madarska.jpg",
@@ -39,6 +24,21 @@
         "published_at": "2026-11-01T10:57:08+00:00",
         "author": "Igor Vukajlovic",
         "description": "Liam Lawson diskvalificiran je iz rezultata kvalifikacija zbog nepravilnosti povezane s postupnim smanjivanjem snage MGU-K sustava nakon njegova… Objava Lawson diskvalificiran iz kvalifikacija u Meksiku pojavila se prvi puta na GP1.hr | Najbrži hrvatski F1 portal .",
+        "source_title1": "GP1",
+        "source_title2": "F1",
+        "source_color": "#FF0000",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Lewis Hamilton na pole positionu u Meksiku!",
+        "link": "https://www.gp1.hr/2026/10/lewis-hamilton-na-pole-positionu-u-meksiku/",
+        "image_url": "https://www.gp1.hr/wp-content/uploads/2026/10/mexico-2026-kvale.jpg",
+        "w": 2301,
+        "h": 1649,
+        "focus_y": 0.5,
+        "published_at": "2026-10-31T22:18:51+00:00",
+        "author": "Tomislav Radić",
+        "description": "Ključne kvalifikacije u borbi za naslov prvaka su održane večeras po našem vremenu u Meksiku za VN Mexico… Objava Lewis Hamilton na pole positionu u Meksiku! pojavila se prvi puta na GP1.hr | Najbrži hrvatski F1 portal .",
         "source_title1": "GP1",
         "source_title2": "F1",
         "source_color": "#FF0000",
