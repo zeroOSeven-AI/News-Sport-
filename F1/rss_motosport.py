@@ -6,7 +6,6 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Optional
 from io import BytesIO
-from time import mktime
 from calendar import timegm
 
 import feedparser
@@ -49,15 +48,28 @@ def get_focus_y(w: int, h: int) -> float:
 
     ratio = w / h
 
-    # Horizontal images
     if ratio >= 1.6:
         return 0.5
 
-    # Square images
     if 0.9 <= ratio <= 1.1:
         return 0.5
 
     return 0.5
+
+
+# --------------------------------------------------
+# IMAGE URL FIX
+# --------------------------------------------------
+
+def fix_image_url(url: str) -> str:
+
+    if not url:
+        return url
+
+    # Remove Motorsport Magazin blue-frame variant
+    url = url.replace("/n_fb/", "/")
+
+    return url
 
 
 # --------------------------------------------------
@@ -117,9 +129,8 @@ def get_article_title(entry: Any, soup: BeautifulSoup) -> str:
             og_title["content"]
         )
 
-    # Use page title if RSS contains replacement characters
     if "\ufffd" in rss_title and page_title:
-        return rss_title if "\ufffd" not in rss_title else page_title
+        return page_title
 
     return rss_title or page_title
 
@@ -281,6 +292,18 @@ async def process_single_article(
 
                 return None
 
+            # FIX BLUE FRAME IN IMAGE URL
+            original_image_url = image_url
+
+            image_url = fix_image_url(image_url)
+
+            if image_url != original_image_url:
+
+                logging.info(
+                    "Ispravljen URL slike: %s",
+                    image_url
+                )
+
             image = await get_image_info_async(
                 client,
                 image_url
@@ -410,10 +433,7 @@ async def scrape_motorsport_async():
 
         response.raise_for_status()
 
-        # IMPORTANT:
-        # Pass raw bytes to feedparser.
-        # This helps preserve German characters.
-
+        # Use raw bytes to preserve German characters
         feed = feedparser.parse(
             response.content
         )
