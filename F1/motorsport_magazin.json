@@ -1,5 +1,20 @@
 [
     {
+        "title": "McLaren siegt mit Anti-Mercedes: Was steckt hinter dem radikalen Formel-1-Update?",
+        "link": "https://www.motorsport-magazin.com/formel1/news-301227-formel-1-mclaren-siegt-mit-anti-mercedes-was-steckt-hinter-dem-radikalen-update-technik-upgrade/",
+        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/1133978.jpg",
+        "w": 1200,
+        "h": 627,
+        "focus_y": 0.5,
+        "published_at": "2026-11-11T18:30:00+01:00",
+        "author": "Christian Menath",
+        "description": "McLaren brachte in Sao Paulo als einziges Team Updates - und siegte prompt. Kurios: McLaren wechselt auf das alte Mercedes-Konzept, während Mercedes auf das alte McLaren-Konzept geht.",
+        "source_title1": "MOTORSPORT MAGAZIN",
+        "source_title2": "F1",
+        "source_color": "#FFD300",
+        "flag": "🇩🇪"
+    },
+    {
         "title": "Formel-1-Champion Lando Norris in der Kritik: Schlechter Verlierer oder einfach emotional?",
         "link": "https://www.motorsport-magazin.com/formel1/news-301219-ist-lando-norris-ein-schlechter-verlierer-pro-contra-zum-formel-1-weltmeister/",
         "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/1133950.jpg",
@@ -279,21 +294,6 @@
         "published_at": "2026-11-09T11:38:00+01:00",
         "author": "Kerstin Hasenbichler",
         "description": "Oscar Piastri und sein langjähriger Formel-1-Manager Mark Webber beenden ihre Zusammenarbeit. Die Trennung kommt allerdings nicht überraschend.",
-        "source_title1": "MOTORSPORT MAGAZIN",
-        "source_title2": "F1",
-        "source_color": "#FFD300",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Mercedes zurück auf dem Formel-1-Thron: Der lange Weg zum neunten Konstrukteurstitel",
-        "link": "https://www.motorsport-magazin.com/formel1/news-301183-mercedes-zurueck-auf-dem-formel-1-thron-der-lange-weg-zum-neunten-konstrukteurstitel/",
-        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/1133864.jpg",
-        "w": 1200,
-        "h": 627,
-        "focus_y": 0.5,
-        "published_at": "2026-11-09T10:20:00+01:00",
-        "author": "Kerstin Hasenbichler",
-        "description": "Nach vier schwierigen Jahren ist Mercedes zurück an der Formel-1-Spitze und feiert den neunten Konstrukteurstitel. Warum Toto Wolff eine neue Ära der Dominanz trotzdem ausschließt.",
         "source_title1": "MOTORSPORT MAGAZIN",
         "source_title2": "F1",
         "source_color": "#FFD300",
