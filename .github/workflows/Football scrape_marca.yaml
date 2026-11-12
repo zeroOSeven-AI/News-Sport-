@@ -1,4 +1,4 @@
-name: Update Marca Football
+name: Football Marca
 on:
   schedule:
     - cron: '*/38 * * * *'
