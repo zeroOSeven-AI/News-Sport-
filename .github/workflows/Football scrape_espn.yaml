@@ -1,4 +1,4 @@
-name: Update ESPN Soccer
+name: Football ESPN Soccer
 on:
   schedule:
     - cron: '*/42 * * * *'
