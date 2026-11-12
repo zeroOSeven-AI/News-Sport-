@@ -1,4 +1,4 @@
-name: Update F1 Official
+name: F1 Official
 on:
   schedule:
     - cron: '*/40 * * * *'
