@@ -1,8 +1,8 @@
 [
     {
-        "title": "Live updates, reaction as Man United sack Michael Carrick as manager",
-        "link": "https://www.espn.com/soccer/story/_/id/50441200/live-updates-reaction-man-united-sack-michael-carrick",
-        "image_url": "https://a.espncdn.com/photo/2026/1108/r1742973_1296x729_16-9.jpg",
+        "title": "England mark Harry Kane's night with a win, but defense remains a concern",
+        "link": "https://www.espn.com/soccer/story/_/id/50464165/england-win-kane-night-defense-concern",
+        "image_url": "https://a.espncdn.com/photo/2026/1112/r1745034_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -12,9 +12,21 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Andorra boss: Jesús Owono to decide if or when to return after Jesús de Miguel death",
-        "link": "https://www.espn.com/soccer/story/_/id/50462344/jesus-de-miguel-death-tenerife-jesus-owono-andorra",
-        "image_url": "https://a.espncdn.com/photo/2026/1112/r1744820_1296x729_16-9.jpg",
+        "title": "Arsenal get 'big boost' with 'resilient' draw at UWCL holders Barcelona",
+        "link": "https://www.espn.com/soccer/story/_/id/50464871/barcelona-vs-arsenal-renee-slegers-womens-champions-league",
+        "image_url": "https://a.espncdn.com/photo/2026/1112/r1745031_1296x729_16-9.jpg",
+        "w": 1295,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Spain beat Czechia to extend record unbeaten run to 43 games",
+        "link": "http://www.espn.com/soccer/report/_/gameId/401861148",
+        "image_url": "https://a.espncdn.com/photo/2026/1112/r1745033_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -24,9 +36,45 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Transfer rumors, news: Arsenal, Chelsea, Liverpool to battle for Scott signature",
+        "title": "Italy beat France at home for first time since '62, hand Zidane 1st loss",
+        "link": "http://www.espn.com/soccer/report/_/gameId/401861151",
+        "image_url": "https://a.espncdn.com/photo/2026/1112/r1745015_1024x576_16-9.jpg",
+        "w": 1024,
+        "h": 576,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Kane gives England win over Croatia on record-breaking night",
+        "link": "http://www.espn.com/soccer/report/_/gameId/401861150",
+        "image_url": "https://a.espncdn.com/photo/2026/1112/r1745005_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Klopp promises Nmecha won't repeat controversial crown celebration",
+        "link": "https://www.espn.com/soccer/story/_/id/50464524/klopp-nmecha-controversial-crown-celebration",
+        "image_url": "https://a.espncdn.com/photo/2026/1112/r1745003_1296x729_16-9.jpg",
+        "w": 1296,
+        "h": 729,
+        "focus_y": 0.35,
+        "source_title1": "ESPN",
+        "source_title2": "FOOTBALL",
+        "source_color": "#ff0021",
+        "flag": "🇺🇸"
+    },
+    {
+        "title": "Transfer rumors, news: Liverpool eye move for Brentford's Diouf",
         "link": "https://www.espn.com/soccer/story/_/id/50459800/transfer-rumors-news-gossip-arsenal-chelsea-liverpool-scott",
-        "image_url": "https://a.espncdn.com/photo/2026/0829/r1708517_1296x729_16-9.jpg",
+        "image_url": "https://a.espncdn.com/photo/2026/1112/r1744978_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -36,9 +84,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Man United hope to seal Mauricio Pochettino deal on Thursday - sources",
-        "link": "https://www.espn.com/soccer/story/_/id/50461316/man-united-mauricio-pochettino-michael-carrick-manager",
-        "image_url": "https://a.espncdn.com/photo/2026/0715/r1689507_2_1296x729_16-9.jpg",
+        "title": "Inconsistencies continue for Arsenal, even against a vulnerable Barcelona",
+        "link": "https://www.espn.com/soccer/story/_/id/50464177/inconsistencies-continue-arsenal-vulnerable-barcelona-uwcl",
+        "image_url": "https://a.espncdn.com/photo/2026/1112/r1744973_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -48,9 +96,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Pierre Sage sacked with Crystal Palace bottom of Premier League",
-        "link": "https://www.espn.com/soccer/story/_/id/50211714/pierre-sage-sacked-crystal-palace-manager",
-        "image_url": "https://a.espncdn.com/photo/2026/0726/r1693951_1296x729_16-9.jpg",
+        "title": "Arsenal earn battling draw at UWCL holders Barcelona",
+        "link": "http://www.espn.com/soccer/report/_/gameId/401916986",
+        "image_url": "https://a.espncdn.com/photo/2026/1112/r1744957_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -60,9 +108,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Man United fan group blame owners, not Michael Carrick, for woes",
-        "link": "https://www.espn.com/soccer/story/_/id/50461082/man-united-jim-ratcliffe-ineos-michael-carrick",
-        "image_url": "https://a.espncdn.com/photo/2026/0328/r1635171_1296x729_16-9.jpg",
+        "title": "Australia friendly with Jordan relocated due to player security concerns",
+        "link": "https://www.espn.com/soccer/story/_/id/50463459/australia-friendly-jordan-relocated-player-security-concerns",
+        "image_url": "https://a.espncdn.com/photo/2026/1112/r1744936_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -72,21 +120,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Glamour Paraguay, Brazil ties offer Singapore more than just chance for redemption after Malaysia humiliation",
-        "link": "https://www.espn.com/soccer/story/_/id/50461054/paraguay-brazil-ties-singapore-redemption-malaysia-humiliation",
-        "image_url": "https://a.espncdn.com/photo/2026/1112/r1744751_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 728,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Singapore coach Gavin Lee confirms contract extension talks since AFC Asian Cup postponement",
-        "link": "https://www.espn.com/soccer/story/_/id/50460822/singapore-gavin-lee-contract-extension-afc-asian-cup",
-        "image_url": "https://a.espncdn.com/photo/2026/1112/r1744739_1296x729_16-9.jpg",
+        "title": "Harry Kane breaks England caps record against Croatia",
+        "link": "https://www.espn.com/soccer/story/_/id/50451241/harry-kane-england-caps-record-126-croatia",
+        "image_url": "https://a.espncdn.com/photo/2026/1112/r1744962_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -96,21 +132,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Gary Neville slams Man United's 'classless' handling of Michael Carrick sacking",
-        "link": "https://www.espn.com/soccer/story/_/id/50460693/man-united-michael-carrick-sacked-gary-neville",
-        "image_url": "https://a.espncdn.com/photo/2026/1112/r1744733_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 728,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Michael Carrick sacked by Man United; sources say Mauricio Pochettino close",
-        "link": "https://www.espn.com/soccer/story/_/id/50180844/man-united-michael-carrick-sacked-pochettino",
-        "image_url": "https://a.espncdn.com/photo/2026/1022/r1734430_1296x729_16-9.jpg",
+        "title": "Messi up for record 3rd MLS MVP award; Sullivan, 17, gets historic nomination",
+        "link": "https://www.espn.com/soccer/story/_/id/50463634/mls-mvp-award-2026-lionel-messi-cavan-sullivan-griezmann",
+        "image_url": "https://a.espncdn.com/photo/2026/1112/r1744942_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -120,9 +144,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "How Michael Carrick won the Manchester United job, then lost it 10 months later",
-        "link": "https://www.espn.com/soccer/story/_/id/50437253/manchester-united-fire-michael-carrick-analysis",
-        "image_url": "https://a.espncdn.com/photo/2026/1110/r1743807_1296x729_16-9.jpg",
+        "title": "Argentina coach Lionel Scaloni signs new long-term deal through 2030 World Cup",
+        "link": "https://www.espn.com/soccer/story/_/id/50451803/argentina-coach-lionel-scaloni-new-contract-2030-world-cup",
+        "image_url": "https://a.espncdn.com/photo/2026/1112/r1744634_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -132,9 +156,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Barcelona fan for life -- and beyond: Fans can pay to deposit ashes at Camp Nou",
-        "link": "https://www.espn.com/soccer/story/_/id/50460503/barcelona-camp-nou-ashes-fans",
-        "image_url": "https://a.espncdn.com/photo/2026/0915/r1716941_2_1296x729_16-9.jpg",
+        "title": "FIFA loses New York court ruling against UEFA in World Cup investor case",
+        "link": "https://www.espn.com/soccer/story/_/id/50463328/fifa-uefa-case-disclosure-new-york-court-thrive-jp-morgan",
+        "image_url": "https://a.espncdn.com/photo/2026/0413/r1642668_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
@@ -144,33 +168,9 @@
         "flag": "🇺🇸"
     },
     {
-        "title": "Socceroos camp in 'good spirits' as call to play in Jordan looms",
-        "link": "https://www.espn.com/soccer/story/_/id/50460432/socceroos-camp-good-spirits-call-play-jordan-looms",
-        "image_url": "https://a.espncdn.com/photo/2026/1112/r1744726_1296x729_16-9.jpg",
-        "w": 1296,
-        "h": 729,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "How will Argentina replace Lionel Messi ahead of 2030 World Cup?",
-        "link": "https://www.espn.com/soccer/story/_/id/50453174/argentina-replacements-lionel-messi",
-        "image_url": "https://a.espncdn.com/photo/2026/1110/soc_argentina-after-messi_16x9.jpg",
-        "w": 1500,
-        "h": 844,
-        "focus_y": 0.35,
-        "source_title1": "ESPN",
-        "source_title2": "FOOTBALL",
-        "source_color": "#ff0021",
-        "flag": "🇺🇸"
-    },
-    {
-        "title": "Cristiano Ronaldo makes his first venture into television",
-        "link": "https://www.espn.com/soccer/story/_/id/50460409/cristiano-ronaldo-tv-day-1s",
-        "image_url": "https://a.espncdn.com/photo/2026/1112/r1744722_1296x729_16-9.jpg",
+        "title": "Cristiano Ronaldo Jr. makes Portugal U17 debut one week after dad's retirement",
+        "link": "https://www.espn.com/soccer/story/_/id/50463201/cristiano-ronaldo-jr-makes-portugal-u17-debut-one-week-dad-retirement",
+        "image_url": "https://a.espncdn.com/photo/2026/0325/r1633569_1296x729_16-9.jpg",
         "w": 1296,
         "h": 729,
         "focus_y": 0.35,
