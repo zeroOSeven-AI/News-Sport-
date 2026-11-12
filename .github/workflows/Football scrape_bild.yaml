@@ -1,4 +1,4 @@
-name: Update Bild Sport
+name: Football Bild Sport
 on:
   schedule:
     - cron: '*/35 * * * *'
