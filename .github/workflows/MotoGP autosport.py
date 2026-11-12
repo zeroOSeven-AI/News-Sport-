@@ -1,5 +1,5 @@
 
-name: MotoGP RSS Autosport
+name: MotoGP Autosport
 
 on:
   schedule:
