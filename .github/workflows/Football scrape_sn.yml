@@ -1,4 +1,4 @@
-name: Update Sportske Novosti
+name: Football Sportske Novosti
 on:
   schedule:
     - cron: '*/30 * * * *'
