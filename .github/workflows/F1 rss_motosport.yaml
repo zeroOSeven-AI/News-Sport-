@@ -1,4 +1,4 @@
-name: Update Motorsport Magazin F1
+name: F1 Motorsport Magazin
 on:
   schedule:
     - cron: '*/50 * * * *'
