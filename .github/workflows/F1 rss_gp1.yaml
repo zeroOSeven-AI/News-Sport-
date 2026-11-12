@@ -1,4 +1,4 @@
-name: Update GP1 F1
+name: F1 GP1
 on:
   schedule:
     - cron: '*/55 * * * *'
