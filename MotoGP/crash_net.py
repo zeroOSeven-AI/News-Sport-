@@ -642,7 +642,7 @@ async def process(
             "source_title1": "CRASH",
             "source_title2": "NET",
             "source_color": "#00AEEF",
-            "flag": "🇭🇷",
+            "flag": "🇬🇧",
         }
 
 
