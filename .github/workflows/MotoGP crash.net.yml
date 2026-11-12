@@ -25,7 +25,7 @@ jobs:
           playwright install --with-deps chromium
 
       - name: Run Crash.net Scraper
-        run: python MotoGP/crash.net.py
+        run: python MotoGP/crash_net.py
 
       - name: Commit and Push
         run: |
