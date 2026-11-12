@@ -1,4 +1,4 @@
-name: Update Autosport F1
+name: F1 Autosport
 on:
   schedule:
     - cron: '*/45 * * * *'
