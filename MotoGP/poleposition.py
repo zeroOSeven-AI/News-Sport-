@@ -3,10 +3,10 @@ import asyncio
 import json
 import logging
 import re
+from io import BytesIO
 from pathlib import Path
 from typing import Any, Dict, List, Optional
-from urllib.parse import urljoin
-from io import BytesIO
+from urllib.parse import urljoin, urlparse, urlunparse
 
 import httpx
 from bs4 import BeautifulSoup
@@ -18,23 +18,24 @@ from playwright.async_api import async_playwright
 # CONFIG
 # ==========================================
 
-START_URL = "https://www.poleposition.hr/category/motogp/"
+START_URL = "https://sportklub.hr/automoto/motogp/"
 
-OUTPUT_FILE = Path("MotoGP/poleposition.json")
+OUTPUT_FILE = Path("MotoGP/sportklub.json")
 
 MIN_IMAGE_WEIGHT_BYTES = 30000
 MIN_IMAGE_WIDTH_PX = 400
 
 MAX_NEWS_ITEMS = 20
 CONCURRENT_TASKS = 5
-
-# Broj stranica kategorije koje će scraper pregledati
 MAX_CATEGORY_PAGES = 5
 
-SOURCE_TITLE1 = "POLE"
-SOURCE_TITLE2 = "POSITION"
-SOURCE_COLOR = "#111111"
+SOURCE_TITLE1 = "SPORT"
+SOURCE_TITLE2 = "KLUB"
+SOURCE_COLOR = "#E30613"
 SOURCE_FLAG = "🇭🇷"
+
+BASE_DOMAIN = "sportklub.hr"
+CATEGORY_PATH = "/automoto/motogp/"
 
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -65,15 +66,62 @@ def clean_text(value: Optional[str]) -> str:
     return " ".join(text.split())
 
 
-def normalize_url(url: str) -> str:
+def normalize_url(url: str, base_url: str = START_URL) -> str:
 
     if not url:
         return ""
 
-    return urljoin(
-        START_URL,
-        url
-    ).split("#")[0]
+    url = urljoin(base_url, url).split("#")[0]
+
+    parsed = urlparse(url)
+
+    if parsed.scheme not in ("http", "https"):
+        return ""
+
+    return urlunparse((
+        parsed.scheme,
+        parsed.netloc.lower(),
+        parsed.path,
+        "",
+        parsed.query,
+        "",
+    ))
+
+
+def is_sportklub_url(url: str) -> bool:
+
+    if not url:
+        return False
+
+    parsed = urlparse(url)
+
+    return (
+        parsed.netloc.lower().endswith(BASE_DOMAIN)
+        and parsed.scheme in ("http", "https")
+    )
+
+
+def is_motogp_article_url(url: str) -> bool:
+
+    if not is_sportklub_url(url):
+        return False
+
+    path = urlparse(url).path.rstrip("/")
+
+    if not path.startswith(CATEGORY_PATH.rstrip("/") + "/"):
+        return False
+
+    excluded = [
+        "/page/",
+        "/category/",
+        "/tag/",
+        "/author/",
+    ]
+
+    if any(item in path for item in excluded):
+        return False
+
+    return len(path.split("/")) >= 4
 
 
 def get_meta(
@@ -85,15 +133,16 @@ def get_meta(
 
         tag = soup.select_one(selector)
 
-        if tag:
+        if not tag:
+            continue
 
-            value = (
-                tag.get("content")
-                or tag.get("datetime")
-            )
+        value = (
+            tag.get("content")
+            or tag.get("datetime")
+        )
 
-            if value:
-                return value.strip()
+        if value:
+            return value.strip()
 
     return None
 
@@ -140,9 +189,71 @@ def extract_image_url(value: Any) -> Optional[str]:
         return (
             value.get("url")
             or value.get("contentUrl")
+            or value.get("@id")
         )
 
     return None
+
+
+def extract_srcset(srcset: Optional[str]) -> Optional[str]:
+
+    if not srcset:
+        return None
+
+    candidates = []
+
+    for item in srcset.split(","):
+
+        parts = item.strip().split()
+
+        if not parts:
+            continue
+
+        url = parts[0]
+        width = 0
+
+        if len(parts) > 1:
+
+            match = re.search(r"(\d+)w", parts[1])
+
+            if match:
+                width = int(match.group(1))
+
+        candidates.append((width, url))
+
+    if not candidates:
+        return None
+
+    candidates.sort(
+        key=lambda item: item[0],
+        reverse=True,
+    )
+
+    return candidates[0][1]
+
+
+def get_image_from_tag(image_tag) -> Optional[str]:
+
+    if not image_tag:
+        return None
+
+    for attribute in (
+        "data-src",
+        "data-lazy-src",
+        "data-original",
+        "data-image",
+        "src",
+    ):
+
+        value = image_tag.get(attribute)
+
+        if value and not value.startswith("data:image"):
+            return value
+
+    return (
+        extract_srcset(image_tag.get("data-srcset"))
+        or extract_srcset(image_tag.get("srcset"))
+    )
 
 
 async def get_image_info_async(
@@ -229,8 +340,14 @@ def find_article_data(data: Any) -> Optional[Dict[str, Any]]:
     if any(t in article_types for t in item_type):
         return data
 
-    if "@graph" in data:
-        return find_article_data(data["@graph"])
+    for key in ("@graph", "mainEntity", "mainEntityOfPage"):
+
+        if key in data:
+
+            result = find_article_data(data[key])
+
+            if result:
+                return result
 
     return None
 
@@ -260,6 +377,114 @@ def extract_author(data: Any) -> Optional[str]:
     return clean_text(data) or None
 
 
+def get_json_article(soup: BeautifulSoup) -> Optional[Dict[str, Any]]:
+
+    for tag in soup.find_all(
+        "script",
+        type="application/ld+json"
+    ):
+
+        try:
+
+            raw = tag.string or tag.get_text()
+
+            if not raw:
+                continue
+
+            data = json.loads(raw)
+
+            result = find_article_data(data)
+
+            if result:
+                return result
+
+        except Exception:
+            continue
+
+    return None
+
+
+# ==========================================
+# CATEGORY PAGINATION
+# ==========================================
+
+async def get_category_pages(page: Any) -> List[str]:
+
+    pages = [START_URL]
+    seen = {START_URL}
+
+    try:
+
+        soup = BeautifulSoup(
+            await page.content(),
+            "html.parser"
+        )
+
+        # Rel next
+        next_tag = soup.select_one(
+            'a[rel="next"][href], link[rel="next"][href]'
+        )
+
+        if next_tag:
+
+            next_url = normalize_url(
+                next_tag.get("href", ""),
+                START_URL,
+            )
+
+            if next_url and next_url not in seen:
+                pages.append(next_url)
+                seen.add(next_url)
+
+        # Pagination links
+        for link_tag in soup.select(
+            ".pagination a[href], "
+            ".nav-links a[href], "
+            ".page-numbers[href], "
+            "a.next[href]"
+        ):
+
+            href = normalize_url(
+                link_tag.get("href", ""),
+                START_URL,
+            )
+
+            if not href or href in seen:
+                continue
+
+            parsed = urlparse(href)
+
+            if (
+                is_sportklub_url(href)
+                and parsed.path.rstrip("/") == CATEGORY_PATH.rstrip("/")
+                and parsed.query
+            ):
+
+                pages.append(href)
+                seen.add(href)
+
+            elif (
+                is_sportklub_url(href)
+                and parsed.path.startswith(
+                    CATEGORY_PATH.rstrip("/") + "/page/"
+                )
+            ):
+
+                pages.append(href)
+                seen.add(href)
+
+            if len(pages) >= MAX_CATEGORY_PAGES:
+                break
+
+    except Exception:
+
+        logging.exception(
+            "Greška pri pronalasku paginacije."
+        )
+
+    return pages[:MAX_CATEGORY_PAGES]
+
+
 # ==========================================
 # CATEGORY SCRAPER
 # ==========================================
@@ -269,28 +494,51 @@ async def get_article_links(
 ) -> List[Dict[str, str]]:
 
     logging.info(
-        "Dohvaćam MotoGP članke s Pole Positiona..."
+        "Dohvaćam MotoGP članke sa Sport Kluba..."
     )
 
     articles = []
     seen = set()
 
-    for page_number in range(1, MAX_CATEGORY_PAGES + 1):
+    try:
 
-        if page_number == 1:
+        response = await page.goto(
+            START_URL,
+            wait_until="domcontentloaded",
+            timeout=45000,
+        )
 
-            category_url = START_URL
+        if response and response.status >= 400:
 
-        else:
-
-            category_url = urljoin(
-                START_URL,
-                f"page/{page_number}/"
+            logging.error(
+                "Sport Klub vraća HTTP %s",
+                response.status,
             )
 
+            return []
+
+        await page.wait_for_timeout(1500)
+
+        category_pages = await get_category_pages(page)
+
+    except Exception:
+
+        logging.exception(
+            "Ne mogu otvoriti Sport Klub MotoGP rubriku."
+        )
+
+        return []
+
+    for page_number, category_url in enumerate(
+        category_pages,
+        start=1,
+    ):
+
         logging.info(
-            "Pregledavam kategoriju: %s",
-            category_url
+            "Pregledavam kategoriju %d/%d: %s",
+            page_number,
+            len(category_pages),
+            category_url,
         )
 
         try:
@@ -298,54 +546,58 @@ async def get_article_links(
             response = await page.goto(
                 category_url,
                 wait_until="domcontentloaded",
-                timeout=40000,
+                timeout=45000,
             )
 
             if response and response.status >= 400:
 
                 logging.warning(
-                    "Stranica vraća HTTP %s: %s",
+                    "HTTP %s: %s",
                     response.status,
                     category_url,
                 )
 
-                break
+                continue
 
-            await page.wait_for_timeout(1200)
+            await page.wait_for_timeout(1000)
 
             soup = BeautifulSoup(
                 await page.content(),
-                "html.parser"
+                "html.parser",
             )
 
             page_articles = []
 
-            # Primarno čitanje WordPress članaka
+            # Prvo pokušaj pronaći članke unutar kartica
             containers = soup.select(
-                "article, .post, .type-post"
+                "article, "
+                ".post, "
+                ".article, "
+                ".news-item, "
+                ".card, "
+                "[class*='article'], "
+                "[class*='post']"
             )
 
             for container in containers:
 
                 link_tag = container.select_one(
-                    "h1 a[href], h2 a[href], h3 a[href], "
-                    ".entry-title a[href], .post-title a[href]"
+                    "h1 a[href], "
+                    "h2 a[href], "
+                    "h3 a[href], "
+                    "h4 a[href], "
+                    "a[href]"
                 )
 
                 if not link_tag:
-                    link_tag = container.select_one("a[href]")
-
-                if not link_tag:
                     continue
 
-                href = link_tag.get("href", "")
+                link = normalize_url(
+                    link_tag.get("href", ""),
+                    category_url,
+                )
 
-                link = normalize_url(href)
-
-                if not link.startswith("https://www.poleposition.hr/"):
-                    continue
-
-                if "/category/" in link or "/page/" in link:
+                if not is_motogp_article_url(link):
                     continue
 
                 title = clean_text(
@@ -353,32 +605,21 @@ async def get_article_links(
                 )
 
                 if len(title) < 10:
-                    continue
+                    title = clean_text(
+                        link_tag.get("title")
+                    )
 
-                image_url = None
+                if len(title) < 10:
+                    continue
 
                 image_tag = container.select_one("img")
 
-                if image_tag:
-
-                    image_url = (
-                        image_tag.get("data-src")
-                        or image_tag.get("data-lazy-src")
-                        or image_tag.get("src")
-                    )
-
-                    if not image_url:
-
-                        srcset = (
-                            image_tag.get("data-srcset")
-                            or image_tag.get("srcset")
-                        )
-
-                        if srcset:
-                            image_url = srcset.split(",")[0].strip().split(" ")[0]
+                image_url = get_image_from_tag(image_tag)
 
                 date_tag = container.select_one(
-                    "time[datetime], .entry-date, .posted-on"
+                    "time[datetime], "
+                    "[class*='date'], "
+                    "[class*='time']"
                 )
 
                 published_at = None
@@ -387,37 +628,41 @@ async def get_article_links(
 
                     published_at = (
                         date_tag.get("datetime")
+                        or date_tag.get("content")
                         or clean_text(date_tag.get_text())
                     )
 
                 page_articles.append({
                     "title": title,
                     "link": link,
-                    "image_url": normalize_url(image_url) if image_url else "",
+                    "image_url": normalize_url(
+                        image_url,
+                        category_url,
+                    ) if image_url else "",
                     "published_at": published_at or "",
                 })
 
-            # Fallback ako stranica ne koristi article elemente
+            # Fallback: svi linkovi iz MotoGP rubrike
             if not page_articles:
 
-                for link_tag in soup.select(
-                    "h2 a[href], h3 a[href], .entry-title a[href]"
-                ):
+                for link_tag in soup.select("a[href]"):
 
                     link = normalize_url(
-                        link_tag.get("href", "")
+                        link_tag.get("href", ""),
+                        category_url,
                     )
 
-                    if (
-                        not link.startswith("https://www.poleposition.hr/")
-                        or "/category/" in link
-                        or "/page/" in link
-                    ):
+                    if not is_motogp_article_url(link):
                         continue
 
                     title = clean_text(
                         link_tag.get_text(" ", strip=True)
                     )
+
+                    if len(title) < 10:
+                        title = clean_text(
+                            link_tag.get("title")
+                        )
 
                     if len(title) < 10:
                         continue
@@ -446,24 +691,19 @@ async def get_article_links(
                 new_count,
             )
 
-            if new_count == 0:
-                break
-
             if len(articles) >= MAX_NEWS_ITEMS * 2:
                 break
 
         except Exception:
 
             logging.exception(
-                "Greška pri dohvaćanju kategorije: %s",
-                category_url
+                "Greška pri dohvaćanju: %s",
+                category_url,
             )
-
-            break
 
     logging.info(
         "Ukupno pronađeno članaka: %d",
-        len(articles)
+        len(articles),
     )
 
     return articles[:MAX_NEWS_ITEMS * 2]
@@ -493,7 +733,7 @@ async def process_single_article(
                 user_agent=USER_AGENT,
                 viewport={
                     "width": 1280,
-                    "height": 720,
+                    "height": 900,
                 },
             )
 
@@ -501,52 +741,33 @@ async def process_single_article(
 
             logging.info(
                 "Obrađujem: %s",
-                title[:65]
+                title[:65],
             )
 
-            await page.goto(
+            response = await page.goto(
                 link,
                 wait_until="domcontentloaded",
-                timeout=40000,
+                timeout=45000,
             )
 
-            await page.wait_for_timeout(800)
+            if response and response.status >= 400:
+
+                logging.warning(
+                    "Članak vraća HTTP %s: %s",
+                    response.status,
+                    link,
+                )
+
+                return None
+
+            await page.wait_for_timeout(700)
 
             soup = BeautifulSoup(
                 await page.content(),
-                "html.parser"
+                "html.parser",
             )
 
-            # ==================================
-            # JSON-LD
-            # ==================================
-
-            json_article = None
-
-            for tag in soup.find_all(
-                "script",
-                type="application/ld+json"
-            ):
-
-                try:
-
-                    raw = (
-                        tag.string
-                        or tag.get_text()
-                    )
-
-                    if not raw:
-                        continue
-
-                    data = json.loads(raw)
-
-                    json_article = find_article_data(data)
-
-                    if json_article:
-                        break
-
-                except Exception:
-                    continue
+            json_article = get_json_article(soup)
 
             # ==================================
             # TITLE
@@ -555,6 +776,7 @@ async def process_single_article(
             final_title = ""
 
             if json_article:
+
                 final_title = clean_text(
                     json_article.get("headline")
                     or json_article.get("name")
@@ -562,16 +784,28 @@ async def process_single_article(
 
             if not final_title:
 
-                final_title = (
+                final_title = clean_text(
                     get_meta(
                         soup,
                         'meta[property="og:title"]',
                         'meta[name="twitter:title"]',
                     )
-                    or title
+                    or ""
                 )
 
-                final_title = clean_text(final_title)
+            if not final_title:
+
+                heading = soup.select_one(
+                    "h1, .article-title, .post-title"
+                )
+
+                if heading:
+                    final_title = clean_text(
+                        heading.get_text(" ", strip=True)
+                    )
+
+            if not final_title:
+                final_title = title
 
             # ==================================
             # IMAGE
@@ -581,6 +815,7 @@ async def process_single_article(
                 soup,
                 'meta[property="og:image"]',
                 'meta[name="twitter:image"]',
+                'meta[property="og:image:secure_url"]',
             )
 
             if not image_url and json_article:
@@ -591,35 +826,33 @@ async def process_single_article(
 
             if not image_url:
 
-                image_url = article.get("image_url")
-
-            if not image_url:
-
                 image_tag = soup.select_one(
-                    ".wp-post-image, "
+                    ".article-image img, "
+                    ".article__image img, "
+                    ".featured-image img, "
                     ".post-thumbnail img, "
-                    ".entry-content img, "
-                    "article img"
+                    "article img, "
+                    "main img"
                 )
 
-                if image_tag:
+                image_url = get_image_from_tag(image_tag)
 
-                    image_url = (
-                        image_tag.get("data-src")
-                        or image_tag.get("data-lazy-src")
-                        or image_tag.get("src")
-                    )
+            if not image_url:
+                image_url = article.get("image_url")
 
             if not image_url:
 
                 logging.warning(
                     "Nema glavne slike: %s",
-                    final_title[:60]
+                    final_title[:60],
                 )
 
                 return None
 
-            image_url = normalize_url(image_url)
+            image_url = normalize_url(
+                image_url,
+                link,
+            )
 
             image = await get_image_info_async(
                 client,
@@ -630,7 +863,7 @@ async def process_single_article(
 
                 logging.warning(
                     "Slika nije valjana: %s",
-                    final_title[:60]
+                    final_title[:60],
                 )
 
                 return None
@@ -656,15 +889,18 @@ async def process_single_article(
             if not description:
 
                 paragraph = soup.select_one(
+                    ".article-content p, "
+                    ".article__content p, "
                     ".entry-content p, "
                     ".post-content p, "
-                    "article p"
+                    "article p, "
+                    "main p"
                 )
 
                 if paragraph:
                     description = paragraph.get_text(
                         " ",
-                        strip=True
+                        strip=True,
                     )
 
             description = clean_text(description) or None
@@ -692,7 +928,11 @@ async def process_single_article(
             if not author:
 
                 author_tag = soup.select_one(
-                    ".author, .author-name, .byline"
+                    ".author, "
+                    ".author-name, "
+                    ".article-author, "
+                    ".byline, "
+                    "[rel='author']"
                 )
 
                 if author_tag:
@@ -713,7 +953,6 @@ async def process_single_article(
                 published_at = (
                     json_article.get("datePublished")
                     or json_article.get("dateCreated")
-                    or json_article.get("dateModified")
                 )
 
             if not published_at:
@@ -722,12 +961,16 @@ async def process_single_article(
                     soup,
                     'meta[property="article:published_time"]',
                     'meta[name="date"]',
+                    'meta[name="pubdate"]',
+                    'meta[itemprop="datePublished"]',
                 )
 
             if not published_at:
 
                 date_tag = soup.select_one(
-                    "time[datetime], .entry-date"
+                    "time[datetime], "
+                    ".article-date, "
+                    ".post-date"
                 )
 
                 if date_tag:
@@ -745,31 +988,18 @@ async def process_single_article(
             # ==================================
 
             return {
-
                 "title": final_title,
-
                 "link": link,
-
                 "image_url": image["url"],
-
                 "w": image["w"],
-
                 "h": image["h"],
-
                 "focus_y": image["focus_y"],
-
                 "published_at": published_at,
-
                 "author": author,
-
                 "description": description,
-
                 "source_title1": SOURCE_TITLE1,
-
                 "source_title2": SOURCE_TITLE2,
-
                 "source_color": SOURCE_COLOR,
-
                 "flag": SOURCE_FLAG,
             }
 
@@ -777,7 +1007,7 @@ async def process_single_article(
 
             logging.exception(
                 "Greška pri obradi članka: %s",
-                link
+                link,
             )
 
             return None
@@ -797,19 +1027,21 @@ async def process_single_article(
 # MAIN SCRAPER
 # ==========================================
 
-async def scrape_poleposition_motogp_async():
+async def scrape_sportklub_motogp_async():
 
     logging.info(
-        "Pokrećem Pole Position MotoGP scraper..."
+        "Pokrećem Sport Klub MotoGP scraper..."
     )
 
     headers = {
         "User-Agent": USER_AGENT,
-        "Referer": "https://www.poleposition.hr/",
+        "Referer": "https://sportklub.hr/",
     }
 
+    results = []
+
     async with httpx.AsyncClient(
-        timeout=20.0,
+        timeout=25.0,
         follow_redirects=True,
         headers=headers,
     ) as client:
@@ -817,7 +1049,7 @@ async def scrape_poleposition_motogp_async():
         async with async_playwright() as p:
 
             browser = await p.chromium.launch(
-                headless=True
+                headless=True,
             )
 
             try:
@@ -833,7 +1065,7 @@ async def scrape_poleposition_motogp_async():
                 listing_page = await listing_context.new_page()
 
                 articles = await get_article_links(
-                    listing_page
+                    listing_page,
                 )
 
                 await listing_context.close()
@@ -851,12 +1083,10 @@ async def scrape_poleposition_motogp_async():
                     CONCURRENT_TASKS
                 )
 
-                results = []
-
                 for i in range(
                     0,
                     len(articles),
-                    CONCURRENT_TASKS
+                    CONCURRENT_TASKS,
                 ):
 
                     if len(results) >= MAX_NEWS_ITEMS:
@@ -867,14 +1097,12 @@ async def scrape_poleposition_motogp_async():
                     ]
 
                     tasks = [
-
                         process_single_article(
                             browser,
                             client,
                             semaphore,
                             article,
                         )
-
                         for article in batch
                     ]
 
@@ -925,7 +1153,7 @@ async def scrape_poleposition_motogp_async():
 
     with temp_file.open(
         "w",
-        encoding="utf-8"
+        encoding="utf-8",
     ) as f:
 
         json.dump(
@@ -936,7 +1164,7 @@ async def scrape_poleposition_motogp_async():
         )
 
     temp_file.replace(
-        OUTPUT_FILE
+        OUTPUT_FILE,
     )
 
     logging.info(
@@ -953,5 +1181,5 @@ async def scrape_poleposition_motogp_async():
 if __name__ == "__main__":
 
     asyncio.run(
-        scrape_poleposition_motogp_async()
+        scrape_sportklub_motogp_async()
     )
