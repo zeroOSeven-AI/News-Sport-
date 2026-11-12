@@ -1,0 +1,59 @@
+
+name: Update MotoGP Official
+
+on:
+  schedule:
+    - cron: '*/40 * * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape_job:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+          playwright install --with-deps chromium
+
+      - name: Run MotoGP Official Scraper
+        run: python MotoGP/motogp_official.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Dodaje promjene scraper datoteka
+          git add MotoGP/
+
+          if git diff --staged --quiet; then
+            echo "Nema promjena za commit."
+            exit 0
+          fi
+
+          git commit -m "Automated update: MotoGP Official JSON" || exit 0
+
+          # Rebase i push s ponavljanjem u slučaju konflikta
+          for i in {1..3}; do
+            git pull origin main --rebase
+
+            if git push origin main; then
+              echo "Uspješan push za MotoGP Official!"
+              exit 0
+            fi
+
+            echo "Pokušaj $i propao, čekam 5 sekundi..."
+            sleep 5
+          done
+
+          exit 1
