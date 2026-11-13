@@ -639,8 +639,8 @@ async def process(
             "author": author,
             "description": description,
 
-            "source_title1": "CRASH",
-            "source_title2": "NET",
+            "source_title1": "CRASH NET",
+            "source_title2": "MotoGP",
             "source_color": "#00AEEF",
             "flag": "🇬🇧",
         }
