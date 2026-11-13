@@ -113,8 +113,8 @@ def scrape_marca():
                             "w": info["w"],
                             "h": info["h"],
                             "focus_y": info["focus_y"],
-                            "source_title1": "MARCA",
-                            "source_title2": "SPORT",
+                            "source_title1": "MARCA SPORT",
+                            "source_title2": "Football",
                             "source_color": "#ff4b00",
                             "flag": "🇪🇸"
                         })
