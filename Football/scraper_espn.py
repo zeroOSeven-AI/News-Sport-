@@ -68,7 +68,7 @@ def scrape_espn():
                         "h": info["h"],
                         "focus_y": info["focus_y"],
                         "source_title1": "ESPN",
-                        "source_title2": "FOOTBALL",
+                        "source_title2": "Football",
                         "source_color": "#ff0021",
                         "flag": "🇺🇸"
                     })
