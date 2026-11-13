@@ -102,8 +102,8 @@ def scrape_sn():
                                 "w": info["w"],
                                 "h": info["h"],
                                 "focus_y": info["focus_y"],
-                                "source_title1": "SPORTSKE",
-                                "source_title2": "NOVOSTI",
+                                "source_title1": "SPORTSKE NOVOSTI",
+                                "source_title2": "Football",
                                 "source_color": "#007aff",
                                 "flag": "🇭🇷"
                             })
