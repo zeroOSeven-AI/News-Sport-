@@ -167,7 +167,7 @@ async def process_single_article(title: str, link: str) -> Optional[Dict[str, An
                 "description": description,
 
                 "source_title1": "SPORT BILD",
-                "source_title2": "MotoGP",
+                "source_title2": "Football",
                 "source_color": "#fc4e4e",
                 "flag": "🇩🇪",
             }
