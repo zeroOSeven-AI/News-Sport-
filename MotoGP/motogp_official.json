@@ -180,21 +180,6 @@
         "flag": "🇪🇸"
     },
     {
-        "title": "Di Giannantonio P1 under the lights at Lusail, Marquez and Martin in Q2",
-        "link": "https://www.motogp.com/en/news/2026/11/06/di-giannantonio-p1-under-the-lights-at-lusail-marquez-and-martin-in-q2/1184250",
-        "image_url": "https://resources.motogp.pulselive.com/photo-resources/2026/11/06/66933c22-67ff-4e6c-a8f1-01d1ee3c2e04/Report-MGP-PR-QAT.jpg?width=1200&height=630",
-        "w": 1200,
-        "h": 630,
-        "focus_y": 0.35,
-        "published_at": "2026-11-06T17:15:00Z",
-        "author": "MotoGP",
-        "description": "The Italian set a new lap record for Practice honours whilst the top two in the Championship will be going head-to-head on Saturday",
-        "source_title1": "MOTO GP",
-        "source_title2": "MotoGP",
-        "source_color": "#00AEEF",
-        "flag": "🇪🇸"
-    },
-    {
         "title": "Marc Marquez fastest from Bezzecchi, Martin P5 in Qatar FP1",
         "link": "https://www.motogp.com/en/news/2026/11/06/marc-marquez-fastest-from-bezzecchi-martin-p5-in-qatar-fp1/1184247",
         "image_url": "https://resources.motogp.pulselive.com/photo-resources/2026/11/06/e52c4b0e-0c8e-4054-8ccf-45f2c508c01c/Report-MGP-FP1-QAT.jpg?width=1200&height=630",
@@ -204,6 +189,21 @@
         "published_at": "2026-11-06T12:40:00Z",
         "author": "MotoGP",
         "description": "The championship leader kickstarts his weekend in fine fashion while it’s a promising start at Lusail for his closest title rival",
+        "source_title1": "MOTO GP",
+        "source_title2": "MotoGP",
+        "source_color": "#00AEEF",
+        "flag": "🇪🇸"
+    },
+    {
+        "title": "MEDIA DAY DISPATCH: Lusail lights on as MotoGP readies for lights out in Qatar",
+        "link": "https://www.motogp.com/en/news/2026/11/05/media-day-dispatch-lusail-lights-on-as-motogp-readies-for-lights-out-in-qatar/1184257",
+        "image_url": "https://resources.motogp.pulselive.com/photo-resources/2026/11/05/189b712f-c00e-4fa0-a919-5772b4533bfe/LGZ_9589.jpg?width=1200&height=630",
+        "w": 1200,
+        "h": 630,
+        "focus_y": 0.35,
+        "published_at": "2026-11-05T17:00:00Z",
+        "author": "MotoGP",
+        "description": "A match-point weekend and the chance to set new records as Round 20 gets set to bring a Qatar cracker",
         "source_title1": "MOTO GP",
         "source_title2": "MotoGP",
         "source_color": "#00AEEF",
