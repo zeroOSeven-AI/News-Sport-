@@ -1,8 +1,8 @@
 [
     {
-        "title": "UŽIVO: Zrinka Ljutić lovi postolje u Leviju! U prvoj vožnji režirala senzaciju Naša skijašica zaključila je prvu vožnju na trećem mjestu s 88 stotinki zaostatka za vodećom Emmom Aicher",
+        "title": "Sjajna Zrinka Ljutić ‘za dlaku‘ ostala bez postolja! Aicher slavi, senzacija Australke sa startnim brojem 57 Nakon dvije utrke Svjetskog kupa naša predstavnica četvrta je u ukupnom redosljedu sa 74 boda",
         "link": "https://sportske.jutarnji.hr/sportske/sport-mix/zimski-sportovi/uzivo-zrinka-ljutic-lovi-postolje-u-prvom-slalomu-sezone-pocela-je-druga-voznja-15765394",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/11/14/k_39831734_640.jpg",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/11/14/k_39964474_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -12,9 +12,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Bilić sprema nove promjene, vraćaju se Modrić i Perišić, stiže i trenutak koji će oduševiti dinamovce?",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/liga-nacija/bilic-sprema-nove-promjene-vracaju-se-modric-i-perisic-stize-i-trenutak-kojeg-cekaju-svi-dinamovci-15765380",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/11/13/k_39958231_640.jpg",
+        "title": "Strašne scene u Hrvatskom kupu! Na terenu hitna pomoć, uletio i trener, kapetan ipak sam uspio ustati",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/strasne-scene-u-hrvatskom-kupu-na-terenu-hitna-pomoc-uletio-i-trener-kapetan-ipak-sam-uspio-ustati-15765423",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/11/14/k_39784790_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -48,9 +48,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "‘Zovu me ‘ruskim trenerom‘, Mamiću se nisam dao, u Dinamu sam ostao Mister 100% i zabavljao Orsona Wellesa‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/zovu-me-ruskim-trenerom-mamicu-se-nisam-dao-u-dinamu-sam-ostao-mister-100-i-zabavljao-orsona-wellesa-15765321",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/11/04/k_39958713_640.jpg",
+        "title": "Omiljena nogometna legenda vraća se u 46. godini. Sutra će igrati u dresu novog kluba",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/ronaldinho-se-vraca-nogometu-u-46-godini-prvi-gol-u-italiji-zabio-je-interu-sada-ga-ceka-novi-derbi-15765411",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/11/14/k_39740123_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -60,9 +60,9 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Hrvatski policajac u spektaklu dana razmontirao Srbina, imamo četiri europska zlata!",
-        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/boks/hrvatski-policajac-u-spektaklu-dana-razmontirao-srbina-imamo-cetiri-europska-zlata-15765397",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/11/14/k_39964045_640.jpg",
+        "title": "‘Zovu me ‘ruskim trenerom‘, Mamiću se nisam dao, u Dinamu sam ostao Mister 100% i zabavljao Orsona Wellesa‘",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/zovu-me-ruskim-trenerom-mamicu-se-nisam-dao-u-dinamu-sam-ostao-mister-100-i-zabavljao-orsona-wellesa-15765321",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/11/04/k_39958713_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
@@ -96,6 +96,42 @@
         "flag": "🇭🇷"
     },
     {
+        "title": "Brazil poražen u sučevoj nadoknadi, Ancelotti i Raphinha isključeni pred sam kraj susreta",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/brazil-porazen-u-sucevoj-nadoknadi-ancelotti-i-raphinha-iskljuceni-pred-sam-kraj-susreta-15765402",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/11/14/k_39964034_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE NOVOSTI",
+        "source_title2": "Football",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Hrvatski policajac u spektaklu dana razmontirao Srbina, imamo četiri europska zlata!",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/boks/hrvatski-policajac-u-spektaklu-dana-razmontirao-srbina-imamo-cetiri-europska-zlata-15765397",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/11/14/k_39964045_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE NOVOSTI",
+        "source_title2": "Football",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Bilić traži pobjedu za ljepši završetak kraj grozne godine",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/liga-nacija/bilic-sprema-nove-promjene-vracaju-se-modric-i-perisic-stize-i-trenutak-kojeg-cekaju-svi-dinamovci-15765380",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/11/13/k_39958231_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE NOVOSTI",
+        "source_title2": "Football",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
         "title": "Marko Martinjak večeras brani svjetsku titulu: Saznajte kako i kada pogledati njegov meč",
         "link": "https://sportske.jutarnji.hr/sportske/fightsite/k1-i-boks/marko-martinjak-veceras-brani-svjetsku-titulu-saznajte-kako-i-kada-pogledati-njegov-mec-15765373",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/11/14/k_39735275_640.jpg",
@@ -120,42 +156,6 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "Poraz Srbije naštetio Hrvatskoj, Vatreni više nisu sigurni ni ako pobijede Češku, evo kako stoje stvari",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/poraz-srbije-nastetio-i-hrvatskoj-vatreni-vise-nisu-sigurni-ni-ako-pobijede-cesku-evo-kako-stoje-stvari-15765292",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/11/13/k_39750488_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE NOVOSTI",
-        "source_title2": "Football",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Donedavni dragulj Dinama potpuno se izgubio: Sada je rezerva u drugoj ligi i nema gola ni asistenciju",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/donedavni-dragulj-dinama-potpuno-se-izgubio-sada-je-rezerva-u-drugoj-ligi-i-nema-gola-ni-asistenciju-15765313",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/11/12/k_38414415_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE NOVOSTI",
-        "source_title2": "Football",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Kontroverzni analitičar: ‘Jasno i glasno - Srbija nema pojma. Jedna velika bauštela‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/kontroverzni-analiticar-jasno-i-glasno-srbija-nema-pojma-jedna-velika-baustela-15765341",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/11/14/k_39961220_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE NOVOSTI",
-        "source_title2": "Football",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "Napokon zaigrao za Dinamo i odmah zabio dva gola! Nova pobjeda Jerka Leke, legenda otvorila utakmicu",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/hnl/klubovi/dinamo/napokon-zaigrao-za-dinamo-i-odmah-zabio-dva-gola-nova-pobjeda-jerka-leke-legenda-otvorila-utakmicu-15765224",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/11/13/k_39959575_640.jpg",
@@ -168,7 +168,43 @@
         "flag": "🇭🇷"
     },
     {
-        "title": "VIDEO Argentina porazom započela eru bez Lionela Messija Urugvaj je slavio protiv Gaučoša na Bomboneri nakon autogola Balerdija i pogotka Arauja, dok je Alvarez zabio jedini pogodak domaćina",
+        "title": "Zubac i društvo srušili prvake, poraz za Hezonju i Matkovića Indiana Pacersi kod kuće su pobijedili New York Knickse, a hrvatski je košarkaš u pobjedi svoje momčadi sudjelovao s 12 poena",
+        "link": "https://sportske.jutarnji.hr/sportske/kosarka/nba/zubac-i-drustvo-srusili-prvake-poraz-za-hezonju-i-matkovica-15765336",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/11/14/k_39962777_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE NOVOSTI",
+        "source_title2": "Football",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Zbog ‘podmuklog malog gada‘ nastao kaos, udarna novina žestoko uzvraća: ‘Bojkot je počeo‘",
+        "link": "https://sportske.jutarnji.hr/sportske/sport-mix/automoto/formula1/bombasticna-naslovnica-udarnog-portala-krecemo-u-bojkot-vise-ne-pisemo-nista-o-formuli-1-15765327",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/11/14/k_39963528_640.png",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE NOVOSTI",
+        "source_title2": "Football",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Novi ljubavni brodolom, slavni Nijemac okončao i drugi brak! Razveo se samo tri mjeseca nakon rođenja bebe",
+        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/novi-ljubavni-brodolom-slavni-nijemac-okoncao-i-drugi-brak-razveo-se-samo-tri-mjeseca-nakon-rodenja-bebe-15765277",
+        "image_url": "https://media.jutarnji.hr/images/slike/2026/11/13/k_39961203_640.jpg",
+        "w": 640,
+        "h": 640,
+        "focus_y": 0.35,
+        "source_title1": "SPORTSKE NOVOSTI",
+        "source_title2": "Football",
+        "source_color": "#007aff",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "VIDEO Argentina porazom započela eru bez Lionela Messija",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/video-argentina-porazom-zapocela-eru-bez-lionela-messija-15765331",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/11/14/k_39962238_640.jpg",
         "w": 640,
@@ -195,42 +231,6 @@
         "title": "VIDEO: Srbija na rubu ispadanja! Dva isključenja i slavlje Elfa u Beogradu, sedmica čudesne Nizozemske",
         "link": "https://sportske.jutarnji.hr/sportske/nogomet/video-rana-katastrofa-srbije-u-beogradu-nijemci-im-od-starta-pune-mrezu-orlovi-na-putu-bez-povratka-15765264",
         "image_url": "https://media.jutarnji.hr/images/slike/2026/11/13/k_39960777_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE NOVOSTI",
-        "source_title2": "Football",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Stigla kazna za vratara čiji je prekršaj prethodio smrti nogometaša. Pitanje je hoće li više ikada zaigrati",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/nogomet-mix/stigla-kazna-za-vratara-ciji-je-prekrsaj-prethodio-smrti-nogometasa-pitanje-je-hoce-li-vise-ikada-zaigrati-15765285",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/11/13/k_39961120_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE NOVOSTI",
-        "source_title2": "Football",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "‘Djeca su briznula u plač i molila me da ne izlazim iz auta. Ove minute užasa nikada nećemo zaboraviti‘",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/djeca-su-briznula-u-plac-i-molila-me-da-ne-izlazim-iz-auta-ove-minute-uzasa-nikada-necemo-zaboraviti-15765259",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/11/13/k_39960705_640.jpg",
-        "w": 640,
-        "h": 640,
-        "focus_y": 0.35,
-        "source_title1": "SPORTSKE NOVOSTI",
-        "source_title2": "Football",
-        "source_color": "#007aff",
-        "flag": "🇭🇷"
-    },
-    {
-        "title": "Klopp: Moramo se naviknuti na činjenicu da smo stvarno dobri. Tadić: Koštalo nas je loše otvaranje",
-        "link": "https://sportske.jutarnji.hr/sportske/nogomet/klopp-moramo-se-naviknuti-na-cinjenicu-da-smo-stvarno-dobri-tadic-kostalo-nas-je-lose-otvaranje-15765295",
-        "image_url": "https://media.jutarnji.hr/images/slike/2026/11/13/k_39961464_640.jpg",
         "w": 640,
         "h": 640,
         "focus_y": 0.35,
