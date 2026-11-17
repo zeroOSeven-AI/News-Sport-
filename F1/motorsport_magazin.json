@@ -1,5 +1,20 @@
 [
     {
+        "title": "Formel-1-Deep-Dive: McLaren MP4-18 - Ein Meilenstein für Red Bulls Erfolge",
+        "link": "https://www.motorsport-magazin.com/formel1/news-301265-formel-1-deep-dive-mclaren-mp4-18-ein-meilenstein-fuer-red-bulls-erfolge/",
+        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/1134051.jpg",
+        "w": 1200,
+        "h": 627,
+        "focus_y": 0.5,
+        "published_at": "2026-11-17T11:00:00+01:00",
+        "author": "Christian Menath",
+        "description": "Ein Auto, das nie ein Rennen fuhr, veränderte die Geschichte der Formel 1 vielleicht wie kein anderes. Motorsport-Magazin begibt sich auf Zeitreise ins Jahr 2003.",
+        "source_title1": "MOTORSPORT MAGAZIN",
+        "source_title2": "F1",
+        "source_color": "#FFD300",
+        "flag": "🇩🇪"
+    },
+    {
         "title": "Las-Vegas-Schaulaufen: Erste Formel-1-Teams enthüllen ihre Spezial-Designs",
         "link": "https://www.motorsport-magazin.com/formel1/news-301261-las-vegas-schaulaufen-erste-formel-1-teams-enthuellen-ihre-spezial-designs/",
         "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/1134126.jpg",
@@ -279,21 +294,6 @@
         "published_at": "2026-11-12T19:27:00+01:00",
         "author": "Christian Menath",
         "description": "Audi kämpft in der Formel-1-Saison 2026 um Platz sieben bei den Konstrukteuren. Im Duell mit Haas könnte es vor Gericht einen Extra-Punkt geben.",
-        "source_title1": "MOTORSPORT MAGAZIN",
-        "source_title2": "F1",
-        "source_color": "#FFD300",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "Achtung, Baustelle! Ferraris drei große Formel-1-Probleme 2026",
-        "link": "https://www.motorsport-magazin.com/formel1/news-301239-formel-1-ferraris-drei-groesste-baustellen-in-der-saison-2026/",
-        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/1134004.jpg",
-        "w": 1200,
-        "h": 627,
-        "focus_y": 0.5,
-        "published_at": "2026-11-12T18:00:00+01:00",
-        "author": "Edda Holweg",
-        "description": "Ferrari verliert in der Formel-1-Saison 2026 zunehmend den Anschluss an die Spitze. An diesen drei Baustellen muss die Scuderia arbeiten, um 2027 wieder um den WM-Titel kämpfen zu können.",
         "source_title1": "MOTORSPORT MAGAZIN",
         "source_title2": "F1",
         "source_color": "#FFD300",
