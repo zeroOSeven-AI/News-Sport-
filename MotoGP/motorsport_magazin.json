@@ -1,5 +1,20 @@
 [
     {
+        "title": "MotoGP - Marc Marquez ist MotoGP-Rekordweltmeister: Diese Bestmarken fehlen ihm noch",
+        "link": "https://www.motorsport-magazin.com/motogp/news-301376-marc-marquez-ist-motogp-rekordweltmeister-diese-bestmarken-fehlen-ihm-noch/",
+        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/1134467.jpg",
+        "w": 1200,
+        "h": 627,
+        "focus_y": 0.5,
+        "published_at": "2026-11-23T14:36:00+01:00",
+        "author": "Markus Zörweg",
+        "description": "Marc Marquez holt in Portimao seinen achten MotoGP-Titel. Kein Fahrer war häufiger Weltmeister in der Königsklasse. Weitere Rekorde sind in Reichweite.",
+        "source_title1": "MOTORSPORT MAGAZIN",
+        "source_title2": "MotoGP",
+        "source_color": "#FFD300",
+        "flag": "🇩🇪"
+    },
+    {
         "title": "MotoGP - Video: Marc Marquez auch nach MotoGP-Rekordtitel hungrig: \"Nie genug!\"",
         "link": "https://www.motorsport-magazin.com/motogp/video-14941-marc-marquez-auch-nach-motogp-rekordtitel-hungrig-nie-genug.html",
         "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/1134450.jpg",
@@ -279,21 +294,6 @@
         "published_at": "2026-11-22T09:30:00+00:00",
         "author": "Motorsport-Magazin.com",
         "description": "MotoGP Portugal GP 2026 - Warm Up: Das offizielle Endergebnis mit allen Positionen, Fahrern, Teams, gefahrenen Rundenzeiten und Gesamtzeiten sowie weiteren Informationen",
-        "source_title1": "MOTORSPORT MAGAZIN",
-        "source_title2": "MotoGP",
-        "source_color": "#FFD300",
-        "flag": "🇩🇪"
-    },
-    {
-        "title": "MotoGP - Nasse Strecke im MotoGP-Warm-Up von Portimao, nur 13 Fahrer im Klassement",
-        "link": "https://www.motorsport-magazin.com/motogp/news-301363-nasse-strecke-im-motogp-warm-up-von-portimao-nur-13-fahrer-im-klassement/",
-        "image_url": "https://images.motorsport-magazin.com/images/1200/627/q_80/1134376.jpg",
-        "w": 772,
-        "h": 403,
-        "focus_y": 0.5,
-        "published_at": "2026-11-22T10:24:00+01:00",
-        "author": "Markus Zörweg",
-        "description": "Die MotoGP erwartet am Sonntag ein Trockenrennen, das Warm Up ging aber aus nasser Strecke über die Bühne. Es herrschte dementsprechend wenig Betrieb.",
         "source_title1": "MOTORSPORT MAGAZIN",
         "source_title2": "MotoGP",
         "source_color": "#FFD300",
