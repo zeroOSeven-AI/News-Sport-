@@ -1,20 +1,5 @@
 [
     {
-        "title": "Max Verstappen osvojio VN Las Vegasa!",
-        "link": "https://www.gp1.hr/2026/11/max-verstappen-osvojio-vn-las-vegasa/",
-        "image_url": "https://www.gp1.hr/wp-content/uploads/2026/11/max_lasvegas_2026_redbull-scaled.jpg",
-        "w": 2560,
-        "h": 1707,
-        "focus_y": 0.5,
-        "published_at": "2026-11-22T05:45:34+00:00",
-        "author": "Tomislav Radić",
-        "description": "Kockanje po ulicama Las Vegasa je iza nas. Puno jo-jo utrkivanja, momčadskih borbi, pa i kazni, te do… Objava Max Verstappen osvojio VN Las Vegasa! pojavila se prvi puta na GP1.hr | Najbrži hrvatski F1 portal .",
-        "source_title1": "GP 1",
-        "source_title2": "F1",
-        "source_color": "#FF0000",
-        "flag": "🇭🇷"
-    },
-    {
         "title": "‘Il Predestinato’ ili ‘Il Precipitato’?",
         "link": "https://www.gp1.hr/2026/11/il-predestinato-ili-il-precipitato/",
         "image_url": "https://www.gp1.hr/wp-content/uploads/2026/06/Leclerc-monako.jpg",
@@ -84,6 +69,21 @@
         "published_at": "2026-11-22T09:40:24+00:00",
         "author": "Igor Vukajlovic",
         "description": "Max Verstappen odgovorio je Georgeu Russellu na kritike nakon njihova incidenta na treningu pobjedom na Velikoj nagradi Las… Objava Verstappen: Russell je ispod moje razine pojavila se prvi puta na GP1.hr | Najbrži hrvatski F1 portal .",
+        "source_title1": "GP 1",
+        "source_title2": "F1",
+        "source_color": "#FF0000",
+        "flag": "🇭🇷"
+    },
+    {
+        "title": "Max Verstappen osvojio VN Las Vegasa!",
+        "link": "https://www.gp1.hr/2026/11/max-verstappen-osvojio-vn-las-vegasa/",
+        "image_url": "https://www.gp1.hr/wp-content/uploads/2026/11/max_lasvegas_2026_redbull-scaled.jpg",
+        "w": 2560,
+        "h": 1707,
+        "focus_y": 0.5,
+        "published_at": "2026-11-22T05:45:34+00:00",
+        "author": "Tomislav Radić",
+        "description": "Kockanje po ulicama Las Vegasa je iza nas. Puno jo-jo utrkivanja, momčadskih borbi, pa i kazni, te do… Objava Max Verstappen osvojio VN Las Vegasa! pojavila se prvi puta na GP1.hr | Najbrži hrvatski F1 portal .",
         "source_title1": "GP 1",
         "source_title2": "F1",
         "source_color": "#FF0000",
